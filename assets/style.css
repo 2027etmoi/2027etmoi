@@ -376,3 +376,10 @@ details > summary::-webkit-details-marker { display: none; }
 .theme-block > summary h3 { margin: 0; }
 .theme-block[open] > summary { margin-bottom: 6px; }
 .theme-block:not([open]) { padding-top: 12px; padding-bottom: 12px; }
+
+/* Présentation sous le nom */
+.presentation { margin: 4px 0 12px; }
+.presentation .lede { max-width: 72ch; color: var(--text); font-size: 16.5px; }
+.presentation .source { margin-top: 2px; }
+.status-line { margin: 10px 0 0; max-width: 72ch; font-size: 15px; color: var(--muted); }
+.status-line strong { color: var(--text); font-weight: 600; }

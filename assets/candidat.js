@@ -37,7 +37,7 @@ function programmeSections(c, p) {
         <button type="button" class="chip" data-toggle-all="open">Tout déplier</button>
         <button type="button" class="chip" data-toggle-all="close">Tout replier</button>
       </div>
-      ${themes.map((t, i) => `<details class="card theme-block" id="t-${t}"${i === 0 ? " open" : ""}>
+      ${themes.map((t) => `<details class="card theme-block" id="t-${t}">
           <summary><h3>${esc(THEMES[t])}</h3><span class="fold-count">${byTheme[t].length}</span></summary>
           <ul class="measures">${byTheme[t].map(measureItem).join("")}</ul>
         </details>`).join("")}
@@ -45,7 +45,7 @@ function programmeSections(c, p) {
     : `<p class="notice">Aucune proposition sourcée n'a été recensée à ce jour.</p>`;
 
   return fold("Programme", progCard, { open: true })
-    + fold("Propositions par thème", mesures, { open: true, count: total, id: "propositions" });
+    + fold("Propositions par thème", mesures, { count: total, id: "propositions" });
 }
 
 function photoHtml(b, nom) {
@@ -58,21 +58,24 @@ function photoHtml(b, nom) {
   </figure>`;
 }
 
+// Présentation courte affichée sous le nom, dans l'en-tête
+function presentationHtml(b) {
+  if (!b?.presentation?.texte) return "";
+  const naiss = b.naissance?.date
+    ? ` Né(e) le ${esc(formatDate(b.naissance.date))}${b.naissance.lieu ? ` à ${esc(b.naissance.lieu)}` : ""}.`
+    : "";
+  return `<div class="presentation">
+    <p class="lede">${esc(b.presentation.texte)}${naiss}</p>
+    ${(b.presentation.sources || []).map((s) => sourceHtml(s)).join("")}
+  </div>`;
+}
+
 function timeline(items) {
   return `<ul class="timeline">${items.map((e) => `<li><span class="period">${esc(e.periode || "")}</span><div>${esc(e.texte)}${sourceHtml(e.source)}</div></li>`).join("")}</ul>`;
 }
 
 function bioSections(b, p) {
   let html = "";
-  if (b?.presentation?.texte) {
-    const naiss = b.naissance?.date
-      ? `<p class="notice">Né(e) le ${esc(formatDate(b.naissance.date))}${b.naissance.lieu ? ` à ${esc(b.naissance.lieu)}` : ""}.</p>`
-      : "";
-    html += fold("Présentation", `<div class="card">
-      <p style="margin-top:0">${esc(b.presentation.texte)}</p>${naiss}
-      ${(b.presentation.sources || []).map((s) => sourceHtml(s)).join("")}
-    </div>`, { open: true });
-  }
   if ((p?.reperes || []).length) {
     html += fold("Repères", `<div class="card"><ul class="plain">${p.reperes.map((r) => `<li>${esc(r.texte)}${sourceHtml(r.source)}</li>`).join("")}</ul></div>`,
       { count: p.reperes.length });
@@ -140,7 +143,8 @@ async function init() {
       <div class="cand-head">${blocHtml(c.bloc)} ${badge(c.statut)}
         ${m ? `<a class="poll" href="sondages.html#${encodeURIComponent(c.id)}">${formatPct(m.moyenne)}</a><span class="notice">moyenne de ${m.n} sondage${m.n > 1 ? "s" : ""}</span>` : ""}
       </div>
-      ${c.statut_detail ? `<p class="lede">${esc(c.statut_detail)}</p>` : ""}
+      ${presentationHtml(b)}
+      ${c.statut_detail ? `<p class="status-line"><strong>Candidature :</strong> ${esc(c.statut_detail)}</p>` : ""}
       ${sourceHtml(c.source)}
       <div class="cand-head"><div class="links">${linksHtml(c.liens)}</div></div>
       ${EN_LICE.includes(c.statut) ? `<a class="cta" href="comparateur.html?c=${encodeURIComponent(c.id)}">Comparer avec d'autres candidats</a>` : ""}
