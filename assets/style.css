@@ -348,3 +348,31 @@ tbody tr:hover td { background: #fcfbf8; }
 
 .notes { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 18px 22px; box-shadow: var(--shadow); }
 .site-footer { background: #f3f0ea; margin-top: 40px; }
+
+/* Blocs repliables (fiche candidat) */
+details > summary { list-style: none; cursor: pointer; }
+details > summary::-webkit-details-marker { display: none; }
+.fold { margin: 20px 0; }
+.fold > summary {
+  display: flex; align-items: center; gap: 10px; padding: 10px 4px;
+  border-bottom: 1px solid var(--border);
+}
+.fold > summary h2 { margin: 0; font-size: 21px; }
+.fold > summary::after, .theme-block > summary::after {
+  content: ""; margin-left: auto; width: 9px; height: 9px; flex: none;
+  border-right: 2px solid var(--muted); border-bottom: 2px solid var(--muted);
+  transform: rotate(45deg) translateY(-3px); transition: transform .2s;
+}
+.fold[open] > summary::after, .theme-block[open] > summary::after { transform: rotate(-135deg) translateY(-2px); }
+.fold > summary:hover h2 { color: var(--accent); }
+.fold-body { padding-top: 14px; }
+.fold-count {
+  font-size: 12px; font-weight: 600; color: var(--muted); background: #f1eee8;
+  border-radius: 999px; padding: 1px 9px; font-family: var(--font);
+}
+.fold-tools { display: flex; gap: 6px; justify-content: flex-end; margin-bottom: 10px; }
+.fold-tools .chip { font-size: 13px; padding: 3px 10px; }
+.theme-block > summary { display: flex; align-items: center; gap: 10px; }
+.theme-block > summary h3 { margin: 0; }
+.theme-block[open] > summary { margin-bottom: 6px; }
+.theme-block:not([open]) { padding-top: 12px; padding-bottom: 12px; }

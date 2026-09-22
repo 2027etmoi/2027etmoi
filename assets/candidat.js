@@ -1,10 +1,18 @@
-// Page candidat : statut, programme, propositions par thème, ressources.
+// Page candidat : programme et propositions d'abord, puis biographie, en blocs repliables.
 
 function measureItem(m) {
   return `<li>${esc(m.texte)} <span class="tag ${esc(m.nature)}">${esc(NATURES[m.nature] || m.nature)}</span>${sourceHtml(m.source)}</li>`;
 }
 
-function programmeSection(c, p) {
+// Bloc repliable de premier niveau
+function fold(title, content, { open = false, count = null, id = "" } = {}) {
+  return `<details class="section fold"${id ? ` id="${id}"` : ""}${open ? " open" : ""}>
+    <summary><h2>${esc(title)}</h2>${count !== null ? `<span class="fold-count">${count}</span>` : ""}</summary>
+    <div class="fold-body">${content}</div>
+  </details>`;
+}
+
+function programmeSections(c, p) {
   if (!p) {
     const why = EN_LICE.includes(c.statut)
       ? "La fiche programme de cette personnalité est en cours de préparation."
@@ -13,37 +21,31 @@ function programmeSection(c, p) {
   }
 
   const prog = p.programme || {};
-  const progCard = `<section class="section">
-    <h2>Programme</h2>
-    <div class="card">
+  const progCard = `<div class="card">
       <strong>${esc(ETATS_PROGRAMME[prog.etat] || "État du programme non renseigné")}</strong>
       ${prog.titre ? `<div>${prog.url ? extLink(prog.url, prog.titre) : esc(prog.titre)}</div>` : ""}
       ${prog.note ? `<p class="notice">${esc(prog.note)}</p>` : ""}
-    </div>
-  </section>`;
-
-  const reperes = (p.reperes || []).length
-    ? `<section class="section"><h2>Repères</h2><div class="card"><ul class="plain">${p.reperes.map((r) => `<li>${esc(r.texte)}${sourceHtml(r.source)}</li>`).join("")}</ul></div></section>`
-    : "";
+    </div>`;
 
   const byTheme = {};
   for (const m of p.mesures || []) (byTheme[m.theme] ||= []).push(m);
   const themes = Object.keys(THEMES).filter((t) => byTheme[t]);
+  const total = (p.mesures || []).length;
+
   const mesures = themes.length
-    ? `<section class="section">
-        <h2>Propositions par thème</h2>
-        <nav class="toc" aria-label="Thèmes">${themes.map((t) => `<a href="#t-${t}">${esc(THEMES[t])} (${byTheme[t].length})</a>`).join("")}</nav>
-        ${themes.map((t) => `<div class="card theme-block" id="t-${t}"><h3>${esc(THEMES[t])}</h3><ul class="measures">${byTheme[t].map(measureItem).join("")}</ul></div>`).join("")}
-        <p class="notice">Les thèmes absents n'ont pas de proposition sourcée à ce jour. <span class="tag programme">Programme</span> document officiel de campagne · <span class="tag declaration">Déclaration</span> propos du candidat rapportés · <span class="tag presse">Presse</span> mesure décrite par un média.</p>
-      </section>`
-    : `<section class="section"><h2>Propositions</h2><p class="notice">Aucune proposition sourcée n'a été recensée à ce jour.</p></section>`;
+    ? `<div class="fold-tools">
+        <button type="button" class="chip" data-toggle-all="open">Tout déplier</button>
+        <button type="button" class="chip" data-toggle-all="close">Tout replier</button>
+      </div>
+      ${themes.map((t, i) => `<details class="card theme-block" id="t-${t}"${i === 0 ? " open" : ""}>
+          <summary><h3>${esc(THEMES[t])}</h3><span class="fold-count">${byTheme[t].length}</span></summary>
+          <ul class="measures">${byTheme[t].map(measureItem).join("")}</ul>
+        </details>`).join("")}
+      <p class="notice">Les thèmes absents n'ont pas de proposition sourcée à ce jour. <span class="tag programme">Programme</span> document officiel de campagne · <span class="tag declaration">Déclaration</span> propos du candidat rapportés · <span class="tag presse">Presse</span> mesure décrite par un média.</p>`
+    : `<p class="notice">Aucune proposition sourcée n'a été recensée à ce jour.</p>`;
 
-  const ressources = (p.ressources || []).length
-    ? `<section class="section"><h2>Pour aller plus loin</h2><div class="card"><ul class="plain">${p.ressources.map((r) => `<li>${extLink(r.url, r.titre)}${r.date ? ` <span class="source">${esc(formatDate(r.date))}</span>` : ""}</li>`).join("")}</ul></div></section>`
-    : "";
-
-  const maj = p.mise_a_jour ? `<p class="meta">Fiche mise à jour le ${esc(formatDate(p.mise_a_jour))}.</p>` : "";
-  return progCard + reperes + mesures + ressources + maj;
+  return fold("Programme", progCard, { open: true })
+    + fold("Propositions par thème", mesures, { open: true, count: total, id: "propositions" });
 }
 
 function photoHtml(b, nom) {
@@ -60,25 +62,28 @@ function timeline(items) {
   return `<ul class="timeline">${items.map((e) => `<li><span class="period">${esc(e.periode || "")}</span><div>${esc(e.texte)}${sourceHtml(e.source)}</div></li>`).join("")}</ul>`;
 }
 
-function bioSections(b) {
-  if (!b) return "";
+function bioSections(b, p) {
   let html = "";
-  if (b.presentation?.texte) {
+  if (b?.presentation?.texte) {
     const naiss = b.naissance?.date
       ? `<p class="notice">Né(e) le ${esc(formatDate(b.naissance.date))}${b.naissance.lieu ? ` à ${esc(b.naissance.lieu)}` : ""}.</p>`
       : "";
-    html += `<section class="section"><h2>Présentation</h2><div class="card">
+    html += fold("Présentation", `<div class="card">
       <p style="margin-top:0">${esc(b.presentation.texte)}</p>${naiss}
       ${(b.presentation.sources || []).map((s) => sourceHtml(s)).join("")}
-    </div></section>`;
+    </div>`, { open: true });
   }
-  if ((b.parcours_politique || []).length) {
-    html += `<section class="section"><h2>Parcours politique</h2><div class="card">${timeline(b.parcours_politique)}</div></section>`;
+  if ((p?.reperes || []).length) {
+    html += fold("Repères", `<div class="card"><ul class="plain">${p.reperes.map((r) => `<li>${esc(r.texte)}${sourceHtml(r.source)}</li>`).join("")}</ul></div>`,
+      { count: p.reperes.length });
   }
-  if ((b.parcours_professionnel || []).length) {
-    html += `<section class="section"><h2>Formation et parcours professionnel</h2><div class="card">${timeline(b.parcours_professionnel)}</div></section>`;
+  if ((b?.parcours_politique || []).length) {
+    html += fold("Parcours politique", `<div class="card">${timeline(b.parcours_politique)}</div>`, { count: b.parcours_politique.length });
   }
-  if (Array.isArray(b.affaires)) {
+  if ((b?.parcours_professionnel || []).length) {
+    html += fold("Formation et parcours professionnel", `<div class="card">${timeline(b.parcours_professionnel)}</div>`, { count: b.parcours_professionnel.length });
+  }
+  if (Array.isArray(b?.affaires)) {
     const body = b.affaires.length
       ? b.affaires.map((a) => `<div class="card affaire">
           <h3>${esc(a.titre)}</h3>
@@ -88,10 +93,23 @@ function bioSections(b) {
           ${(a.sources || []).map((s) => sourceHtml(s)).join("")}
         </div>`).join("")
       : `<p class="notice">Aucune procédure judiciaire n'est mentionnée à ce jour pour cette personnalité.</p>`;
-    html += `<section class="section"><h2>Affaires judiciaires</h2>${body}
-      <p class="notice">Toute personne non définitivement condamnée est présumée innocente. Ne sont publiées que les procédures visant personnellement la personnalité, rapportées par des médias reconnus et dont l'état a pu être vérifié, avec la date de cet état. Cette rubrique peut donc être incomplète.</p></section>`;
+    html += fold("Affaires judiciaires", `${body}
+      <p class="notice">Toute personne non définitivement condamnée est présumée innocente. Ne sont publiées que les procédures visant personnellement la personnalité, rapportées par des médias reconnus et dont l'état a pu être vérifié, avec la date de cet état. Cette rubrique peut donc être incomplète.</p>`,
+      { count: b.affaires.length });
+  }
+  if ((p?.ressources || []).length) {
+    html += fold("Pour aller plus loin", `<div class="card"><ul class="plain">${p.ressources.map((r) => `<li>${extLink(r.url, r.titre)}${r.date ? ` <span class="source">${esc(formatDate(r.date))}</span>` : ""}</li>`).join("")}</ul></div>`,
+      { count: p.ressources.length });
   }
   return html;
+}
+
+// Ouvre le bloc visé par une ancre (#t-retraites…) et ses parents
+function openTarget(hash) {
+  const el = hash && document.getElementById(decodeURIComponent(hash.slice(1)));
+  if (!el) return;
+  for (let d = el.closest("details"); d; d = d.parentElement?.closest("details")) d.open = true;
+  el.scrollIntoView();
 }
 
 async function init() {
@@ -130,7 +148,16 @@ async function init() {
     </header>`;
 
   $("loading").remove();
-  main.insertAdjacentHTML("beforeend", head + bioSections(b) + programmeSection(c, p));
+  main.insertAdjacentHTML("beforeend", head + programmeSections(c, p) + bioSections(b, p));
+
+  main.addEventListener("click", (e) => {
+    const btn = e.target.closest("[data-toggle-all]");
+    if (!btn) return;
+    const open = btn.dataset.toggleAll === "open";
+    btn.closest(".fold-body").querySelectorAll("details.theme-block").forEach((d) => { d.open = open; });
+  });
+  window.addEventListener("hashchange", () => openTarget(location.hash));
+  openTarget(location.hash);
 }
 
 init();
