@@ -73,3 +73,21 @@ Lancer d'abord `python3 scripts/build.py` (pages candidats), puis ouvrir http://
 ## Déploiement
 
 Site statique sans build. Netlify publie la racine du dépôt (voir `netlify.toml`).
+
+## Veille hebdomadaire
+
+Chaque lundi, l'action GitHub `.github/workflows/veille-hebdo.yml` lance `scripts/check_hebdo.py` et publie un rapport en issue (étiquette `veille`) :
+- cohérence des données et liens morts ;
+- étapes du calendrier passées dans la semaine (statuts et résultats à mettre à jour) et à venir ;
+- statuts de candidature non revérifiés depuis 30 jours (champ `verifie_le` de `data/candidats.json`) ;
+- ancienneté du dernier sondage ;
+- nouveaux fichiers de temps de parole publiés par l'Arcom ;
+- nombre de points en attente dans `docs/a-verifier.md`.
+
+Aucune donnée n'est modifiée automatiquement. Lancement manuel : onglet **Actions** du dépôt → « Veille hebdomadaire » → **Run workflow**, ou en local :
+
+```bash
+python3 scripts/check_hebdo.py > rapport.md
+```
+
+Après avoir revérifié un statut, mettre à jour son champ `verifie_le`.

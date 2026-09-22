@@ -27,7 +27,8 @@
         "instagram": "https://www.instagram.com/jlmelenchon/",
         "youtube": "https://www.youtube.com/@JLMelenchon",
         "wikipedia": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "faure",
@@ -53,7 +54,8 @@
         "x": "https://x.com/faureolivier",
         "instagram": "https://www.instagram.com/olivierfaure/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Olivier_Faure"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "glucksmann",
@@ -78,7 +80,8 @@
         "parti": "https://place-publique.eu/",
         "instagram": "https://www.instagram.com/raphaelglucksmann/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "guedj",
@@ -102,7 +105,8 @@
         "campagne": "https://www.jeromeguedj2027.fr/",
         "x": "https://x.com/JeromeGuedj",
         "wikipedia": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "royal",
@@ -123,7 +127,8 @@
       ],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "maurel",
@@ -146,7 +151,8 @@
       "liens": {
         "parti": "https://g-r-s.fr/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "roussel",
@@ -169,7 +175,8 @@
       "liens": {
         "parti": "https://www.pcf.fr/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "ruffin",
@@ -196,7 +203,8 @@
         "instagram": "https://www.instagram.com/francois_ruffin/",
         "youtube": "https://www.youtube.com/@francois_ruffin",
         "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "cazeneuve",
@@ -220,7 +228,8 @@
         "parti": "https://la-convention.fr/",
         "programme": "https://www.la-convention.fr/lettre",
         "wikipedia": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "bouamrane",
@@ -242,7 +251,8 @@
       ],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Karim_Bouamrane"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "hollande",
@@ -259,7 +269,8 @@
       "propositions": [],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "arthaud",
@@ -283,7 +294,8 @@
         "parti": "https://www.lutte-ouvriere.org/",
         "instagram": "https://www.instagram.com/nathalie_arthaud_lo/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "kazib",
@@ -308,7 +320,8 @@
         "parti": "https://www.revolutionpermanente.fr/",
         "x": "https://x.com/AnasseKazib",
         "wikipedia": "https://fr.wikipedia.org/wiki/Anasse_Kazib"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "labib",
@@ -329,7 +342,8 @@
       "liens": {
         "parti": "https://npa-revolutionnaires.org/",
         "x": "https://x.com/npa_revo"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "tondelier",
@@ -354,7 +368,8 @@
         "x": "https://x.com/marinetondelier",
         "instagram": "https://www.instagram.com/marinetondelier",
         "wikipedia": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "batho",
@@ -376,7 +391,8 @@
         "parti": "https://generationecologie.fr/",
         "instagram": "https://www.instagram.com/delphine_batho",
         "wikipedia": "https://fr.wikipedia.org/wiki/Delphine_Batho"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "vallaud",
@@ -393,7 +409,8 @@
       "propositions": [],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Boris_Vallaud"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "autain",
@@ -410,7 +427,8 @@
       "propositions": [],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Cl%C3%A9mentine_Autain"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "castets",
@@ -427,7 +445,8 @@
       "propositions": [],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Lucie_Castets"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "poutou",
@@ -445,7 +464,8 @@
       "liens": {
         "parti": "https://lanticapitaliste.org/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Philippe_Poutou"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "philippe",
@@ -471,7 +491,8 @@
         "x": "https://x.com/EPhilippe_LH",
         "instagram": "https://www.instagram.com/edouardphilippelh/",
         "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "attal",
@@ -497,7 +518,8 @@
         "parti": "https://parti-renaissance.fr/",
         "x": "https://x.com/GabrielAttal",
         "wikipedia": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "villepin",
@@ -520,7 +542,8 @@
       "liens": {
         "parti": "https://www.lafrancehumaniste.fr/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "le-maire",
@@ -537,7 +560,8 @@
       "propositions": [],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "darmanin",
@@ -554,7 +578,8 @@
       "propositions": [],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/G%C3%A9rald_Darmanin"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "bayrou",
@@ -572,7 +597,8 @@
       "liens": {
         "parti": "https://www.mouvementdemocrate.fr/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Bayrou"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "retailleau",
@@ -599,7 +625,8 @@
         "instagram": "https://www.instagram.com/bruno_retailleau/",
         "youtube": "https://www.youtube.com/@Bruno_Retailleau",
         "wikipedia": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "lisnard",
@@ -625,7 +652,8 @@
         "x": "https://x.com/davidlisnard",
         "youtube": "https://www.youtube.com/@david_lisnard",
         "wikipedia": "https://fr.wikipedia.org/wiki/David_Lisnard"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "bertrand",
@@ -649,7 +677,8 @@
         "campagne": "https://www.nousfrance.fr/",
         "x": "https://x.com/xavierbertrand",
         "wikipedia": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "wauquiez",
@@ -666,7 +695,8 @@
       "propositions": [],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "barnier",
@@ -683,7 +713,8 @@
       "propositions": [],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Michel_Barnier"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "le-pen",
@@ -707,7 +738,8 @@
         "parti": "https://rassemblementnational.fr/",
         "x": "https://x.com/MLP_officiel",
         "wikipedia": "https://fr.wikipedia.org/wiki/Marine_Le_Pen"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "bardella",
@@ -725,7 +757,8 @@
       "liens": {
         "x": "https://x.com/J_Bardella",
         "wikipedia": "https://fr.wikipedia.org/wiki/Jordan_Bardella"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "zemmour",
@@ -747,7 +780,8 @@
         "parti": "https://www.parti-reconquete.fr/",
         "x": "https://x.com/ZemmourEric",
         "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "knafo",
@@ -764,7 +798,8 @@
       "propositions": [],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Sarah_Knafo"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "marechal",
@@ -783,7 +818,8 @@
         "parti": "https://identite-libertes.fr/",
         "x": "https://x.com/MarionMarechal",
         "wikipedia": "https://fr.wikipedia.org/wiki/Marion_Mar%C3%A9chal"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "dupont-aignan",
@@ -808,7 +844,8 @@
         "parti": "https://www.debout-la-france.fr/",
         "x": "https://x.com/dupontaignan",
         "wikipedia": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "philippot",
@@ -832,7 +869,8 @@
         "parti": "https://les-patriotes.fr/",
         "x": "https://x.com/f_philippot",
         "wikipedia": "https://fr.wikipedia.org/wiki/Florian_Philippot"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "asselineau",
@@ -855,7 +893,8 @@
         "parti": "https://upr.fr/",
         "x": "https://x.com/f_asselineau",
         "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "lassalle",
@@ -874,7 +913,8 @@
         "parti": "https://resistons-france.fr/",
         "x": "https://x.com/jeanlassalle",
         "wikipedia": "https://fr.wikipedia.org/wiki/Jean_Lassalle"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "mlekuz",
@@ -895,7 +935,8 @@
         "campagne": "https://trajectoire2027.fr/",
         "programme": "https://trajectoire2027.fr/programme.html",
         "instagram": "https://www.instagram.com/manolo.mlekuz/"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "egger",
@@ -920,7 +961,8 @@
         "instagram": "https://www.instagram.com/solutiondemocratique/",
         "youtube": "https://www.youtube.com/@solutiondemocratique",
         "wikipedia": "https://fr.wikipedia.org/wiki/Clara_Egger"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "mathieu",
@@ -935,7 +977,8 @@
         "date": "2026-05-03"
       },
       "propositions": [],
-      "liens": {}
+      "liens": {},
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "lalanne",
@@ -957,7 +1000,8 @@
       ],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Francis_Lalanne"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "branco",
@@ -980,7 +1024,8 @@
       "liens": {
         "campagne": "https://ruches.org/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Juan_Branco"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "durif",
@@ -997,7 +1042,8 @@
       "propositions": [],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Sylvain_Durif"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "mikolajczak",
@@ -1018,7 +1064,8 @@
       "liens": {
         "parti": "https://parti-equinoxe.fr/",
         "programme": "https://parti-equinoxe.fr/presidentielle-2027/"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "massard",
@@ -1040,7 +1087,8 @@
       "liens": {
         "parti": "https://www.udb.bzh/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Lydie_Massard"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "lucas-lundy",
@@ -1057,7 +1105,8 @@
       "propositions": [],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Benjamin_Lucas-Lundy"
-      }
+      },
+      "verifie_le": "2026-09-22"
     },
     {
       "id": "brun",
@@ -1074,7 +1123,8 @@
       "propositions": [],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Philippe_Brun"
-      }
+      },
+      "verifie_le": "2026-09-22"
     }
   ]
 }

@@ -170,7 +170,7 @@ async function init() {
       </div>
       ${presentationHtml(b)}
       ${c.statut_detail ? `<p class="status-line"><strong>Candidature :</strong> ${esc(c.statut_detail)}</p>` : ""}
-      ${sourceHtml(c.source)}
+      ${sourceHtml(c.source)}${c.verifie_le ? `<span class="source">Statut vérifié le ${esc(formatDate(c.verifie_le))}</span>` : ""}
       <div class="cand-head"><div class="links">${linksHtml(c.liens)}</div></div>
       ${EN_LICE.includes(c.statut) ? `<a class="cta" href="/comparateur.html?c=${encodeURIComponent(c.id)}">Comparer avec d'autres candidats</a>` : ""}
       </div>

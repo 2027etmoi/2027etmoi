@@ -1,0 +1,79 @@
+# Veille hebdomadaire :
+# 1. contrôle automatique des données, publié en issue (aucune modification) ;
+# 2. si un secret Claude est configuré, Claude traite le rapport, fait les mises à jour
+#    sourcées et ouvre une pull request à valider. Rien n'est publié sans relecture humaine.
+name: Veille hebdomadaire
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # chaque lundi à 6 h UTC (8 h à Paris en été)
+  workflow_dispatch:       # lancement manuel possible depuis l'onglet Actions
+
+jobs:
+  controle:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Contrôles
+        run: python3 scripts/check_hebdo.py > rapport.md
+      - name: Publier le rapport en issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create veille --color BFD4F2 --description "Rapport de veille hebdomadaire" 2>/dev/null || true
+          gh issue create --title "Veille hebdomadaire — $(date +%Y-%m-%d)" --body-file rapport.md --label veille
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rapport
+          path: rapport.md
+
+  mise-a-jour:
+    needs: controle
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
+      id-token: write
+    env:
+      # Étape activée seulement si l'un des deux secrets est configuré
+      ACTIVE: ${{ secrets.ANTHROPIC_API_KEY != '' || secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+    steps:
+      - name: Étape désactivée
+        if: env.ACTIVE != 'true'
+        run: echo 'Aucun secret ANTHROPIC_API_KEY ou CLAUDE_CODE_OAUTH_TOKEN, mise à jour par Claude non lancée.'
+      - uses: actions/checkout@v4
+        if: env.ACTIVE == 'true'
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        if: env.ACTIVE == 'true'
+        with:
+          python-version: "3.12"
+      - uses: actions/download-artifact@v4
+        if: env.ACTIVE == 'true'
+        with:
+          name: rapport
+      - name: Configurer git
+        if: env.ACTIVE == 'true'
+        run: |
+          git config user.name "veille-2027etmoi"
+          git config user.email "veille-2027etmoi@users.noreply.github.com"
+      - uses: anthropics/claude-code-action@v1
+        if: env.ACTIVE == 'true'
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            Dépôt : ${{ github.repository }}. Lis puis applique à la lettre les consignes du fichier .github/veille-claude.md.
+            Le rapport de veille de la semaine est dans rapport.md à la racine.
+          claude_args: |
+            --max-turns 120
+            --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Bash(python3:*),Bash(git:*),Bash(gh pr:*),Bash(gh issue:*)"
