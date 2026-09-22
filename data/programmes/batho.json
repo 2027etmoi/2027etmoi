@@ -1,0 +1,49 @@
+{
+  "id": "batho",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Pas de programme publié",
+    "url": "https://www.delphinebatho.fr/",
+    "etat": "aucun",
+    "note": "Pas de programme publié au 22/09/2026 ; la résolution d'investiture du 6 juin 2026 appelle à « construire le programme de gouvernement » ; orientations exposées dans le livre « La politique de la beauté. Une nouvelle écologie » (juin 2026)."
+  },
+  "reperes": [
+    {
+      "texte": "Ministre de l'Écologie, du Développement durable et de l'Énergie du 21 juin 2012 au 2 juillet 2013.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Delphine_Batho", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Députée de la 2e circonscription des Deux-Sèvres, élue et réélue cinq fois ; à la tête de Génération écologie depuis 2018.",
+      "source": { "titre": "Site de Delphine Batho – Biographie", "url": "https://www.delphinebatho.fr/biographie/", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Troisième de la primaire écologiste de 2021 avec 22,32 % des voix.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Delphine_Batho", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidature annoncée le 25 novembre 2025, officiellement investie par la convention nationale de Génération écologie le 6 juin 2026.",
+      "source": { "titre": "Génération écologie – Résolution d'investiture", "url": "https://www.generationecologie.fr/app/uploads/2026/06/Resolution-investiture-Delphine-Batho.pdf", "date": "2026-06-06" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "securite",
+      "texte": "Réexamen et traitement immédiat des 70 000 plaintes de mineurs pour des faits de violence.",
+      "nature": "declaration",
+      "source": { "titre": "Génération écologie – « Une candidature pour sauver l'écologie » (entretien franceinfo)", "url": "https://www.generationecologie.fr/2026/06/07/une-candidature-pour-sauver-lecologie/", "date": "2026-06-07" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Site de campagne de Delphine Batho", "url": "https://www.delphinebatho.fr/", "type": "site", "date": "2026-09-22" },
+    { "titre": "franceinfo – Delphine Batho candidate « pour reconstruire une écologie capable de gouverner »", "url": "https://www.franceinfo.fr/politique/eelv/l-ex-ministre-delphine-batho-candidate-a-la-presidentielle-pour-reconstruire-une-ecologie-capable-de-gouverner_7639496.html", "type": "article", "date": "2025-11-25" },
+    { "titre": "Génération écologie – Résolution d'investiture de Delphine Batho (PDF)", "url": "https://www.generationecologie.fr/app/uploads/2026/06/Resolution-investiture-Delphine-Batho.pdf", "type": "document", "date": "2026-06-06" },
+    { "titre": "Génération écologie – Parution de « La politique de la beauté. Une nouvelle écologie »", "url": "https://www.generationecologie.fr/2026/06/23/en-librairie-la-politique-de-la-beaute-une-nouvelle-ecologie-de-delphine-batho/", "type": "article", "date": "2026-06-23" },
+    { "titre": "ICI Poitou – « Les Français aspirent à des idées nouvelles et à des forces nouvelles »", "url": "https://www.ici.fr/emissions/l-invite-de-ici-poitou/delphine-batho-candidate-en-2027-les-francaises-aspirent-a-des-idees-nouvelles-et-a-des-forces-nouvelles-6628651", "type": "entretien", "date": "2026-09-14" }
+  ],
+  "a_verifier": [
+    "« République terrestre » : redonner du pouvoir d'agir aux élus locaux et changer le « système de normes » (ICI Poitou) — orientation sans mesure précise.",
+    "Contenu programmatique du livre « La politique de la beauté » (éd. de l'Aube, juin 2026) non consulté.",
+    "Entretiens vidéo sur RMC (20/08/2026) et Sud Radio (24/08/2026) relayés par Génération écologie : contenu non transcrit, non vérifié.",
+    "« Green Deal européen renforcé » et « fin des accords de libre-échange climaticides » : relevés uniquement sur un agrégateur (elyseescope), non retenus."
+  ]
+}

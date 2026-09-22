@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sondages — 2027 et moi</title>
+  <meta name="description" content="Intentions de vote au premier tour de la présidentielle 2027 : moyenne des sondages récents et détail de chaque enquête, avec sources.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <nav class="site-nav"><div class="wrap"><a class="brand" href="index.html">2027 et moi</a><a href="index.html">Candidats</a><a href="comparateur.html">Comparateur</a><a href="sondages.html" aria-current="page">Sondages</a></div></nav>
+
+  <header class="site-header">
+    <div class="wrap">
+      <p class="kicker">Présidentielle 2027</p>
+      <h1>Intentions de vote au 1er tour</h1>
+      <p class="lede" id="lede">Moyenne des sondages récents, puis détail de chaque enquête avec sa source.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="section">
+      <h2>Moyenne des sondages</h2>
+      <div class="table-wrap">
+        <table class="poll-table">
+          <thead><tr><th>Personnalité</th><th class="num">Moyenne</th><th class="num">Fourchette</th><th class="num">Sondages</th><th class="bar-cell"><span class="visually-hidden">Graphique</span></th></tr></thead>
+          <tbody id="avg"></tbody>
+        </table>
+      </div>
+      <p class="notice" id="avg-empty" hidden>Aucun sondage n'est encore chargé.</p>
+    </section>
+
+    <section class="notes">
+      <h2>Comment la moyenne est calculée</h2>
+      <p>Chaque institut teste plusieurs hypothèses (qui est candidat, qui ne l'est pas). Pour ne pas donner plus de poids aux sondages qui testent beaucoup d'hypothèses, on calcule d'abord, pour chaque sondage, la moyenne des scores d'une personnalité sur les hypothèses où elle figure. On fait ensuite la moyenne de ces valeurs entre sondages. La fourchette indique le plus bas et le plus haut de ces valeurs.</p>
+      <p>Cette moyenne mélange des configurations différentes : elle donne un ordre de grandeur, pas une prévision. Un sondage n'est pas un résultat d'élection. Les notices officielles sont publiées par la <a href="https://www.commission-des-sondages.fr/notices/medias/fichiers/bytag/14/Presidentielle-2027" target="_blank" rel="noopener">Commission des sondages</a>.</p>
+    </section>
+
+    <section class="section">
+      <h2>Détail des sondages</h2>
+      <div id="polls"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">2027 et moi — site d'information indépendant et non partisan.</div>
+  </footer>
+
+  <script src="assets/common.js"></script>
+  <script src="assets/sondages.js"></script>
+</body>
+</html>

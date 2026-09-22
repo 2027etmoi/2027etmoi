@@ -1,0 +1,24 @@
+{
+  "id": "mathieu",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Aucun programme officiel identifié",
+    "url": "",
+    "etat": "aucun",
+    "note": "Pas de programme publié identifié au 22/09/2026 ; le candidat dit construire son programme au fil de ses rencontres avec les maires."
+  },
+  "reperes": [
+    { "texte": "27 ans, ingénieur en agroalimentaire de formation, enseignant contractuel en sciences et mathématiques, habitant de Chauffailles (Saône-et-Loire).", "source": { "titre": "RMC", "url": "https://rmc.bfmtv.com/actualites/politique/presidentielle-2027-a-27-ans-il-sillonne-la-france-a-velo-en-quete-des-500-parrainages_AV-202605030128.html", "date": "2026-05-03" } },
+    { "texte": "Candidat déclaré sans parti ; tour de France à vélo depuis début avril 2026 pour recueillir 500 parrainages de maires.", "source": { "titre": "France 3 Bourgogne-Franche-Comté", "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/je-vais-continuer-jusqu-au-bout-candidat-a-la-presidentielle-2027-il-parcourt-10-000-kilometres-a-velo-pour-recolter-les-parrainages-3338204.html", "date": "2026-04-23" } },
+    { "texte": "Cherche ses parrainages exclusivement auprès de maires sans étiquette.", "source": { "titre": "RMC", "url": "https://rmc.bfmtv.com/actualites/politique/presidentielle-2027-a-27-ans-il-sillonne-la-france-a-velo-en-quete-des-500-parrainages_AV-202605030128.html", "date": "2026-05-03" } }
+  ],
+  "mesures": [],
+  "ressources": [
+    { "titre": "L'Obs – Quels sont les candidats déjà officiellement déclarés à la présidentielle de 2027 ?", "url": "https://www.nouvelobs.com/politique/20260515.OBS114940/quels-sont-les-18-candidats-deja-officiellement-declares-a-la-presidentielle-de-2027.html", "type": "article", "date": "2026-09-17" }
+  ],
+  "a_verifier": [
+    "L'Obs (mis à jour le 17/09/2026) : vision fondée sur la démocratie participative et le RIC ; objectif principal « serait » un référendum constituant pour réécrire la Constitution. Formulation au conditionnel, non publiée comme mesure.",
+    "Wikipédia (page Candidatures 2027) date la déclaration au 30 mars 2026 et cite Le Monde (14/06/2026, payant, non ouvert).",
+    "Aucun site officiel de campagne identifié."
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "egger",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Solution démocratique – projet présidentiel 2027 (page « Parrainage 2027 »)",
+    "url": "https://solutiondemocratique.fr/parrainage2027/",
+    "etat": "complet",
+    "note": "Candidature à mesure unique revendiquée (instaurer la démocratie directe), déclinée en deux réformes rédigées : révision de l'article 89 de la Constitution et décentralisation « par le bas ». Pas de programme thématique au-delà, par choix."
+  },
+  "reperes": [
+    { "texte": "Née le 2 janvier 1988 ; politologue, enseignante-chercheuse en relations internationales.", "source": { "titre": "Wikipédia – Clara Egger", "url": "https://fr.wikipedia.org/wiki/Clara_Egger", "date": "2026-09-22" } },
+    { "texte": "Candidate du collectif Espoir RIC à la présidentielle 2022 : 36 parrainages sur 500 requis, candidature non validée.", "source": { "titre": "Wikipédia – Clara Egger", "url": "https://fr.wikipedia.org/wiki/Clara_Egger", "date": "2026-09-22" } },
+    { "texte": "Annonce sa candidature à la présidentielle 2027 pour le parti Solution démocratique (communiqué du 19 avril 2026).", "source": { "titre": "Solution démocratique – communiqué de candidature", "url": "https://solutiondemocratique.fr/presidentielle2027-annonce-candidature-clara-egger/", "date": "2026-04-19" } },
+    { "texte": "Présentée par L'Obs parmi les candidats officiellement déclarés à la présidentielle 2027.", "source": { "titre": "L'Obs – Quels sont les candidats déjà officiellement déclarés à la présidentielle de 2027 ?", "url": "https://www.nouvelobs.com/politique/20260515.OBS114940/quels-sont-les-18-candidats-deja-officiellement-declares-a-la-presidentielle-de-2027.html", "date": "2026-09-17" } },
+    { "texte": "38 ans, née à Tournon-sur-Rhône (Ardèche).", "source": { "titre": "Le Dauphiné libéré", "url": "https://www.ledauphine.com/elections/2026/05/22/une-native-de-tournon-sur-rhone-candidate-a-l-election-presidentielle-de-2027", "date": "2026-05-22" } }
+  ],
+  "mesures": [
+    {
+      "theme": "institutions",
+      "texte": "Toute révision de la Constitution approuvée uniquement par référendum (suppression de l'alinéa 3 de l'article 89, voie du Congrès).",
+      "nature": "programme",
+      "source": { "titre": "Solution démocratique – Parrainage 2027", "url": "https://solutiondemocratique.fr/parrainage2027/", "date": "2026-09-08" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Initiative citoyenne de révision constitutionnelle : une proposition signée par 700 000 électeurs en 18 mois est soumise à référendum.",
+      "nature": "programme",
+      "source": { "titre": "Solution démocratique – Parrainage 2027", "url": "https://solutiondemocratique.fr/parrainage2027/", "date": "2026-09-08" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Soumission à référendum des deux réformes dès le début du mandat, calendrier assorti d'un engagement pris devant notaire.",
+      "nature": "programme",
+      "source": { "titre": "Solution démocratique – Qui est Clara Egger", "url": "https://solutiondemocratique.fr/clara-egger/", "date": "2026-09-07" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "L'État doit déléguer une compétence à la collectivité qui la demande, priorité à la plus petite (commune) ; modification de l'article L.1111-8-1 du CGCT.",
+      "nature": "programme",
+      "source": { "titre": "Solution démocratique – Parrainage 2027", "url": "https://solutiondemocratique.fr/parrainage2027/", "date": "2026-09-08" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Communiqué de presse de candidature (PDF)", "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/04/CP-presidentielle2027-clara-egger-candidate.pdf", "type": "document", "date": "2026-04-20" },
+    { "titre": "Le Dauphiné libéré – « À 38 ans, une Ardéchoise candidate à l'élection présidentielle »", "url": "https://www.ledauphine.com/elections/2026/05/22/une-native-de-tournon-sur-rhone-candidate-a-l-election-presidentielle-de-2027", "type": "article", "date": "2026-05-22" }
+  ],
+  "a_verifier": [
+    "Date d'annonce : communiqué daté du 19 avril 2026 sur le site (PDF du 20 avril, L'Obs dit « le 20 avril 2026 ») ; Wikipédia indique « mai 2026 ». Retenu : avril 2026 (source officielle).",
+    "Affiliation universitaire actuelle incertaine : Groningue (site du parti, Wikipédia), Université Érasme de Rotterdam (L'Obs), « désormais bruxelloise » (Le Dauphiné). Non publiée.",
+    "Nombre de promesses de parrainage pour 2027 : aucun chiffre publié par le parti au 22/09/2026.",
+    "Page Wikipédia marquée « Autobiographie » (octobre 2025) : repères à recouper.",
+    "Le Temps (1er septembre 2026), article payant non ouvert (403)."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "egger",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Clara_Egger.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Clara_Egger.jpg",
+    "auteur": "Thomas Binet",
+    "licence": "CC BY-SA 4.0",
+    "annee": "2021",
+    "officielle": false,
+    "legende": "Clara Egger en novembre 2021, lors d'une émission de PDA-TV"
+  },
+  "presentation": {
+    "texte": "Clara Egger est une politologue française, enseignante-chercheuse en relations internationales aux Pays-Bas. Candidate en 2022 pour le collectif Espoir RIC, elle n'avait obtenu que 36 parrainages. Elle est la candidate du parti Solution démocratique pour 2027, avec un programme limité aux institutions et centré sur le référendum d'initiative citoyenne.",
+    "sources": [
+      { "titre": "L'Obs — Quels sont les candidats déjà officiellement déclarés à la présidentielle de 2027 ?", "url": "https://www.nouvelobs.com/politique/20260515.OBS114940/quels-sont-les-18-candidats-deja-officiellement-declares-a-la-presidentielle-de-2027.html", "date": "2026-09-17" },
+      { "titre": "Wikipédia — Clara Egger", "url": "https://fr.wikipedia.org/wiki/Clara_Egger", "date": "2026-09-22" }
+    ]
+  },
+  "naissance": {
+    "date": "1988-01-02",
+    "source": { "titre": "Wikipédia — Clara Egger", "url": "https://fr.wikipedia.org/wiki/Clara_Egger", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Annonce sa candidature à l'élection présidentielle de 2027 au nom de Solution démocratique.",
+      "source": { "titre": "Solution démocratique — Annonce de la candidature de Clara Egger", "url": "https://solutiondemocratique.fr/presidentielle2027-annonce-candidature-clara-egger/", "date": "2026-04-19" }
+    },
+    {
+      "periode": "2024",
+      "texte": "Le collectif Espoir RIC devient le parti Solution démocratique, qu'elle a cofondé.",
+      "source": { "titre": "Wikipédia — Clara Egger", "url": "https://fr.wikipedia.org/wiki/Clara_Egger", "date": "2026-09-22" }
+    },
+    {
+      "periode": "2021-2022",
+      "texte": "Candidate du collectif Espoir RIC à l'élection présidentielle de 2022. Avec 36 parrainages validés sur 500 requis, elle ne figure pas sur la liste des candidats.",
+      "source": { "titre": "Conseil constitutionnel — Présidentielle 2022 : parrainages validés par candidat", "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html", "date": "2022-03" }
+    },
+    {
+      "periode": "2019",
+      "texte": "Coautrice avec Raul Magni-Berton de « RIC. Le référendum d'initiative citoyenne expliqué à tous » (FYP éditions). Soutient cette revendication des Gilets jaunes.",
+      "source": { "titre": "Wikipédia — Clara Egger", "url": "https://fr.wikipedia.org/wiki/Clara_Egger", "date": "2026-09-22" }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "Aujourd'hui",
+      "texte": "Professeure assistante (Assistant Professor) en gouvernance mondiale à l'université Érasme de Rotterdam (Pays-Bas).",
+      "source": { "titre": "Erasmus University Rotterdam — dr. CM (Clara) Egger", "url": "https://www.eur.nl/en/people/clara-egger", "date": "2026-09-22" }
+    },
+    {
+      "periode": "À partir de décembre 2018",
+      "texte": "Professeure assistante en relations internationales à l'université de Groningue (Pays-Bas), où elle dirige le master Erasmus Mundus en action humanitaire internationale (NOHA).",
+      "source": { "titre": "Wikipédia — Clara Egger", "url": "https://fr.wikipedia.org/wiki/Clara_Egger", "date": "2026-09-22" }
+    },
+    {
+      "periode": "Avant 2018",
+      "texte": "Travaille pour des ONG (Handicap International, Secours catholique-Caritas France), puis comme responsable de la recherche au Centre d'enseignement et de recherche en action humanitaire (CERAH) de Genève.",
+      "source": { "titre": "Wikipédia — Clara Egger", "url": "https://fr.wikipedia.org/wiki/Clara_Egger", "date": "2026-09-22" }
+    },
+    {
+      "periode": "2016",
+      "texte": "Docteure en science politique de l'université Grenoble-Alpes, avec une thèse sur les stratégies étatiques de contrôle des ONG humanitaires.",
+      "source": { "titre": "theses.fr — Clara Egger, thèse de doctorat (2016)", "url": "https://theses.fr/2016GREAH032", "date": "2016-11-30" }
+    },
+    {
+      "periode": "2005-2010",
+      "texte": "Diplômée de l'Institut d'études politiques de Grenoble (master Organisation internationale).",
+      "source": { "titre": "Wikipédia — Clara Egger", "url": "https://fr.wikipedia.org/wiki/Clara_Egger", "date": "2026-09-22" }
+    }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "La page Wikipédia porte un bandeau « Autobiographie » (octobre 2025) : recouper la date de naissance et le parcours avec une source de presse.",
+    "Affectation universitaire : Wikipédia et le site de Solution démocratique indiquent Groningue, mais L'Obs (17/09/2026) et la page institutionnelle eur.nl indiquent l'université Érasme de Rotterdam, et la page rug.nl renvoie une erreur 404. Date de fin à Groningue et date d'arrivée à Rotterdam inconnues.",
+    "Lieu de naissance non établi : Wikipédia dit qu'elle a « grandi en Ardèche » et Solution démocratique la dit « native » de Vion (Ardèche). Champ lieu omis.",
+    "Date d'annonce 2027 : communiqué du 19/04/2026 (candidats.json), 20 avril selon L'Obs, « mai 2026 » selon Wikipédia (d'après Le Temps).",
+    "Photo : fichier original de 331 px de large (pas de vignette 400 px possible). Il s'agit d'une capture d'émission publiée sous CC BY-SA 4.0 selon Commons."
+  ]
+}

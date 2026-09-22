@@ -1,0 +1,171 @@
+{
+  "id": "cazeneuve",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cazeneuve_official_PM_portrait_%28cropped%29.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Cazeneuve_official_PM_portrait_(cropped).png",
+    "auteur": "Service photographique de Matignon",
+    "licence": "Licence Ouverte 1.0",
+    "annee": "2016",
+    "officielle": true,
+    "legende": "Portrait officiel de Premier ministre (Matignon)"
+  },
+  "presentation": {
+    "texte": "Bernard Cazeneuve est un ancien Premier ministre (décembre 2016 - mai 2017), auparavant ministre de l'Intérieur, du Budget et des Affaires européennes sous la présidence de François Hollande. Ancien maire de Cherbourg-Octeville et ancien député de la Manche, il a quitté le Parti socialiste en 2022 et fondé en 2023 le mouvement La Convention. En juillet 2026, il a publié une « Lettre aux Français ». Le Monde rapporte qu'il s'est déclaré candidat dans un entretien au Parisien ; Public Sénat parle d'une candidature sans déclaration officielle.",
+    "sources": [
+      {
+        "titre": "Bernard Cazeneuve — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+        "date": "2026-09-22"
+      },
+      {
+        "titre": "Présidentielle 2027 : la candidature de Bernard Cazeneuve « traduit la difficulté de notre personnel politique à se renouveler », selon Bruno Cautrès — Public Sénat",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-la-candidature-de-bernard-cazeneuve-traduit-la-difficulte-de-notre-personnel-politique-a-se-renouveler-selon-bruno-cautres",
+        "date": "2026-07-17"
+      },
+      {
+        "titre": "Le Monde",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/16/presidentielle-2027-bernard-cazeneuve-se-declare-candidat-dans-un-entretien-au-parisien-et-decline-la-primaire-socialiste_6723827_823448.html",
+        "date": "2026-07-16"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1963-06-02",
+    "lieu": "Senlis (Oise)",
+    "source": {
+      "titre": "Bernard Cazeneuve — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+      "date": "2026-09-22"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Publie en juillet 2026 une « Lettre aux Français » accompagnée d'un programme, sans déclaration officielle de candidature ; refuse de participer à la primaire socialiste.",
+      "source": {
+        "titre": "Public Sénat",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-la-candidature-de-bernard-cazeneuve-traduit-la-difficulte-de-notre-personnel-politique-a-se-renouveler-selon-bruno-cautres",
+        "date": "2026-07-17"
+      }
+    },
+    {
+      "periode": "Depuis 2023",
+      "texte": "Fondateur du mouvement La Convention (1er février 2023), après avoir quitté en juin 2022 le Parti socialiste, dont il était membre depuis 35 ans, en désaccord avec l'alliance de la NUPES.",
+      "source": {
+        "titre": "Bernard Cazeneuve — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2016-2017",
+      "texte": "Premier ministre du 6 décembre 2016 au 15 mai 2017.",
+      "source": {
+        "titre": "Bernard Cazeneuve — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2014-2016",
+      "texte": "Ministre de l'Intérieur du 2 avril 2014 au 6 décembre 2016.",
+      "source": {
+        "titre": "Bernard Cazeneuve — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2013-2014",
+      "texte": "Ministre délégué chargé du Budget du 19 mars 2013 au 2 avril 2014.",
+      "source": {
+        "titre": "Bernard Cazeneuve — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2012-2013",
+      "texte": "Ministre délégué chargé des Affaires européennes du 16 mai 2012 au 19 mars 2013.",
+      "source": {
+        "titre": "Bernard Cazeneuve — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2008-2012",
+      "texte": "Président de la communauté urbaine de Cherbourg.",
+      "source": {
+        "titre": "Bernard Cazeneuve — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1995-2012",
+      "texte": "Maire d'Octeville (1995-2000), puis maire de Cherbourg-Octeville (2001-2012).",
+      "source": {
+        "titre": "Bernard Cazeneuve — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2004-2007",
+      "texte": "Premier vice-président du conseil régional de Basse-Normandie.",
+      "source": {
+        "titre": "Bernard Cazeneuve — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1997-2012",
+      "texte": "Député de la Manche : 5e circonscription de 1997 à 2002 et de 2007 à 2012 ; élu dans la 4e circonscription en juin 2012 (mandat interrompu par son entrée au gouvernement).",
+      "source": {
+        "titre": "Bernard Cazeneuve — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+        "date": "2026-09-22"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "Formation",
+      "texte": "Diplômé de l'Institut d'études politiques de Bordeaux (1985) ; maîtrise de droit public de l'université de Caen-Basse-Normandie.",
+      "source": {
+        "titre": "Bernard Cazeneuve — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "Années 1980-1990",
+      "texte": "Juriste à la Banque populaire, puis conseiller technique et chef de cabinet dans des cabinets ministériels (1991-1993).",
+      "source": {
+        "titre": "Bernard Cazeneuve — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "Depuis 2003",
+      "texte": "Avocat inscrit au barreau de Cherbourg-Octeville à partir de 2003 ; avocat au cabinet August Debouzy au milieu des années 2000, qu'il rejoint comme associé en juillet 2017.",
+      "source": {
+        "titre": "Bernard Cazeneuve — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+        "date": "2026-09-22"
+      }
+    }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Plaintes devant la Cour de justice de la République (CJR) : (1) plaintes de la LDH et d'autres requérants visant le ministre de l'Intérieur au sujet d'assignations à résidence sous l'état d'urgence (franceinfo, https://www.franceinfo.fr/societe/justice/assignations-a-residence-bernard-cazeneuve-vise-par-des-plaintes_1707619.html, 2016) ; (2) plainte pour homicide involontaire déposée par un policier représenté par Juan Branco au sujet de la sécurité du 14 juillet 2016 à Nice (franceinfo, https://www.franceinfo.fr/faits-divers/justice-proces/attentat-de-nice-en-2016-l-ancien-ministre-de-l-interieur-bernard-cazeneuve-vise-par-une-plainte-pour-homicide-involontaire_6211503.html, 2023-11-28). Aucune source de presse reconnue trouvée sur l'issue (décision de la commission des requêtes). Un site non reconnu (qactus.fr, 28/09/2024) affirme que la CJR a refusé d'enquêter : non retenu. Non publiées faute d'état de procédure confirmé.",
+    "Aucune mise en examen, condamnation ou enquête préliminaire le visant trouvée.",
+    "Mort de Rémi Fraisse (Sivens, 2014) : la France a été condamnée par la CEDH en février 2025 (selon Wikipédia) ; aucune procédure visant personnellement Bernard Cazeneuve trouvée. Non retenue.",
+    "Photo : le portrait officiel recadré ne fait que 172 × 258 px (pas de vignette 400/500 px possible) ; URL du fichier original utilisée, vérifiée HTTP 200. Alternative en meilleure définition : File:Bernard_Cazeneuve,_(42399145362)_(cropped).jpg (Jérémy Barande, CC BY-SA 2.0, 29 mai 2018), vignette https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bernard_Cazeneuve%2C_%2842399145362%29_%28cropped%29.jpg/500px-Bernard_Cazeneuve%2C_%2842399145362%29_%28cropped%29.jpg (HTTP 200).",
+    "Date et intitulé exact du poste de juriste à la Banque populaire non précisés par la source."
+  ]
+}

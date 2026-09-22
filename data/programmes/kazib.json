@@ -1,0 +1,148 @@
+{
+  "id": "kazib",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "« Un programme pour les travailleurs » – premières mesures (dépliant de campagne)",
+    "url": "https://anasse2027.fr/programme",
+    "etat": "partiel",
+    "note": "Au 22/09/2026, le site de campagne indique que le programme 2027 est « en cours d'élaboration » ; il publie six axes et des « premières mesures », reprises dans un dépliant de 4 pages."
+  },
+  "reperes": [
+    {
+      "texte": "Cheminot, délégué syndical SUD Rail à la gare du Bourget ; membre de Révolution permanente depuis 2017.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Tentative de candidature à la présidentielle de 2022 : n'a pas réuni les 500 parrainages nécessaires.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-cheminot-anasse-kazib-annonce-sa-candidature_8040020.html", "date": "2026-06-01" }
+    },
+    {
+      "texte": "Candidat aux législatives de 2024 dans la 2e circonscription de la Seine-Saint-Denis : 3,67 %.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib", "date": "2026-09-22" }
+    },
+    {
+      "texte": "A annoncé sa candidature pour 2027 le 1er juin 2026 dans une vidéo de campagne.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-cheminot-anasse-kazib-annonce-sa-candidature_8040020.html", "date": "2026-06-01" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "economie",
+      "texte": "Expropriation des groupes bancaires, prêts à taux zéro et fin des agios.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 1", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Suppression des aides publiques aux grandes entreprises.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 2", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Expropriation des secteurs stratégiques (énergie, transports, banques, santé…) placés sous contrôle des travailleurs.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 2", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "travail",
+      "texte": "SMIC à 2 000 euros net, hausse des salaires de 500 euros et indexation sur l'inflation ; revalorisation de toutes les allocations.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 1", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Interdiction des licenciements.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 2", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Répartition du travail pour une semaine de 28 heures sans baisse de salaire.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 2", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Fin de la sous-traitance et CDI pour tous ; même travail, même salaire.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 3", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Retraite à 60 ans, et à 55 ans pour les métiers pénibles, sans condition d'annuités.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 1", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Avortement, PMA et transitions libres et gratuits.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 3", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Revenu étudiant au niveau du SMIC, financé par le patronat.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 1", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Suppression du SNU et refus de la militarisation des écoles et universités.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 5", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Régularisation de tous les sans-papiers ; liberté de circulation et d'installation.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 3", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Abrogation des lois qualifiées de sécuritaires, racistes et islamophobes, à commencer par la loi de 2004.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 4", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Dissolution des corps spéciaux de police ; amnistie des manifestants, jeunes de quartiers populaires et syndicalistes « réprimés ».",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 4", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Retrait des troupes françaises stationnées à l'étranger.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 5", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "« Pas un euro pour la guerre » : démantèlement de l'appareil militaire et de l'industrie d'armement française.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 5", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Fin de la Ve République, suppression du Sénat et de la fonction présidentielle.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 4", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Expropriation des logements vides ; plafonnement et gel des loyers.",
+      "nature": "programme",
+      "source": { "titre": "Anasse 2027, « Notre programme », axe 1", "url": "https://anasse2027.fr/programme", "date": "2026-09-22" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Dépliant de campagne (4 pages, PDF)", "url": "https://anasse2027.fr/programme/depliant-anasse-2027.pdf", "type": "pdf", "date": "2026" },
+    { "titre": "Site de campagne Anasse 2027", "url": "https://anasse2027.fr/", "type": "site", "date": "2026-09" },
+    { "titre": "Annonce de candidature (franceinfo)", "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-cheminot-anasse-kazib-annonce-sa-candidature_8040020.html", "type": "article", "date": "2026-06-01" }
+  ],
+  "a_verifier": [
+    "La page programme et le dépliant ne sont pas datés ; la date indiquée pour les mesures est celle de la consultation (22/09/2026).",
+    "Le « démantèlement de la machine de guerre française » est formulé sans détail de mise en œuvre ; reformulation à relire.",
+    "Articles Le Monde (21/06/2026), Libération (02/06/2026) et Le Parisien (01/06/2026) listés sur le site de campagne, non consultés (paywall probable)."
+  ]
+}

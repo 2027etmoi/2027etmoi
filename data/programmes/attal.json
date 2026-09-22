@@ -1,0 +1,255 @@
+{
+  "id": "attal",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Mes chantiers capitaux",
+    "url": "https://attalpresident.fr/programme",
+    "etat": "partiel",
+    "note": "Au 22/09/2026, le site de campagne présente quatre « chantiers capitaux » (école, travail et salaires, frontières, intelligence artificielle) et deux « dettes à résorber » (État, écologie) ; d'autres mesures sont annoncées dans les médias et relayées sur le site."
+  },
+  "reperes": [
+    {
+      "texte": "Premier ministre du 9 janvier au 5 septembre 2024.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Ministre de l'Éducation nationale et de la Jeunesse du 20 juillet 2023 au 11 janvier 2024.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Secrétaire général de Renaissance depuis le 8 décembre 2024 et député de la 10e circonscription des Hauts-de-Seine.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidature à l'élection présidentielle officialisée le 22 mai 2026 à Mur-de-Barrez (Aveyron).",
+      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721", "date": "2026-05-22" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "economie",
+      "texte": "Revenir sous 3 % de déficit en 2032 et atteindre l'équilibre en 2037, soit 120 milliards d'euros d'économies.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — LCI : Gabriel Attal défend un projet de rupture", "url": "https://attalpresident.fr/actualites/lci-gabriel-attal-defend-un-projet-de-rupture-pour-repondre-aux-grands-defis-du-pays", "date": "2026-08-25" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Supprimer 100 000 postes dans la fonction publique.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — LCI : Gabriel Attal défend un projet de rupture", "url": "https://attalpresident.fr/actualites/lci-gabriel-attal-defend-un-projet-de-rupture-pour-repondre-aux-grands-defis-du-pays", "date": "2026-08-25" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Instaurer un « frein d'urgence » sur l'ensemble des dépenses sociales, avec une année blanche.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Gabriel Attal sur France 2", "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-france-2-gerer-l-urgence-et-preparer-l-avenir", "date": "2026-09-20" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Créer un crédit d'impôt productivité pour financer l'adoption de l'intelligence artificielle par les entreprises.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Gabriel Attal veut faire de la France la 1re puissance d'IA d'Europe (Les Échos)", "url": "https://attalpresident.fr/actualites/gabriel-attal-appelle-a-une-rupture-economique-dans-les-echos", "date": "2026-06-17" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Viser un objectif de 200 milliards d'euros d'investissement pour faire de la France la première puissance d'IA en Europe.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Gabriel Attal veut faire de la France la 1re puissance d'IA d'Europe (Les Échos)", "url": "https://attalpresident.fr/actualites/gabriel-attal-appelle-a-une-rupture-economique-dans-les-echos", "date": "2026-06-17" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Réduire les charges salariales pour faire monter le salaire net et rapprocher le net du brut.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "date": "2026-09-22" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Supprimer le plafond annuel de 220 heures supplémentaires par salarié.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "date": "2026-09-22" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Créer un livret d'épargne sur le modèle du Livret A pour financer des places en crèche et former 200 000 professionnels de la petite enfance d'ici 2030.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "date": "2026-09-22" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Promouvoir la semaine en quatre jours là où c'est possible et réécrire le Code du travail.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "date": "2026-09-22" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Former 20 millions de salariés français à l'IA d'ici à 2030.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Gabriel Attal veut faire de la France la 1re puissance d'IA d'Europe (Les Échos)", "url": "https://attalpresident.fr/actualites/gabriel-attal-appelle-a-une-rupture-economique-dans-les-echos", "date": "2026-06-17" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Supprimer l'âge légal de départ et fonder le système de retraite sur la durée de cotisation.",
+      "nature": "declaration",
+      "source": { "titre": "LCP — Présidentielle : que proposent les candidats sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751", "date": "2026-09-16" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Introduire la retraite par capitalisation, avec un fléchage obligatoire de 50 % de l'intéressement et de la participation vers des plans d'épargne retraite.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Gabriel Attal veut faire de la France la 1re puissance d'IA d'Europe (Les Échos)", "url": "https://attalpresident.fr/actualites/gabriel-attal-appelle-a-une-rupture-economique-dans-les-echos", "date": "2026-06-17" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Familles monoparentales : ne plus imposer les pensions alimentaires perçues et créer une « carte famille monoparentale » (transports, loisirs, culture, vacances).",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Premières mesures pour les familles monoparentales", "url": "https://attalpresident.fr/actualites/gabriel-attal-annonce-ses-premieres-mesures-pour-les-familles-monoparentales-a-la-premiere-universite-d-ete", "date": "2026-08-28" }
+    },
+    {
+      "theme": "education",
+      "texte": "Rétablir les mesures du « Choc des savoirs », présenté comme l'une de ses premières décisions.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — École", "url": "https://attalpresident.fr/programme/education", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Moins de 20 élèves par classe en moyenne à l'école primaire.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — LCI : Gabriel Attal défend un projet de rupture", "url": "https://attalpresident.fr/actualites/lci-gabriel-attal-defend-un-projet-de-rupture-pour-repondre-aux-grands-defis-du-pays", "date": "2026-08-25" }
+    },
+    {
+      "theme": "education",
+      "texte": "Augmenter les enseignants d'au moins 200 euros nets par mois, la revalorisation pouvant atteindre 500 euros.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — LCI : Gabriel Attal défend un projet de rupture", "url": "https://attalpresident.fr/actualites/lci-gabriel-attal-defend-un-projet-de-rupture-pour-repondre-aux-grands-defis-du-pays", "date": "2026-08-25" }
+    },
+    {
+      "theme": "education",
+      "texte": "Certificat d'études à l'entrée en sixième, brevet obligatoire pour le lycée, groupes de niveau en français et mathématiques, plus de redoublements en CP.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — LCI : Gabriel Attal défend un projet de rupture", "url": "https://attalpresident.fr/actualites/lci-gabriel-attal-defend-un-projet-de-rupture-pour-repondre-aux-grands-defis-du-pays", "date": "2026-08-25" }
+    },
+    {
+      "theme": "education",
+      "texte": "Loi de programmation de l'éducation sur cinq ans et fermeture de 100 collèges qu'il qualifie de « ghettos scolaires ».",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — LCI : Gabriel Attal défend un projet de rupture", "url": "https://attalpresident.fr/actualites/lci-gabriel-attal-defend-un-projet-de-rupture-pour-repondre-aux-grands-defis-du-pays", "date": "2026-08-25" }
+    },
+    {
+      "theme": "education",
+      "texte": "Interdire l'accès aux réseaux sociaux aux moins de 15 ans.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — École", "url": "https://attalpresident.fr/programme/education", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Quotas limitatifs par secteur et par origine votés tous les deux ans par le Parlement, sur la base de besoins identifiés par les partenaires sociaux.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — BFM TV : Gabriel Attal veut changer de modèle", "url": "https://attalpresident.fr/actualites/bfm-tv-gabriel-attal-veut-changer-de-modele-pour-redonner-de-la-puissance-a-la-france", "date": "2026-09-06" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Système d'immigration à points inspiré du Canada (offre d'emploi stable, logement, maîtrise du français, respect des valeurs).",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Frontières", "url": "https://attalpresident.fr/programme/frontieres", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Modifier la Constitution pour instaurer une « préférence travail » dans l'immigration.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — LCI : Gabriel Attal défend un projet de rupture", "url": "https://attalpresident.fr/actualites/lci-gabriel-attal-defend-un-projet-de-rupture-pour-repondre-aux-grands-defis-du-pays", "date": "2026-08-25" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Mieux encadrer le regroupement familial, qui doit diminuer.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Frontières", "url": "https://attalpresident.fr/programme/frontieres", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Barrières commerciales ciblées et taxes sur certains produits chinois (acier, voitures électriques, panneaux solaires).",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Frontières", "url": "https://attalpresident.fr/programme/frontieres", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Contrôle strict des investissements chinois dans les infrastructures sensibles.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Frontières", "url": "https://attalpresident.fr/programme/frontieres", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "« États-Unis d'Europe » : président européen élu au suffrage universel lors d'un scrutin paneuropéen, avec un noyau de pays volontaires.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Gabriel Attal à Reims", "url": "https://attalpresident.fr/actualites/gabriel-attal-a-reims-batir-les-etats-unis-d-europe-pour-retrouver-notre-puissance", "date": "2026-09-17" }
+    },
+    {
+      "theme": "international",
+      "texte": "Lancer 12 grands projets technologiques européens (IA, espace, santé, décarbonation, technologies stratégiques).",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Gabriel Attal à Reims", "url": "https://attalpresident.fr/actualites/gabriel-attal-a-reims-batir-les-etats-unis-d-europe-pour-retrouver-notre-puissance", "date": "2026-09-17" }
+    },
+    {
+      "theme": "international",
+      "texte": "Utiliser les avoirs russes gelés en Europe pour financer le soutien supplémentaire à l'Ukraine.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — BFM TV : Gabriel Attal veut changer de modèle", "url": "https://attalpresident.fr/actualites/bfm-tv-gabriel-attal-veut-changer-de-modele-pour-redonner-de-la-puissance-a-la-france", "date": "2026-09-06" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Réduire le nombre de députés de 577 à 350 et celui des sénateurs de 348 à 200.",
+      "nature": "declaration",
+      "source": { "titre": "Journal du Net — Gabriel Attal promet « la plus grande réforme institutionnelle depuis 1958 »", "url": "https://www.journaldunet.com/business/action-publique/1553335-gabriel-attal-promet-la-plus-grande-reforme-institutionnelle-depuis-1958-s-il-est-elu-president/", "date": "2026-08-03" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Organiser chaque année, à date fixe, un référendum comportant plusieurs questions à choix multiples.",
+      "nature": "declaration",
+      "source": { "titre": "Journal du Net — Gabriel Attal promet « la plus grande réforme institutionnelle depuis 1958 »", "url": "https://www.journaldunet.com/business/action-publique/1553335-gabriel-attal-promet-la-plus-grande-reforme-institutionnelle-depuis-1958-s-il-est-elu-president/", "date": "2026-08-03" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Supprimer un échelon de collectivité territoriale.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — LCI : Gabriel Attal défend un projet de rupture", "url": "https://attalpresident.fr/actualites/lci-gabriel-attal-defend-un-projet-de-rupture-pour-repondre-aux-grands-defis-du-pays", "date": "2026-08-25" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Limiter à 18 mois les procédures administratives bloquant certains projets.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — BFM TV : Gabriel Attal veut changer de modèle", "url": "https://attalpresident.fr/actualites/bfm-tv-gabriel-attal-veut-changer-de-modele-pour-redonner-de-la-puissance-a-la-france", "date": "2026-09-06" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Faire passer le rythme de réduction des émissions de 1,8 % à 5 % par an sur 2025-2030.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Dette écologique", "url": "https://attalpresident.fr/programme/dette-ecologique", "date": "2026-09-22" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Engagement de stabilité tarifaire sur le prix de l'électricité pendant cinq ans.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Gabriel Attal veut faire de la France la 1re puissance d'IA d'Europe (Les Échos)", "url": "https://attalpresident.fr/actualites/gabriel-attal-appelle-a-une-rupture-economique-dans-les-echos", "date": "2026-06-17" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Dette commune européenne pour financer l'adaptation au dérèglement climatique.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Gabriel Attal à Reims", "url": "https://attalpresident.fr/actualites/gabriel-attal-a-reims-batir-les-etats-unis-d-europe-pour-retrouver-notre-puissance", "date": "2026-09-17" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Site de campagne", "url": "https://attalpresident.fr/", "type": "site", "date": "2026-09-22" },
+    { "titre": "Programme : « Mes chantiers capitaux »", "url": "https://attalpresident.fr/programme", "type": "programme", "date": "2026-09-22" },
+    { "titre": "Actualités de campagne", "url": "https://attalpresident.fr/actualites", "type": "site", "date": "2026-09-22" },
+    { "titre": "LCP — Gabriel Attal officialise sa candidature", "url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721", "type": "article", "date": "2026-05-22" },
+    { "titre": "LCP — Que proposent les candidats sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751", "type": "article", "date": "2026-09-16" }
+  ],
+  "a_verifier": [
+    "« 13e mois pour tous », nouveau Code du travail, coopération avec l'Algérie : titre CNews du 30/04/2026 (https://www.cnews.fr/france/2026-04-30/quotas-dimmigration-13e-mois-pour-tous-nouveau-code-du-travail-cooperation-avec) — page en 403, contenu non vérifié.",
+    "Réforme institutionnelle (entretien JDD, août 2026) : décentralisation, principe constitutionnel de « rapidité » (réponse de l'administration sous 2 mois, silence valant accord), plan de départs volontaires de 100 000 agents — lus seulement dans le Journal du Net ; article JDD en 403.",
+    "Sécurité/justice : alourdissement des peines pour crimes et délits violents, priorité au narcotrafic — aucune source primaire ou média ouverte ne l'a confirmé.",
+    "Formation à l'IA : candidats.json indique « 20 millions d'actifs en cinq ans » (post X du candidat) ; la page de campagne dit « 20 millions de salariés d'ici à 2030 » — formulation retenue.",
+    "Interdiction des réseaux sociaux aux moins de 15 ans « par référendum » : mentionné dans le résumé de la page France Info du site de campagne, non confirmé mot pour mot.",
+    "Agriculture (Metz-Magny, 11/09/2026) : orientations générales (revenu, jeunes agriculteurs, PAC) sans mesure précise."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "retailleau",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_%28cropped%29.jpg/500px-Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_(cropped).jpg",
+    "auteur": "Anthony Montardy",
+    "licence": "CC BY 4.0",
+    "annee": "2025",
+    "officielle": false,
+    "legende": "Bruno Retailleau, alors ministre de l'Intérieur, dans les Pyrénées-Orientales, 5 juin 2025"
+  },
+  "presentation": {
+    "texte": "Bruno Retailleau est un homme politique français, sénateur de la Vendée et président des Républicains depuis mai 2025. Il a été ministre de l'Intérieur de septembre 2024 à octobre 2025, après avoir présidé le groupe Les Républicains au Sénat. Il a été désigné candidat des Républicains à l'élection présidentielle de 2027 en avril 2026.",
+    "sources": [
+      { "titre": "Bruno Retailleau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" }
+    ]
+  },
+  "naissance": {
+    "date": "1960-11-20",
+    "lieu": "Cholet (Maine-et-Loire)",
+    "source": { "titre": "Bruno Retailleau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "2026", "texte": "Désigné candidat des Républicains à l'élection présidentielle de 2027 le 19 avril 2026.", "source": { "titre": "Bruno Retailleau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" } },
+    { "periode": "2025-", "texte": "Président des Républicains (élu le 18 mai 2025) ; de retour au Sénat depuis le 13 novembre 2025.", "source": { "titre": "Bruno Retailleau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" } },
+    { "periode": "2024-2025", "texte": "Ministre de l'Intérieur (21 septembre 2024 - 12 octobre 2025), ministre d'État à partir du 23 décembre 2024.", "source": { "titre": "Bruno Retailleau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" } },
+    { "periode": "2014-2024", "texte": "Président du groupe Les Républicains au Sénat.", "source": { "titre": "Bruno Retailleau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" } },
+    { "periode": "2015-2017", "texte": "Président du conseil régional des Pays de la Loire.", "source": { "titre": "Bruno Retailleau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" } },
+    { "periode": "2004-2024", "texte": "Sénateur de la Vendée.", "source": { "titre": "Bruno Retailleau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" } },
+    { "periode": "2010-2015", "texte": "Président du conseil général de la Vendée (conseiller général de 1988 à 2015).", "source": { "titre": "Bruno Retailleau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" } },
+    { "periode": "1994-1997", "texte": "Député de la 4e circonscription de la Vendée.", "source": { "titre": "Bruno Retailleau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "1985", "texte": "Licence de sciences économiques (université de Nantes) ; diplômé de l'Institut d'études politiques de Paris (1985).", "source": { "titre": "Bruno Retailleau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" } },
+    { "periode": "1985", "texte": "Directeur général adjoint de Radio Alouette (Les Herbiers).", "source": { "titre": "Bruno Retailleau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" } },
+    { "periode": "1987-1994", "texte": "Directeur général de l'école Sciencescom (intégrée depuis à Audencia).", "source": { "titre": "Bruno Retailleau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" } },
+    { "periode": "1987-2009", "texte": "Directeur de la Cinéscénie du Puy du Fou.", "source": { "titre": "Bruno Retailleau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" } }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Photo : pas de portrait officiel libre trouvé (photo prise lors d'un déplacement ministériel). Vignette 500px (400px refusée par Wikimedia), vérifiée HTTP 200.",
+    "Plainte devant la Cour de justice de la République déposée par Me Khadija Aoudia pour provocation à la haine et à la discrimination (propos du 6 février 2025 sur LCI concernant Mayotte). Mayotte Hebdo (13/08/2025) date la plainte du 8 août 2025 ; une autre source évoque un rejet par la commission des requêtes le 22 mai 2025. Chronologie contradictoire et simple plainte : non publiée.",
+    "Mediapart a évoqué des soupçons de détournement de fonds du groupe UMP du Sénat (2003-2014) concernant plusieurs sénateurs dont Bruno Retailleau : aucune procédure le visant personnellement trouvée.",
+    "Désignation d'avril 2026 : Wikipédia indique 73,8 % des voix ; le mode exact de désignation (vote des adhérents) est à recouper avec une source de presse."
+  ]
+}

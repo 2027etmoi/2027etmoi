@@ -1,0 +1,110 @@
+{
+  "id": "le-pen",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Marine_Le_Pen_2025_%28cropped%29.jpg/500px-Marine_Le_Pen_2025_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_2025_(cropped).jpg",
+    "auteur": "Vox España",
+    "licence": "CC0 1.0",
+    "annee": "2025",
+    "officielle": false,
+    "legende": "Marine Le Pen en février 2025, lors d'un sommet des Patriotes pour l'Europe à Madrid"
+  },
+  "presentation": {
+    "texte": "Marine Le Pen est une femme politique française, députée du Pas-de-Calais depuis 2017 et présidente du groupe Rassemblement national à l'Assemblée nationale depuis 2022. Elle a présidé le Front national, devenu Rassemblement national, de 2011 à 2021. Elle a été candidate aux élections présidentielles de 2012, 2017 et 2022 et est candidate en 2027.",
+    "sources": [
+      { "titre": "Marine Le Pen — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen", "date": "2026-09-22" }
+    ]
+  },
+  "naissance": {
+    "date": "1968-08-05",
+    "lieu": "Neuilly-sur-Seine (Hauts-de-Seine)",
+    "source": { "titre": "Marine Le Pen — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "depuis 2022", "texte": "Présidente du groupe Rassemblement national à l'Assemblée nationale.", "source": { "titre": "Marine Le Pen — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen", "date": "2026-09-22" } },
+    { "periode": "2022", "texte": "Candidate à l'élection présidentielle : 23,15 % au premier tour, 41,45 % au second tour face à Emmanuel Macron.", "source": { "titre": "Élection présidentielle française de 2022 — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022", "date": "2026-09-22" } },
+    { "periode": "2021-2025", "texte": "Conseillère départementale du Pas-de-Calais (canton d'Hénin-Beaumont-2), démise d'office en 2025 à la suite de sa condamnation en première instance avec exécution provisoire.", "source": { "titre": "Marine Le Pen — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen", "date": "2026-09-22" } },
+    { "periode": "depuis 2017", "texte": "Députée de la 11e circonscription du Pas-de-Calais, réélue en 2022 et 2024.", "source": { "titre": "Marine Le Pen — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen", "date": "2026-09-22" } },
+    { "periode": "2017", "texte": "Candidate à l'élection présidentielle : 21,30 % au premier tour, 33,90 % au second tour face à Emmanuel Macron.", "source": { "titre": "Élection présidentielle française de 2017 — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017", "date": "2026-09-22" } },
+    { "periode": "2012", "texte": "Candidate à l'élection présidentielle : 17,90 % au premier tour (troisième position).", "source": { "titre": "Élection présidentielle française de 2012 — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012", "date": "2026-09-22" } },
+    { "periode": "2011-2021", "texte": "Présidente du Front national, devenu Rassemblement national en 2018.", "source": { "titre": "Marine Le Pen — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen", "date": "2026-09-22" } },
+    { "periode": "2004-2017", "texte": "Députée européenne (circonscription Île-de-France de 2004 à 2009, puis Nord-Ouest de 2009 à 2017).", "source": { "titre": "Marine Le Pen — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen", "date": "2026-09-22" } },
+    { "periode": "2008-2012", "texte": "Conseillère municipale d'Hénin-Beaumont (Pas-de-Calais).", "source": { "titre": "Marine Le Pen — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen", "date": "2026-09-22" } },
+    { "periode": "1998-2021", "texte": "Conseillère régionale du Nord-Pas-de-Calais (1998-2004), d'Île-de-France (2004-2010), puis du Nord-Pas-de-Calais devenu Hauts-de-France (2010-2021).", "source": { "titre": "Marine Le Pen — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "1990-1992", "texte": "Maîtrise de droit (1990) et DEA de droit pénal (1991) à l'université Paris II-Assas, puis certificat d'aptitude à la profession d'avocat (1992).", "source": { "titre": "Marine Le Pen — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen", "date": "2026-09-22" } },
+    { "periode": "1992-1998", "texte": "Avocate au barreau de Paris.", "source": { "titre": "Marine Le Pen — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen", "date": "2026-09-22" } },
+    { "periode": "1998", "texte": "Entre au service juridique du Front national le 1er janvier 1998.", "source": { "titre": "Marine Le Pen — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen", "date": "2026-09-22" } }
+  ],
+  "affaires": [
+    {
+      "titre": "Affaire des assistants parlementaires européens du Front national",
+      "texte": "Poursuivie pour détournement de fonds publics dans le cadre de l'emploi d'assistants parlementaires rémunérés par le Parlement européen. Le 31 mars 2025, le tribunal correctionnel de Paris l'a condamnée à quatre ans d'emprisonnement dont deux ferme, 100 000 euros d'amende et cinq ans d'inéligibilité avec exécution provisoire. Le 7 juillet 2026, la cour d'appel de Paris a confirmé sa culpabilité et l'a condamnée à trois ans d'emprisonnement dont un an ferme sous bracelet électronique, 100 000 euros d'amende et 45 mois d'inéligibilité dont 30 avec sursis, sans exécution provisoire. Les 15 mois d'inéligibilité ferme étant déjà purgés, elle est éligible à l'élection présidentielle de 2027. Elle s'est pourvue en cassation ; le parquet général ne s'est pas pourvu.",
+      "etat": "condamnation_non_definitive",
+      "etat_detail": "Condamnée en appel le 7 juillet 2026 ; pourvoi en cassation en cours, qui suspend l'exécution des peines. La Cour de cassation a indiqué pouvoir se prononcer au plus tard début avril 2027. Mémoires attendus jusqu'au 15 octobre 2026. La condamnation n'est pas définitive : Marine Le Pen reste présumée innocente.",
+      "date_etat": "2026-07-07",
+      "sources": [
+        { "titre": "franceinfo — Marine Le Pen condamnée à deux ans de prison ferme et cinq ans d'inéligibilité avec application immédiate au procès des assistants parlementaires du FN", "url": "https://www.francetvinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-condamnee-a-quatre-ans-de-prison-et-cinq-ans-d-ineligibilite-avec-execution-provisoire-au-proces-des-assistants-parlementaires-du-fn_7157157.html", "date": "2025-03-31" },
+        { "titre": "franceinfo — Inéligibilité, peine de prison... Pourquoi la condamnation de Marine Le Pen a été réduite en appel", "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/ineligibilite-peine-de-prison-pourquoi-la-condamnation-de-marine-le-pen-a-ete-reduite-en-appel_8098121.html", "date": "2026-07-07" },
+        { "titre": "franceinfo — La Cour de cassation « pourrait » se prononcer « au plus tard début avril 2027 » sur le pourvoi de Marine Le Pen", "url": "https://www.franceinfo.fr/politique/marine-le-pen/la-cour-de-cassation-pourrait-se-prononcer-au-plus-tard-debut-avril-2027-sur-le-pourvoi-de-marine-le-pen-apres-sa-condamnation-en-appel_8100146.html", "date": "2026-07-08" },
+        { "titre": "franceinfo — Le parquet général ne se pourvoit pas en cassation dans l'affaire des assistants d'eurodéputés du Front national", "url": "https://www.franceinfo.fr/faits-divers/justice-proces/proces-des-assistants-d-eurodeputes-du-front-national-le-parquet-general-ne-se-pourvoit-pas-en-cassation_8108705.html", "date": "2026-07-15" },
+        { "titre": "franceinfo — Les avocats de Marine Le Pen ont jusqu'au 15 octobre pour justifier le pourvoi dans l'affaire des assistants d'eurodéputés FN", "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/les-avocats-de-marine-le-pen-ont-jusqu-au-15-octobre-pour-justifier-le-pourvoi-dans-l-affaire-des-assistants-d-eurodeputes-fn_8177831.html", "date": "2026-09-04" }
+      ]
+    },
+    {
+      "titre": "Diffamation envers la Cimade",
+      "texte": "Poursuivie pour diffamation après avoir accusé l'association Cimade d'organiser une « filière d'immigration clandestine » depuis les Comores vers Mayotte. Condamnée en octobre 2023 à 500 euros d'amende avec sursis, peine confirmée en appel en septembre 2024 ; pourvoi rejeté par la Cour de cassation en décembre 2025.",
+      "etat": "condamnation_definitive",
+      "etat_detail": "Condamnation définitive depuis le rejet du pourvoi par la Cour de cassation (décembre 2025).",
+      "date_etat": "2025-12-16",
+      "sources": [
+        { "titre": "Le Monde — Marine Le Pen condamnée pour diffamation envers la Cimade", "url": "https://www.lemonde.fr/politique/article/2023/10/13/marine-le-pen-condamnee-pour-diffamation-envers-la-cimade_6194210_823448.html", "date": "2023-10-13" },
+        { "titre": "Le Monde — Marine Le Pen condamnée en appel à 500 euros d'amende pour diffamation envers la Cimade", "url": "https://www.lemonde.fr/societe/article/2024/09/11/marine-le-pen-condamnee-en-appel-a-500-euros-d-amende-pour-diffamation-envers-la-cimade_6313248_3224.html", "date": "2024-09-11" },
+        { "titre": "Le Monde — Marine Le Pen définitivement condamnée pour diffamation envers la Cimade", "url": "https://www.lemonde.fr/societe/article/2025/12/16/marine-le-pen-definitivement-condamnee-pour-diffamation-envers-la-cimade_6658177_3224.html", "date": "2025-12-16" }
+      ]
+    },
+    {
+      "titre": "Diffusion de photos d'exactions du groupe État islamique",
+      "texte": "Poursuivie pour diffusion de messages à caractère violent après avoir publié sur Twitter, en décembre 2015, trois photos d'exactions du groupe État islamique. Le tribunal correctionnel de Nanterre l'a relaxée le 4 mai 2021, retenant une démarche de protestation politique relevant de la liberté d'expression.",
+      "etat": "relaxe",
+      "etat_detail": "Relaxée par le tribunal correctionnel de Nanterre le 4 mai 2021.",
+      "date_etat": "2021-05-04",
+      "sources": [
+        { "titre": "franceinfo — Jugés pour avoir diffusé des photos d'exactions du groupe État islamique, Marine Le Pen et Gilbert Collard ont été relaxés", "url": "https://www.franceinfo.fr/societe/justice/photos-d-exactions-de-daech-marine-le-pen-la-presidente-du-rn-a-ete-relaxee-parquet_4610709.html", "date": "2021-05-04" }
+      ]
+    },
+    {
+      "titre": "Propos comparant les prières de rue à l'Occupation",
+      "texte": "Poursuivie pour « provocation à la discrimination, à la violence ou à la haine envers un groupe de personnes à raison de leur appartenance à une religion » pour des propos tenus à Lyon fin 2010. Le tribunal correctionnel de Lyon l'a relaxée le 15 décembre 2015, conformément aux réquisitions du parquet.",
+      "etat": "relaxe",
+      "etat_detail": "Relaxée par le tribunal correctionnel de Lyon le 15 décembre 2015.",
+      "date_etat": "2015-12-15",
+      "sources": [
+        { "titre": "Le Figaro (avec AFP) — Prières de rue comparées à l'Occupation : Marine Le Pen relaxée", "url": "https://www.lefigaro.fr/flash-actu/2015/12/15/97001-20151215FILWWW00174-prieres-de-rue-comparees-a-l-occupation-marine-le-pen-relaxee.php", "date": "2015-12-15" }
+      ]
+    },
+    {
+      "titre": "Injure publique envers une étudiante (message de 2019)",
+      "texte": "Jugée le 10 novembre 2025 par le tribunal correctionnel de Paris pour « injure publique en raison de l'origine, l'ethnie, la nation, la race ou la religion » après un message publié en 2019 associant une étudiante à « l'islam radical ». Relaxée en janvier 2026.",
+      "etat": "relaxe",
+      "etat_detail": "Relaxée par le tribunal correctionnel de Paris en janvier 2026.",
+      "date_etat": "2026-01-20",
+      "sources": [
+        { "titre": "Mediapart — Marine Le Pen au tribunal pour injure raciale contre une étudiante voilée", "url": "https://www.mediapart.fr/journal/france/101125/marine-le-pen-au-tribunal-pour-injure-raciale-contre-une-etudiante-voilee", "date": "2025-11-10" },
+        { "titre": "Libération — Poursuivie pour injure raciale, Marine Le Pen relaxée", "url": "https://www.liberation.fr/politique/apres-un-tweet-ciblant-une-etudiante-en-2019-marine-le-pen-risque-une-condamnation-pour-injure-raciale-20260120_Y6ZXPFVMSJAINA24OZ3NRC6IHM/", "date": "2026-01-20" }
+      ]
+    }
+  ],
+  "a_verifier": [
+    "Photo : aucun portrait officiel récent sur Commons (seuls des portraits du Parlement européen de 2004 et 2009). Photo d'événement 2025 retenue. Vignette en 500px : Wikimedia refuse désormais les vignettes à 400px (HTTP 400), seules des largeurs standard (330, 500…) répondent.",
+    "Cimade, prières de rue, injure 2019 : articles Le Monde, Libération et Mediapart cités via les références Wikipédia, non ouverts (paywall ou blocage anti-robot). À relire avant publication. Pour l'injure 2019 : vérifier l'éventuel appel du parquet ou des parties civiles.",
+    "Photos de l'État islamique : vérifier si la relaxe du 4 mai 2021 a fait l'objet d'un appel (non trouvé).",
+    "Information judiciaire ouverte en juillet 2024 sur le financement des campagnes de 2022 et 2024 (perquisition au siège du RN le 9 juillet 2025) : aucune mise en cause personnelle de Marine Le Pen trouvée. Non publiée.",
+    "Enquête du Parquet européen (2025) visant le RN et le groupe Patriotes : vise le parti, pas la personne. Non publiée.",
+    "Sous-évaluation du patrimoine déclaré en 2014 (saisine du PNF par la HATVP fin 2015) : issue inconnue. Non publiée.",
+    "Diffamation envers Christian Baeckeroot (condamnation civile en appel en 2011, pourvoi rejeté le 11 octobre 2011 selon Wikipédia) : seule source trouvée, national-hebdo.net, non reconnue. Non publiée.",
+    "Faux tract visant Jean-Luc Mélenchon (législatives 2012) : condamnée en première instance en 2014, relaxée en appel à Douai en 2015 selon Le Monde (non ouvert). Non publiée faute de source ouverte."
+  ]
+}

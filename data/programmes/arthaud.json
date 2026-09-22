@@ -1,0 +1,86 @@
+{
+  "id": "arthaud",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Brochure de campagne « Nathalie Arthaud – Présidentielle 2027 »",
+    "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+    "etat": "partiel",
+    "note": "Pas de programme de gouvernement : Lutte ouvrière présente une liste de revendications que « les travailleurs devront imposer », dans une brochure de campagne (juin 2026) et dans ses éditoriaux hebdomadaires."
+  },
+  "reperes": [
+    {
+      "texte": "Porte-parole de Lutte ouvrière depuis 2008 ; professeure agrégée d'économie et de gestion.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidate à la présidentielle en 2012 (0,56 %), 2017 (0,64 %) et 2022 (0,56 %).",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud", "date": "2026-09-22" }
+    },
+    {
+      "texte": "A annoncé sa quatrième candidature à la présidentielle le 8 décembre 2025, lors d'une conférence de presse à Paris.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html", "date": "2025-12-08" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "economie",
+      "texte": "Levée du secret commercial et du secret des affaires pour rendre publics les comptes des grandes entreprises.",
+      "nature": "programme",
+      "source": { "titre": "Brochure de campagne, « Face aux profiteurs de guerre » (PDF)", "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf", "date": "2026-06" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Confiscation des bénéfices des « profiteurs de guerre » et expropriation sans indemnité, en commençant par l'industrie pétrolière et l'armement.",
+      "nature": "programme",
+      "source": { "titre": "Brochure de campagne, « Face aux profiteurs de guerre » (PDF)", "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf", "date": "2026-06" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Expropriation des banques.",
+      "nature": "presse",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html", "date": "2025-12-08" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Salaire d'au moins 2 200 euros net par mois.",
+      "nature": "programme",
+      "source": { "titre": "Brochure de campagne, « Face à la vie chère » (PDF)", "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf", "date": "2026-06" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Hausse des salaires, allocations et pensions, indexés sur la hausse réelle des prix.",
+      "nature": "programme",
+      "source": { "titre": "Brochure de campagne, « Face à la vie chère » (PDF)", "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf", "date": "2026-06" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Répartition du travail entre tous, avec baisse du temps et de la charge de travail sans perte de salaire.",
+      "nature": "programme",
+      "source": { "titre": "Brochure de campagne, « Face au chômage et aux licenciements » (PDF)", "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf", "date": "2026-06" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Interdiction des licenciements.",
+      "nature": "presse",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html", "date": "2025-12-08" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Régularisation de tous les sans-papiers ; liberté de circulation et d'installation pour chaque être humain.",
+      "nature": "programme",
+      "source": { "titre": "Brochure de campagne (PDF)", "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf", "date": "2026-06" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Brochure de campagne présidentielle 2027 (PDF)", "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf", "type": "pdf", "date": "2026-06" },
+    { "titre": "Site de campagne de Nathalie Arthaud", "url": "https://www.nathalie-arthaud.info/", "type": "site", "date": "2026-09" },
+    { "titre": "Éditorial « Carburants, prix, budget : stop au racket ! »", "url": "https://www.lutte-ouvriere.org/portail/editoriaux/carburants-prix-budget-stop-racket-197249.html", "type": "article", "date": "2026-09-21" },
+    { "titre": "Nathalie Arthaud sur BFM : « Il faut qu'on se mobilise »", "url": "https://www.lutte-ouvriere.org/portail/multimedia/nathalie-arthaud-bfm-faut-quon-mobilise-197227.html", "type": "video", "date": "2026-09-18" },
+    { "titre": "Interview de Nathalie Arthaud sur France Info TV", "url": "https://www.lutte-ouvriere.org/portail/multimedia/france-info-tv-interview-nathalie-arthaud-194554.html", "type": "video", "date": "2026-05-22" }
+  ],
+  "a_verifier": [
+    "Opposition au retour du service militaire et à la hausse du budget de l'armée (franceinfo, 08/12/2025) : position plutôt que mesure, non publiée.",
+    "Éditorial du 21/09/2026 : demande que TotalEnergies, Shell et Cie « rendent » leurs profits et que salaires, allocations et pensions rattrapent les prix ; rejette la baisse des taxes sur les carburants. Pas de mesure chiffrée nouvelle.",
+    "Pages vidéo (BFM, France Info) référencées sur le site de LO mais non visionnées."
+  ]
+}

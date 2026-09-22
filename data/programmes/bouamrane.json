@@ -1,0 +1,79 @@
+{
+  "id": "bouamrane",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Manifeste « La France humaine et forte »",
+    "url": "https://www.karimbouamrane2027.org/",
+    "etat": "aucun",
+    "note": "Pas de programme détaillé publié au 22/09/2026 ; le site de campagne présente un manifeste non daté, surtout composé d'orientations, complété par des propositions faites en entretien."
+  },
+  "reperes": [
+    {
+      "texte": "Maire de Saint-Ouen-sur-Seine depuis juillet 2020, réélu en mars 2026.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane", "date": "2026-09-22" }
+    },
+    {
+      "texte": "A quitté le PCF pour le Parti socialiste en 2014 ; l'un des porte-parole du PS à partir de 2016.",
+      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/presidentielle-2027-qui-est-karim-bouamrane-le-maire-socialiste-de-saint-ouen-et-nouveau", "date": "2026-06-09" }
+    },
+    {
+      "texte": "A lancé le mouvement « La France humaine et forte » en octobre 2024 et annoncé sa candidature à la présidentielle le 9 juin 2026.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/karim-bouamrane-maire-ps-de-saint-ouen-annonce-sa-candidature-a-la-presidentielle_8051630.html", "date": "2026-06-09" }
+    },
+    {
+      "texte": "A déclaré le 2 juillet 2026 qu'il ne participerait pas à la primaire du Parti socialiste.",
+      "source": { "titre": "Sud Radio", "url": "https://www.sudradio.fr/linvite-politique/karim-bouamrane-je-nirai-pas-a-la-primaire-du-parti-socialiste", "date": "2026-07-02" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "logement",
+      "texte": "Fonds souverain de 100 milliards d'euros, financé en grande partie par l'impôt sur la fortune immobilière, pour pallier le manque de 500 000 logements par an.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo – L'invité politique", "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mercredi-24-juin-2026_8043938.html", "date": "2026-06-24" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Imposer une surface végétalisée minimale proportionnelle à l'emprise foncière totale, sur le modèle de la loi SRU.",
+      "nature": "declaration",
+      "source": { "titre": "Sud Radio – L'invité politique", "url": "https://www.sudradio.fr/linvite-politique/karim-bouamrane-je-nirai-pas-a-la-primaire-du-parti-socialiste", "date": "2026-07-02" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Renforcement du droit de retrait en cas de canicule, « branche par branche, secteur par secteur », plutôt qu'un congé climatique.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo – L'invité politique", "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mercredi-24-juin-2026_8043938.html", "date": "2026-06-24" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Protection des enfants érigée en grande cause nationale.",
+      "nature": "programme",
+      "source": { "titre": "Manifeste « La France humaine et forte »", "url": "https://www.karimbouamrane2027.org/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Politique migratoire en trois volets : accueillir ceux qui ont le droit de rester, agir sur les causes par le développement, reconduire les personnes en situation irrégulière.",
+      "nature": "programme",
+      "source": { "titre": "Manifeste « La France humaine et forte »", "url": "https://www.karimbouamrane2027.org/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Augmentation de l'effort de défense (sans chiffre précisé).",
+      "nature": "programme",
+      "source": { "titre": "Manifeste « La France humaine et forte »", "url": "https://www.karimbouamrane2027.org/", "date": "2026-09-22" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Site de campagne « Karim Bouamrane 2027 – La France humaine & forte »", "url": "https://www.karimbouamrane2027.org/", "type": "site", "date": "2026-09-22" },
+    { "titre": "Sud Radio – « Je n'irai pas à la primaire du Parti socialiste »", "url": "https://www.sudradio.fr/linvite-politique/karim-bouamrane-je-nirai-pas-a-la-primaire-du-parti-socialiste", "type": "entretien", "date": "2026-07-02" },
+    { "titre": "franceinfo – L'invité politique du 24 juin 2026", "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mercredi-24-juin-2026_8043938.html", "type": "entretien", "date": "2026-06-24" },
+    { "titre": "LCP – Qui est Karim Bouamrane ?", "url": "https://lcp.fr/actualites/presidentielle-2027-qui-est-karim-bouamrane-le-maire-socialiste-de-saint-ouen-et-nouveau", "type": "article", "date": "2026-06-09" }
+  ],
+  "a_verifier": [
+    "Inéligibilité des maires ne respectant pas le quota de 25 % de logements sociaux (septembre 2025) : relevée par un moteur de recherche, aucune page source ouverte.",
+    "Programme de « 42 mesures » évoqué par des agrégateurs (candidatspresidentielles2027, votons-2027) : non retenu, aucune source primaire trouvée.",
+    "Manifeste : « simplifier l'action publique, réduire les doublons administratifs, alléger les normes », « lutte contre les déserts médicaux » — orientations sans mesure précise.",
+    "« Sortir de la dépendance aux énergies fossiles » (Sud Radio, 02/07/2026) : orientation générale.",
+    "Articles JDD (annonce de candidature) et CNews bloqués (403), non consultés."
+  ]
+}

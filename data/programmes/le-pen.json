@@ -1,0 +1,110 @@
+{
+  "id": "le-pen",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Pas de programme complet publié (propositions thématiques en cours de présentation)",
+    "url": "https://marinelepen.com/",
+    "etat": "partiel",
+    "note": "Pas de programme complet publié au 22/09/2026 ; le volet logement a été présenté à Hénin-Beaumont le 13/09/2026 et la candidate a annoncé présenter sa trajectoire économique début octobre."
+  },
+  "reperes": [
+    {
+      "texte": "Députée du Pas-de-Calais depuis 2017 et présidente du groupe RN à l'Assemblée nationale depuis 2022 ; présidente du FN puis du RN de 2011 à 2021.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidate aux présidentielles de 2012, 2017 et 2022 ; en 2022, 23,15 % au premier tour, battue au second tour par Emmanuel Macron.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Le 7 juillet 2026, la cour d'appel de Paris l'a condamnée (affaire des assistants parlementaires européens) à 3 ans de prison dont 1 ferme sous bracelet, 100 000 € d'amende et 45 mois d'inéligibilité dont 30 avec sursis, les 15 mois d'inéligibilité ferme étant déjà purgés depuis le jugement du 31 mars 2025 : elle est éligible.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/ineligibilite-peine-de-prison-pourquoi-la-condamnation-de-marine-le-pen-a-ete-reduite-en-appel_8098121.html", "date": "2026-07-07" }
+    },
+    {
+      "texte": "Elle a formé un pourvoi en cassation ; la Cour de cassation a indiqué qu'elle se prononcerait « au plus tard début avril 2027 ».",
+      "source": { "titre": "France 24", "url": "https://www.france24.com/fr/france/20260708-condamnation-de-marine-le-pen-la-cour-de-cassation-se-prononcera-au-plus-tard-d%C3%A9but-avril-2027", "date": "2026-07-08" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "logement",
+      "texte": "Priorité d'accès au logement social pour les Français, APL réservées aux Français et priorité d'accès au logement étudiant pour les jeunes Français.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo – discours d'Hénin-Beaumont", "url": "https://www.franceinfo.fr/politique/marine-le-pen/video-marine-le-pen-candidate-du-rn-a-la-presidentielle-2027-detaille-une-serie-de-propositions-sur-le-logement-qui-sera-un-des-grands-chantiers-de-son-quinquennat-si-elle-est-elue_8190839.html", "date": "2026-09-13" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Abrogation de la loi SRU, qui impose aux communes un quota minimal de logements sociaux.",
+      "nature": "programme",
+      "source": { "titre": "Lettre ouverte de Marine Le Pen aux professionnels de l'immobilier (rassemblementnational.fr)", "url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier", "date": "2026-09-21" }
+    },
+    {
+      "theme": "logement",
+      "texte": "« 100 % Rénov », prêt à taux zéro pour rénovation, électrification du chauffage ou climatisation, remplaçant MaPrimeRénov'.",
+      "nature": "declaration",
+      "source": { "titre": "France 3 Hauts-de-France", "url": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/lens/marine-le-pen-fait-sa-rentree-politique-a-henin-beaumont-et-met-la-priorite-nationale-au-c-ur-de-son-programme-pour-la-presidentielle-de-2027-3416348.html", "date": "2026-09-13" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Les familles expulsées d'un logement social pour dégradations ne pourraient plus accéder au parc social pendant trois ans.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo – discours d'Hénin-Beaumont", "url": "https://www.franceinfo.fr/politique/marine-le-pen/video-marine-le-pen-candidate-du-rn-a-la-presidentielle-2027-detaille-une-serie-de-propositions-sur-le-logement-qui-sera-un-des-grands-chantiers-de-son-quinquennat-si-elle-est-elue_8190839.html", "date": "2026-09-13" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Le diagnostic de performance énergétique (DPE) deviendrait un simple élément indicatif.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo – discours d'Hénin-Beaumont", "url": "https://www.franceinfo.fr/politique/marine-le-pen/video-marine-le-pen-candidate-du-rn-a-la-presidentielle-2027-detaille-une-serie-de-propositions-sur-le-logement-qui-sera-un-des-grands-chantiers-de-son-quinquennat-si-elle-est-elue_8190839.html", "date": "2026-09-13" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Portabilité obligatoire des prêts immobiliers et exonérations de plus-value immobilière ramenées à quinze ans de détention.",
+      "nature": "programme",
+      "source": { "titre": "Lettre ouverte de Marine Le Pen aux professionnels de l'immobilier (rassemblementnational.fr)", "url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier", "date": "2026-09-21" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Suppression de l'objectif « zéro artificialisation nette » (ZAN).",
+      "nature": "programme",
+      "source": { "titre": "Lettre ouverte de Marine Le Pen aux professionnels de l'immobilier (rassemblementnational.fr)", "url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier", "date": "2026-09-21" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Baisse de la TVA de 20 % à 5,5 % sur l'énergie : carburants, électricité, gaz, bois de chauffage et fioul.",
+      "nature": "declaration",
+      "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/economie/tva-a-55-taxe-flottante-gel-des-prix-ce-quil-est-possible-de-faire-ou-non-pour-baisser-les-prix-des-carburants", "date": "2026-03-26" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Âge légal ramené à 62 ans, voire 60 ans pour qui a commencé avant 20 ans, avec 40 à 42 années de cotisation.",
+      "nature": "presse",
+      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751", "date": "2026-09-16" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Référendum par l'article 11 sur un projet de loi « citoyenneté-identité-immigration » : fin du droit du sol, restriction du droit d'asile, priorité nationale.",
+      "nature": "presse",
+      "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/immigration-comment-une-proposition-de-loi-des-senateurs-ps-tente-de-dejouer-les-plans-de-marine-le-pen", "date": "2025-05-16" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Arrêt du financement des aides non contributives pour les étrangers, présenté comme une source d'économies.",
+      "nature": "declaration",
+      "source": { "titre": "Europe 1", "url": "https://www.europe1.fr/politique/des-choix-a-faire-entre-baisse-de-la-tva-sur-lenergie-et-reduction-des-depenses-marine-le-pen-detaille-son-projet-economique-1083380", "date": "2026-09-17" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Site officiel de campagne", "url": "https://marinelepen.com/", "type": "site", "date": "2026-09-22" },
+    { "titre": "franceinfo – propositions sur le logement (discours d'Hénin-Beaumont)", "url": "https://www.franceinfo.fr/politique/marine-le-pen/video-marine-le-pen-candidate-du-rn-a-la-presidentielle-2027-detaille-une-serie-de-propositions-sur-le-logement-qui-sera-un-des-grands-chantiers-de-son-quinquennat-si-elle-est-elue_8190839.html", "type": "video", "date": "2026-09-13" },
+    { "titre": "Lettre ouverte aux professionnels de l'immobilier", "url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier", "type": "document", "date": "2026-09-21" },
+    { "titre": "Europe 1 – son projet économique après l'entretien sur LCI", "url": "https://www.europe1.fr/politique/des-choix-a-faire-entre-baisse-de-la-tva-sur-lenergie-et-reduction-des-depenses-marine-le-pen-detaille-son-projet-economique-1083380", "type": "article", "date": "2026-09-17" }
+  ],
+  "a_verifier": [
+    "Trajectoire économique complète (économies, dette) annoncée pour début octobre 2026 : à intégrer à sa publication.",
+    "« 125 milliards d'euros d'économies » : lu uniquement dans Epoch Times, source non retenue.",
+    "Réduction de la contribution française au budget de l'UE : évoquée comme critique (Europe 1, 17/09/2026), sans mesure chiffrée.",
+    "Référendum sur l'interdiction du voile dans l'espace public : mentionné par France 3 comme proposition antérieure, sans détail ni date.",
+    "Loi contre le squat « dès l'élection », cession de foncier public contre logements à loyer modéré, vente de HLM, transformation de bureaux vacants : cités dans la presse, à préciser avant publication.",
+    "Article CNews du 11/09/2026 sur les propositions des candidats en matière d'immigration : erreur 403, non consulté."
+  ]
+}

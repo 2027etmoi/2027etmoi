@@ -1,0 +1,42 @@
+{
+  "id": "arthaud",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Nathalie_Arthaud_%28LO%29_19-05-2024_%28cropped%29.jpg/500px-Nathalie_Arthaud_%28LO%29_19-05-2024_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nathalie_Arthaud_(LO)_19-05-2024_(cropped).jpg",
+    "auteur": "Kokluts",
+    "licence": "CC BY-SA 4.0",
+    "annee": "2024",
+    "officielle": false,
+    "legende": "Nathalie Arthaud à la fête de Lutte ouvrière, 19 mai 2024"
+  },
+  "presentation": {
+    "texte": "Nathalie Arthaud est une enseignante et femme politique, membre de l'organisation trotskiste Lutte ouvrière (LO), dont elle est porte-parole depuis 2008. Elle a été candidate à l'élection présidentielle en 2012, 2017 et 2022. Désignée par le congrès de LO, elle est candidate pour la quatrième fois en 2027.",
+    "sources": [
+      { "titre": "Wikipédia – Nathalie Arthaud", "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud", "date": "2026-09-22" },
+      { "titre": "franceinfo – Présidentielle 2027 : Nathalie Arthaud, porte-parole de Lutte ouvrière, annonce sa candidature", "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html", "date": "2025-12-08" }
+    ]
+  },
+  "naissance": {
+    "date": "1970-02-23",
+    "lieu": "Peyrins (Drôme)",
+    "source": { "titre": "Wikipédia – Nathalie Arthaud", "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "2025", "texte": "Candidate de Lutte ouvrière à l'élection présidentielle de 2027, annoncée en décembre 2025.", "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html", "date": "2025-12-08" } },
+    { "periode": "2022", "texte": "Candidate à l'élection présidentielle : 0,56 % des voix au premier tour.", "source": { "titre": "Wikipédia – Nathalie Arthaud", "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud", "date": "2026-09-22" } },
+    { "periode": "2017", "texte": "Candidate à l'élection présidentielle : 0,64 % des voix au premier tour.", "source": { "titre": "Wikipédia – Nathalie Arthaud", "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud", "date": "2026-09-22" } },
+    { "periode": "2012", "texte": "Candidate à l'élection présidentielle : 0,56 % des voix au premier tour.", "source": { "titre": "Wikipédia – Nathalie Arthaud", "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud", "date": "2026-09-22" } },
+    { "periode": "Depuis 2008", "texte": "Porte-parole de Lutte ouvrière, où elle succède à Arlette Laguiller.", "source": { "titre": "Wikipédia – Nathalie Arthaud", "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud", "date": "2026-09-22" } },
+    { "periode": "2008-2014", "texte": "Conseillère municipale de Vaulx-en-Velin (Rhône).", "source": { "titre": "Wikipédia – Nathalie Arthaud", "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "Formation", "texte": "Titulaire du CAPET, puis agrégée d'économie et de gestion.", "source": { "titre": "Wikipédia – Nathalie Arthaud", "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud", "date": "2026-09-22" } },
+    { "periode": "Carrière", "texte": "Professeure d'économie et de gestion, d'abord au lycée Albert-Camus de Rillieux-la-Pape, puis à partir de 2011 au lycée Le Corbusier d'Aubervilliers.", "source": { "titre": "Wikipédia – Nathalie Arthaud", "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud", "date": "2026-09-22" } }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Aucune procédure judiciaire visant Nathalie Arthaud n'a été trouvée (article Wikipédia vérifié). La recherche de presse systématique n'a pas pu être menée jusqu'au bout, faute de quota de recherche web : à confirmer.",
+    "Vignette : les vignettes de 400 px sont refusées par Wikimedia (HTTP 400). La vignette de 500 px a été vérifiée (HTTP 200)."
+  ]
+}

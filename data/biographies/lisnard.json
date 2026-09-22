@@ -1,0 +1,45 @@
+{
+  "id": "lisnard",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/David_Lisnard_-_2013.jpg/500px-David_Lisnard_-_2013.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:David_Lisnard_-_2013.jpg",
+    "auteur": "Frantogian",
+    "licence": "CC BY-SA 3.0",
+    "annee": "2013",
+    "officielle": false,
+    "legende": "David Lisnard lors du centenaire du lycée Carnot, Cannes, 16 octobre 2013"
+  },
+  "presentation": {
+    "texte": "David Lisnard est un homme politique français, maire de Cannes depuis 2014 et président de l'Association des maires de France depuis 2021. Il préside le parti Nouvelle Énergie. Il a annoncé sa candidature à l'élection présidentielle de 2027 en janvier 2026 et a quitté Les Républicains en mars 2026.",
+    "sources": [
+      { "titre": "David Lisnard — Wikipédia", "url": "https://fr.wikipedia.org/wiki/David_Lisnard", "date": "2026-09-22" }
+    ]
+  },
+  "naissance": {
+    "date": "1969-02-02",
+    "lieu": "Limoges (Haute-Vienne)",
+    "source": { "titre": "David Lisnard — Wikipédia", "url": "https://fr.wikipedia.org/wiki/David_Lisnard", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "2026", "texte": "Quitte Les Républicains le 31 mars 2026, après avoir annoncé sa candidature à l'élection présidentielle de 2027 le 21 janvier 2026.", "source": { "titre": "David Lisnard — Wikipédia", "url": "https://fr.wikipedia.org/wiki/David_Lisnard", "date": "2026-09-22" } },
+    { "periode": "2021-", "texte": "Président de l'Association des maires de France (élu le 17 novembre 2021 avec 62,3 % des voix).", "source": { "titre": "David Lisnard — Wikipédia", "url": "https://fr.wikipedia.org/wiki/David_Lisnard", "date": "2026-09-22" } },
+    { "periode": "2021", "texte": "Lance le déploiement national de son mouvement Nouvelle Énergie (9 juin 2021), dont il est président.", "source": { "titre": "Nouvelle Énergie — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Nouvelle_%C3%89nergie", "date": "2026-09-22" } },
+    { "periode": "2017-", "texte": "Président de la communauté d'agglomération Cannes Pays de Lérins.", "source": { "titre": "David Lisnard — Wikipédia", "url": "https://fr.wikipedia.org/wiki/David_Lisnard", "date": "2026-09-22" } },
+    { "periode": "2014-", "texte": "Maire de Cannes, élu en 2014 (58,97 % au second tour), réélu en 2020 (88,08 % au premier tour) et en 2026 (81,11 % au premier tour).", "source": { "titre": "David Lisnard — Wikipédia", "url": "https://fr.wikipedia.org/wiki/David_Lisnard", "date": "2026-09-22" } },
+    { "periode": "2008-2015", "texte": "Élu conseiller général des Alpes-Maritimes en 2008 (canton de Cannes-Est), puis conseiller départemental en 2015 (canton de Cannes-2).", "source": { "titre": "David Lisnard — Wikipédia", "url": "https://fr.wikipedia.org/wiki/David_Lisnard", "date": "2026-09-22" } },
+    { "periode": "2001", "texte": "Adjoint au maire de Cannes, président du Palais des festivals et des congrès et de sa société d'exploitation (SEMEC).", "source": { "titre": "David Lisnard — Wikipédia", "url": "https://fr.wikipedia.org/wiki/David_Lisnard", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "1992", "texte": "Diplômé de l'Institut d'études politiques de Bordeaux.", "source": { "titre": "David Lisnard — Wikipédia", "url": "https://fr.wikipedia.org/wiki/David_Lisnard", "date": "2026-09-22" } },
+    { "periode": "1996-1999", "texte": "Directeur de cabinet et attaché parlementaire du député Jacques Pélissard.", "source": { "titre": "David Lisnard — Wikipédia", "url": "https://fr.wikipedia.org/wiki/David_Lisnard", "date": "2026-09-22" } },
+    { "periode": "2008", "texte": "Président de Service Public 2000, société de conseil aux collectivités locales ; a également exploité des magasins de prêt-à-porter, cédés en 2016.", "source": { "titre": "David Lisnard — Wikipédia", "url": "https://fr.wikipedia.org/wiki/David_Lisnard", "date": "2026-09-22" } }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Photo : ancienne (2013) mais c'est l'image d'infobox Wikipédia. Photos libres plus récentes sur Commons (File:D_Lisnard_11_nov_2024_Cannes.jpg, CC0 ; File:David_Lisnard_Discours_14_Juillet_2024.jpg, CC BY 4.0) mais ce sont des photos de foule/tribune peu adaptées à un portrait. Vignette 500px (400px refusée par Wikimedia), vérifiée HTTP 200.",
+    "Date de création de Nouvelle Énergie : sources divergentes (2013, 2014 ou 2021 selon les sources) ; seule la date du déploiement national (9 juin 2021) est retenue.",
+    "Mandat départemental : vérifier s'il est toujours en cours en 2026 (période laissée ouverte). Vice-président du conseil général chargé du tourisme depuis 2014 selon Wikipédia.",
+    "Affaires : aucune procédure judiciaire le visant personnellement trouvée (recherches : enquête, mise en examen, condamnation, parquet, diffamation, Palais des festivals)."
+  ]
+}

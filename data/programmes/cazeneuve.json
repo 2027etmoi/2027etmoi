@@ -1,0 +1,586 @@
+{
+  "id": "cazeneuve",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Lettre aux Françaises et aux Français « Tenir la promesse de la France » (juillet 2026)",
+    "url": "https://www.la-convention.fr/lettre",
+    "etat": "partiel",
+    "note": "Lettre de 86 pages publiée en juillet 2026, accompagnée d'une synthèse de 30 propositions. Le Monde (16/07/2026) rapporte qu'il s'est déclaré candidat dans Le Parisien ; LCP et Public Sénat le classent parmi les prétendants."
+  },
+  "reperes": [
+    {
+      "texte": "Premier ministre du 6 décembre 2016 au 15 mai 2017, après avoir été ministre de l'Intérieur d'avril 2014 à décembre 2016.",
+      "source": {
+        "titre": "Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "texte": "Maire de Cherbourg-Octeville de 2001 à 2012 et député de la Manche à plusieurs reprises entre 1997 et 2012.",
+      "source": {
+        "titre": "Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "texte": "A quitté le Parti socialiste en 2022 et lancé le mouvement La Convention le 1er février 2023.",
+      "source": {
+        "titre": "Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "texte": "A publié en juillet 2026 une « Lettre aux Français » de 86 pages, sans annonce formelle de candidature.",
+      "source": {
+        "titre": "Public Sénat",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-la-candidature-de-bernard-cazeneuve-traduit-la-difficulte-de-notre-personnel-politique-a-se-renouveler-selon-bruno-cautres",
+        "date": "2026-07-17"
+      }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "economie",
+      "texte": "Baisse des impôts de production, financée par une réduction des aides fiscales, au bénéfice des ETI, PME et TPE.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 18",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "economie",
+      "texte": "Fiscalité atteignant les très grandes fortunes, les plus hauts revenus du capital et les rentes ; rééquilibrage de la taxation entre travail et capital.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 18",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "economie",
+      "texte": "Plan de réindustrialisation sur dix ans : filières stratégiques sécurisées par l'État, incitations fiscales ciblées sur la recherche et l'investissement productif.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 19",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "economie",
+      "texte": "Transformation de l'INESIA en autorité dotée d'un pouvoir contraignant, évaluant les systèmes d'IA les plus puissants avant et après leur déploiement.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 29",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "economie",
+      "texte": "Données des Français stockées en Europe, sous la loi française.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 29",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "travail",
+      "texte": "Protection des transitions professionnelles « à la manière scandinave » et formation tout au long de la vie.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 24",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "travail",
+      "texte": "Apprentissage généralisé dès le premier cycle universitaire.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 24",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "travail",
+      "texte": "Encadrement du recours abusif aux stages et CDI redevenu la norme pour les jeunes.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 24",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "travail",
+      "texte": "Résorption des écarts de salaire entre femmes et hommes et correction des retraites pénalisées par les carrières interrompues.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 3",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Allongement de la durée de cotisation plutôt que recul de l'âge légal, en reprenant de façon négociée la trajectoire engagée en 2014.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 10",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Critères de pénibilité rétablis (postures contraignantes, port de charges, vibrations, risques chimiques), ouvrant droit au départ anticipé.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 10",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Emploi des seniors : aménagement des postes, retraites progressives, sanctions contre les discriminations à l'embauche.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 10",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "retraites",
+      "texte": "« Règle d'or sociale » : toute exonération de cotisations compensée à l'euro près à la Sécurité sociale, indexée sur les salaires, rétroactivement depuis 2019.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 11",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Équilibre des comptes sociaux apprécié sur un cycle de cinq ans, avec retour à l'équilibre sous dix ans au plus en cas de crise majeure.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 11",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Simplification, unification et automatisation des aides sociales fondamentales.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 9",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "sante",
+      "texte": "Santé mentale érigée en grande cause nationale, avec formation des personnels de santé et de l'éducation.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 4",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "sante",
+      "texte": "Prise en charge du grand âge, de la dépendance et du soutien aux aidants familiaux, avec soutenabilité financière garantie aux familles les plus modestes.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 5",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "education",
+      "texte": "Au moins 2 000 € d'aide supplémentaire pour chaque étudiant boursier au cours de ses deux premières années.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 23",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "education",
+      "texte": "« Avance jeunesse » de 3 000 € pour les 18-24 ans sans diplôme ni emploi, sous conditions de ressources, complétable par les collectivités.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 23",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "education",
+      "texte": "Éthique des données et esprit critique enseignés dès le collège, philosophie dès la classe de Seconde.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 22",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "education",
+      "texte": "Service public de l'intelligence artificielle éducative et formation massive des enseignants au numérique.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 22",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "education",
+      "texte": "Plan École-Climat-Solidarité : engagement sur dix ans pour rénover les établissements scolaires, avec cours désimperméabilisées et plantées en îlots de fraîcheur.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 21",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Filière électronucléaire assumée, renouvellement du parc planifié, rationalisation des renouvelables et électrification des usages.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 19",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Création d'une « DATAR du climat » rattachée au Premier ministre, chargée de cartographier les vulnérabilités de chaque région.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 21",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Commande publique « réellement durable ».",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 21",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Politique migratoire pensée à l'échelle du continent européen.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 27",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Intégration fondée sur l'apprentissage du français, le respect des lois communes et de l'égalité entre les femmes et les hommes.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 28",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Lutte contre l'immigration irrégulière et démantèlement des filières criminelles, avec maintien du droit d'asile.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 28",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "securite",
+      "texte": "Cadre national unifié pour la petite enfance : compétences vérifiées pour tout personnel au contact d'enfants, inspections régulières selon des critères publics.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 1",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "securite",
+      "texte": "Dispositif national de signalement pour l'enfance, avec réponse obligatoire sous délai fixe et traçabilité des suites.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 1",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "securite",
+      "texte": "Rappel de magistrats retraités volontaires pour reprendre les dossiers en souffrance de violences faites aux enfants.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 2",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "securite",
+      "texte": "Police de proximité dotée d'effectifs dédiés et formés.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 6",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "securite",
+      "texte": "Contre le trafic de drogues : unités spécialisées, Parquet européen aux compétences élargies, gel des avoirs et traque des financements.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 6",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "securite",
+      "texte": "Sortie du « tout-comparution immédiate » et de la prison par défaut.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 13",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "international",
+      "texte": "Réarmement à proportion de la menace et préférence aux productions nationales et européennes dans l'industrie de défense.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 25",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "international",
+      "texte": "Réflexion sur l'apport de la dissuasion française à la sécurité européenne, y compris avec le Royaume-Uni, et protection antimissile coordonnée du continent.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 25",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "international",
+      "texte": "Réserve citoyenne élargie, ouverte à davantage de Français.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 25",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "international",
+      "texte": "Réforme du Conseil de sécurité des Nations unies.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 26",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "international",
+      "texte": "Fin de la règle de l'unanimité dans l'Union européenne au profit des décisions à la majorité.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 27",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Rétablissement du septennat présidentiel.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 12",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Premier ministre engageant sa responsabilité devant le Parlement dès son entrée en fonction ; discipline sur le 49.3, les ordonnances et les procédures accélérées.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 12",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Introduction d'une dose de proportionnelle aux élections législatives.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 12",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Limites fixées par la loi à la concentration capitalistique des médias.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 14",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Revue systématique des normes avec obligation de compensation : deux normes supprimées pour une norme créée.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 17",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Droit de recours à un agent humain : aucun refus d'aide, de place ou de titre sans examen et explication par un agent, dans un délai opposable.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 29",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "logement",
+      "texte": "Grand plan de constructions et de rénovations, social et écologique, soutenu par des mécanismes d'accession à la propriété.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 8",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "logement",
+      "texte": "Rénovation massive des logements, présentée comme un geste à la fois social et climatique.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 21",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Agriculture : prix dignes pour les producteurs, préservation du foncier nourricier et accès garanti à ceux qui veulent en vivre.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 20",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Développement des transports collectifs dans les territoires qui en manquent.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 21",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Refondation de la décentralisation : clarifier la répartition des compétences entre l'État et les collectivités.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 16",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Territoires productifs : écoles de métiers, centres de recherche appliquée, zones d'activité décarbonées, financements associant les collectivités.",
+      "nature": "programme",
+      "source": {
+        "titre": "Synthèse de la Lettre aux Français, proposition 19",
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "date": "2026-07-15"
+      }
+    }
+  ],
+  "ressources": [
+    {
+      "titre": "La Convention – page de la Lettre aux Français",
+      "url": "https://www.la-convention.fr/lettre",
+      "type": "page",
+      "date": "2026-07-15"
+    },
+    {
+      "titre": "Lettre aux Français, version intégrale (PDF, 86 pages)",
+      "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+      "type": "document",
+      "date": "2026-07-15"
+    },
+    {
+      "titre": "Synthèse de la lettre et des 30 propositions (PDF, 8 pages)",
+      "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+      "type": "document",
+      "date": "2026-07-15"
+    },
+    {
+      "titre": "Public Sénat – analyse de la candidature de Bernard Cazeneuve",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-la-candidature-de-bernard-cazeneuve-traduit-la-difficulte-de-notre-personnel-politique-a-se-renouveler-selon-bruno-cautres",
+      "type": "article",
+      "date": "2026-07-17"
+    }
+  ],
+  "a_verifier": [
+    "Un résumé automatique de la page la-convention.fr/lettre mentionnait un « rétablissement de l'impôt sur la fortune » et une « suppression de la flat tax » : ces propositions ne figurent ni dans la synthèse ni dans la lettre intégrale (qui évoque seulement leur suppression/instauration passées dans le diagnostic). Non retenues.",
+    "Date exacte de publication : la synthèse PDF est datée du 15/07/2026 ; Public Sénat situe la publication la veille du 17/07/2026."
+  ]
+}

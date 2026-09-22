@@ -1,0 +1,277 @@
+{
+  "id": "philippe",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Les priorités — Avec Édouard 2027",
+    "url": "https://www.edouardphilippe.fr/",
+    "etat": "partiel",
+    "note": "Au 22/09/2026, le site de campagne présente quatre priorités (France « plus sûre », « plus attentive à ses enfants », « plus prospère », « plus conquérante ») avec des mesures ; les paramètres de la réforme des retraites n'ont pas été dévoilés."
+  },
+  "reperes": [
+    {
+      "texte": "Premier ministre du 15 mai 2017 au 3 juillet 2020.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Maire du Havre de 2010 à 2017, puis de nouveau depuis juillet 2020.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Fondateur du parti Horizons le 9 octobre 2021 ; candidat déclaré à la présidentielle depuis septembre 2024 (entretien au Point).",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Lancement du comité de campagne le 8 septembre 2026 ; quitte la présidence exécutive d'Horizons au 1er octobre 2026, Christophe Béchu lui succédant.",
+      "source": { "titre": "edouardphilippe.fr — Le comité de campagne est lancé !", "url": "https://www.edouardphilippe.fr/actualites/le-comite-de-campagne-est-lance", "date": "2026-09-08" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "economie",
+      "texte": "50 milliards d'euros de baisses d'impôts de production compensées par 50 milliards d'aides publiques jugées improductives en moins.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "date": "2026-09-22" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Moratoire normatif et fiscal : aucune nouvelle norme ni nouvel impôt pendant le quinquennat.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "date": "2026-09-22" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Ramener le déficit public de plus de 5 % à 2 % du PIB en fin de quinquennat.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "date": "2026-09-22" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Inscrire dans la Constitution une règle d'or de maîtrise des déficits.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "date": "2026-09-22" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Créer un « livret capital France » pour mobiliser l'épargne dormante.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "date": "2026-09-22" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Créer un temps partiel parental : travailler à 80 % payé 100 % pendant 2 mois après les congés parentaux.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "date": "2026-09-22" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Instaurer un droit à la reconversion face à l'intelligence artificielle.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "date": "2026-09-22" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Créer un pilier de capitalisation représentant 10 à 15 % des pensions d'ici quinze ans.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "date": "2026-09-22" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Accorder une part fiscale dès le deuxième enfant, et non plus seulement à partir du troisième.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "date": "2026-09-22" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Fusionner les dispositifs existants en une aide financière unique et universelle pour les familles.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Donner aux chefs d'établissement la liberté d'adapter méthodes et horaires, d'imposer l'uniforme, de fixer la discipline et de choisir les enseignants.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Rythmes scolaires : journées moins longues, plus de sport et de culture, vacances d'été raccourcies.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Service public universel du soutien scolaire combinant un assistant IA et des brigades d'anciens professeurs et d'étudiants volontaires.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Revaloriser le métier de professeur (salaires, recrutement, formation) et concentrer le primaire sur « lire, écrire, compter ».",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Porter le nombre d'ingénieurs formés de 40 000 à 100 000 par an en cinq ans.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Courtes peines dès la première infraction, sur le modèle des pays du Nord, et peines planchers pour les infractions les plus graves.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Supprimer le juge d'application des peines.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Donner aux maires un pouvoir de sanction pénale pour réprimer les petites infractions.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Créer un « état d'urgence narco », avec des moyens juridiques d'exception limités dans le temps et l'espace.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Lever l'excuse de minorité pour les faits liés au narcotrafic et créer la comparution immédiate des mineurs.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Rendre imprescriptibles les crimes commis sur mineur.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Dénoncer l'accord franco-algérien de 1968.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Mettre en place des quotas migratoires pour choisir l'immigration économique et restreindre l'immigration familiale.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Faire voter chaque année par le Parlement une liste de pays sûrs pour accélérer les procédures d'asile.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Grand meeting à l'Adidas Arena", "url": "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena", "date": "2026-07-05" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Expulser les étrangers délinquants et leur retirer le droit aux aides sociales.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Grand meeting à l'Adidas Arena", "url": "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena", "date": "2026-07-05" }
+    },
+    {
+      "theme": "international",
+      "texte": "Porter le nombre de réservistes de 45 000 à 250 000.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Porter le service militaire volontaire de 3 000 à 50 000 places par an.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Grand plan munitions pour dépasser l'objectif actuel de 100 000 obus par an.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Créer une union européenne des marchés de capitaux.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Porter un « Buy European Tech Act » et doubler en cinq ans la capacité de calcul d'une infrastructure d'IA européenne souveraine.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "date": "2026-09-22" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Relancer le nucléaire pour assurer la souveraineté énergétique.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "date": "2026-09-22" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Instaurer un prix du carbone aux frontières européennes.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "date": "2026-09-22" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Doubler le montant du Fonds vert en le recentrant sur l'adaptation au changement climatique.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "date": "2026-09-22" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Lancer un plan baignade national pour rendre les rivières baignables et rénover les piscines.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "date": "2026-09-22" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Mettre en œuvre un grand plan de fret ferroviaire pour retirer des camions des routes.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Grand meeting à l'Adidas Arena", "url": "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena", "date": "2026-07-05" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Prêt à taux zéro pour chaque naissance afin de faciliter le déménagement des familles qui s'agrandissent.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "date": "2026-09-22" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Appliquer le principe « zéro surtransposition » des normes européennes en agriculture.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "date": "2026-09-22" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Créer 100 territoires de souveraineté alimentaire.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "date": "2026-09-22" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Créer une « DATAR 2.0 », opérateur unique de l'adaptation climatique des territoires.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "date": "2026-09-22" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Site de campagne « Avec Édouard 2027 »", "url": "https://www.edouardphilippe.fr/", "type": "site", "date": "2026-09-22" },
+    { "titre": "Discours du meeting de l'Adidas Arena", "url": "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena", "type": "article", "date": "2026-07-05" },
+    { "titre": "Site du parti Horizons", "url": "https://horizonsleparti.fr/", "type": "site", "date": "2026-09-22" },
+    { "titre": "LCP — Que proposent les candidats sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751", "type": "article", "date": "2026-09-16" }
+  ],
+  "a_verifier": [
+    "Retraites : selon LCP (16/09/2026), il est hostile à l'abandon de l'âge légal et reste associé à « la retraite à 67 ans » (entretien Challenges 2021), mais n'a pas dévoilé les paramètres de sa réforme — pas de mesure publiable.",
+    "Défense : la page « France plus sûre » mentionne, selon un premier résumé, 700 000 munitions par an et le doublement des navires aux Antilles — chiffres non confirmés mot pour mot.",
+    "Justice : renforcer l'autorité du garde des Sceaux sur le parquet (instructions individuelles), « fiche S financière », établissements de réinsertion et de soin — figurent sur le site, non retenus faute de place ; à intégrer si besoin.",
+    "La page https://www.edouardphilippe.fr/programme renvoie une erreur 404 au 22/09/2026.",
+    "Les pages « priorités » ne sont pas datées : date de consultation (2026-09-22) utilisée."
+  ]
+}

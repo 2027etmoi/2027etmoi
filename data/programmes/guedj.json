@@ -1,0 +1,98 @@
+{
+  "id": "guedj",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "« La République, c'est nous ! » (7 priorités du site de campagne et livre éponyme)",
+    "url": "https://www.jeromeguedj2027.fr/",
+    "etat": "partiel",
+    "note": "Sept priorités publiées sur le site de campagne (page non datée, consultée le 22/09/2026) et livre paru le 27/08/2026 (non consulté) ; pas de programme chiffré complet à cette date."
+  },
+  "reperes": [
+    {
+      "texte": "Né le 23 janvier 1972 à Pantin ; entre à l'Inspection générale des affaires sociales (IGAS) en 1996 après l'ENA.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Président du conseil général de l'Essonne de 2011 à 2015.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Député de la 6e circonscription de l'Essonne depuis 2022.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidature à la présidentielle annoncée le 5 février 2026 sur France Inter ; rejoint la primaire socialiste en août 2026.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "travail",
+      "texte": "Semaine de quatre jours, sans réduction du temps de travail.",
+      "nature": "declaration",
+      "source": { "titre": "Capital (via Yahoo Actualités), d'après BFMTV", "url": "https://fr.finance.yahoo.com/actualites/veux-sortir-l%C3%A2ge-l%C3%A9gal-j%C3%A9r%C3%B4me-144747223.html", "date": "2026-09-12" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Départ en retraite fondé davantage sur le nombre d'annuités cotisées et la prise en compte de la pénibilité, plutôt que sur l'âge légal.",
+      "nature": "declaration",
+      "source": { "titre": "Capital (via Yahoo Actualités), d'après BFMTV", "url": "https://fr.finance.yahoo.com/actualites/veux-sortir-l%C3%A2ge-l%C3%A9gal-j%C3%A9r%C3%B4me-144747223.html", "date": "2026-09-12" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Abaissement de l'âge de départ sans décote, actuellement fixé à 67 ans.",
+      "nature": "declaration",
+      "source": { "titre": "Capital (via Yahoo Actualités), d'après BFMTV", "url": "https://fr.finance.yahoo.com/actualites/veux-sortir-l%C3%A2ge-l%C3%A9gal-j%C3%A9r%C3%B4me-144747223.html", "date": "2026-09-12" }
+    },
+    {
+      "theme": "education",
+      "texte": "Réduction du nombre d'élèves par classe dans les territoires en difficulté.",
+      "nature": "programme",
+      "source": { "titre": "Site de campagne, priorité « L'école de l'émancipation »", "url": "https://www.jeromeguedj2027.fr/", "date": "2026-09" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Immigration planifiée par le Parlement.",
+      "nature": "programme",
+      "source": { "titre": "Site de campagne, priorité « Planifier l'immigration »", "url": "https://www.jeromeguedj2027.fr/", "date": "2026-09" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Création d'une carte de séjour permanente.",
+      "nature": "programme",
+      "source": { "titre": "Site de campagne, priorité « Planifier l'immigration »", "url": "https://www.jeromeguedj2027.fr/", "date": "2026-09" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Intégration conditionnée à l'apprentissage de la langue.",
+      "nature": "programme",
+      "source": { "titre": "Site de campagne, priorité « Planifier l'immigration »", "url": "https://www.jeromeguedj2027.fr/", "date": "2026-09" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Généralisation du CV anonyme et recours aux testings judiciarisés contre les discriminations.",
+      "nature": "programme",
+      "source": { "titre": "Site de campagne, priorité « Planifier l'immigration »", "url": "https://www.jeromeguedj2027.fr/", "date": "2026-09" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Création d'un Défenseur de la laïcité, autorité indépendante.",
+      "nature": "programme",
+      "source": { "titre": "Site de campagne, priorité « Défendre la laïcité »", "url": "https://www.jeromeguedj2027.fr/", "date": "2026-09" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Site de campagne (7 priorités)", "url": "https://www.jeromeguedj2027.fr/", "type": "site", "date": "2026-09-22" },
+    { "titre": "Lettre du candidat", "url": "https://www.jeromeguedj2027.fr/lettre", "type": "programme", "date": "2026-09" },
+    { "titre": "Capital : « Je veux sortir de l'âge légal » (retraites)", "url": "https://fr.finance.yahoo.com/actualites/veux-sortir-l%C3%A2ge-l%C3%A9gal-j%C3%A9r%C3%B4me-144747223.html", "type": "article", "date": "2026-09-12" },
+    { "titre": "franceinfo : Jérôme Guedj appelle à une « dream team » de la gauche républicaine", "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jerome-guedj-appelle-a-la-constitution-d-une-dream-team-de-la-gauche-republicaine-universaliste-laique_8164709.html", "type": "article", "date": "2026-08-27" },
+    { "titre": "Fiche du candidat sur le site de la primaire Choisir 2027", "url": "https://choisir2027.fr/candidat/jerome-guedj/", "type": "article", "date": "2026-09-22" },
+    { "titre": "France 24 : ce qu'il faut savoir sur la primaire (dates, débats)", "url": "https://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal", "type": "article", "date": "2026-09-16" }
+  ],
+  "a_verifier": [
+    "« Gel » de la réforme des retraites plutôt qu'abrogation : lu seulement dans des résumés de recherche, non vérifié dans une source ouverte.",
+    "Priorités du site sans formulation précise (non retenues comme mesures) : moyens de l'hôpital public, médecins dans les territoires, hausse des bas salaires, réindustrialisation, rénovation des logements, transports du quotidien, meilleure rémunération des enseignants.",
+    "Lettre du candidat : imposition progressive des grandes fortunes, moyens de la police et de la justice, lutte contre le dumping fiscal et social — orientations sans détail.",
+    "Articles non ouverts (accès bloqué) : Le Monde (05/02/2026), La Tribune Dimanche (23/08/2026), France Inter (05/02/2026) ; propositions du livre évoquées par Le Point (éducation, retraites, immigration) non consultées."
+  ]
+}

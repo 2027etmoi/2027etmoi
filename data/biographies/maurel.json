@@ -1,0 +1,48 @@
+{
+  "id": "maurel",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Emmanuel_Maurel_en_2016.jpg/500px-Emmanuel_Maurel_en_2016.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Emmanuel_Maurel_en_2016.jpg",
+    "auteur": "Echwander",
+    "licence": "CC BY-SA 4.0",
+    "annee": "2016",
+    "officielle": false,
+    "legende": "Emmanuel Maurel, alors député européen, en 2016"
+  },
+  "presentation": {
+    "texte": "Emmanuel Maurel est un homme politique français, membre fondateur de la Gauche républicaine et socialiste (GRS) après avoir quitté le Parti socialiste en 2018. Député européen de 2014 à 2024, il est député de la 3e circonscription du Val-d'Oise depuis 2024. Il est candidat à la primaire du PS, de Place publique et de la GRS en vue de l'élection présidentielle de 2027.",
+    "sources": [
+      { "titre": "Wikipédia – Emmanuel Maurel", "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel", "date": "2026-09-22" },
+      { "titre": "Assemblée nationale – M. Emmanuel Maurel", "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA842271/fonctions", "date": "2026-09-22" },
+      { "titre": "franceinfo – L'invité politique du vendredi 4 septembre 2026", "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-04-septembre-2026_8167499.html", "date": "2026-09-04" }
+    ]
+  },
+  "naissance": {
+    "date": "1973-05-10",
+    "lieu": "Épinay-sur-Seine (Seine-Saint-Denis)",
+    "source": { "titre": "Wikipédia – Emmanuel Maurel", "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "2026", "texte": "Candidat validé à la primaire du PS, de Place publique et de la GRS pour l'élection présidentielle de 2027.", "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-04-septembre-2026_8167499.html", "date": "2026-09-04" } },
+    { "periode": "Depuis 2024", "texte": "Député de la 3e circonscription du Val-d'Oise, élu sous l'étiquette du Nouveau Front populaire (62,54 % au second tour) ; membre du groupe GDR.", "source": { "titre": "Wikipédia – Emmanuel Maurel", "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel", "date": "2026-09-22" } },
+    { "periode": "Depuis 2019", "texte": "Animateur national de la Gauche républicaine et socialiste (réélu le 7 juin 2026).", "source": { "titre": "Wikipédia – Emmanuel Maurel", "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel", "date": "2026-09-22" } },
+    { "periode": "2014-2024", "texte": "Député européen : élu en 2014 sur la liste PS de la circonscription Ouest, réélu en 2019 sur la liste de La France insoumise ; groupes S&D (2014-2018) puis GUE/NGL (2018-2024).", "source": { "titre": "Wikipédia – Emmanuel Maurel", "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel", "date": "2026-09-22" } },
+    { "periode": "2018", "texte": "Quitte le Parti socialiste avec Marie-Noëlle Lienemann et fonde le parti APRÉS, devenu la Gauche républicaine et socialiste.", "source": { "titre": "Wikipédia – Emmanuel Maurel", "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel", "date": "2026-09-22" } },
+    { "periode": "2012", "texte": "Premier signataire de la motion « Maintenant la gauche » au congrès de Toulouse du PS (13,27 %), puis candidat au poste de Premier secrétaire face à Harlem Désir (28 %).", "source": { "titre": "Wikipédia – Emmanuel Maurel", "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel", "date": "2026-09-22" } },
+    { "periode": "2008-2012", "texte": "Secrétaire national du Parti socialiste, chargé des universités permanentes et des universités d'été.", "source": { "titre": "Wikipédia – Emmanuel Maurel", "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel", "date": "2026-09-22" } },
+    { "periode": "2004-2015", "texte": "Conseiller régional d'Île-de-France ; vice-président du conseil régional de 2009 à 2014 (affaires internationales, puis formation professionnelle, apprentissage et emploi).", "source": { "titre": "Wikipédia – Emmanuel Maurel", "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel", "date": "2026-09-22" } },
+    { "periode": "2001-2014", "texte": "Conseiller municipal de Persan (Val-d'Oise).", "source": { "titre": "Wikipédia – Emmanuel Maurel", "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "Non précisée", "texte": "Chargé d'enseignement vacataire à l'Institut d'études politiques de Paris.", "source": { "titre": "Wikipédia – Emmanuel Maurel", "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel", "date": "2026-09-22" } },
+    { "periode": "Formation", "texte": "Diplômé de l'Institut d'études politiques de Paris (1996, section Service public) ; diplômé en lettres modernes et en histoire de l'université Paris-Sorbonne.", "source": { "titre": "Wikipédia – Emmanuel Maurel", "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel", "date": "2026-09-22" } }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Enquête préliminaire pour abus de confiance ouverte le 22 mars 2017 par le parquet de Paris, après un signalement de l'eurodéputée FN Sophie Montel, visant une vingtaine d'eurodéputés français au sujet de leurs assistants parlementaires ; Emmanuel Maurel figurait parmi les élus cités (franceinfo, 30 mai 2017 : https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/assistants-parlementaires-qui-sont-les-19-deputes-europeens-concernes-par-l-enquete_2213962.html). Il déclarait alors que tous ses assistants travaillaient exclusivement pour lui. Aucune information trouvée sur l'issue (classement, suite) : non publiée tant que l'état actuel n'est pas établi.",
+    "Aucune autre procédure judiciaire visant personnellement Emmanuel Maurel trouvée.",
+    "Pas de portrait officiel libre : le portrait du Parlement européen présent sur Commons (Member_of_the_European_Parliament_Emmanuel_Maurel.jpg) relève du modèle « European Parliament », non libre (proposé à la suppression en septembre 2026). Photo de 2016 utilisée.",
+    "Vignette : largeur 400px refusée par Wikimedia (HTTP 400) ; vignette 500px utilisée (HTTP 200 vérifié le 2026-09-22)."
+  ]
+}

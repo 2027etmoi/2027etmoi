@@ -1,0 +1,47 @@
+{
+  "id": "glucksmann",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg/500px-2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg",
+    "auteur": "Mathieu Delmestre (Parti socialiste)",
+    "licence": "Domaine public (Public Domain Mark, Flickr)",
+    "annee": "2024",
+    "officielle": false,
+    "legende": "Raphaël Glucksmann au congrès du Parti socialiste européen, 3 mars 2024"
+  },
+  "presentation": {
+    "texte": "Raphaël Glucksmann est un homme politique français, ancien documentariste et essayiste. Cofondateur en 2018 du parti Place publique, qu'il copréside depuis 2022, il est député européen depuis 2019 (groupe S&D). Il est candidat à la primaire du PS, de Place publique et de la GRS en vue de l'élection présidentielle de 2027.",
+    "sources": [
+      { "titre": "Wikipédia – Raphaël Glucksmann", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" },
+      { "titre": "Parlement européen – Raphaël Glucksmann", "url": "https://www.europarl.europa.eu/meps/fr/197694/RAPHAEL_GLUCKSMANN/home", "date": "2026-09-22" },
+      { "titre": "franceinfo – Raphaël Glucksmann officialise sa candidature", "url": "https://www.franceinfo.fr/elections/presidentielle/le-cofondateur-de-place-publique-raphael-glucksmann-officialise-sa-candidature-a-l-election-presidentielle-pour-relever-la-france_8158841.html", "date": "2026-08-23" }
+    ]
+  },
+  "naissance": {
+    "date": "1979-10-15",
+    "lieu": "Boulogne-Billancourt (Hauts-de-Seine)",
+    "source": { "titre": "Wikipédia – Raphaël Glucksmann", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "2026", "texte": "Déclare le 23 août 2026 sa candidature à l'élection présidentielle de 2027, via la primaire du PS, de Place publique et de la GRS.", "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/le-cofondateur-de-place-publique-raphael-glucksmann-officialise-sa-candidature-a-l-election-presidentielle-pour-relever-la-france_8158841.html", "date": "2026-08-23" } },
+    { "periode": "2024", "texte": "Tête de la liste Place publique – Parti socialiste aux élections européennes : 13,83 % des voix (3e position), 13 sièges.", "source": { "titre": "Wikipédia – Raphaël Glucksmann", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" } },
+    { "periode": "Depuis 2022", "texte": "Coprésident de Place publique (avec Aurore Lalucq).", "source": { "titre": "Wikipédia – Raphaël Glucksmann", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" } },
+    { "periode": "Depuis 2019", "texte": "Député européen (groupe S&D), réélu en 2024.", "source": { "titre": "Parlement européen", "url": "https://www.europarl.europa.eu/meps/fr/197694/RAPHAEL_GLUCKSMANN/home", "date": "2026-09-22" } },
+    { "periode": "2019", "texte": "Tête de la liste Place publique – PS – Nouvelle Donne – PRG aux élections européennes : 6,19 % des voix, 6 sièges.", "source": { "titre": "Wikipédia – Raphaël Glucksmann", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" } },
+    { "periode": "2018", "texte": "Cofondateur du mouvement Place publique.", "source": { "titre": "Wikipédia – Raphaël Glucksmann", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" } },
+    { "periode": "2009-2012", "texte": "Conseiller spécial du président géorgien Mikheil Saakachvili.", "source": { "titre": "Wikipédia – Raphaël Glucksmann", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" } },
+    { "periode": "2006-2007", "texte": "Membre du parti Alternative libérale.", "source": { "titre": "Wikipédia – Raphaël Glucksmann", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "2017-2018", "texte": "Chroniqueur dans l'émission « Questions politiques » (France Inter / franceinfo) ; directeur du Nouveau Magazine littéraire en 2018.", "source": { "titre": "Wikipédia – Raphaël Glucksmann", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" } },
+    { "periode": "Années 2000", "texte": "Réalisateur de documentaires, dont « Tuez-les tous ! » (2004) sur le génocide des Tutsi du Rwanda ; essayiste.", "source": { "titre": "Wikipédia – Raphaël Glucksmann", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" } },
+    { "periode": "1999-2003", "texte": "Études à l'Institut d'études politiques de Paris, après une classe préparatoire littéraire au lycée Henri-IV.", "source": { "titre": "Wikipédia – Raphaël Glucksmann", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" } }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Aucune procédure judiciaire visant personnellement Raphaël Glucksmann trouvée. L'enquête ouverte par le parquet de Paris en août 2026 sur une fausse vidéo attribuée au réseau pro-russe Storm-1516 le concerne comme cible/plaignant (franceinfo, août 2026) : exclue.",
+    "Photo : le portrait officiel du Parlement européen utilisé en infobox Wikipédia (File:1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg) est sous le modèle Commons « European Parliament », proposé à la suppression le 19 septembre 2026 (interdiction des œuvres dérivées, donc non libre) : écarté. Photo retenue : congrès PSE 2024, Flickr du Parti socialiste, Public Domain Mark.",
+    "Vignette : largeur 400px refusée par Wikimedia (HTTP 400) ; vignette 500px utilisée (HTTP 200 vérifié le 2026-09-22)."
+  ]
+}

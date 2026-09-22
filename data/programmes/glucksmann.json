@@ -1,0 +1,105 @@
+{
+  "id": "glucksmann",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "« Refonder la gauche, réveiller la France » ; livre « Nous avons encore envie » (mai 2026)",
+    "url": "https://glucks2027.fr/",
+    "etat": "partiel",
+    "note": "Pas de programme détaillé publié sur le site de campagne au 22/09/2026 ; mesures annoncées dans le livre de mai 2026, lors de la déclaration de candidature et dans la presse."
+  },
+  "reperes": [
+    {
+      "texte": "Né le 15 octobre 1979 à Boulogne-Billancourt ; cofondateur de Place publique en octobre 2018.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Député européen depuis 2019.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Tête de liste Place publique-PS aux européennes de 2024 : 13,83 % des voix, troisième position.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidature à la présidentielle annoncée au 20 h de TF1 le 23 août 2026.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/le-cofondateur-de-place-publique-raphael-glucksmann-officialise-sa-candidature-a-l-election-presidentielle-pour-relever-la-france_8158841.html", "date": "2026-08-23" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "economie",
+      "texte": "Taxe sur les superprofits des multinationales pétrolières.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/economie/automobile/essence/prix-des-carburants-le-gouvernement-ne-veut-pas-heurter-totalenergies-selon-raphael-glucksmann-qui-reclame-une-taxe-sur-les-superprofits_8202563.html", "date": "2026-09-21" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Hausse de la rémunération nette des travailleurs, financée par une taxation accrue des « méga-héritages » (1 % les plus gros) : 15 milliards d'euros.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/le-cofondateur-de-place-publique-raphael-glucksmann-officialise-sa-candidature-a-l-election-presidentielle-pour-relever-la-france_8158841.html", "date": "2026-08-23" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Chèque carburant multiplié par trois, porté à 500 euros, étendu aux classes moyennes et versé automatiquement aux bénéficiaires du chèque énergie.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/economie/automobile/essence/prix-des-carburants-le-gouvernement-ne-veut-pas-heurter-totalenergies-selon-raphael-glucksmann-qui-reclame-une-taxe-sur-les-superprofits_8202563.html", "date": "2026-09-21" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Départ plus tôt pour les carrières les plus hachées et les métiers difficiles, plus tard pour ceux ayant une espérance de vie en bonne santé plus longue.",
+      "nature": "declaration",
+      "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann", "date": "2026-08-24" }
+    },
+    {
+      "theme": "education",
+      "texte": "Plan de 5 ans pour l'école : hausse de la rémunération des enseignants, baisse des effectifs par classe en primaire, rénovation du bâti scolaire.",
+      "nature": "declaration",
+      "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann", "date": "2026-08-24" }
+    },
+    {
+      "theme": "education",
+      "texte": "Service civique obligatoire de dix mois pour tous les jeunes.",
+      "nature": "declaration",
+      "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann", "date": "2026-08-24" }
+    },
+    {
+      "theme": "education",
+      "texte": "Relance des colonies de vacances : un séjour collectif garanti à chaque enfant.",
+      "nature": "declaration",
+      "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann", "date": "2026-08-24" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Organisation d'une convention citoyenne sur l'immigration.",
+      "nature": "declaration",
+      "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann", "date": "2026-08-24" }
+    },
+    {
+      "theme": "international",
+      "texte": "Suppression du droit de veto au sein de l'Union européenne.",
+      "nature": "presse",
+      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme", "date": "2026-05-26" }
+    },
+    {
+      "theme": "international",
+      "texte": "Grand emprunt européen au service d'un plan de souveraineté européenne.",
+      "nature": "presse",
+      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme", "date": "2026-05-26" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Site de campagne", "url": "https://glucks2027.fr/", "type": "site", "date": "2026-09-22" },
+    { "titre": "franceinfo : déclaration de candidature au 20 h de TF1", "url": "https://www.franceinfo.fr/elections/presidentielle/le-cofondateur-de-place-publique-raphael-glucksmann-officialise-sa-candidature-a-l-election-presidentielle-pour-relever-la-france_8158841.html", "type": "article", "date": "2026-08-23" },
+    { "titre": "Le « 8h30 franceinfo » de Raphaël Glucksmann", "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/prix-des-carburants-taxation-situation-internationale-budget-le-8h30-franceinfo-de-raphael-glucksmann_8180243.html", "type": "audio", "date": "2026-09-21" },
+    { "titre": "Public Sénat : ce que propose Raphaël Glucksmann", "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann", "type": "article", "date": "2026-08-24" },
+    { "titre": "LCP : les premières lignes de son programme (livre « Nous avons encore envie »)", "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme", "type": "article", "date": "2026-05-26" },
+    { "titre": "France 24 : ce qu'il faut savoir sur la primaire (dates, débats)", "url": "https://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal", "type": "article", "date": "2026-09-16" }
+  ],
+  "a_verifier": [
+    "Investissement public vert de 100 Md€ sur 10 ans : trouvé uniquement sur des agrégateurs non admis ; aucune source primaire ou média reconnu ouvert.",
+    "Hausse de 10 % du salaire des enseignants : mentionnée dans un article connexe de franceinfo non ouvert.",
+    "Leasing social pour véhicules électriques et chèque carburant pour « 10 millions de ménages » : non présents dans l'article franceinfo du 21/09/2026.",
+    "« 100 jours de révolution écologique » (avec Yannick Jadot) : évoqués (franceinfo, 18/09/2026) sans mesure précise.",
+    "Extension de la dissuasion nucléaire française aux pays européens et fonds de défense européen de 500 Md€ : lus uniquement dans des résumés de recherche, non vérifiés."
+  ]
+}

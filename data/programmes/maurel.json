@@ -1,0 +1,221 @@
+{
+  "id": "maurel",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Programme d'Emmanuel Maurel : « Démondialiser, démarchandiser, démocratiser »",
+    "url": "https://emmanuel-maurel.fr/programme/",
+    "etat": "complet",
+    "note": "Programme détaillé en neuf parties publié sur le site du candidat (page non datée, consultée le 22/09/2026) ; pas de profession de foi publiée sur choisir2027.fr à cette date."
+  },
+  "reperes": [
+    {
+      "texte": "Né le 10 mai 1973 à Épinay-sur-Seine.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Quitte le Parti socialiste en 2018 et cofonde avec Marie-Noëlle Lienemann le parti devenu Gauche républicaine et socialiste en 2019.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Député européen de 2014 à 2024, puis député de la 3e circonscription du Val-d'Oise depuis juillet 2024.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidat à la primaire PS / Place publique / GRS, candidature présentée le 4 septembre 2026.",
+      "source": { "titre": "franceinfo, L'invité politique", "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-04-septembre-2026_8167499.html", "date": "2026-09-04" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "economie",
+      "texte": "Grand emprunt national finançant un plan d'investissement de 300 milliards d'euros.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Rétablissement de l'impôt de solidarité sur la fortune (ISF).",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Hausse du prélèvement forfaitaire unique (« flat tax ») à 40 %.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Création d'une taxe sur les patrimoines supérieurs à 100 millions d'euros.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "travail",
+      "texte": "SMIC porté à 1 700 euros net dès la prochaine législature.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Indexation des salaires sur l'inflation.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Revalorisation du point d'indice de la fonction publique d'au moins 10 % sur le quinquennat.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Contrat proposé par l'État à 250 000 jeunes : formation en alternance de 3 ans.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Au moins 30 % d'administrateurs salariés dans les conseils des entreprises de plus de 50 salariés.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Suppression de la tarification à l'activité (T2A) à l'hôpital.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Hausse annuelle d'au moins 4 % des dotations de la Sécurité sociale à l'hôpital.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "education",
+      "texte": "Objectif de 1 % du PIB consacré à la recherche publique.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "education",
+      "texte": "Hausse de 30 % de la dépense par étudiant à l'université.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "education",
+      "texte": "Prévention de l'exposition aux écrans, dont « pas de smartphone avant 15 ans ».",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "TVA sur les abonnements et la consommation d'électricité réduite à 5,5 %.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Sortie du marché européen de l'électricité.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Garantie des gros équipements étendue de 2 à 5 ans.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Interdiction des marques renouvelant excessivement leurs collections (« mode ultra-éphémère »).",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Régularisation des travailleurs sans papiers.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Maintien du droit du sol, présenté comme « un pilier du pacte civique ».",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "international",
+      "texte": "Enveloppe de 100 milliards d'euros pour les forces armées.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "international",
+      "texte": "Demande d'un rabais sur la contribution de la France au budget de l'Union européenne.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Instauration d'une journée annuelle référendaire.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Limitation, voire suppression, du droit de dissolution.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Inscription de l'audiovisuel public dans la Constitution.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Objectif de 750 000 logements sociaux en 5 ans.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Généralisation de l'encadrement des loyers et des prix du foncier.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Seuil maximal d'extension des exploitations agricoles fixé à 1,5 fois la surface utile régionale moyenne.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Reprise par l'État de l'infrastructure autoroutière à l'échéance des concessions.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Service public de l'eau dans toutes les villes et collectivités.",
+      "nature": "programme",
+      "source": { "titre": "Programme d'Emmanuel Maurel", "url": "https://emmanuel-maurel.fr/programme/", "date": "2026-09" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Programme complet (site du candidat)", "url": "https://emmanuel-maurel.fr/programme/", "type": "programme", "date": "2026-09" },
+    { "titre": "L'invité politique de franceinfo (4 septembre 2026)", "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-04-septembre-2026_8167499.html", "type": "video", "date": "2026-09-04" },
+    { "titre": "Fiche du candidat sur le site de la primaire Choisir 2027", "url": "https://choisir2027.fr/candidat/emmanuel-maurel/", "type": "article", "date": "2026-09-22" },
+    { "titre": "France 24 : ce qu'il faut savoir sur la primaire (dates, débats)", "url": "https://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal", "type": "article", "date": "2026-09-16" }
+  ],
+  "a_verifier": [
+    "Police : le programme évoque une « police républicaine au service de tous » et rappelle la police de proximité, sans formulation de mesure précise.",
+    "Retour du modèle de service public dans le ferroviaire : présenté comme une réflexion (« nous devons collectivement réfléchir »), pas comme une mesure ferme.",
+    "Taxation de l'IA générative utilisant des œuvres : principe énoncé, modalités non précisées."
+  ]
+}

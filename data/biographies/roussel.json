@@ -1,0 +1,44 @@
+{
+  "id": "roussel",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Roussel_Fabien_1.jpg/500px-Roussel_Fabien_1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Roussel_Fabien_1.jpg",
+    "auteur": "Zouhair NAKARA",
+    "licence": "CC BY-SA 4.0",
+    "annee": "2018",
+    "officielle": false,
+    "legende": "Fabien Roussel au congrès du PCF à Ivry-sur-Seine, 25 novembre 2018"
+  },
+  "presentation": {
+    "texte": "Fabien Roussel est secrétaire national du Parti communiste français (PCF) depuis 2018 et maire de Saint-Amand-les-Eaux (Nord) depuis 2025. Député du Nord de 2017 à 2024, il a été le candidat du PCF à l'élection présidentielle de 2022. En 2026, le PCF l'a de nouveau investi pour l'élection présidentielle de 2027.",
+    "sources": [
+      { "titre": "Wikipédia – Fabien Roussel", "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel", "date": "2026-09-22" },
+      { "titre": "LCP – Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027", "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389", "date": "2026-09-06" }
+    ]
+  },
+  "naissance": {
+    "date": "1969-04-16",
+    "lieu": "Béthune (Pas-de-Calais)",
+    "source": { "titre": "Wikipédia – Fabien Roussel", "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "2026", "texte": "Investi par les adhérents du PCF comme candidat à l'élection présidentielle de 2027.", "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389", "date": "2026-09-06" } },
+    { "periode": "Depuis 2025", "texte": "Maire de Saint-Amand-les-Eaux (Nord), élu le 30 janvier 2025 et réélu en mars 2026 ; conseiller municipal de la commune depuis 2014.", "source": { "titre": "Wikipédia – Fabien Roussel", "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel", "date": "2026-09-22" } },
+    { "periode": "Depuis 2018", "texte": "Secrétaire national du Parti communiste français, élu en novembre 2018 et réélu en 2023 et le 5 juillet 2026.", "source": { "titre": "Wikipédia – Fabien Roussel", "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel", "date": "2026-09-22" } },
+    { "periode": "2024", "texte": "Battu dès le premier tour des élections législatives anticipées dans la 20e circonscription du Nord (31,2 %).", "source": { "titre": "Wikipédia – Fabien Roussel", "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel", "date": "2026-09-22" } },
+    { "periode": "2022", "texte": "Candidat du PCF à l'élection présidentielle : 8e au premier tour avec 2,28 % des voix.", "source": { "titre": "Wikipédia – Fabien Roussel", "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel", "date": "2026-09-22" } },
+    { "periode": "2017-2024", "texte": "Député de la 20e circonscription du Nord (groupe de la Gauche démocrate et républicaine), élu en 2017 et réélu en 2022.", "source": { "titre": "Wikipédia – Fabien Roussel", "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "À partir de 1989", "texte": "Stagiaire puis coursier et journaliste iconographe à L'Humanité.", "source": { "titre": "Wikipédia – Fabien Roussel", "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel", "date": "2026-09-22" } },
+    { "periode": "Années 1990", "texte": "Assistant de production, puis formation de journaliste reporter d'images au CFPJ ; journaliste reporter d'images.", "source": { "titre": "Wikipédia – Fabien Roussel", "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel", "date": "2026-09-22" } }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Emploi présumé fictif d'assistant parlementaire : le 11 mars 2022, le Parquet national financier a ouvert une enquête préliminaire après des révélations de Mediapart. Elles portent sur un emploi d'assistant parlementaire du député Jean-Jacques Candelier entre 2009 et 2014 ; Fabien Roussel conteste les faits (sources citées par Wikipédia : Le Monde du 11/03/2022, Mediapart, Nouvel Obs/AFP du 13/03/2022, articles non ouverts car inaccessibles). L'état actuel de l'enquête (classement, poursuites ou enquête en cours) n'a pas été trouvé. Non publié tant que ce n'est pas vérifié.",
+    "Photo : aucun portrait officiel de député sur Commons. Photo récente disponible : File:Fabien Roussel - meeting de Marseille - 2025.jpg (Kelidia, CC BY 4.0), mais c'est un plan large en meeting, peu adapté à un portrait. Portrait de 2018 retenu.",
+    "Vignette : les vignettes de 400 px sont refusées par Wikimedia (HTTP 400). La vignette de 500 px a été vérifiée (HTTP 200).",
+    "Recherche de presse incomplète : quota de recherche web épuisé. Faire une recherche systématique (« Fabien Roussel enquête », « mis en examen », « condamné »)."
+  ]
+}

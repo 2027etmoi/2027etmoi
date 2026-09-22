@@ -1,0 +1,259 @@
+{
+  "id": "zemmour",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Portrait_d%27%C3%89ric_Zemmour%2C_avril_2022.jpg/500px-Portrait_d%27%C3%89ric_Zemmour%2C_avril_2022.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Portrait_d%27%C3%89ric_Zemmour,_avril_2022.jpg",
+    "auteur": "Anh De France",
+    "licence": "CC0 1.0",
+    "annee": "2022",
+    "officielle": false,
+    "legende": "Éric Zemmour en avril 2022"
+  },
+  "presentation": {
+    "texte": "Éric Zemmour est un journaliste, essayiste et homme politique français. Longtemps journaliste politique et éditorialiste (Le Figaro, RTL, CNews), il a fondé le parti Reconquête, qu'il préside depuis décembre 2021. Candidat à l'élection présidentielle de 2022, il a annoncé en septembre 2026 sa candidature pour 2027.",
+    "sources": [
+      {
+        "titre": "Éric Zemmour — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+        "date": "2026-09-22"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1958-08-31",
+    "lieu": "Montreuil (Seine, aujourd'hui Seine-Saint-Denis)",
+    "source": {
+      "titre": "Éric Zemmour — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+      "date": "2026-09-22"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2022",
+      "texte": "Candidat aux élections législatives dans la 4e circonscription du Var, éliminé au premier tour.",
+      "source": {
+        "titre": "Éric Zemmour — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2022",
+      "texte": "Candidat à l'élection présidentielle : 7,07 % au premier tour (quatrième position).",
+      "source": {
+        "titre": "Élection présidentielle française de 2022 — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "depuis 2021",
+      "texte": "Fondateur et président du parti Reconquête (depuis le 5 décembre 2021).",
+      "source": {
+        "titre": "Éric Zemmour — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+        "date": "2026-09-22"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "1979",
+      "texte": "Diplômé de l'Institut d'études politiques de Paris.",
+      "source": {
+        "titre": "Éric Zemmour — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1986-1994",
+      "texte": "Journaliste au Quotidien de Paris.",
+      "source": {
+        "titre": "Éric Zemmour — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1996-2021",
+      "texte": "Journaliste au service politique du Figaro (1996-2009, puis à partir de 2013) et chroniqueur au Figaro Magazine jusqu'en 2021.",
+      "source": {
+        "titre": "Éric Zemmour — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2003-2021",
+      "texte": "Chroniqueur et éditorialiste à la radio et à la télévision : I-Télé (2003-2014), France 2 (2006-2011), RTL (2010-2016), Paris Première (2011-2022), CNews « Face à l'info » (2019-2021). Auteur de plusieurs essais.",
+      "source": {
+        "titre": "Éric Zemmour — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+        "date": "2026-09-22"
+      }
+    }
+  ],
+  "affaires": [
+    {
+      "titre": "Propos sur l'immigration et l'islam à la « convention de la droite » (2019)",
+      "texte": "Poursuivi pour un discours prononcé le 28 septembre 2019. Condamné en septembre 2020 par le tribunal correctionnel de Paris, relaxé en appel en septembre 2021, relaxe annulée par la Cour de cassation en février 2023. Rejugé, il est condamné le 22 février 2024 par la cour d'appel de Paris à 15 000 euros d'amende pour provocation publique à la haine ou à la violence et injure publique en raison de l'origine, de l'ethnie, de la nation, de la race ou de la religion. Pourvoi rejeté le 16 septembre 2025.",
+      "etat": "condamnation_definitive",
+      "etat_detail": "Condamnation définitive depuis le rejet du pourvoi par la Cour de cassation le 16 septembre 2025.",
+      "date_etat": "2025-09-16",
+      "sources": [
+        {
+          "titre": "franceinfo — Éric Zemmour définitivement condamné pour des propos racistes en 2019",
+          "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-definitivement-condamne-pour-des-propos-racistes-en-2019_7497130.html",
+          "date": "2025-09-17"
+        }
+      ]
+    },
+    {
+      "titre": "Propos sur les mineurs isolés étrangers (CNews, 2020)",
+      "texte": "Poursuivi pour des propos tenus sur CNews en septembre 2020. Condamné en appel en septembre 2024 pour complicité d'injure publique et de provocation à la haine, à 100 jours-amende de 100 euros (10 000 euros). Pourvoi rejeté par la Cour de cassation le 2 décembre 2025.",
+      "etat": "condamnation_definitive",
+      "etat_detail": "Condamnation définitive depuis le rejet du pourvoi le 2 décembre 2025.",
+      "date_etat": "2025-12-02",
+      "sources": [
+        {
+          "titre": "franceinfo — Eric Zemmour définitivement condamné pour complicité de provocation à la haine, après ses propos sur des mineurs isolés",
+          "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-a-ete-definitivement-condamne-pour-complicite-de-provocation-a-la-haine-apres-ses-propos-tenus-sur-des-mineurs-isoles_7653920.html",
+          "date": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "titre": "Diffamation envers l'avocat Patrick Klugman",
+      "texte": "Poursuivi pour avoir accusé l'avocat Patrick Klugman de vouloir « étouffer » l'affaire de la mort de Jérémie Cohen. Condamné en première instance et en appel à 1 000 euros d'amende pour diffamation ; pourvoi rejeté par la Cour de cassation le 2 décembre 2025.",
+      "etat": "condamnation_definitive",
+      "etat_detail": "Condamnation définitive depuis le rejet du pourvoi le 2 décembre 2025.",
+      "date_etat": "2025-12-02",
+      "sources": [
+        {
+          "titre": "franceinfo — Eric Zemmour définitivement condamné pour complicité de provocation à la haine, après ses propos sur des mineurs isolés",
+          "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-a-ete-definitivement-condamne-pour-complicite-de-provocation-a-la-haine-apres-ses-propos-tenus-sur-des-mineurs-isoles_7653920.html",
+          "date": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "titre": "Injure à caractère raciste envers Hapsatou Sy",
+      "texte": "Poursuivi pour avoir qualifié le prénom d'Hapsatou Sy d'« insulte à la France ». Condamné en janvier 2023 par le tribunal de Paris pour injure à caractère raciste, condamnation confirmée en appel le 28 mars 2024. Pourvoi rejeté par la Cour de cassation le 2 septembre 2025.",
+      "etat": "condamnation_definitive",
+      "etat_detail": "Condamnation définitive depuis le rejet du pourvoi le 2 septembre 2025.",
+      "date_etat": "2025-09-02",
+      "sources": [
+        {
+          "titre": "franceinfo — Confirmation en appel de la condamnation d'Eric Zemmour pour injure raciste envers Hapsatou Sy",
+          "url": "https://www.francetvinfo.fr/politique/eric-zemmour/confirmation-en-appel-de-la-condamnation-d-eric-zemmour-pour-injure-raciste-envers-hapsatou-sy_6453914.html",
+          "date": "2024-03-28"
+        },
+        {
+          "titre": "La Provence — Le prénom d'Hapsatou Sy, « insulte à la France » : la condamnation d'Éric Zemmour confirmée",
+          "url": "https://www.laprovence.com/article/faits-divers-justice/3629043260574814/le-prenom-dhapsatou-sy-insulte-a-la-france-la-condamnation-deric-zemmour-confirmee-7-ans-de-combat-termine",
+          "date": "2025-09-05"
+        }
+      ]
+    },
+    {
+      "titre": "Diffamation envers l'Institut national d'études démographiques (Ined)",
+      "texte": "Poursuivi pour avoir affirmé sur CNews, le 2 avril 2021, que l'Ined « trafique » les chiffres de l'immigration. Reconnu coupable le 29 janvier 2024 de complicité de diffamation publique envers une administration publique (1 500 euros d'amende avec sursis), décision confirmée en appel le 11 décembre 2024. Pourvoi rejeté par la Cour de cassation le 27 janvier 2026.",
+      "etat": "condamnation_definitive",
+      "etat_detail": "Condamnation définitive depuis l'arrêt de la Cour de cassation du 27 janvier 2026.",
+      "date_etat": "2026-01-27",
+      "sources": [
+        {
+          "titre": "ActuaLitté — Cour de cassation : Zemmour et CNews définitivement condamnés dans l'affaire Ined",
+          "url": "https://actualitte.com/article/129048/droit-justice/cour-de-cassation-zemmour-et-cnews-definitivement-condamnes-dans-l-affaire-ined",
+          "date": "2026-02-01"
+        },
+        {
+          "titre": "Ined (communiqué) — Condamnation définitive de Monsieur Éric Zemmour et du directeur de publication de CNews pour diffamation publique envers l'Ined",
+          "url": "https://www.ined.fr/fr/presse/condamnation-definitive-monsieur-eric-zemmour-et-monsieur-jean-christophe-thiery-bercegol-du",
+          "date": "2026-01-27"
+        }
+      ]
+    },
+    {
+      "titre": "Provocation à la discrimination et à la haine religieuse (« C à vous », 2016)",
+      "texte": "Poursuivi pour des propos sur les musulmans tenus dans l'émission « C à vous » (France 5) en septembre 2016. Condamné en première instance à 5 000 euros d'amende pour provocation à la discrimination, à la haine ou à la violence à raison de l'appartenance à une religion, peine réduite à 3 000 euros en appel ; pourvoi rejeté par la Cour de cassation. Le 20 décembre 2022, la Cour européenne des droits de l'homme a rejeté sa requête et validé cette condamnation.",
+      "etat": "condamnation_definitive",
+      "etat_detail": "Condamnation définitive en droit interne (pourvoi rejeté en 2019) ; requête rejetée par la CEDH le 20 décembre 2022.",
+      "date_etat": "2022-12-20",
+      "sources": [
+        {
+          "titre": "Le Figaro — CEDH : Éric Zemmour débouté pour des propos « discriminatoires » en 2016",
+          "url": "https://www.lefigaro.fr/politique/cedh-eric-zemmour-deboute-pour-propos-des-discriminatoires-en-2016-20221220",
+          "date": "2022-12-20"
+        }
+      ]
+    },
+    {
+      "titre": "Contestation de crime contre l'humanité (propos sur Pétain, 2019)",
+      "texte": "Poursuivi pour avoir affirmé sur CNews, le 21 octobre 2019, que le maréchal Pétain avait « sauvé » les juifs français. Relaxé en première instance (2021) et en appel (2022) ; la Cour de cassation a annulé la relaxe en septembre 2023. Rejugé, il a été condamné le 2 avril 2025 par la cour d'appel de Paris à 10 000 euros d'amende pour contestation de crime contre l'humanité. Il a annoncé se pourvoir en cassation.",
+      "etat": "condamnation_non_definitive",
+      "etat_detail": "Condamné en appel le 2 avril 2025 ; pourvoi en cassation annoncé le jour même. Aucune décision de la Cour de cassation trouvée à ce jour. La condamnation n'est pas définitive : Éric Zemmour reste présumé innocent.",
+      "date_etat": "2025-04-02",
+      "sources": [
+        {
+          "titre": "franceinfo — Eric Zemmour condamné à 10 000 euros d'amende pour avoir soutenu que le maréchal Pétain avait sauvé des juifs français",
+          "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-condamne-a-10-000-euros-d-amende-pour-avoir-soutenu-que-le-marechal-petain-avait-sauve-des-juifs-francais_7166175.html",
+          "date": "2025-04-02"
+        }
+      ]
+    },
+    {
+      "titre": "Injure raciale (propos sur l'affaire de Crépol, 2023)",
+      "texte": "Poursuivi pour des propos tenus en novembre 2023 opposant « deux France », après la mort de Thomas à Crépol (Drôme). Condamné le 26 mars 2025 par le tribunal correctionnel de Paris à 9 000 euros d'amende pour injure raciale. Il a annoncé faire appel.",
+      "etat": "condamnation_non_definitive",
+      "etat_detail": "Condamné en première instance le 26 mars 2025 ; appel annoncé. Aucune décision d'appel trouvée à ce jour. Éric Zemmour reste présumé innocent.",
+      "date_etat": "2025-03-26",
+      "sources": [
+        {
+          "titre": "ICI (France Bleu) — Meurtre de Thomas à Crépol : Eric Zemmour condamné pour injure raciale",
+          "url": "https://www.francebleu.fr/infos/faits-divers-justice/meurtre-de-thomas-a-crepol-eric-zemmour-condamne-pour-injure-raciale-4519526",
+          "date": "2025-03-26"
+        },
+        {
+          "titre": "Europe 1 — Crépol : Eric Zemmour condamné pour injure raciale à 9 000 euros d'amende",
+          "url": "https://www.europe1.fr/Police-Justice/crepol-eric-zemmour-condamne-pour-injure-raciale-a-9000-euros-damende-669724",
+          "date": "2025-03-26"
+        }
+      ]
+    },
+    {
+      "titre": "Propos liant délinquance et immigration (Public Sénat, 2022)",
+      "texte": "Poursuivi pour provocation à la haine en raison de l'origine après avoir déclaré sur Public Sénat, le 26 janvier 2022, que « si nous avons une délinquance aussi explosive, c'est à cause de l'immigration ». Relaxé le 2 juillet 2025 par le tribunal correctionnel de Paris.",
+      "etat": "relaxe",
+      "etat_detail": "Relaxé en première instance le 2 juillet 2025.",
+      "date_etat": "2025-07-02",
+      "sources": [
+        {
+          "titre": "franceinfo — Poursuivi pour provocation à la haine en raison de l'origine, Eric Zemmour est relaxé par le tribunal correctionnel de Paris",
+          "url": "https://www.franceinfo.fr/politique/eric-zemmour/poursuivi-pour-provocation-a-la-haine-en-raison-de-l-origine-eric-zemmour-relaxe_7350891.html",
+          "date": "2025-07-02"
+        }
+      ]
+    }
+  ],
+  "a_verifier": [
+    "Pétain : vérifier si la Cour de cassation a statué sur le pourvoi formé après l'arrêt du 2 avril 2025 (aucune décision trouvée ; recherche web limitée en fin de session).",
+    "Crépol : vérifier si la cour d'appel a statué (appel annoncé le 26 mars 2025).",
+    "Public Sénat : vérifier si la relaxe du 2 juillet 2025 a fait l'objet d'un appel.",
+    "Propos de 2010 : articles Le Point et Libération cités via Wikipédia, non ouverts (HTTP 403, blocage anti-robot). À relire.",
+    "« C à vous » 2016 : date du rejet du pourvoi (17 septembre 2019 selon Wikipédia et Le Monde, non ouvert). Wikipédia indique une amende de 5 000 euros en appel ; Le Figaro indique 3 000 euros (retenu ici).",
+    "Propos sur les Sénégalais et le crack (CNews, 2021-2022) : renvoyé devant le tribunal correctionnel de Paris (franceinfo, 31 mai 2024) pour provocation publique à la haine ou à la violence et injure publique. Audience annoncée pour le 19 décembre 2025. Décision non trouvée. Non publiée.",
+    "Complicité de diffamation envers Danièle Obono : condamné le 7 février 2024 (Le Monde), confirmé en appel en janvier 2025 ; Mediapart (26 juin 2026) indique que CNews a été définitivement condamnée. Situation personnelle de Zemmour en cassation non confirmée. Non publiée.",
+    "Injure homophobe (CNews, octobre 2019) : condamné le 28 septembre 2023, relaxé en appel le 12 septembre 2024, pourvoi annoncé par Stop Homophobie. Issue non trouvée. Non publiée.",
+    "Comparaison de villes avec l'Afghanistan (France Inter, 2022) : relaxé le 12 novembre 2024, relaxe confirmée en appel en octobre 2025, pourvoi de Vitry-sur-Seine (Le Parisien, 17 novembre 2025). Non publiée.",
+    "Déportation des homosexuels (livre de 2021) : relaxé le 18 septembre 2025, relaxe confirmée en juin 2026 selon Actu-Juridique (25 juin 2026). Source de presse générale non ouverte. Non publiée.",
+    "Diffamation envers l'enseignante Sophie Djigo : relaxé en juin 2026 (Libération, 9 juin 2026), appel annoncé par la plaignante. Non publiée.",
+    "Contrefaçon (clip de candidature de 2021) : condamné le 4 mars 2022 à verser 165 000 euros avec Reconquête et un tiers (Le Monde, non ouvert), sans appel selon Wikipédia. Nouvelle condamnation pour contrefaçon le 16 janvier 2026 (documentaire « Le Collège d'à côté », Libération). Affaires civiles non publiées faute de source ouverte ou d'état certain.",
+    "Enquête préliminaire du parquet de Paris ouverte en avril 2022 (SMS de campagne ciblant des Français juifs) : issue inconnue. Plainte de L214 pour diffamation (2021) : issue inconnue.",
+    "Relaxes anciennes (2008, 2015-2016, 2018) non reprises.",
+    "Condamnation du 18/02/2011 (provocation à la haine raciale, 2 000 € avec sursis, franceinfo 18/02/2011) : caractère définitif (absence d'appel) non confirmé par une source ouverte (Le Point, Libération inaccessibles). Retirée de l'affichage."
+  ]
+}

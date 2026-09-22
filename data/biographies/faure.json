@@ -1,0 +1,47 @@
+{
+  "id": "faure",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Olivier_Faure_PSE-CARCA--1194_%28cropped%29.jpg/500px-Olivier_Faure_PSE-CARCA--1194_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Olivier_Faure_PSE-CARCA--1194_(cropped).jpg",
+    "auteur": "PES Group Committee of the Regions",
+    "licence": "CC BY 2.0",
+    "annee": "2018",
+    "officielle": false,
+    "legende": "Olivier Faure lors d'une conférence du groupe PSE du Comité européen des régions, septembre 2018"
+  },
+  "presentation": {
+    "texte": "Olivier Faure est un homme politique français, membre du Parti socialiste depuis 1984. Député de la 11e circonscription de Seine-et-Marne depuis 2012, il est Premier secrétaire du Parti socialiste depuis 2018. Il est candidat à la primaire du PS, de Place publique et de la GRS en vue de l'élection présidentielle de 2027.",
+    "sources": [
+      { "titre": "Wikipédia – Olivier Faure", "url": "https://fr.wikipedia.org/wiki/Olivier_Faure", "date": "2026-09-22" },
+      { "titre": "franceinfo – Olivier Faure confirme sa candidature à la primaire de son camp", "url": "https://www.franceinfo.fr/elections/presidentielle/le-chef-du-parti-socialiste-olivier-faure-confirme-sa-candidature-a-la-primaire-de-son-camp-en-vue-de-l-election-presidentielle_8169896.html", "date": "2026-08-30" }
+    ]
+  },
+  "naissance": {
+    "date": "1968-08-18",
+    "lieu": "La Tronche (Isère)",
+    "source": { "titre": "Wikipédia – Olivier Faure", "url": "https://fr.wikipedia.org/wiki/Olivier_Faure", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "2026", "texte": "Annonce le 30 août 2026 sa candidature à la primaire du PS, de Place publique et de la GRS pour l'élection présidentielle de 2027.", "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/le-chef-du-parti-socialiste-olivier-faure-confirme-sa-candidature-a-la-primaire-de-son-camp-en-vue-de-l-election-presidentielle_8169896.html", "date": "2026-08-30" } },
+    { "periode": "Depuis 2018", "texte": "Premier secrétaire du Parti socialiste, élu en 2018, réélu en 2021, 2023 et le 6 juin 2025 (51,15 % des voix face à Nicolas Mayer-Rossignol).", "source": { "titre": "Wikipédia – Olivier Faure", "url": "https://fr.wikipedia.org/wiki/Olivier_Faure", "date": "2026-09-22" } },
+    { "periode": "2016-2018", "texte": "Président du groupe socialiste à l'Assemblée nationale.", "source": { "titre": "Wikipédia – Olivier Faure", "url": "https://fr.wikipedia.org/wiki/Olivier_Faure", "date": "2026-09-22" } },
+    { "periode": "2014-2016", "texte": "Porte-parole du Parti socialiste.", "source": { "titre": "Wikipédia – Olivier Faure", "url": "https://fr.wikipedia.org/wiki/Olivier_Faure", "date": "2026-09-22" } },
+    { "periode": "Depuis 2012", "texte": "Député de la 11e circonscription de Seine-et-Marne, élu en 2012 et réélu en 2017, 2022 et 2024.", "source": { "titre": "Wikipédia – Olivier Faure", "url": "https://fr.wikipedia.org/wiki/Olivier_Faure", "date": "2026-09-22" } },
+    { "periode": "2007", "texte": "Candidat aux élections législatives dans la 8e circonscription de Seine-et-Marne, battu par Chantal Brunel (UMP).", "source": { "titre": "Wikipédia – Olivier Faure", "url": "https://fr.wikipedia.org/wiki/Olivier_Faure", "date": "2026-09-22" } },
+    { "periode": "1991", "texte": "Secrétaire général des jeunes rocardiens.", "source": { "titre": "Wikipédia – Olivier Faure", "url": "https://fr.wikipedia.org/wiki/Olivier_Faure", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "2007-2012", "texte": "Secrétaire général du groupe socialiste à l'Assemblée nationale, auprès de Jean-Marc Ayrault.", "source": { "titre": "Wikipédia – Olivier Faure", "url": "https://fr.wikipedia.org/wiki/Olivier_Faure", "date": "2026-09-22" } },
+    { "periode": "1997-2007", "texte": "Conseiller de Martine Aubry au ministère de l'Emploi (1997-2000), puis directeur adjoint du cabinet de François Hollande, Premier secrétaire du PS (2000-2007).", "source": { "titre": "Wikipédia – Olivier Faure", "url": "https://fr.wikipedia.org/wiki/Olivier_Faure", "date": "2026-09-22" } },
+    { "periode": "1993-1997", "texte": "Cadre dirigeant d'une PME de 150 salariés.", "source": { "titre": "Wikipédia – Olivier Faure", "url": "https://fr.wikipedia.org/wiki/Olivier_Faure", "date": "2026-09-22" } },
+    { "periode": "1991-1993", "texte": "Collaborateur de Gérard Gouzes, président de la commission des lois de l'Assemblée nationale.", "source": { "titre": "Wikipédia – Olivier Faure", "url": "https://fr.wikipedia.org/wiki/Olivier_Faure", "date": "2026-09-22" } },
+    { "periode": "Formation", "texte": "DEA de droit économique (université d'Orléans) et DEA de science politique (université Paris-I-Panthéon-Sorbonne).", "source": { "titre": "Wikipédia – Olivier Faure", "url": "https://fr.wikipedia.org/wiki/Olivier_Faure", "date": "2026-09-22" } }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Aucune procédure judiciaire visant personnellement Olivier Faure trouvée (recherches : mis en examen, condamné, enquête parquet, diffamation). Seule mention trouvée : une plainte déposée PAR Olivier Faure et Marine Tondelier contre Maël de Calan (tribunal de Quimper) — il y est plaignant, donc exclue.",
+    "Photo : l'image d'infobox Wikipédia (« OF MATIGNON - MAXIME CLAM (cropped).png », 2025) est marquée domaine public via un compte Flickr tiers (KimiRaikkonen3) alors que le nom de fichier évoque un photographe (Maxime Clam) : provenance/licence douteuse, écartée au profit de la photo PES 2018 (CC BY 2.0). Pas de portrait officiel de l'Assemblée nationale trouvé sur Commons.",
+    "Vignette : Wikimedia refuse désormais la largeur 400px (HTTP 400) ; seules des largeurs standard sont servies. Vignette 500px utilisée (HTTP 200 vérifié le 2026-09-22)."
+  ]
+}

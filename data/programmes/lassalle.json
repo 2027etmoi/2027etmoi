@@ -1,0 +1,34 @@
+{
+  "id": "lassalle",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Pas de programme 2027",
+    "url": "https://resistons-france.fr/",
+    "etat": "aucun",
+    "note": "Candidature non officialisée au 22/09/2026, conditionnée au résultat d'une cagnotte ; aucun programme ni mesure pour 2027 publiés, le site de Résistons ! présentant le programme de 2022."
+  },
+  "reperes": [
+    {
+      "texte": "Maire de Lourdios-Ichère de 1977 à 2017 et député des Pyrénées-Atlantiques de 2002 à 2022 ; fondateur de Résistons ! en 2016.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidat aux présidentielles de 2017 (1,21 %) et de 2022 (3,13 %) au premier tour.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle", "date": "2026-09-22" }
+    },
+    {
+      "texte": "En juillet 2026, il a lancé une cagnotte, estimant qu'un minimum de 100 000 € est nécessaire pour être candidat, et revendique 250 parrainages sur les 500 requis.",
+      "source": { "titre": "ICI Béarn Bigorre", "url": "https://www.ici.fr/emissions/l-invite-de-la-redaction-de-ici-bearn-bigorre/jean-lassalle-lance-une-cagnotte-pour-etre-candidat-a-la-presidentielle-de-2027-2094458", "date": "2026-07-10" }
+    }
+  ],
+  "mesures": [],
+  "ressources": [
+    { "titre": "Site de Résistons !", "url": "https://resistons-france.fr/", "type": "site", "date": "2026-09-22" },
+    { "titre": "franceinfo – Jean Lassalle lance une cagnotte pour pouvoir être candidat", "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-de-nouveau-candidat-a-l-election_8102522.html", "type": "article", "date": "2026-07-10" }
+  ],
+  "a_verifier": [
+    "Programme de 2022 (PDF sur resistons-france.fr) : non repris, le candidat ne s'en réclame pas explicitement pour 2027.",
+    "Décision de candidature annoncée pour l'automne 2026 selon le résultat de la cagnotte : à suivre.",
+    "Propos sur la natalité et la bureaucratie (ICI, 10/07/2026) : constats, sans mesure précise."
+  ]
+}

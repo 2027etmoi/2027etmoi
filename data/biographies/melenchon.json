@@ -1,0 +1,199 @@
+{
+  "id": "melenchon",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/M%C3%A9lenchon_2027_-_55261894422_%28cropped%29.jpg/500px-M%C3%A9lenchon_2027_-_55261894422_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:M%C3%A9lenchon_2027_-_55261894422_(cropped).jpg",
+    "auteur": "jlm2017.fr (Flickr)",
+    "licence": "CC BY 4.0",
+    "annee": "2026",
+    "officielle": false,
+    "legende": "Jean-Luc Mélenchon en mai 2026 (photo diffusée par son équipe de campagne sous licence libre)"
+  },
+  "presentation": {
+    "texte": "Jean-Luc Mélenchon est un homme politique français, fondateur de La France insoumise (LFI) en 2016. Ancien sénateur socialiste de l'Essonne, ministre délégué à l'Enseignement professionnel (2000-2002), député européen puis député des Bouches-du-Rhône, il a été candidat à l'élection présidentielle en 2012, 2017 et 2022. Il est candidat déclaré pour 2027.",
+    "sources": [
+      {
+        "titre": "Wikipédia – Jean-Luc Mélenchon",
+        "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+        "date": "2026-09-22"
+      },
+      {
+        "titre": "LCP – Présidentielle : Jean-Luc Mélenchon officialise sa candidature pour 2027",
+        "url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851",
+        "date": "2026-05-03"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1951-08-19",
+    "lieu": "Tanger (Maroc)",
+    "source": {
+      "titre": "Wikipédia – Jean-Luc Mélenchon",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+      "date": "2026-09-22"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Candidat déclaré à l'élection présidentielle de 2027 pour La France insoumise.",
+      "source": {
+        "titre": "LCP",
+        "url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851",
+        "date": "2026-05-03"
+      }
+    },
+    {
+      "periode": "2022",
+      "texte": "Candidat à l'élection présidentielle : 3e au premier tour avec 21,95 % des voix.",
+      "source": {
+        "titre": "Wikipédia – Jean-Luc Mélenchon",
+        "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2017-2022",
+      "texte": "Député de la 4e circonscription des Bouches-du-Rhône ; président du groupe La France insoumise à l'Assemblée nationale de 2017 à 2021.",
+      "source": {
+        "titre": "Wikipédia – Jean-Luc Mélenchon",
+        "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2017",
+      "texte": "Candidat à l'élection présidentielle sous l'étiquette La France insoumise, fondée en 2016 : 4e au premier tour avec 19,58 % des voix.",
+      "source": {
+        "titre": "Wikipédia – Jean-Luc Mélenchon",
+        "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2012",
+      "texte": "Candidat du Front de gauche à l'élection présidentielle : 4e au premier tour avec 11,10 % des voix.",
+      "source": {
+        "titre": "Wikipédia – Jean-Luc Mélenchon",
+        "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2009-2017",
+      "texte": "Député européen (circonscription Sud-Ouest), élu en 2009 et réélu en 2014.",
+      "source": {
+        "titre": "Wikipédia – Jean-Luc Mélenchon",
+        "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2009-2014",
+      "texte": "Cofondateur et président, puis coprésident, du Parti de gauche, après avoir quitté le Parti socialiste en 2008.",
+      "source": {
+        "titre": "Wikipédia – Jean-Luc Mélenchon",
+        "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2000-2002",
+      "texte": "Ministre délégué à l'Enseignement professionnel dans le gouvernement Jospin.",
+      "source": {
+        "titre": "Wikipédia – Jean-Luc Mélenchon",
+        "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1986-2000, 2004-2010",
+      "texte": "Sénateur (PS) de l'Essonne.",
+      "source": {
+        "titre": "Wikipédia – Jean-Luc Mélenchon",
+        "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1983-2004",
+      "texte": "Élu local dans l'Essonne : conseiller municipal puis adjoint au maire de Massy, conseiller général et président délégué du conseil général de l'Essonne (1998-2004).",
+      "source": {
+        "titre": "Wikipédia – Jean-Luc Mélenchon",
+        "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+        "date": "2026-09-22"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "1972",
+      "texte": "Licence de lettres modernes et licence de philosophie à l'université de Besançon.",
+      "source": {
+        "titre": "Wikipédia – Jean-Luc Mélenchon",
+        "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "Années 1970",
+      "texte": "Correcteur d'imprimerie, ouvrier dans l'horlogerie, employé de station-service.",
+      "source": {
+        "titre": "Wikipédia – Jean-Luc Mélenchon",
+        "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "À partir de 1976",
+      "texte": "Professeur de français (titulaire du CAPES de lettres modernes) dans un lycée technique de Lons-le-Saunier, et journaliste pigiste.",
+      "source": {
+        "titre": "Wikipédia – Jean-Luc Mélenchon",
+        "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+        "date": "2026-09-22"
+      }
+    }
+  ],
+  "affaires": [
+    {
+      "titre": "Perquisition au siège de La France insoumise (2018)",
+      "texte": "Lors de la perquisition du 16 octobre 2018 au siège de La France insoumise, menée dans le cadre d'enquêtes sur les comptes de campagne de 2017 et sur les assistants parlementaires européens, Jean-Luc Mélenchon s'est opposé aux enquêteurs. Il a été jugé par le tribunal correctionnel de Bobigny pour actes d'intimidation contre l'autorité judiciaire, rébellion et provocation.",
+      "etat": "condamnation_definitive",
+      "etat_detail": "Condamné le 9 décembre 2019 par le tribunal correctionnel de Bobigny à trois mois d'emprisonnement avec sursis et 8 000 euros d'amende. Il a annoncé ne pas faire appel.",
+      "date_etat": "2019-12-09",
+      "sources": [
+        {
+          "titre": "Public Sénat – Mélenchon condamné à trois mois avec sursis pour la perquisition houleuse à LFI",
+          "url": "https://www.publicsenat.fr/actualites/non-classe/melenchon-condamne-a-trois-mois-avec-sursis-pour-la-perquisition-houleuse-a-lfi",
+          "date": "2019-12-09"
+        }
+      ]
+    },
+    {
+      "titre": "Assistants parlementaires au Parlement européen",
+      "texte": "Enquête ouverte en 2017 puis information judiciaire ouverte en 2018, pour déterminer si des assistants rémunérés par le Parlement européen lorsque Jean-Luc Mélenchon était député européen avaient travaillé pour le Parlement ou pour son parti. Deux anciens assistants ont été placés sous le statut de témoin assisté. Jean-Luc Mélenchon n'a pas été mis en examen.",
+      "etat": "instruction_close",
+      "etat_detail": "Les juges d'instruction ont clos l'instruction le 26 mai 2026 sans aucune mise en examen. La décision de clôture de la procédure n'a pas été trouvée. Jean-Luc Mélenchon est présumé innocent.",
+      "date_etat": "2026-05-26",
+      "sources": [
+        {
+          "titre": "franceinfo – Enquête sur les assistants parlementaires de LFI : l'instruction est close, sans mise en examen",
+          "url": "https://www.franceinfo.fr/politique/la-france-insoumise/enquete-sur-les-assistants-parlementaires-de-lfi-l-instruction-est-close-sans-mise-en-examen_8029814.html",
+          "date": "2026-05-26"
+        }
+      ]
+    }
+  ],
+  "a_verifier": [
+    "Photo : aucun portrait officiel sous licence libre admise. Le portrait du Parlement européen de 2009 (File:Jean-Luc Mélenchon 2009.jpg) est publié sous licence « European Parliament », qui n'est pas dans la liste des licences admises. Photo retenue : campagne 2026, CC BY 4.0.",
+    "Vignette : les vignettes de 400 px sont refusées par Wikimedia (HTTP 400, qui impose des largeurs standard). La vignette de 500 px a été vérifiée (HTTP 200).",
+    "Diffamation envers Paulo Paranaguá (ancien journaliste du Monde) : condamné le 24 septembre 2021 à 500 € avec sursis pour l'avoir qualifié d'« assassin repenti » (source : Wikipédia). Europe 1 (mis à jour le 20/11/2024) fait état d'une condamnation en appel pour une autre publication (1 € symbolique). L'issue de l'appel sur le jugement de 2021 et un éventuel pourvoi restent à vérifier. Non publié.",
+    "Radio France : condamné le 11 janvier 2022 par le tribunal de Paris à 500 € d'amende avec sursis et 3 000 € de dommages et intérêts pour injure publique et diffamation. Appel annoncé ; décision d'appel non trouvée. Non publié.",
+    "Propos sur la BRAV-M : franceinfo a annoncé une enquête pour « injure publique » (https://www.franceinfo.fr/societe/justice/jean-luc-melenchon-vise-par-une-enquete-pour-injure-publique-apres-ses-propos-sur-la-brav-m_5744741.html). Article non ouvert ; date et suites inconnues. Non publié.",
+    "Libération, 29 juin 2026 : plainte pour apologie du terrorisme déposée par trois victimes françaises du 7-Octobre après ses propos de fin juin 2026 devant le tribunal de Paris. Article non accessible. On ne sait pas si le parquet a ouvert une enquête. Non publié.",
+    "Comptes de campagne 2017 : information judiciaire close avec quatre mises en examen (Sophia Chikirou, L'Ère du peuple, Bastien Lachaud, Marie-Pierre Oprandi) ; Jean-Luc Mélenchon lui-même n'est pas mis en examen selon les sources trouvées. Exclu, car la procédure ne le vise pas personnellement ; à revoir s'il y a du nouveau.",
+    "Droit d'auteur (fresque « La Marianne asiatique » de Combo) : condamnation civile en appel en juillet 2023, avec LFI, à 40 000 €, selon Wikipédia. Ni diffamation ni procédure pénale : non retenu.",
+    "Recherche de presse incomplète : quota de recherche web épuisé pendant la session. Vérifier l'état des affaires ci-dessus dans la presse de 2025-2026."
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "id": "ruffin",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "« Nous Président ! » – Cahiers de campagne",
+    "url": "https://nouspresident.fr/cahiers-de-campagne/",
+    "etat": "partiel",
+    "note": "Pas de programme complet au 22/09/2026 ; quatre « cahiers de campagne » thématiques publiés entre avril et septembre 2026 sur le site de campagne (ruffin2027.fr redirige vers nouspresident.fr)."
+  },
+  "reperes": [
+    {
+      "texte": "Député de la Somme depuis 2017 ; fondateur du journal Fakir.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin", "date": "2026-09-22" }
+    },
+    {
+      "texte": "César du meilleur film documentaire en 2017 pour « Merci Patron ! ».",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Proche de La France insoumise sans en être membre, il s'en écarte en 2024 ; il est l'un des initiateurs du Nouveau Front populaire.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidat pour 2027 à la tête du parti Debout!, hors de la primaire socialiste, qui ne lui a pas été ouverte.",
+      "source": { "titre": "Orange / AFP", "url": "https://actu.orange.fr/politique/presidentielle-francois-ruffin-l-ex-insoumis-qui-a-du-mal-a-socialiser-CNT000002rVfmk.html", "date": "2026-09-16" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "economie",
+      "texte": "Référendum sur une taxe sur les dividendes pour financer la transition écologique : 4 % au-delà de 10 millions d'euros versés, 2 % en dessous.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un travaillisme écologique »", "url": "https://nouspresident.fr/travaillisme-ecologique/", "date": "2026-09-09" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Étude stratégique publiée pour chaque projet de rachat d'une entreprise stratégique par des investisseurs étrangers ; nationalisations possibles.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour séparer l'argent de l'État »", "url": "https://nouspresident.fr/separation-argent-etat/", "date": "2026-07-02" }
+    },
+    {
+      "theme": "travail",
+      "texte": "« Statut des travailleurs essentiels » (agents d'entretien, AVS, caristes, agriculteurs…) portant sur salaires, carrières, horaires et retraite avancée.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un statut des travailleuses et travailleurs essentiels »", "url": "https://nouspresident.fr/statut-travailleurs-essentiels/", "date": "2026-04-13" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Indexation des salaires sur l'inflation, comme jusqu'en 1982.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un statut des travailleuses et travailleurs essentiels »", "url": "https://nouspresident.fr/statut-travailleurs-essentiels/", "date": "2026-04-13" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Heures travaillées avant 8 h et après 18 h rémunérées double, via une nouvelle catégorie d'« horaires atypiques » dans le code du travail.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un statut des travailleuses et travailleurs essentiels »", "url": "https://nouspresident.fr/statut-travailleurs-essentiels/", "date": "2026-04-13" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Temps de transport entre deux interventions compté comme temps de travail ; coupures de plus de 2 h imposées rémunérées forfaitairement.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un statut des travailleuses et travailleurs essentiels »", "url": "https://nouspresident.fr/statut-travailleurs-essentiels/", "date": "2026-04-13" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Limitation des dérogations à la durée minimale de 24 heures pour le temps partiel, avec sanctions pour les entreprises.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un statut des travailleuses et travailleurs essentiels »", "url": "https://nouspresident.fr/statut-travailleurs-essentiels/", "date": "2026-04-13" }
+    },
+    {
+      "theme": "travail",
+      "texte": "SMIC à 1 600 euros, présenté comme mesure reprise des acquis du Nouveau Front populaire.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un statut des travailleuses et travailleurs essentiels », mot de la fin", "url": "https://nouspresident.fr/statut-travailleurs-essentiels/", "date": "2026-04-13" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Un trimestre de retraite supplémentaire accordé pour quatre trimestres cotisés dans un métier exposé à la pénibilité.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un statut des travailleuses et travailleurs essentiels »", "url": "https://nouspresident.fr/statut-travailleurs-essentiels/", "date": "2026-04-13" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Retraite à 60 ans, présentée comme mesure reprise des acquis du Nouveau Front populaire.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un statut des travailleuses et travailleurs essentiels », mot de la fin", "url": "https://nouspresident.fr/statut-travailleurs-essentiels/", "date": "2026-04-13" }
+    },
+    {
+      "theme": "education",
+      "texte": "BAFA gratuit et droit pour chaque enfant à au moins un séjour collectif financé pendant la scolarité obligatoire.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour renouer avec le temps des loisirs »", "url": "https://nouspresident.fr/temps-loisirs/", "date": "2026-07-17" }
+    },
+    {
+      "theme": "education",
+      "texte": "Rétablissement et augmentation de la part collective du Pass Culture.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour renouer avec le temps des loisirs »", "url": "https://nouspresident.fr/temps-loisirs/", "date": "2026-07-17" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Sortie progressive du marché de l'électricité : fin de la concurrence sur la vente aux consommateurs, prix fondés sur les coûts de production.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un travaillisme écologique »", "url": "https://nouspresident.fr/travaillisme-ecologique/", "date": "2026-09-09" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Prolongation des centrales nucléaires validées par l'autorité de sûreté et poursuite de la construction de six réacteurs EPR2.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un travaillisme écologique »", "url": "https://nouspresident.fr/travaillisme-ecologique/", "date": "2026-09-09" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Leasing social de petites voitures électriques produites en France pour 3 millions d'automobilistes sur le quinquennat.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un travaillisme écologique »", "url": "https://nouspresident.fr/travaillisme-ecologique/", "date": "2026-09-09" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Triplement de la part du fret ferroviaire et réduction de moitié du trafic aérien grâce aux trains de nuit et liaisons européennes.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un travaillisme écologique »", "url": "https://nouspresident.fr/travaillisme-ecologique/", "date": "2026-09-09" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Une Maison de la Réparation et du Réemploi dans chaque quartier et chaque canton ; retour de la consigne du verre.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un travaillisme écologique »", "url": "https://nouspresident.fr/travaillisme-ecologique/", "date": "2026-09-09" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Indépendance du parquet : fin du pouvoir de nomination des magistrats du parquet par le Gouvernement.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour séparer l'argent de l'État »", "url": "https://nouspresident.fr/separation-argent-etat/", "date": "2026-07-02" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Suppression de la convention judiciaire d'intérêt public (CJIP), cantonnée aux atteintes à la probité commises à l'étranger.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour séparer l'argent de l'État »", "url": "https://nouspresident.fr/separation-argent-etat/", "date": "2026-07-02" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Président de la République payé au niveau du SMIC.",
+      "nature": "presse",
+      "source": { "titre": "Orange / AFP", "url": "https://actu.orange.fr/politique/presidentielle-francois-ruffin-l-ex-insoumis-qui-a-du-mal-a-socialiser-CNT000002rVfmk.html", "date": "2026-09-16" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Suppression de la rente à vie des anciens présidents et Premiers ministres ; 20 millions d'euros d'économies sur le budget de l'Élysée.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour séparer l'argent de l'État »", "url": "https://nouspresident.fr/separation-argent-etat/", "date": "2026-07-02" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Création d'une Haute Autorité à la probité fusionnant HATVP, Agence française anticorruption et commission des comptes de campagne.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour séparer l'argent de l'État »", "url": "https://nouspresident.fr/separation-argent-etat/", "date": "2026-07-02" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Période de dix ans sans lobbying ni conseil lié à leurs anciennes fonctions pour les ministres sortants ; interdiction du rétro-pantouflage.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour séparer l'argent de l'État »", "url": "https://nouspresident.fr/separation-argent-etat/", "date": "2026-07-02" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Recours aux cabinets de conseil privés par l'État autorisé seulement en l'absence de compétence interne disponible.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour séparer l'argent de l'État »", "url": "https://nouspresident.fr/separation-argent-etat/", "date": "2026-07-02" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Référendum d'initiative citoyenne (RIC).",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un travaillisme écologique »", "url": "https://nouspresident.fr/travaillisme-ecologique/", "date": "2026-09-09" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Budget de l'État pour la rénovation multiplié par 4, avec un objectif de 800 000 rénovations d'ampleur par an.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un travaillisme écologique »", "url": "https://nouspresident.fr/travaillisme-ecologique/", "date": "2026-09-09" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Sur-cotisation au 1 % patronal pour les employeurs de travailleurs essentiels, et priorité à ces derniers dans ses aides au logement.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un statut des travailleuses et travailleurs essentiels »", "url": "https://nouspresident.fr/statut-travailleurs-essentiels/", "date": "2026-04-13" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Prix minimums garantis pour les agriculteurs, fixés par filière à partir des indicateurs de coûts de production.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour un travaillisme écologique »", "url": "https://nouspresident.fr/travaillisme-ecologique/", "date": "2026-09-09" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Plan « Salles des fêtes et maisons du peuple » doté d'un milliard d'euros par an pendant cinq ans.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour renouer avec le temps des loisirs »", "url": "https://nouspresident.fr/temps-loisirs/", "date": "2026-07-17" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Plafonnement du prix des billets d'avion entre l'Hexagone et les Outre-mer.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour renouer avec le temps des loisirs »", "url": "https://nouspresident.fr/temps-loisirs/", "date": "2026-07-17" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "60 000 contrats aidés pris en charge par l'État pour épauler les associations.",
+      "nature": "programme",
+      "source": { "titre": "Cahier de campagne « Pour renouer avec le temps des loisirs »", "url": "https://nouspresident.fr/temps-loisirs/", "date": "2026-07-17" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Site de campagne « Nous Président ! »", "url": "https://nouspresident.fr/", "type": "site", "date": "2026-09" },
+    { "titre": "Cahier « Pour un statut des travailleuses et travailleurs essentiels »", "url": "https://nouspresident.fr/statut-travailleurs-essentiels/", "type": "page", "date": "2026-04-13" },
+    { "titre": "Cahier « Pour séparer l'argent de l'État »", "url": "https://nouspresident.fr/separation-argent-etat/", "type": "page", "date": "2026-07-02" },
+    { "titre": "Cahier « Pour renouer avec le temps des loisirs »", "url": "https://nouspresident.fr/temps-loisirs/", "type": "page", "date": "2026-07-17" },
+    { "titre": "Cahier « Pour un travaillisme écologique »", "url": "https://nouspresident.fr/travaillisme-ecologique/", "type": "page", "date": "2026-09-09" }
+  ],
+  "a_verifier": [
+    "Rémunération du président au SMIC : rapportée par Orange/AFP ; le cahier « Séparer l'argent de l'État » parle seulement d'une « cohérence du salaire du Président avec l'échelle des salaires ».",
+    "SMIC à 1 600 euros et retraite à 60 ans : cités dans le mot de la fin de Sophie Taillé-Polian (responsable du programme) comme acquis du NFP à reprendre, sans détail de mise en œuvre.",
+    "Le référendum sur la taxe sur les dividendes fait partie d'un ensemble de propositions de la Convention citoyenne pour le climat que le candidat propose de soumettre à référendum (avec l'interdiction de la publicité pour les produits les plus polluants et des vols intérieurs quand le train fait moins de 4 h)."
+  ]
+}

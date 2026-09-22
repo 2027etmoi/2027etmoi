@@ -1,0 +1,43 @@
+{
+  "id": "mlekuz",
+  "mise_a_jour": "2026-09-22",
+  "presentation": {
+    "texte": "Manolo Mlekuz, 20 ans, est le candidat de Trajectoire, mouvement qu'il a créé en vue de l'élection présidentielle de 2027. Originaire de Montreuil (Seine-Saint-Denis), il a mis en pause ses études d'histoire pour parcourir la France en camion aménagé et recueillir les 500 parrainages d'élus. Son projet est uniquement institutionnel : convoquer une Assemblée constituante chargée de rédiger une nouvelle Constitution, soumise ensuite à référendum.",
+    "sources": [
+      { "titre": "CNews — Présidentielle 2027 : qui est Manolo Mlekuz, ce candidat âgé de 20 ans parti sillonner la France pour faire campagne ?", "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti", "date": "2026-05-27" },
+      { "titre": "Valeurs actuelles — Présidentielle 2027 : un candidat anti-système de 20 ans sillonne la France en van pour obtenir ses parrainages", "url": "https://www.valeursactuelles.com/politique/presidentielle-2027-un-candidat-anti-systeme-de-20-ans-sillonne-la-france-en-van-pour-obtenir-ses-parrainages", "date": "2026-05-28" },
+      { "titre": "RMC — « Si j'arrive à l'Elysée... » : ce candidat pour 2027, âgé de 20 ans, veut être un président « sans pouvoir »", "url": "https://rmc.bfmtv.com/actualites/politique/si-j-arrive-a-l-elysee-ce-candidat-pour-2027-age-de-20-ans-veut-etre-un-president-sans-pouvoir_AV-202607030571.html", "date": "2026-07-03" }
+    ]
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Candidat déclaré à l'élection présidentielle de 2027 sous l'étiquette Trajectoire. Revendique en juillet 2026 une vingtaine de promesses de parrainage sur les 500 nécessaires.",
+      "source": { "titre": "RMC — « Si j'arrive à l'Elysée... » : ce candidat pour 2027, âgé de 20 ans, veut être un président « sans pouvoir »", "url": "https://rmc.bfmtv.com/actualites/politique/si-j-arrive-a-l-elysee-ce-candidat-pour-2027-age-de-20-ans-veut-etre-un-president-sans-pouvoir_AV-202607030571.html", "date": "2026-07-03" }
+    },
+    {
+      "periode": "Avant 2026",
+      "texte": "Ancien adhérent du Parti socialiste, puis militant de La France insoumise. Dit avoir quitté ces partis, tout en déclarant que ses idées « demeurent à gauche ».",
+      "source": { "titre": "CNews — Présidentielle 2027 : qui est Manolo Mlekuz, ce candidat âgé de 20 ans parti sillonner la France pour faire campagne ?", "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti", "date": "2026-05-27" }
+    },
+    {
+      "periode": "Avant 2026",
+      "texte": "Selon le site de son mouvement : adhésion au Parti socialiste à 15 ans, stage au sein de La France insoumise et militantisme sous l'étiquette Nouveau Front populaire en Seine-Saint-Denis.",
+      "source": { "titre": "Trajectoire — Qui sommes-nous ?", "url": "https://trajectoire2027.fr/qui-sommes-nous.html", "date": "2026-09-22" }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "Jusqu'en 2026",
+      "texte": "Étudiant en histoire. A mis ses études en pause pour se consacrer à sa campagne.",
+      "source": { "titre": "CNews — Présidentielle 2027 : qui est Manolo Mlekuz, ce candidat âgé de 20 ans parti sillonner la France pour faire campagne ?", "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti", "date": "2026-05-27" }
+    }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Date et lieu de naissance non publiés par la presse : champ naissance omis. CNews le dit « natif de Montreuil », RMC « habitant de Montreuil ».",
+    "Aucune photo sous licence libre trouvée sur Wikimedia Commons (septembre 2026) : champ photo omis.",
+    "Nombre de promesses de parrainage (une vingtaine au 3 juillet 2026) à actualiser.",
+    "La source du site Trajectoire est datée du jour de consultation (page non datée)."
+  ]
+}

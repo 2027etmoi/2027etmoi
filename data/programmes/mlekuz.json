@@ -1,0 +1,66 @@
+{
+  "id": "mlekuz",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Trajectoire – Programme",
+    "url": "https://trajectoire2027.fr/programme.html",
+    "etat": "complet",
+    "note": "Programme à objectif unique revendiqué (« répartir le pouvoir politique ») : convocation d'une assemblée constituante tirée parmi un échantillon représentatif, puis départ de la présidence. Page non datée, consultée le 22/09/2026."
+  },
+  "reperes": [
+    { "texte": "20 ans, natif de Montreuil (Seine-Saint-Denis), étudiant en histoire ayant mis ses études en pause.", "source": { "titre": "CNews", "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti", "date": "2026-05-27" } },
+    { "texte": "Ancien adhérent du Parti socialiste puis militant de La France insoumise ; a quitté ces partis.", "source": { "titre": "CNews", "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti", "date": "2026-05-27" } },
+    { "texte": "Fondateur du mouvement Trajectoire ; sillonne la France en camion aménagé pour recueillir les 500 parrainages.", "source": { "titre": "CNews", "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti", "date": "2026-05-27" } },
+    { "texte": "Présenté par L'Obs comme le benjamin des candidats déclarés à la présidentielle 2027.", "source": { "titre": "L'Obs – Quels sont les candidats déjà officiellement déclarés à la présidentielle de 2027 ?", "url": "https://www.nouvelobs.com/politique/20260515.OBS114940/quels-sont-les-18-candidats-deja-officiellement-declares-a-la-presidentielle-de-2027.html", "date": "2026-09-17" } },
+    { "texte": "Revendique une promesse d'une vingtaine de signatures d'élus sur les 500 nécessaires (juillet 2026).", "source": { "titre": "RMC", "url": "https://rmc.bfmtv.com/actualites/politique/si-j-arrive-a-l-elysee-ce-candidat-pour-2027-age-de-20-ans-veut-etre-un-president-sans-pouvoir_AV-202607030571.html", "date": "2026-07-03" } }
+  ],
+  "mesures": [
+    {
+      "theme": "institutions",
+      "texte": "Réunion d'un collège de constitutionnalistes chargé de rédiger les modalités de convocation d'une assemblée constituante.",
+      "nature": "programme",
+      "source": { "titre": "Trajectoire – Programme", "url": "https://trajectoire2027.fr/programme.html", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Référendum (article 11) sur ces modalités ; en cas de rejet, le collège se réunit à nouveau.",
+      "nature": "programme",
+      "source": { "titre": "Trajectoire – Programme", "url": "https://trajectoire2027.fr/programme.html", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Assemblée constituante composée d'un échantillon représentatif des Français, entre 500 et 10 000 personnes, pour un processus de deux ans.",
+      "nature": "declaration",
+      "source": { "titre": "RMC – Les Grandes Gueules", "url": "https://rmc.bfmtv.com/actualites/politique/si-j-arrive-a-l-elysee-ce-candidat-pour-2027-age-de-20-ans-veut-etre-un-president-sans-pouvoir_AV-202607030571.html", "date": "2026-07-03" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Nouvelle Constitution soumise à référendum ; en cas de rejet, la Constitution de 1958 est conservée.",
+      "nature": "programme",
+      "source": { "titre": "Trajectoire – Programme", "url": "https://trajectoire2027.fr/programme.html", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Nouvelles élections législatives ; le président du parti arrivé en tête est nommé Premier ministre et dirige la politique de la nation.",
+      "nature": "programme",
+      "source": { "titre": "Trajectoire – Programme", "url": "https://trajectoire2027.fr/programme.html", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Président « en retrait » garant de l'assemblée constituante, qui quitte la présidence à l'issue du référendum final, quel qu'en soit le résultat.",
+      "nature": "programme",
+      "source": { "titre": "Trajectoire – Programme", "url": "https://trajectoire2027.fr/programme.html", "date": "2026-09-22" }
+    }
+  ],
+  "ressources": [
+    { "titre": "RMC – « Si j'arrive à l'Élysée… » : un candidat de 20 ans veut être un président « sans pouvoir »", "url": "https://rmc.bfmtv.com/actualites/politique/si-j-arrive-a-l-elysee-ce-candidat-pour-2027-age-de-20-ans-veut-etre-un-president-sans-pouvoir_AV-202607030571.html", "type": "article", "date": "2026-07-03" },
+    { "titre": "CNews – Qui est Manolo Mlekuz, ce candidat âgé de 20 ans ?", "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti", "type": "article", "date": "2026-05-27" },
+    { "titre": "La Dépêche – À 19 ans, Manolo Mlekuz se lance à la conquête de l'Élysée sans parti ni réseau", "url": "https://www.ladepeche.fr/2026/02/02/a-19-ans-manolo-mlekuz-se-lance-a-la-conquete-de-lelysee-sans-parti-ni-reseau-je-ne-fais-pas-ca-pour-me-sacrifier-je-fais-ca-parce-que-jen-ai-envie-13199998.php", "type": "article", "date": "2026-02-02" }
+  ],
+  "a_verifier": [
+    "Date exacte de déclaration inconnue : presse régionale dès fin janvier 2026 (Actu Épinal 25/01/2026, La Dépêche 02/02/2026) ; Wikipédia indique « début 2026 ».",
+    "Parrainages : CNews (27/05/2026) cite « trois signatures sûres » et 13 à 15 estimées ; RMC (03/07/2026) une vingtaine de promesses. Aucun chiffre officiel (Conseil constitutionnel) avant 2027.",
+    "Compte Instagram : le site officiel renvoie à @manolo.mlekuz, CNews et RMC citent @trajectoire.2027.",
+    "La Dépêche (02/02/2026) : article payant ; il cite le programme (« soit on garde la Ve République, soit on choisit une VIe »). Non utilisé comme source de mesure."
+  ]
+}

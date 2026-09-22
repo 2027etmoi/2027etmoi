@@ -1,0 +1,46 @@
+{
+  "id": "batho",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Delphine_Batho_%28cropped-2%29.png/500px-Delphine_Batho_%28cropped-2%29.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Delphine_Batho_(cropped-2).png",
+    "auteur": "DeuxSevres79",
+    "licence": "CC BY-SA 4.0",
+    "annee": "2018",
+    "officielle": false,
+    "legende": "Delphine Batho en 2018 (Wikimedia Commons)"
+  },
+  "presentation": {
+    "texte": "Delphine Batho est députée de la 2e circonscription des Deux-Sèvres et présidente de Génération écologie depuis 2018. Ancienne ministre de l'Écologie, du Développement durable et de l'Énergie (2012-2013) et ancienne membre du Parti socialiste, qu'elle a quitté en 2018, elle a annoncé le 25 novembre 2025 sa candidature à l'élection présidentielle de 2027.",
+    "sources": [
+      { "titre": "Delphine Batho — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Delphine_Batho", "date": "2026-09-22" },
+      { "titre": "Mme Delphine Batho — Assemblée nationale", "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999", "date": "2026-09-22" }
+    ]
+  },
+  "naissance": {
+    "date": "1973-03-23",
+    "lieu": "Paris",
+    "source": { "titre": "Mme Delphine Batho — Assemblée nationale", "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "2025", "texte": "Annonce le 25 novembre 2025 sa candidature à l'élection présidentielle de 2027.", "source": { "titre": "Delphine Batho — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Delphine_Batho", "date": "2026-09-22" } },
+    { "periode": "2021", "texte": "Candidate à la primaire écologiste de 2021 : 3e avec 22,32 % des voix au premier tour.", "source": { "titre": "Delphine Batho — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Delphine_Batho", "date": "2026-09-22" } },
+    { "periode": "Depuis 2018", "texte": "Présidente de Génération écologie (depuis le 9 septembre 2018).", "source": { "titre": "Delphine Batho — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Delphine_Batho", "date": "2026-09-22" } },
+    { "periode": "Depuis 2013", "texte": "Députée de la 2e circonscription des Deux-Sèvres depuis le 2 août 2013, réélue en 2017, 2022 et 2024 (59,21 % au second tour en 2024). Membre du groupe Écologiste et social.", "source": { "titre": "Mme Delphine Batho — Assemblée nationale", "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999", "date": "2026-09-22" } },
+    { "periode": "2012-2013", "texte": "Ministre de l'Écologie, du Développement durable et de l'Énergie (gouvernement Ayrault II), du 21 juin 2012 au 2 juillet 2013.", "source": { "titre": "Delphine Batho — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Delphine_Batho", "date": "2026-09-22" } },
+    { "periode": "2012", "texte": "Ministre déléguée auprès de la garde des Sceaux, ministre de la Justice (gouvernement Ayrault I), du 16 mai au 21 juin 2012.", "source": { "titre": "Delphine Batho — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Delphine_Batho", "date": "2026-09-22" } },
+    { "periode": "2007-2012", "texte": "Députée de la 2e circonscription des Deux-Sèvres (réélue en juin 2012, mandat interrompu par son entrée au gouvernement).", "source": { "titre": "Delphine Batho — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Delphine_Batho", "date": "2026-09-22" } },
+    { "periode": "1994-2018", "texte": "Membre du Parti socialiste, qu'elle quitte le 2 mai 2018.", "source": { "titre": "Delphine Batho — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Delphine_Batho", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "Formation", "texte": "Scolarité au lycée Henri-IV (Paris), puis études d'histoire à l'université Paris-VII, non achevées.", "source": { "titre": "Delphine Batho — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Delphine_Batho", "date": "2026-09-22" } },
+    { "periode": "Profession", "texte": "Cadre territoriale.", "source": { "titre": "Mme Delphine Batho — Assemblée nationale", "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999", "date": "2026-09-22" } }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Aucune procédure judiciaire visant personnellement Delphine Batho trouvée (recherches : affaire judiciaire, mise en examen, condamnée, enquête préliminaire). Les procédures trouvées la présentent comme plaignante : plainte en diffamation contre Séverine Vachon (France Bleu, législatives 2017), saisine du procureur au sujet de General Electric (Europe 1, 2019), action contre le PS en 2018 (déboutée, selon Wikipédia). Non retenues car elles ne la visent pas.",
+    "Photo : pas de portrait officiel (Assemblée nationale ou gouvernement) trouvé sur Wikimedia Commons. Alternative plus récente : File:20210820_batho_d_6593_(cropped).jpg (Greenbox, CC BY-SA 4.0, 20 août 2021).",
+    "Vignette 400px refusée par upload.wikimedia.org (HTTP 400, tailles de vignettes désormais normalisées) : vignette 500px utilisée, vérifiée HTTP 200.",
+    "Score de 22,32 % à la primaire écologiste 2021 et 59,21 % en 2024 : issus de Wikipédia uniquement."
+  ]
+}

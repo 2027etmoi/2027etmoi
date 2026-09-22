@@ -1,0 +1,91 @@
+{
+  "id": "bertrand",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Nous France — propositions (en préparation)",
+    "url": "https://www.nousfrance.fr/",
+    "etat": "aucun",
+    "note": "Pas de programme publié au 22/09/2026 : les pages « propositions » de nousfrance.fr ne contiennent que des titres (pages créées en 2021). Le candidat dit « tester ses idées » ; mesures relevées dans des entretiens de presse de l'été 2026."
+  },
+  "reperes": [
+    {
+      "texte": "Président du conseil régional des Hauts-de-France depuis janvier 2016, réélu en 2021.",
+      "source": { "titre": "Wikipédia — Xavier Bertrand", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Ministre de la Santé de 2005 à 2007, puis ministre du Travail dans les gouvernements de François Fillon.",
+      "source": { "titre": "Wikipédia — Xavier Bertrand", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Quatrième de la primaire LR de 2021 avec 22,36 % des voix.",
+      "source": { "titre": "Wikipédia — Xavier Bertrand", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Le 27 août 2026, à l'université d'été du Medef, a déclaré qu'il « sera » candidat, en indépendant, sans fixer de date d'annonce officielle.",
+      "source": { "titre": "franceinfo — Xavier Bertrand déclare qu'il « sera » candidat", "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html", "date": "2026-08-27" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "institutions",
+      "texte": "« République des territoires » : État central recentré sur la justice, la sécurité, le contrôle de l'immigration, la défense et la diplomatie ; le reste géré localement.",
+      "nature": "declaration",
+      "source": { "titre": "La Provence (repris par Nous France) — « Il faut une République des territoires et un mandat unique »", "url": "https://www.nousfrance.fr/2026/07/rencontres-economiques-daix-il-faut-une-republique-des-territoires-et-un-mandat-unique-pour-xavier-bertrand-la-provence/", "date": "2026-07-04" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "S'il est élu, n'exercer qu'un seul mandat de cinq ans.",
+      "nature": "declaration",
+      "source": { "titre": "Ouest-France (repris par Nous France) — Xavier Bertrand presque candidat à la présidentielle", "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/", "date": "2026-08-03" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Favorable à l'autonomie de la Corse, à la condition d'un référendum local pour valider ce choix.",
+      "nature": "declaration",
+      "source": { "titre": "ICI RCFM — En Corse, Xavier Bertrand plaide pour une République des territoires", "url": "https://www.ici.fr/emissions/l-invite-de-la-redaction-ici-rcfm/en-corse-xavier-bertrand-plaide-pour-une-republique-des-territoires-et-la-fin-du-centralisme-parisien-8159774", "date": "2026-08-21" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Création d'un CHU en Corse adapté aux contraintes insulaires.",
+      "nature": "presse",
+      "source": { "titre": "ICI RCFM — En Corse, Xavier Bertrand plaide pour une République des territoires", "url": "https://www.ici.fr/emissions/l-invite-de-la-redaction-ici-rcfm/en-corse-xavier-bertrand-plaide-pour-une-republique-des-territoires-et-la-fin-du-centralisme-parisien-8159774", "date": "2026-08-21" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Aide financière aux actifs pour les transports et la garde d'enfants, et allocation de rentrée scolaire versée sans condition de ressources, sur le modèle des Hauts-de-France.",
+      "nature": "presse",
+      "source": { "titre": "ICI RCFM — En Corse, Xavier Bertrand plaide pour une République des territoires", "url": "https://www.ici.fr/emissions/l-invite-de-la-redaction-ici-rcfm/en-corse-xavier-bertrand-plaide-pour-une-republique-des-territoires-et-la-fin-du-centralisme-parisien-8159774", "date": "2026-08-21" }
+    },
+    {
+      "theme": "education",
+      "texte": "Consacrer 1 % du budget de l'État à la culture en 2032.",
+      "nature": "declaration",
+      "source": { "titre": "Var-Matin (repris par Nous France) — « Je m'y prépare » : Xavier Bertrand pose les bases de son projet", "url": "https://www.nousfrance.fr/2026/08/je-my-prepare-pas-encore-officiellement-candidat-xavier-bertrand-pose-les-bases-de-son-projet-pour-la-presidentielle-avec-la-culture-en-toile-de-fond-var-matin/", "date": "2026-08-03" }
+    },
+    {
+      "theme": "education",
+      "texte": "Faire en sorte que chaque élève, de l'école au lycée, rencontre au moins une œuvre ou un spectacle durant sa scolarité.",
+      "nature": "declaration",
+      "source": { "titre": "Var-Matin (repris par Nous France) — « Je m'y prépare » : Xavier Bertrand pose les bases de son projet", "url": "https://www.nousfrance.fr/2026/08/je-my-prepare-pas-encore-officiellement-candidat-xavier-bertrand-pose-les-bases-de-son-projet-pour-la-presidentielle-avec-la-culture-en-toile-de-fond-var-matin/", "date": "2026-08-03" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Télésurveillance et drones pour détecter au plus tôt les départs de feu ; sanctions « très dures » contre les incendiaires.",
+      "nature": "declaration",
+      "source": { "titre": "Var-Matin (repris par Nous France) — « Je m'y prépare » : Xavier Bertrand pose les bases de son projet", "url": "https://www.nousfrance.fr/2026/08/je-my-prepare-pas-encore-officiellement-candidat-xavier-bertrand-pose-les-bases-de-son-projet-pour-la-presidentielle-avec-la-culture-en-toile-de-fond-var-matin/", "date": "2026-08-03" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Nous France — site du mouvement", "url": "https://www.nousfrance.fr/", "type": "site", "date": "2026-09-22" },
+    { "titre": "franceinfo — Xavier Bertrand déclare qu'il « sera » candidat", "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html", "type": "article", "date": "2026-08-27" },
+    { "titre": "LCP — Xavier Bertrand indique « tester ses idées »", "url": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en", "type": "article", "date": "2026-08-03" },
+    { "titre": "Le Figaro (repris par Nous France) — « Je n'ai pas le profil d'une prise de guerre »", "url": "https://www.nousfrance.fr/2026/08/je-nai-pas-le-profil-dune-prise-de-guerre-je-trace-ma-route-le-pari-de-xavier-bertrand-pour-simposer-comme-candidat-de-la-droite-et-du-centre-le-figaro/", "type": "article", "date": "2026-08-04" }
+  ],
+  "a_verifier": [
+    "Durée du mandat unique : Ouest-France (03/08/2026) et La Provence (04/07/2026) le citent pour « un mandat unique de cinq ans », mais Le Figaro (04/08/2026) écrit qu'il veut proposer par référendum le « septennat unique ». À clarifier.",
+    "Retraite par capitalisation : défendue selon Le Figaro et LCP (août 2026), sans modalités précises.",
+    "Mesures souvent attribuées à Xavier Bertrand (un an de prison ferme minimum pour l'agression d'un policier, gendarme, pompier ou maire ; regroupement familial divisé par trois ; majorité pénale à 15 ans ; 400 000 logements par an) : sources trouvées datant de la campagne 2021-2022 ou d'agrégateurs non admis ; non confirmées pour 2027.",
+    "Batiactu (Assises du logement 2026) et JDD : pages inaccessibles (403), mesures logement non vérifiées.",
+    "Statut : au 27/08/2026, il annonce qu'il « sera » candidat mais repousse la déclaration officielle à la fin de l'année."
+  ]
+}

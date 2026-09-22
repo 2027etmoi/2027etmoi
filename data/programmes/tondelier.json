@@ -1,0 +1,218 @@
+{
+  "id": "tondelier",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Programme des Écologistes pour 2027 et « 21 priorités » pour la gauche",
+    "url": "https://www.marinetondelier.fr/le-programme",
+    "etat": "partiel",
+    "note": "Programme des Écologistes présenté le 13/07/2026 et livrets thématiques publiés depuis ; la page programme du site de campagne n'a pas pu être consultée (protection anti-robots), mesures relevées dans la presse (AFP, franceinfo, ICI, LCP)."
+  },
+  "reperes": [
+    {
+      "texte": "Secrétaire nationale des Écologistes depuis le 10 décembre 2022, réélue en avril 2025.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Conseillère municipale d'Hénin-Beaumont de 2014 à 2026 et conseillère régionale des Hauts-de-France depuis 2021.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidate déclarée le 22 octobre 2025, désignée par les adhérents des Écologistes le 8 décembre 2025.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Le 17 avril 2026, a proposé aux autres partis de gauche (hors LFI) un « socle » programmatique de 21 priorités.",
+      "source": { "titre": "France 24 (AFP)", "url": "https://www.france24.com/fr/info-en-continu/20260417-pr%C3%A9sidentielle-tondelier-propose-un-socle-programmatique-aux-autres-partis-de-gauche", "date": "2026-04-17" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "economie",
+      "texte": "Création d'un « ISF climatique ».",
+      "nature": "presse",
+      "source": { "titre": "France 24 (AFP) – programme des Écologistes", "url": "https://www.france24.com/fr/info-en-continu/20260713-2027-les-ecologistes-veulent-instaurer-la-premi%C3%A8re-r%C3%A9publique-%C3%A9cologique-et-citoyenne", "date": "2026-07-13" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Instauration d'une « TVA verte ».",
+      "nature": "presse",
+      "source": { "titre": "France 24 (AFP) – mesures de santé environnementale", "url": "https://www.france24.com/fr/info-en-continu/20260530-pr%C3%A9sidentielle-tondelier-d%C3%A9voile-ses-mesures-pour-la-sant%C3%A9-environnementale", "date": "2026-05-30" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Taxation supplémentaire de 10 % des héritages de plus de 4 millions d'euros (le 1 % des héritages les plus élevés).",
+      "nature": "declaration",
+      "source": { "titre": "ICI Nord – L'invité d'ICI Matin", "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-nord/presidentielle-marine-tondelier-presente-les-mesures-des-ecologistes-pour-la-protection-de-la-mer-et-des-littoraux-4088500", "date": "2026-09-15" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Augmentation du Smic (montant non précisé).",
+      "nature": "presse",
+      "source": { "titre": "France 24 (AFP) – socle programmatique de 21 priorités", "url": "https://www.france24.com/fr/info-en-continu/20260417-pr%C3%A9sidentielle-tondelier-propose-un-socle-programmatique-aux-autres-partis-de-gauche", "date": "2026-04-17" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Retraite à 60 ans pour les salariés ayant commencé avant 20 ans ou exercé des métiers pénibles, à 62 ans pour les autres.",
+      "nature": "presse",
+      "source": { "titre": "LCP – Que proposent les candidats sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751", "date": "2026-09-16" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Statut dédié pour les familles monoparentales.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo – « un pays à hauteur d'enfant »", "url": "https://www.franceinfo.fr/elections/presidentielle/pour-son-dernier-deplacement-avant-son-accouchement-marine-tondelier-veut-un-pays-a-hauteur-d-enfant_8197694.html", "date": "2026-09-17" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Interdiction du secteur lucratif dans la protection de l'enfance et accompagnement financier des jeunes de l'ASE jusqu'à 25 ans.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo – « un pays à hauteur d'enfant »", "url": "https://www.franceinfo.fr/elections/presidentielle/pour-son-dernier-deplacement-avant-son-accouchement-marine-tondelier-veut-un-pays-a-hauteur-d-enfant_8197694.html", "date": "2026-09-17" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Interdiction des aliments ultratransformés dans les cantines et de la publicité télévisée pour les produits trop sucrés ou salés avant 21 h.",
+      "nature": "presse",
+      "source": { "titre": "France 24 (AFP) – mesures de santé environnementale", "url": "https://www.france24.com/fr/info-en-continu/20260530-pr%C3%A9sidentielle-tondelier-d%C3%A9voile-ses-mesures-pour-la-sant%C3%A9-environnementale", "date": "2026-05-30" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Interdiction des perturbateurs endocriniens, des substances cancérogènes, mutagènes, reprotoxiques et des PFAS dans les produits du quotidien.",
+      "nature": "presse",
+      "source": { "titre": "France 24 (AFP) – mesures de santé environnementale", "url": "https://www.france24.com/fr/info-en-continu/20260530-pr%C3%A9sidentielle-tondelier-d%C3%A9voile-ses-mesures-pour-la-sant%C3%A9-environnementale", "date": "2026-05-30" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Fonds national d'indemnisation et de dépollution financé par les industries les plus polluantes.",
+      "nature": "presse",
+      "source": { "titre": "France 24 (AFP) – mesures de santé environnementale", "url": "https://www.france24.com/fr/info-en-continu/20260530-pr%C3%A9sidentielle-tondelier-d%C3%A9voile-ses-mesures-pour-la-sant%C3%A9-environnementale", "date": "2026-05-30" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Stratégie « 300/30/3 » : espace vert à 300 m maximum du domicile, 30 % du territoire couvert de feuillage l'été, trois arbres visibles depuis chaque logement.",
+      "nature": "presse",
+      "source": { "titre": "France 24 (AFP) – mesures de santé environnementale", "url": "https://www.france24.com/fr/info-en-continu/20260530-pr%C3%A9sidentielle-tondelier-d%C3%A9voile-ses-mesures-pour-la-sant%C3%A9-environnementale", "date": "2026-05-30" }
+    },
+    {
+      "theme": "education",
+      "texte": "Hausse du salaire des enseignants de 15 % sur le quinquennat.",
+      "nature": "presse",
+      "source": { "titre": "France 24 (AFP) – socle programmatique de 21 priorités", "url": "https://www.france24.com/fr/info-en-continu/20260417-pr%C3%A9sidentielle-tondelier-propose-un-socle-programmatique-aux-autres-partis-de-gauche", "date": "2026-04-17" }
+    },
+    {
+      "theme": "education",
+      "texte": "Création d'un ministère de l'Enfance chargé de l'Éducation et de la Jeunesse, doté d'un budget spécifique.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo – « un pays à hauteur d'enfant »", "url": "https://www.franceinfo.fr/elections/presidentielle/pour-son-dernier-deplacement-avant-son-accouchement-marine-tondelier-veut-un-pays-a-hauteur-d-enfant_8197694.html", "date": "2026-09-17" }
+    },
+    {
+      "theme": "education",
+      "texte": "Relance des classes de mer.",
+      "nature": "presse",
+      "source": { "titre": "franceinfo – propositions des Écologistes pour les littoraux", "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-les-ecologistes-devoilent-leurs-propositions-pour-proteger-les-littoraux_8192429.html", "date": "2026-09-14" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Réforme de la fiscalité des transports : hausse du prix des billets d'avion et baisse du coût du ferroviaire.",
+      "nature": "presse",
+      "source": { "titre": "France 24 (AFP) – programme des Écologistes", "url": "https://www.france24.com/fr/info-en-continu/20260713-2027-les-ecologistes-veulent-instaurer-la-premi%C3%A8re-r%C3%A9publique-%C3%A9cologique-et-citoyenne", "date": "2026-07-13" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Création d'un fonds national d'adaptation du littoral pour aider les collectivités à préempter les terrains et habitations menacés par la montée des eaux.",
+      "nature": "presse",
+      "source": { "titre": "franceinfo – propositions des Écologistes pour les littoraux", "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-les-ecologistes-devoilent-leurs-propositions-pour-proteger-les-littoraux_8192429.html", "date": "2026-09-14" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Développement des énergies marines renouvelables.",
+      "nature": "declaration",
+      "source": { "titre": "ICI Nord – L'invité d'ICI Matin", "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-nord/presidentielle-marine-tondelier-presente-les-mesures-des-ecologistes-pour-la-protection-de-la-mer-et-des-littoraux-4088500", "date": "2026-09-15" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Régularisation des travailleurs sans-papiers.",
+      "nature": "presse",
+      "source": { "titre": "France 24 (AFP) – socle programmatique de 21 priorités", "url": "https://www.france24.com/fr/info-en-continu/20260417-pr%C3%A9sidentielle-tondelier-propose-un-socle-programmatique-aux-autres-partis-de-gauche", "date": "2026-04-17" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Restauration de la police de proximité.",
+      "nature": "presse",
+      "source": { "titre": "France 24 (AFP) – socle programmatique de 21 priorités", "url": "https://www.france24.com/fr/info-en-continu/20260417-pr%C3%A9sidentielle-tondelier-propose-un-socle-programmatique-aux-autres-partis-de-gauche", "date": "2026-04-17" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Imprescriptibilité de tous les crimes commis contre des mineurs et création d'un « fichier de prévention pédocriminale des mineurs ».",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo – « un pays à hauteur d'enfant »", "url": "https://www.franceinfo.fr/elections/presidentielle/pour-son-dernier-deplacement-avant-son-accouchement-marine-tondelier-veut-un-pays-a-hauteur-d-enfant_8197694.html", "date": "2026-09-17" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Déploiement de centres de prise en charge des victimes de violences sexuelles sur le modèle belge (approche médicale, psychologique et judiciaire).",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo – « un pays à hauteur d'enfant »", "url": "https://www.franceinfo.fr/elections/presidentielle/pour-son-dernier-deplacement-avant-son-accouchement-marine-tondelier-veut-un-pays-a-hauteur-d-enfant_8197694.html", "date": "2026-09-17" }
+    },
+    {
+      "theme": "international",
+      "texte": "Création d'un haut conseil militaire intégré, rattaché au Conseil européen.",
+      "nature": "presse",
+      "source": { "titre": "France 24 (AFP) – programme des Écologistes", "url": "https://www.france24.com/fr/info-en-continu/20260713-2027-les-ecologistes-veulent-instaurer-la-premi%C3%A8re-r%C3%A9publique-%C3%A9cologique-et-citoyenne", "date": "2026-07-13" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Instauration d'une « Première République écologique et citoyenne » mettant fin au « présidentialisme ».",
+      "nature": "presse",
+      "source": { "titre": "France 24 (AFP) – programme des Écologistes", "url": "https://www.france24.com/fr/info-en-continu/20260713-2027-les-ecologistes-veulent-instaurer-la-premi%C3%A8re-r%C3%A9publique-%C3%A9cologique-et-citoyenne", "date": "2026-07-13" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Création d'une « Assemblée nationale des enfants » tirée au sort pour recueillir leurs propositions.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo – « un pays à hauteur d'enfant »", "url": "https://www.franceinfo.fr/elections/presidentielle/pour-son-dernier-deplacement-avant-son-accouchement-marine-tondelier-veut-un-pays-a-hauteur-d-enfant_8197694.html", "date": "2026-09-17" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Fin des expulsions locatives de familles avec enfants.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo – « un pays à hauteur d'enfant »", "url": "https://www.franceinfo.fr/elections/presidentielle/pour-son-dernier-deplacement-avant-son-accouchement-marine-tondelier-veut-un-pays-a-hauteur-d-enfant_8197694.html", "date": "2026-09-17" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Limitation du nombre d'autorisations administratives de location de courte durée à des touristes.",
+      "nature": "presse",
+      "source": { "titre": "franceinfo – propositions des Écologistes pour les littoraux", "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-les-ecologistes-devoilent-leurs-propositions-pour-proteger-les-littoraux_8192429.html", "date": "2026-09-14" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Sortie progressive des pesticides de synthèse et des engrais azotés à l'horizon 2050, avec un fonds de transition agricole.",
+      "nature": "presse",
+      "source": { "titre": "France 24 (AFP) – mesures de santé environnementale", "url": "https://www.france24.com/fr/info-en-continu/20260530-pr%C3%A9sidentielle-tondelier-d%C3%A9voile-ses-mesures-pour-la-sant%C3%A9-environnementale", "date": "2026-05-30" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Généralisation des régies publiques de l'eau.",
+      "nature": "presse",
+      "source": { "titre": "France 24 (AFP) – mesures de santé environnementale", "url": "https://www.france24.com/fr/info-en-continu/20260530-pr%C3%A9sidentielle-tondelier-d%C3%A9voile-ses-mesures-pour-la-sant%C3%A9-environnementale", "date": "2026-05-30" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Interdiction aux très gros chalutiers de pêcher le long des côtes françaises et soutien à la pêche artisanale.",
+      "nature": "declaration",
+      "source": { "titre": "ICI Nord – L'invité d'ICI Matin", "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-nord/presidentielle-marine-tondelier-presente-les-mesures-des-ecologistes-pour-la-protection-de-la-mer-et-des-littoraux-4088500", "date": "2026-09-15" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Site de campagne de Marine Tondelier", "url": "https://www.marinetondelier.fr/", "type": "site", "date": "2026-09-22" },
+    { "titre": "franceinfo – L'interview politique : « Chacun a décidé d'être dans son couloir de natation »", "url": "https://www.franceinfo.fr/replay-radio/l-interview-politique/chacun-a-decide-d-etre-dans-son-couloir-de-natation-deplore-marine-tondelier-candidate-ecologiste-a-l-election-presidentielle_8189441.html", "type": "audio", "date": "2026-09-12" },
+    { "titre": "ICI Nord – Marine Tondelier présente les mesures des Écologistes pour la mer et les littoraux", "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-nord/presidentielle-marine-tondelier-presente-les-mesures-des-ecologistes-pour-la-protection-de-la-mer-et-des-littoraux-4088500", "type": "entretien", "date": "2026-09-15" },
+    { "titre": "LCP – Candidature à la présidentielle : pas de choix définitif des Écologistes avant la mi-décembre", "url": "https://lcp.fr/actualites/candidature-a-la-presidentielle-pas-de-choix-definitif-des-ecologistes-avant-la-mi", "type": "article", "date": "2026-09-21" }
+  ],
+  "a_verifier": [
+    "Liste complète des 21 priorités (post X du 17/04/2026, https://x.com/marinetondelier/status/2045125213474430977, non consultable) : la première priorité mentionnerait l'« indexation des bas salaires », texte intégral non lu.",
+    "Page programme officielle (marinetondelier.fr/le-programme → lesecologistes.fr/share/page/…/projet) bloquée par Cloudflare (403) : contenu non vérifié.",
+    "Congé climatique de cinq jours payés par an : mentionné dans la dépêche AFP du 30/05/2026 comme proposé en mai 2026, attribution et formulation exactes à confirmer.",
+    "Taxe Zucman (2 % au-delà de 100 M€), ISF climatique à partir de 1,3 M€ avec bonus-malus selon le DPE, contribution climat-énergie à 56 €/t CO2, sortie progressive du nucléaire, neutralité carbone 2040 : relevés uniquement sur des agrégateurs ou médias non retenus, à confirmer par une source primaire ou un média reconnu.",
+    "« Garantir le droit au logement » et « agir contre les pollutions, pesticides et malbouffe » (AFP 17/04/2026) : orientations trop générales pour constituer des mesures.",
+    "Droit aux vacances pour tous les enfants (franceinfo 17/09/2026) : formulation (« ouvrir la possibilité ») trop imprécise."
+  ]
+}

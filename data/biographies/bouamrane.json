@@ -1,0 +1,48 @@
+{
+  "id": "bouamrane",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Karim_Bouamrane_en_2026_%28cropped%29.jpg/500px-Karim_Bouamrane_en_2026_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Karim_Bouamrane_en_2026_(cropped).jpg",
+    "auteur": "Oumma",
+    "licence": "CC BY 4.0",
+    "annee": "2026",
+    "officielle": false,
+    "legende": "Karim Bouamrane en 2026 (capture d'une vidéo YouTube publiée sous licence CC BY 4.0)"
+  },
+  "presentation": {
+    "texte": "Karim Bouamrane est maire socialiste de Saint-Ouen-sur-Seine depuis 2020, réélu en mars 2026, et vice-président du conseil départemental de la Seine-Saint-Denis depuis 2021. Membre du Parti socialiste depuis 2014, il a lancé en octobre 2024 le mouvement La France humaine et forte et s'est déclaré candidat à l'élection présidentielle de 2027 en juin 2026, en refusant de participer à la primaire socialiste.",
+    "sources": [
+      { "titre": "Karim Bouamrane — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane", "date": "2026-09-22" },
+      { "titre": "Présidentielle 2027 : Karim Bouamrane ne participera pas à la primaire socialiste — CNews", "url": "https://www.cnews.fr/france/2026-08-26/presidentielle-2027-karim-bouamrane-ne-participera-pas-la-primaire-socialiste", "date": "2026-08-26" }
+    ]
+  },
+  "naissance": {
+    "date": "1973-02-21",
+    "lieu": "Clichy (Hauts-de-Seine)",
+    "source": { "titre": "Karim Bouamrane — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "2026", "texte": "Se déclare candidat à l'élection présidentielle de 2027 en juin 2026.", "source": { "titre": "Karim Bouamrane — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane", "date": "2026-09-22" } },
+    { "periode": "2024", "texte": "Lance en octobre 2024 le mouvement social-démocrate La France humaine et forte (FHuF).", "source": { "titre": "Karim Bouamrane — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane", "date": "2026-09-22" } },
+    { "periode": "Depuis 2022", "texte": "Président du conseil de surveillance de la Société du Grand Paris (depuis le 24 novembre 2022).", "source": { "titre": "Karim Bouamrane — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane", "date": "2026-09-22" } },
+    { "periode": "Depuis 2021", "texte": "Conseiller départemental du canton de Saint-Ouen-sur-Seine et vice-président du conseil départemental de la Seine-Saint-Denis (depuis le 1er juillet 2021).", "source": { "titre": "Karim Bouamrane — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane", "date": "2026-09-22" } },
+    { "periode": "Depuis 2020", "texte": "Maire de Saint-Ouen-sur-Seine (élu le 4 juillet 2020), réélu le 22 mars 2026 avec 56,4 % des voix au second tour.", "source": { "titre": "Karim Bouamrane — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane", "date": "2026-09-22" } },
+    { "periode": "2016", "texte": "Secrétaire national à l'innovation et porte-parole du Parti socialiste.", "source": { "titre": "Karim Bouamrane — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane", "date": "2026-09-22" } },
+    { "periode": "2014", "texte": "Adhère au Parti socialiste après avoir quitté le Parti communiste.", "source": { "titre": "Karim Bouamrane — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane", "date": "2026-09-22" } },
+    { "periode": "1995-2014", "texte": "Conseiller municipal de Saint-Ouen.", "source": { "titre": "Karim Bouamrane — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "1999-2012", "texte": "Directeur commercial dans des entreprises de sécurité informatique et de réseaux (RSA Security, Coredo Networks Security, Aruba Networks).", "source": { "titre": "Karim Bouamrane — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane", "date": "2026-09-22" } },
+    { "periode": "Depuis 2012", "texte": "Postes de direction dans des entreprises de cybersécurité (Xirrus, Guidance Software, Bitglass).", "source": { "titre": "Karim Bouamrane — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane", "date": "2026-09-22" } }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Enquête journalistique de la cellule investigation de Radio France (franceinfo, 22 mai 2026, https://www.franceinfo.fr/enquetes-franceinfo/karim-bouamrane-soupcon-d-emploi-de-complaisance-en-seine-saint-denis_8018957.html) : soupçon d'emploi de complaisance d'une chargée de mission proche de lui au conseil départemental de la Seine-Saint-Denis ; un signalement a été adressé à la chambre régionale des comptes d'Île-de-France. Karim Bouamrane conteste. Aucune procédure judiciaire (enquête du parquet, mise en examen) trouvée à ce jour : non retenue. À surveiller.",
+    "En octobre 2025, il a porté plainte après des insultes et menaces de mort lors d'une cérémonie à Saint-Ouen (il est plaignant) : non retenu.",
+    "Formation / diplômes : aucune information trouvée dans les sources consultées.",
+    "Présidence du conseil de surveillance de la Société du Grand Paris : vérifier si la fonction est toujours en cours en 2026.",
+    "Date de déclaration de candidature (juin 2026) issue de Wikipédia seul ; la page CNews citée n'a pas pu être ouverte (HTTP 403).",
+    "Photo : pas de portrait officiel sur Commons. Vignette 400px refusée par upload.wikimedia.org (HTTP 400) : vignette 500px utilisée, vérifiée HTTP 200."
+  ]
+}

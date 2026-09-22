@@ -1,0 +1,176 @@
+{
+  "mise_a_jour": "2026-09-22",
+  "fenetre": { "debut": "2026-08-01", "fin": "2026-09-22" },
+  "noms_hors_liste": { "bonnal": "Sébastien Bonnal" },
+  "sondages": [
+    {
+      "institut": "OpinionWay",
+      "commanditaire": "CNews",
+      "terrain_debut": "2026-09-09",
+      "terrain_fin": "2026-09-10",
+      "echantillon": 1001,
+      "source": { "titre": "Commission des sondages – notice OpinionWay pour CNews", "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10260-pres-iv-opinionway-cnews-11-septembre.pdf", "date": "2026-09-11" },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        { "label": "Hypothèse 1 : François Hollande candidat socialiste", "scores": { "arthaud": 1, "melenchon": 16, "roussel": 3, "tondelier": 3, "hollande": 7, "bouamrane": 1, "attal": 8, "philippe": 16, "retailleau": 7, "lisnard": 2, "dupont-aignan": 2, "zemmour": 2, "le-pen": 32 } },
+        { "label": "Hypothèse 2 : Ségolène Royal candidate socialiste", "scores": { "arthaud": 1, "melenchon": 17, "roussel": 4, "tondelier": 3, "royal": 3, "bouamrane": 1, "attal": 8, "philippe": 16, "retailleau": 7, "lisnard": 2, "dupont-aignan": 3, "zemmour": 2, "le-pen": 33 } },
+        { "label": "Hypothèse 3 : Raphaël Glucksmann candidat socialiste (Arthaud et Bouamrane « <1 % », notés 0,5)", "scores": { "arthaud": 0.5, "melenchon": 17, "roussel": 2, "tondelier": 3, "glucksmann": 9, "bouamrane": 0.5, "attal": 7, "philippe": 15, "retailleau": 7, "lisnard": 2, "dupont-aignan": 2, "zemmour": 2, "le-pen": 34 } }
+      ]
+    },
+    {
+      "institut": "Toluna Harris Interactive",
+      "commanditaire": "M6 et RTL",
+      "terrain_debut": "2026-09-08",
+      "terrain_fin": "2026-09-10",
+      "echantillon": 2052,
+      "source": { "titre": "Commission des sondages – notice Toluna Harris Interactive pour M6 et RTL", "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10263-pres-iv-toluna-harris-interactive-rtl-14-septembre.pdf", "date": "2026-09-14" },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        { "label": "Hypothèse Glucksmann, Attal et Philippe", "scores": { "arthaud": 1, "melenchon": 16, "roussel": 2, "tondelier": 3, "glucksmann": 9, "attal": 8, "philippe": 14, "retailleau": 7, "dupont-aignan": 2, "le-pen": 33, "zemmour": 5 } },
+        { "label": "Hypothèse Glucksmann et Philippe", "scores": { "arthaud": 1, "melenchon": 17, "roussel": 3, "tondelier": 3, "glucksmann": 10, "philippe": 17, "retailleau": 7, "dupont-aignan": 3, "le-pen": 34, "zemmour": 5 } },
+        { "label": "Hypothèse Glucksmann et Attal", "scores": { "arthaud": 1, "melenchon": 17, "roussel": 2, "tondelier": 3, "glucksmann": 12, "attal": 14, "retailleau": 9, "dupont-aignan": 2, "le-pen": 35, "zemmour": 5 } },
+        { "label": "Hypothèse Hollande et Philippe", "scores": { "arthaud": 1, "melenchon": 17, "roussel": 3, "tondelier": 4, "hollande": 7, "philippe": 19, "retailleau": 9, "dupont-aignan": 2, "le-pen": 33, "zemmour": 5 } },
+        { "label": "Hypothèse Hollande et Attal", "scores": { "arthaud": 1, "melenchon": 17, "roussel": 3, "tondelier": 4, "hollande": 7, "attal": 15, "retailleau": 10, "dupont-aignan": 2, "le-pen": 36, "zemmour": 5 } }
+      ]
+    },
+    {
+      "institut": "Ipsos bva",
+      "commanditaire": "Le Monde, CEVIPOF, Fondation Jean-Jaurès, Institut Montaigne (Enquête électorale française, vague 3)",
+      "terrain_debut": "2026-09-03",
+      "terrain_fin": "2026-09-09",
+      "echantillon": 13060,
+      "source": { "titre": "Commission des sondages – notice Ipsos bva Enquête électorale (Le Monde)", "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10262-pres-enquete-electorale-ipsos-bva-le-monde-13-septembre.pdf", "date": "2026-09-13" },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        { "label": "Hypothèse Glucksmann, Attal, Philippe", "scores": { "arthaud": 0.5, "melenchon": 15.5, "roussel": 2.5, "tondelier": 4, "glucksmann": 11.5, "attal": 6, "philippe": 14, "retailleau": 7, "dupont-aignan": 2, "le-pen": 33, "zemmour": 4 } },
+        { "label": "Hypothèse Glucksmann, Philippe", "scores": { "arthaud": 0.5, "melenchon": 15.5, "roussel": 2.5, "tondelier": 4, "glucksmann": 12.5, "philippe": 17.5, "retailleau": 8, "dupont-aignan": 2, "le-pen": 33.5, "zemmour": 4 } },
+        { "label": "Hypothèse Glucksmann, Attal", "scores": { "arthaud": 0.5, "melenchon": 15.5, "roussel": 2.5, "tondelier": 4.5, "glucksmann": 13.5, "attal": 13, "retailleau": 10, "dupont-aignan": 2, "le-pen": 34, "zemmour": 4.5 } },
+        { "label": "Hypothèse Faure, Attal, Philippe", "scores": { "arthaud": 0.5, "melenchon": 16.5, "roussel": 3, "tondelier": 5, "faure": 4.5, "attal": 7.5, "philippe": 16, "retailleau": 7, "dupont-aignan": 2, "le-pen": 34, "zemmour": 4 } },
+        { "label": "Hypothèse Faure, Philippe", "scores": { "arthaud": 0.5, "melenchon": 16.5, "roussel": 3.5, "tondelier": 5.5, "faure": 5, "philippe": 21, "retailleau": 7.5, "dupont-aignan": 2, "le-pen": 34.5, "zemmour": 4 } },
+        { "label": "Hypothèse Faure, Attal", "scores": { "arthaud": 0.5, "melenchon": 17, "roussel": 3.5, "tondelier": 5.5, "faure": 5.5, "attal": 15.5, "retailleau": 10.5, "dupont-aignan": 2.5, "le-pen": 35, "zemmour": 4.5 } }
+      ]
+    },
+    {
+      "institut": "OpinionWay",
+      "commanditaire": "Les Echos et Radio Classique (Présitrack, vague 2)",
+      "terrain_debut": "2026-09-08",
+      "terrain_fin": "2026-09-09",
+      "echantillon": 1001,
+      "source": { "titre": "Commission des sondages – notice OpinionWay Présitrack pour Les Echos", "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10259-pres-presitrack-v2-opinionway-les-echos-10-septembre.pdf", "date": "2026-09-10" },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        { "label": "Hypothèse 1 : Attal et Philippe candidats du centre (Arthaud « <1 % », noté 0,5 ; lignes Le Pen/Zemmour inversées dans la notice, corrigées)", "scores": { "arthaud": 0.5, "melenchon": 15, "roussel": 2, "tondelier": 3, "glucksmann": 9, "attal": 8, "philippe": 15, "retailleau": 8, "dupont-aignan": 2, "le-pen": 34, "zemmour": 4 } },
+        { "label": "Hypothèse 2 : Attal candidat du centre", "scores": { "arthaud": 1, "melenchon": 15, "roussel": 2, "tondelier": 4, "glucksmann": 12, "attal": 14, "retailleau": 12, "dupont-aignan": 2, "zemmour": 4, "le-pen": 34 } },
+        { "label": "Hypothèse 3 : Philippe candidat du centre", "scores": { "arthaud": 1, "melenchon": 15, "roussel": 1, "tondelier": 3, "glucksmann": 10, "philippe": 19, "retailleau": 10, "dupont-aignan": 3, "zemmour": 4, "le-pen": 34 } }
+      ]
+    },
+    {
+      "institut": "OpinionWay",
+      "commanditaire": "Sébastien Bonnal (candidat déclaré ; diffusion sur Facebook)",
+      "terrain_debut": "2026-09-02",
+      "terrain_fin": "2026-09-04",
+      "echantillon": 1034,
+      "source": { "titre": "Commission des sondages – notice OpinionWay pour Sébastien Bonnal", "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10264-pres-opinionway-facebook-15-septembre.pdf", "date": "2026-09-15" },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        { "label": "Hypothèse unique avec Sébastien Bonnal (Bonnal « <1 % », noté 0,5)", "scores": { "arthaud": 1, "melenchon": 16, "roussel": 2, "tondelier": 3, "glucksmann": 12, "attal": 7, "bonnal": 0.5, "philippe": 15, "retailleau": 7, "zemmour": 3, "le-pen": 34 } }
+      ]
+    },
+    {
+      "institut": "OpinionWay",
+      "commanditaire": "Le JDD",
+      "terrain_debut": "2026-09-02",
+      "terrain_fin": "2026-09-03",
+      "echantillon": 1003,
+      "source": { "titre": "Commission des sondages – notice OpinionWay pour le JDD", "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10252-pres-iv-opinionway-jdd-7-septembre.pdf", "date": "2026-09-07" },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        { "label": "Hypothèse 1 : Attal candidat du centre", "scores": { "arthaud": 1, "melenchon": 17, "roussel": 3, "tondelier": 4, "glucksmann": 13, "attal": 13, "retailleau": 11, "zemmour": 3, "le-pen": 35 } },
+        { "label": "Hypothèse 2 : Philippe candidat du centre", "scores": { "arthaud": 1, "melenchon": 16, "roussel": 3, "tondelier": 4, "glucksmann": 12, "philippe": 20, "retailleau": 8, "zemmour": 3, "le-pen": 33 } },
+        { "label": "Hypothèse 3 : Attal et Philippe candidats", "scores": { "arthaud": 1, "melenchon": 17, "roussel": 2, "tondelier": 3, "glucksmann": 11, "attal": 7, "philippe": 15, "retailleau": 7, "zemmour": 3, "le-pen": 34 } }
+      ]
+    },
+    {
+      "institut": "Ipsos bva",
+      "commanditaire": "Le Parisien",
+      "terrain_debut": "2026-08-31",
+      "terrain_fin": "2026-09-02",
+      "echantillon": 1500,
+      "source": { "titre": "Commission des sondages – notice Ipsos bva pour Le Parisien", "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10250-pres-iv-ipsos-bva-le-parisien-5-septembre.pdf", "date": "2026-09-05" },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        { "label": "Hypothèse Glucksmann, Attal, Philippe", "scores": { "arthaud": 0.5, "melenchon": 15, "roussel": 2.5, "tondelier": 3.5, "glucksmann": 11.5, "attal": 7.5, "philippe": 14.5, "retailleau": 6, "dupont-aignan": 2, "le-pen": 34, "zemmour": 3 } },
+        { "label": "Hypothèse Glucksmann, Philippe", "scores": { "arthaud": 0.5, "melenchon": 15, "roussel": 2.5, "tondelier": 4, "glucksmann": 12, "philippe": 19, "retailleau": 7.5, "dupont-aignan": 2, "le-pen": 34.5, "zemmour": 3 } },
+        { "label": "Hypothèse Glucksmann, Attal", "scores": { "arthaud": 0.5, "melenchon": 15, "roussel": 2.5, "tondelier": 4, "glucksmann": 14, "attal": 14, "retailleau": 9.5, "dupont-aignan": 2.5, "le-pen": 35, "zemmour": 3 } },
+        { "label": "Hypothèse Faure, Attal, Philippe", "scores": { "arthaud": 1, "melenchon": 16, "roussel": 3, "tondelier": 5, "faure": 4.5, "attal": 8.5, "philippe": 16.5, "retailleau": 6, "dupont-aignan": 2, "le-pen": 34.5, "zemmour": 3 } },
+        { "label": "Hypothèse Faure, Philippe", "scores": { "arthaud": 1, "melenchon": 16.5, "roussel": 3.5, "tondelier": 5, "faure": 4.5, "philippe": 22.5, "retailleau": 7.5, "dupont-aignan": 2, "le-pen": 34.5, "zemmour": 3 } },
+        { "label": "Hypothèse Faure, Attal", "scores": { "arthaud": 1, "melenchon": 17, "roussel": 3.5, "tondelier": 5.5, "faure": 5.5, "attal": 15.5, "retailleau": 10, "dupont-aignan": 2.5, "le-pen": 36, "zemmour": 3.5 } }
+      ]
+    },
+    {
+      "institut": "Cluster17",
+      "commanditaire": "Le Point",
+      "terrain_debut": "2026-08-31",
+      "terrain_fin": "2026-09-01",
+      "echantillon": 1711,
+      "source": { "titre": "Commission des sondages – notice Cluster17 pour Le Point", "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10251-pres-iv-cluster-17-le-point-5-septembre.pdf", "date": "2026-09-05" },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        { "label": "Hypothèse 1 : Philippe et Villepin (chiffres redressés de la notice, à la décimale)", "scores": { "arthaud": 0.9, "melenchon": 17.9, "roussel": 2.1, "tondelier": 2.2, "glucksmann": 11.6, "philippe": 18.2, "villepin": 3.2, "retailleau": 7.5, "dupont-aignan": 2.9, "le-pen": 30.0, "zemmour": 3.5 } },
+        { "label": "Hypothèse 2 : Attal et Villepin (chiffres redressés de la notice, à la décimale)", "scores": { "arthaud": 0.9, "melenchon": 18.2, "roussel": 2.1, "tondelier": 2.5, "glucksmann": 11.5, "attal": 13.5, "villepin": 4.0, "retailleau": 8.9, "dupont-aignan": 2.8, "le-pen": 31.6, "zemmour": 4.0 } },
+        { "label": "Hypothèse 3 : Philippe, Villepin, Ruffin et Lisnard, sans Tondelier (chiffres redressés de la notice, à la décimale)", "scores": { "arthaud": 0.8, "melenchon": 16.9, "roussel": 1.9, "ruffin": 3.9, "glucksmann": 10.8, "philippe": 16.8, "villepin": 3.5, "retailleau": 6.5, "lisnard": 4.2, "dupont-aignan": 2.2, "le-pen": 29.2, "zemmour": 3.3 } }
+      ]
+    },
+    {
+      "institut": "Elabe",
+      "commanditaire": "BFMTV et La Tribune Dimanche",
+      "terrain_debut": "2026-08-26",
+      "terrain_fin": "2026-08-28",
+      "echantillon": 1501,
+      "source": { "titre": "Commission des sondages – notice Elabe", "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10245-pres-iv-elabe-29-aout.pdf", "date": "2026-08-29" },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        { "label": "Configuration Q3 : Glucksmann, Philippe, Villepin", "scores": { "arthaud": 1.5, "roussel": 3, "melenchon": 14, "tondelier": 3.5, "glucksmann": 11.5, "philippe": 17, "villepin": 2, "retailleau": 6.5, "dupont-aignan": 3, "le-pen": 34, "zemmour": 4 } },
+        { "label": "Configuration Q4 : Glucksmann, Attal, Villepin", "scores": { "arthaud": 1.5, "roussel": 3, "melenchon": 14, "tondelier": 3, "glucksmann": 14, "attal": 12, "villepin": 2.5, "retailleau": 9.5, "dupont-aignan": 2, "le-pen": 34.5, "zemmour": 4 } },
+        { "label": "Configuration Q5 : Hollande, Philippe, Lisnard", "scores": { "arthaud": 2, "roussel": 3.5, "melenchon": 14, "tondelier": 4, "hollande": 7.5, "philippe": 19.5, "retailleau": 6, "lisnard": 3, "dupont-aignan": 2.5, "le-pen": 34, "zemmour": 4 } },
+        { "label": "Configuration Q6 : Ruffin, Hollande, Attal, Lisnard", "scores": { "arthaud": 1.5, "roussel": 4, "melenchon": 14, "ruffin": 6, "hollande": 8, "attal": 12.5, "retailleau": 9, "lisnard": 3.5, "dupont-aignan": 2.5, "le-pen": 34.5, "zemmour": 4.5 } },
+        { "label": "Configuration Q7 : Faure, Philippe, Villepin", "scores": { "arthaud": 1.5, "roussel": 4.5, "melenchon": 14.5, "tondelier": 4, "faure": 3.5, "philippe": 20.5, "villepin": 2.5, "retailleau": 7, "dupont-aignan": 2.5, "le-pen": 35.5, "zemmour": 4 } },
+        { "label": "Configuration Q8 : Glucksmann, Attal, Philippe (sans Tondelier)", "scores": { "arthaud": 1.5, "roussel": 3, "melenchon": 14.5, "glucksmann": 12.5, "attal": 6.5, "philippe": 14.5, "retailleau": 7, "dupont-aignan": 2.5, "le-pen": 34, "zemmour": 4 } }
+      ]
+    },
+    {
+      "institut": "Ifop-Fiducial",
+      "commanditaire": "LCI, Le Figaro et Sud Radio (baromètre, vague 5)",
+      "terrain_debut": "2026-08-24",
+      "terrain_fin": "2026-08-25",
+      "echantillon": 1598,
+      "source": { "titre": "Commission des sondages – notice Ifop baromètre de l'élection présidentielle vague 5", "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf", "date": "2026-08-26" },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        { "label": "Hypothèse Philippe et Attal candidats", "scores": { "arthaud": 0.5, "melenchon": 16, "roussel": 3, "tondelier": 3, "glucksmann": 11, "attal": 8, "philippe": 14.5, "retailleau": 6, "dupont-aignan": 1.5, "le-pen": 33, "zemmour": 3.5 } },
+        { "label": "Hypothèse Philippe candidat du bloc central", "scores": { "arthaud": 1, "melenchon": 17, "roussel": 3, "tondelier": 3, "glucksmann": 12, "philippe": 18, "retailleau": 8, "dupont-aignan": 1.5, "le-pen": 33, "zemmour": 3.5 } },
+        { "label": "Hypothèse Attal candidat du bloc central", "scores": { "arthaud": 0.5, "melenchon": 17, "roussel": 3, "tondelier": 3, "glucksmann": 15, "attal": 14, "retailleau": 9, "dupont-aignan": 1.5, "le-pen": 34, "zemmour": 3 } },
+        { "label": "Hypothèse Philippe (bloc central) et Glucksmann candidat unique de la gauche non LFI", "scores": { "arthaud": 1, "melenchon": 18, "glucksmann": 15, "philippe": 19, "retailleau": 8, "dupont-aignan": 2.5, "le-pen": 33, "zemmour": 3.5 } },
+        { "label": "Hypothèse Attal (bloc central) et Glucksmann candidat unique de la gauche non LFI", "scores": { "arthaud": 1.5, "melenchon": 18.5, "glucksmann": 17, "attal": 15, "retailleau": 9, "dupont-aignan": 2, "le-pen": 34, "zemmour": 3 } },
+        { "label": "Hypothèse Philippe (bloc central) et Hollande candidat unique de la gauche non LFI", "scores": { "arthaud": 1.5, "melenchon": 19, "hollande": 12, "philippe": 21, "retailleau": 8, "dupont-aignan": 2, "le-pen": 34, "zemmour": 2.5 } },
+        { "label": "Hypothèse Le Maire candidat du bloc central", "scores": { "arthaud": 1, "melenchon": 17, "roussel": 3, "tondelier": 3, "glucksmann": 18, "le-maire": 6, "retailleau": 12, "dupont-aignan": 2, "le-pen": 35, "zemmour": 3 } }
+      ]
+    },
+    {
+      "institut": "Toluna Harris Interactive",
+      "commanditaire": "M6 et RTL",
+      "terrain_debut": "2026-08-18",
+      "terrain_fin": "2026-08-19",
+      "echantillon": 1764,
+      "source": { "titre": "Commission des sondages – notice Toluna Harris Interactive pour M6 et RTL", "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10239-pres-toluna-harris-interactive-rtl-24-aout.pdf", "date": "2026-08-24" },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        { "label": "Hypothèse Glucksmann, Attal et Philippe", "scores": { "arthaud": 1, "melenchon": 16, "roussel": 2, "tondelier": 3, "glucksmann": 10, "attal": 8, "philippe": 14, "retailleau": 6, "dupont-aignan": 2, "le-pen": 35, "zemmour": 3 } },
+        { "label": "Hypothèse Glucksmann et Philippe", "scores": { "arthaud": 1, "melenchon": 17, "roussel": 3, "tondelier": 3, "glucksmann": 10, "philippe": 17, "retailleau": 7, "dupont-aignan": 3, "le-pen": 35, "zemmour": 4 } },
+        { "label": "Hypothèse Glucksmann et Attal", "scores": { "arthaud": 1, "melenchon": 17, "roussel": 2, "tondelier": 3, "glucksmann": 11, "attal": 15, "retailleau": 9, "dupont-aignan": 2, "le-pen": 37, "zemmour": 3 } },
+        { "label": "Hypothèse Hollande et Philippe", "scores": { "arthaud": 1, "melenchon": 17, "roussel": 3, "tondelier": 4, "hollande": 8, "philippe": 19, "retailleau": 7, "dupont-aignan": 2, "le-pen": 35, "zemmour": 4 } },
+        { "label": "Hypothèse Hollande et Attal", "scores": { "arthaud": 1, "melenchon": 17, "roussel": 3, "tondelier": 4, "hollande": 8, "attal": 14, "retailleau": 9, "dupont-aignan": 2, "le-pen": 38, "zemmour": 4 } }
+      ]
+    }
+  ]
+}

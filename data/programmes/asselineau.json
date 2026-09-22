@@ -1,0 +1,73 @@
+{
+  "id": "asselineau",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Programme présidentiel 2027 de l'UPR (en cours d'élaboration)",
+    "url": "https://upr.fr/notre-programme",
+    "etat": "partiel",
+    "note": "Au 22/09/2026, l'UPR indique que son programme 2027 « sera publié prochainement » ; seules les orientations fondamentales du parti et les déclarations de 2026 sont retenues ici, les programmes 2012 à 2022 étant écartés."
+  },
+  "reperes": [
+    {
+      "texte": "Inspecteur général des finances ; fondateur de l'Union populaire républicaine (UPR) le 25 mars 2007.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidat à la présidentielle de 2017 (0,92 % au premier tour) ; en 2022, il n'a pas obtenu les 500 parrainages requis (293).",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau", "date": "2026-09-22" }
+    },
+    {
+      "texte": "A confirmé sa candidature pour 2027 le 7 juillet 2026 et affirmé qu'il obtiendrait les 500 parrainages.",
+      "source": { "titre": "UPR", "url": "https://upr.fr/actualites/francois-asselineau-en-2027-je-serai-le-seul-candidat-a-la-presidence-de-la-republique-francaise", "date": "2026-07-07" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "international",
+      "texte": "Sortie de l'Union européenne, de l'euro (retour au franc) et de l'OTAN.",
+      "nature": "programme",
+      "source": { "titre": "UPR – François Asselineau invité sur GP-TV", "url": "https://upr.fr/medias/francois-asselineau-invite-de-nicolas-stoquer-sur-gp-tv-13-07-2026", "date": "2026-07-13" }
+    },
+    {
+      "theme": "international",
+      "texte": "Incessibilité de l'arme nucléaire française et du siège permanent de la France au Conseil de sécurité de l'ONU.",
+      "nature": "programme",
+      "source": { "titre": "UPR – Nos fondamentaux (page consultée)", "url": "https://upr.fr/nos-fondamentaux", "date": "2026-09-22" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Rétablissement d'un contrôle des mouvements de capitaux.",
+      "nature": "declaration",
+      "source": { "titre": "UPR – François Asselineau invité sur TV Finance", "url": "https://upr.fr/actualites/francois-asselineau-en-2027-je-serai-le-seul-candidat-a-la-presidence-de-la-republique-francaise", "date": "2026-07-07" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Instauration du référendum d'initiative citoyenne (RIC).",
+      "nature": "programme",
+      "source": { "titre": "UPR – Nos fondamentaux (page consultée)", "url": "https://upr.fr/nos-fondamentaux", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Reconnaissance du vote blanc.",
+      "nature": "programme",
+      "source": { "titre": "UPR – Nos fondamentaux (page consultée)", "url": "https://upr.fr/nos-fondamentaux", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Organisation de grands référendums sur l'immigration, la dette et le nucléaire.",
+      "nature": "programme",
+      "source": { "titre": "UPR – Nos fondamentaux (page consultée)", "url": "https://upr.fr/nos-fondamentaux", "date": "2026-09-22" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Site de l'UPR", "url": "https://upr.fr/", "type": "site", "date": "2026-09-22" },
+    { "titre": "UPR – Notre programme (2027 en cours d'élaboration, archives 2012-2022)", "url": "https://upr.fr/notre-programme", "type": "site", "date": "2026-09-22" },
+    { "titre": "UPR – Le Frexit", "url": "https://upr.fr/le-frexit", "type": "site", "date": "2026-09-22" }
+  ],
+  "a_verifier": [
+    "Page upr.fr/le-frexit (non datée) : hausse substantielle du SMIC avec baisse des charges des TPE/PME, minimum vieillesse de 950 €/mois, interdiction des OGM, chiffrages (34 Md€/an) ; montants qui semblent antérieurs à 2025, à confirmer dans le programme 2027.",
+    "Premières mesures annoncées (article 50 du TUE, notification de sortie de l'OTAN, rétablissement des contrôles aux frontières, hausse du SMIC) : lues seulement dans un résumé de recherche ; page UPR « Fréquence populaire » en erreur 404.",
+    "RIC avec seuil de 2 % des inscrits, hausse du SMIC de 24 %, monnaie dépréciée de 10 à 15 % : lus uniquement sur des agrégateurs, non retenus.",
+    "Programme 2027 annoncé « prochainement » : à intégrer à sa publication."
+  ]
+}

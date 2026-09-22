@@ -1,0 +1,54 @@
+{
+  "id": "zemmour",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Pas de programme 2027 publié",
+    "url": "https://www.parti-reconquete.fr/",
+    "etat": "aucun",
+    "note": "Pas de programme 2027 publié au 22/09/2026 ; candidature annoncée le 17/09/2026 sur BFMTV, déclaration officielle annoncée pour l'automne (« probablement dès octobre ») ; mesures connues par ses déclarations dans la presse."
+  },
+  "reperes": [
+    {
+      "texte": "Journaliste et essayiste, fondateur et président de Reconquête depuis le 5 décembre 2021.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidat à la présidentielle de 2022 : quatrième au premier tour avec 7,07 % des voix.",
+      "source": { "titre": "France 24", "url": "https://www.france24.com/fr/france/20260917-france-extreme-droite-eric-zemmour-confirme-candidature-pr%C3%A9sidentielle-immigration", "date": "2026-09-17" }
+    },
+    {
+      "texte": "A confirmé sa candidature pour 2027 le 17 septembre 2026 dans « Face à BFM » sur BFMTV.",
+      "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027", "date": "2026-09-18" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "immigration",
+      "texte": "Expulsion des étrangers au chômage depuis plus d'un an, y compris en situation régulière, et de ceux vivant uniquement des aides sociales.",
+      "nature": "declaration",
+      "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027", "date": "2026-09-18" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Expulsion de tous les étrangers en situation irrégulière.",
+      "nature": "declaration",
+      "source": { "titre": "France 24", "url": "https://www.france24.com/fr/france/20260917-france-extreme-droite-eric-zemmour-confirme-candidature-pr%C3%A9sidentielle-immigration", "date": "2026-09-17" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Expulsion des détenus étrangers (25 % des détenus selon lui) et des délinquants étrangers sous bracelet ou en travaux d'intérêt général.",
+      "nature": "declaration",
+      "source": { "titre": "France 24", "url": "https://www.france24.com/fr/france/20260917-france-extreme-droite-eric-zemmour-confirme-candidature-pr%C3%A9sidentielle-immigration", "date": "2026-09-17" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Site de Reconquête", "url": "https://www.parti-reconquete.fr/", "type": "site", "date": "2026-09-22" },
+    { "titre": "Annonce de candidature sur BFMTV (vidéo)", "url": "https://www.youtube.com/watch?v=CIu0oOF0c28", "type": "video", "date": "2026-09-17" },
+    { "titre": "« Le programme pour la France » – plateforme participative publiée par Sarah Knafo (Reconquête)", "url": "https://leprogrammepourlafrance.fr/", "type": "site", "date": "2026-09-22" }
+  ],
+  "a_verifier": [
+    "« Des robots à la place des immigrés » (remplacer la main-d'œuvre immigrée par l'IA et la robotique) : orientation exprimée sur BFMTV, sans mesure précise.",
+    "Plateforme leprogrammepourlafrance.fr (Sarah Knafo) présentée comme « matière première du programme de 2027 » : seule proposition lue (livret d'épargne pour l'industrie garanti par l'État) ; non attribuable à ce stade au programme du candidat.",
+    "Propositions fiscales, retraites, énergie : trouvées seulement dans des agrégateurs ou datant de 2022, non retenues."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "guedj",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/J%C3%A9r%C3%B4me_Guedj_2010_%28cropped%29.jpg/500px-J%C3%A9r%C3%B4me_Guedj_2010_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:J%C3%A9r%C3%B4me_Guedj_2010_(cropped).jpg",
+    "auteur": "Audrey AK",
+    "licence": "CC BY-SA 2.0",
+    "annee": "2010",
+    "officielle": false,
+    "legende": "Jérôme Guedj à Paris en 2010"
+  },
+  "presentation": {
+    "texte": "Jérôme Guedj est un homme politique et haut fonctionnaire français, membre du Parti socialiste. Ancien président du conseil général de l'Essonne (2011-2015), il est député de la 6e circonscription de l'Essonne depuis 2022. Il est candidat à la primaire du PS, de Place publique et de la GRS en vue de l'élection présidentielle de 2027.",
+    "sources": [
+      { "titre": "Wikipédia – Jérôme Guedj", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" },
+      { "titre": "franceinfo – Jérôme Guedj appelle à la constitution d'une « dream team »", "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jerome-guedj-appelle-a-la-constitution-d-une-dream-team-de-la-gauche-republicaine-universaliste-laique_8164709.html", "date": "2026-08-27" }
+    ]
+  },
+  "naissance": {
+    "date": "1972-01-23",
+    "lieu": "Pantin (Seine-Saint-Denis)",
+    "source": { "titre": "Wikipédia – Jérôme Guedj", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "2026", "texte": "Annonce le 5 février 2026 sa candidature à l'élection présidentielle de 2027 ; candidat validé à la primaire du PS, de Place publique et de la GRS.", "source": { "titre": "Wikipédia – Jérôme Guedj", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" } },
+    { "periode": "Depuis 2022", "texte": "Député de la 6e circonscription de l'Essonne (groupe socialiste), élu en 2022 et réélu en 2024.", "source": { "titre": "Wikipédia – Jérôme Guedj", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" } },
+    { "periode": "2021", "texte": "Élu conseiller régional d'Île-de-France (opposition).", "source": { "titre": "Wikipédia – Jérôme Guedj", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" } },
+    { "periode": "2017", "texte": "Candidat aux élections législatives dans la 6e circonscription de l'Essonne : 13,1 % au premier tour, éliminé.", "source": { "titre": "Wikipédia – Jérôme Guedj", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" } },
+    { "periode": "2012-2014", "texte": "Député de la 6e circonscription de l'Essonne, en remplacement de François Lamy, nommé au gouvernement Ayrault, dont il était le suppléant.", "source": { "titre": "Wikipédia – Jérôme Guedj", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" } },
+    { "periode": "2011-2015", "texte": "Président du conseil général de l'Essonne (premier vice-président de 2008 à 2011).", "source": { "titre": "Wikipédia – Jérôme Guedj", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" } },
+    { "periode": "1998-2021", "texte": "Conseiller général puis départemental de l'Essonne (canton de Massy-Est, puis canton de Massy).", "source": { "titre": "Wikipédia – Jérôme Guedj", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" } },
+    { "periode": "2001-2012", "texte": "Conseiller municipal d'opposition de Massy.", "source": { "titre": "Wikipédia – Jérôme Guedj", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" } },
+    { "periode": "1993-1997", "texte": "Débuts en politique aux côtés de Jean-Luc Mélenchon, dont il est assistant parlementaire ; membre du PS depuis 1993.", "source": { "titre": "Wikipédia – Jérôme Guedj", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "Depuis 2006", "texte": "Activité de conseil : gérant de la société J G Conseils (créée en 2006), puis création en 2018 d'une entreprise de conseil.", "source": { "titre": "Wikipédia – Jérôme Guedj", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" } },
+    { "periode": "Depuis 1996", "texte": "Inspecteur des affaires sociales (Inspection générale des affaires sociales) à sa sortie de l'ENA.", "source": { "titre": "Wikipédia – Jérôme Guedj", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" } },
+    { "periode": "Formation", "texte": "Diplômé de l'Institut d'études politiques de Paris (1992) et ancien élève de l'École nationale d'administration (promotion Victor Schœlcher, 1996).", "source": { "titre": "Wikipédia – Jérôme Guedj", "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj", "date": "2026-09-22" } }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Aucune procédure judiciaire visant personnellement Jérôme Guedj trouvée (recherches : mis en examen, condamné, enquête, plainte, diffamation).",
+    "Conseiller régional d'Île-de-France : l'infobox Wikipédia indique « depuis 2021 » ; maintien du mandat après l'élection de député de 2022 non vérifié sur une source institutionnelle — formulé comme « élu en 2021 ».",
+    "Pas de portrait officiel ni de photo libre récente sur Commons (catégorie « Jérôme Guedj » : 4 fichiers) ; photo de 2010 utilisée.",
+    "Vignette : largeur 400px refusée par Wikimedia (HTTP 400) ; vignette 500px utilisée (HTTP 200 vérifié le 2026-09-22)."
+  ]
+}

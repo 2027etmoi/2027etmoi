@@ -1,0 +1,159 @@
+{
+  "id": "lassalle",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Jean_Lassalle.jpg/500px-Jean_Lassalle.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jean_Lassalle.jpg",
+    "auteur": "Antoine Lamielle",
+    "licence": "CC BY-SA 4.0",
+    "annee": "2017",
+    "officielle": false,
+    "legende": "Jean Lassalle au Palais Bourbon en juin 2017"
+  },
+  "presentation": {
+    "texte": "Jean Lassalle est un homme politique français, maire de Lourdios-Ichère (Pyrénées-Atlantiques) de 1977 à 2017 et député des Pyrénées-Atlantiques de 2002 à 2022. Ancien membre de l'UDF puis du MoDem, il a fondé le mouvement Résistons !, qu'il préside. Il a été candidat aux élections présidentielles de 2017 et 2022.",
+    "sources": [
+      {
+        "titre": "Jean Lassalle — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+        "date": "2026-09-22"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1955-05-03",
+    "lieu": "Lourdios-Ichère (Pyrénées-Atlantiques)",
+    "source": {
+      "titre": "Jean Lassalle — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+      "date": "2026-09-22"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2024",
+      "texte": "Candidat battu aux élections législatives anticipées.",
+      "source": {
+        "titre": "Jean Lassalle — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2024",
+      "texte": "Tête de liste d'Alliance rurale aux élections européennes.",
+      "source": {
+        "titre": "franceinfo — Élections européennes : « Alliance rurale est le retour du bon sens », propose la tête de liste Jean Lassalle",
+        "url": "https://www.franceinfo.fr/elections/elections-europeennes-alliance-rurale-est-le-retour-du-bon-sens-propose-la-tete-de-liste-jean-lassalle_6519086.html",
+        "date": "2024-03-29"
+      }
+    },
+    {
+      "periode": "2022",
+      "texte": "Candidat à l'élection présidentielle : 3,13 % au premier tour (septième sur douze).",
+      "source": {
+        "titre": "Jean Lassalle — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2017",
+      "texte": "Candidat à l'élection présidentielle : 1,21 % au premier tour (septième sur onze).",
+      "source": {
+        "titre": "Jean Lassalle — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "depuis 2016",
+      "texte": "Fondateur et président du mouvement Résistons !",
+      "source": {
+        "titre": "Jean Lassalle — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2010-2016",
+      "texte": "Vice-président du Mouvement démocrate (MoDem).",
+      "source": {
+        "titre": "Jean Lassalle — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2002-2022",
+      "texte": "Député de la 4e circonscription des Pyrénées-Atlantiques.",
+      "source": {
+        "titre": "Jean Lassalle — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1982-2015",
+      "texte": "Conseiller général des Pyrénées-Atlantiques (canton d'Accous), vice-président du conseil général de 1991 à 2001.",
+      "source": {
+        "titre": "Jean Lassalle — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1977-2017",
+      "texte": "Maire de Lourdios-Ichère (Pyrénées-Atlantiques).",
+      "source": {
+        "titre": "Jean Lassalle — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+        "date": "2026-09-22"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "non datée",
+      "texte": "Technicien agricole spécialisé en hydraulique et aménagement du territoire ; fondateur d'une société de conseil. Issu d'une famille de bergers.",
+      "source": {
+        "titre": "Jean Lassalle — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+        "date": "2026-09-22"
+      }
+    }
+  ],
+  "affaires": [
+    {
+      "titre": "Enquête préliminaire pour viol et agression sexuelle",
+      "texte": "Visé à partir de juillet 2023 par une enquête préliminaire du parquet de Bordeaux pour viol et agression sexuelle, portant sur des faits dénoncés remontant à 2010. Entendu en audition libre en novembre 2023, il est « ressorti libre sans poursuites à ce stade », selon le parquet. Il a contesté les faits. L'enquête a été classée sans suite le 29 mars 2024.",
+      "etat": "classement",
+      "etat_detail": "Enquête classée sans suite le 29 mars 2024 par le parquet de Bordeaux, qui indique que les investigations ne permettent pas d'établir l'existence d'une infraction pénale.",
+      "date_etat": "2024-03-29",
+      "sources": [
+        {
+          "titre": "franceinfo — Enquête pour viol et agression sexuelle : Jean Lassalle réagit",
+          "url": "https://www.franceinfo.fr/politique/jean-lassalle/accusation-de-viol-je-n-ai-jamais-ete-alcoolise-au-point-de-trouver-une-femme-enceinte-dans-mon-lit-et-de-la-violer-reagit-jean-lassalle_5963567.html",
+          "date": "2023-07-21"
+        },
+        {
+          "titre": "franceinfo (avec AFP) — L'ancien député Jean Lassalle entendu par la police judiciaire dans l'enquête pour viol et agression sexuelle qui le vise",
+          "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-ancien-depute-jean-lassalle-entendu-par-la-police-judiciaire-dans-l-enquete-pour-viol-et-agression-sexuelle-qui-le-vise_6200115.html",
+          "date": "2023-11-22"
+        },
+        {
+          "titre": "franceinfo — L'enquête pour viol et agression sexuelle visant Jean Lassalle classée sans suite",
+          "url": "https://www.franceinfo.fr/politique/jean-lassalle/l-enquete-pour-viol-et-agression-sexuelle-visant-jean-lassalle-classee-sans-suite_6454889.html",
+          "date": "2024-03-29"
+        }
+      ]
+    }
+  ],
+  "a_verifier": [
+    "Classement sans suite : article du Monde du 29 mars 2024 cité via Wikipédia, non ouvert (paywall ou blocage anti-robot). À relire.",
+    "Enquête pénale ouverte en avril 2022 par le parquet de Pau pour atteinte à la sincérité du scrutin, après la mise en scène de son abstention au second tour de la présidentielle le 24 avril 2022 (franceinfo, 28 avril 2022). Issue non trouvée. Non publiée.",
+    "Parcours professionnel : pas de dates précises dans les sources.",
+    "Photo : ancienne (2017) et non officielle. Aucun portrait institutionnel libre trouvé. Vignette en 500px : la taille de 400px est refusée par Wikimedia.",
+    "Recherche web par mots-clés sur d'autres procédures non faite (quota épuisé)."
+  ]
+}

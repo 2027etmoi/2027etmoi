@@ -1,0 +1,121 @@
+{
+  "id": "roussel",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "« Vivre ! » (campagne présidentielle 2027)",
+    "url": "https://www.fabienroussel2027.fr/",
+    "etat": "partiel",
+    "note": "Pas de programme complet publié au 22/09/2026 ; mesures tirées des documents de campagne (tract, lettres), du discours de la Fête de l'Humanité publié par le PCF et de la presse."
+  },
+  "reperes": [
+    {
+      "texte": "Secrétaire national du Parti communiste français depuis 2018.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Député de la 20e circonscription du Nord de 2017 à 2024 ; maire de Saint-Amand-les-Eaux depuis 2025.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidat à la présidentielle de 2022 : 8e avec 2,28 % des suffrages exprimés.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidature à 2027 approuvée par 72 % des adhérents du PCF et annoncée le 6 septembre 2026 sur TF1.",
+      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389", "date": "2026-09-06" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "economie",
+      "texte": "Rétablissement de l'impôt de solidarité sur la fortune (ISF).",
+      "nature": "programme",
+      "source": { "titre": "PCF, discours de Fabien Roussel à la Fête de l'Humanité 2026", "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel", "date": "2026-09-15" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Exonération des héritages inférieurs à 200 000 euros et taxation accrue des héritages les plus élevés.",
+      "nature": "programme",
+      "source": { "titre": "PCF, discours de Fabien Roussel à la Fête de l'Humanité 2026", "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel", "date": "2026-09-15" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Nationalisation d'une grande banque et création d'un pôle public bancaire prêtant à taux bonifiés, nuls voire négatifs selon des critères sociaux et écologiques.",
+      "nature": "programme",
+      "source": { "titre": "PCF, discours de Fabien Roussel à la Fête de l'Humanité 2026", "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel", "date": "2026-09-15" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Sanctions contre les fraudeurs fiscaux : prison, déchéance des droits civiques ou travaux d'intérêt général.",
+      "nature": "declaration",
+      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389", "date": "2026-09-06" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Blocage du prix des carburants à 1,60 euro le litre et baisse des taxes de l'État sur les carburants.",
+      "nature": "programme",
+      "source": { "titre": "Tract de campagne « Carburant, stop au racket » (PDF)", "url": "https://assets.nationbuilder.com/pcf/pages/44150/attachments/original/1789976419/tract_carburant.pdf?1789976419", "date": "2026-09" }
+    },
+    {
+      "theme": "travail",
+      "texte": "« Parité sociale » dans les grands groupes : autant de représentants des salariés que d'actionnaires dans les conseils d'administration.",
+      "nature": "programme",
+      "source": { "titre": "PCF, discours de Fabien Roussel à la Fête de l'Humanité 2026", "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel", "date": "2026-09-15" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Cotisations sur les revenus financiers et les dividendes pour financer la Sécurité sociale et les retraites par répartition.",
+      "nature": "programme",
+      "source": { "titre": "PCF, discours de Fabien Roussel à la Fête de l'Humanité 2026", "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel", "date": "2026-09-15" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Objectif d'aller vers le « 100 % Sécurité sociale » dans un service public de la santé et de l'autonomie.",
+      "nature": "programme",
+      "source": { "titre": "Lettre de campagne aux soignants (PDF)", "url": "https://assets.nationbuilder.com/pcf/pages/44149/attachments/original/1789976358/lettre_aux_soignants.pdf?1789976358", "date": "2026-09" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Service public unifié de l'énergie : TotalEnergies et Engie nationalisés et réunis avec EDF dans un pôle public.",
+      "nature": "programme",
+      "source": { "titre": "Lettre de campagne aux énergéticiens (PDF)", "url": "https://assets.nationbuilder.com/pcf/pages/44148/attachments/original/1789976303/lettre_aux_energeticiens.pdf?1789976303", "date": "2026-09" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Doublement des capacités de production d'électricité décarbonée (nucléaire, hydraulique et renouvelables), pour la neutralité carbone en 2050.",
+      "nature": "programme",
+      "source": { "titre": "Lettre de campagne aux énergéticiens (PDF)", "url": "https://assets.nationbuilder.com/pcf/pages/44148/attachments/original/1789976303/lettre_aux_energeticiens.pdf?1789976303", "date": "2026-09" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Sortie planifiée des énergies fossiles dans les quinze prochaines années.",
+      "nature": "programme",
+      "source": { "titre": "PCF, discours de Fabien Roussel à la Fête de l'Humanité 2026", "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel", "date": "2026-09-15" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Adoption d'une « loi intégrale » contre les violences sexuelles faites aux femmes et aux enfants, avec les moyens de l'appliquer.",
+      "nature": "programme",
+      "source": { "titre": "PCF, discours de Fabien Roussel à la Fête de l'Humanité 2026", "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel", "date": "2026-09-15" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "« Parité sociale » au Parlement : obligation pour les partis de présenter 50 % d'ouvriers et d'employés aux élections législatives.",
+      "nature": "programme",
+      "source": { "titre": "PCF, discours de Fabien Roussel à la Fête de l'Humanité 2026", "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel", "date": "2026-09-15" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Site de campagne « Vivre ! »", "url": "https://www.fabienroussel2027.fr/", "type": "site", "date": "2026-09" },
+    { "titre": "Discours à la Fête de l'Humanité 2026 (texte intégral, PCF)", "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel", "type": "discours", "date": "2026-09-15" },
+    { "titre": "Matériel de campagne (tracts et lettres)", "url": "https://www.fabienroussel2027.fr/materiel", "type": "page", "date": "2026-09" },
+    { "titre": "Annonce de candidature au 20 h de TF1 (compte rendu franceinfo)", "url": "https://www.franceinfo.fr/elections/presidentielle/le-communiste-fabien-roussel-officialise-sa-candidature-a-l-election-presidentielle-de-2027-pour-defendre-un-projet-de-rupture_8179856.html", "type": "article", "date": "2026-09-06" }
+  ],
+  "a_verifier": [
+    "SMIC à 1 700 euros net et hausse de 5 % de tous les salaires : chiffres vus uniquement sur un site non reconnu (bdor.fr / agrégateurs), non confirmés par une source primaire ou un média reconnu.",
+    "Retraite à 60 ans et semaine de 32 heures : attribuées par des agrégateurs (elyseescope), non confirmées pour 2027.",
+    "Plan climat « Empreinte 2050 » du PCF (2023 : prolongation des réacteurs, 20 EPR2, 12 SMR) : document antérieur à 2025 ; la lettre de 2026 renvoie à « notre Plan Climat » sans en reprendre les chiffres.",
+    "Article CNews du 03/09/2026 sur la consultation des militants : 403, non consulté.",
+    "Dates des PDF de campagne déduites des horodatages des fichiers (21/09/2026)."
+  ]
+}

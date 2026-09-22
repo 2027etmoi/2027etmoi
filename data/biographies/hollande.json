@@ -1,0 +1,49 @@
+{
+  "id": "hollande",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fran%C3%A7ois_Hollande_-_Ceremony_of_Honour_for_Jacques_Delors_-_2024.jpg/500px-Fran%C3%A7ois_Hollande_-_Ceremony_of_Honour_for_Jacques_Delors_-_2024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Hollande_-_Ceremony_of_Honour_for_Jacques_Delors_-_2024.jpg",
+    "auteur": "Christophe Licoppe / European Union, 2024 / EC - Audiovisual Service",
+    "licence": "CC BY 4.0",
+    "annee": "2024",
+    "officielle": false,
+    "legende": "François Hollande lors de la cérémonie européenne d'hommage à Jacques Delors, 31 janvier 2024 (Commission européenne)"
+  },
+  "presentation": {
+    "texte": "François Hollande a été président de la République de 2012 à 2017, après avoir été premier secrétaire du Parti socialiste de 1997 à 2008. Ancien maire de Tulle et ancien président du conseil général de la Corrèze, il est de nouveau député de la 1re circonscription de la Corrèze depuis juillet 2024.",
+    "sources": [
+      { "titre": "François Hollande — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande", "date": "2026-09-22" },
+      { "titre": "M. François Hollande — Assemblée nationale", "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1654", "date": "2026-09-22" }
+    ]
+  },
+  "naissance": {
+    "date": "1954-08-12",
+    "lieu": "Rouen (Seine-Maritime)",
+    "source": { "titre": "M. François Hollande — Assemblée nationale", "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1654", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "Depuis 2024", "texte": "Député de la 1re circonscription de la Corrèze, élu le 7 juillet 2024 ; membre du groupe Socialistes et apparentés.", "source": { "titre": "M. François Hollande — Assemblée nationale", "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1654", "date": "2026-09-22" } },
+    { "periode": "2012-2017", "texte": "Président de la République du 15 mai 2012 au 14 mai 2017 ; il renonce à briguer un second mandat, une première sous la Ve République. Membre de droit du Conseil constitutionnel depuis 2017, il n'y siège pas.", "source": { "titre": "François Hollande — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande", "date": "2026-09-22" } },
+    { "periode": "2012", "texte": "Élu président de la République : 28,63 % au premier tour (22 avril 2012) et 51,64 % au second tour (6 mai 2012) face à Nicolas Sarkozy.", "source": { "titre": "Élection présidentielle française de 2012 — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012", "date": "2026-09-22" } },
+    { "periode": "2011", "texte": "Remporte la primaire citoyenne socialiste : 39,17 % au premier tour et 56,57 % au second tour face à Martine Aubry.", "source": { "titre": "Primaire citoyenne de 2011 — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Primaire_citoyenne_de_2011", "date": "2026-09-22" } },
+    { "periode": "2008-2012", "texte": "Président du conseil général de la Corrèze.", "source": { "titre": "François Hollande — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande", "date": "2026-09-22" } },
+    { "periode": "2001-2008", "texte": "Maire de Tulle.", "source": { "titre": "François Hollande — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande", "date": "2026-09-22" } },
+    { "periode": "1999", "texte": "Député européen de juillet à décembre 1999.", "source": { "titre": "François Hollande — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande", "date": "2026-09-22" } },
+    { "periode": "1997-2008", "texte": "Premier secrétaire du Parti socialiste (novembre 1997 - novembre 2008).", "source": { "titre": "François Hollande — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande", "date": "2026-09-22" } },
+    { "periode": "1988-2012", "texte": "Député de la 1re circonscription de la Corrèze de 1988 à 1993, puis de 1997 à 2012.", "source": { "titre": "François Hollande — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "Formation", "texte": "Licence de droit (université Panthéon-Assas, 1974), diplômé d'HEC (1975) et de Sciences Po Paris ; ENA, promotion Voltaire (1978-1980).", "source": { "titre": "François Hollande — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande", "date": "2026-09-22" } },
+    { "periode": "1980-2006", "texte": "Magistrat à la Cour des comptes (avec des périodes de détachement) ; conseiller référendaire.", "source": { "titre": "M. François Hollande — Assemblée nationale", "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1654", "date": "2026-09-22" } },
+    { "periode": "Jusqu'en 1991", "texte": "Maître de conférences en économie à Sciences Po Paris.", "source": { "titre": "François Hollande — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande", "date": "2026-09-22" } },
+    { "periode": "1997", "texte": "Avocat, brièvement, au cabinet de Jean-Pierre Mignard.", "source": { "titre": "François Hollande — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande", "date": "2026-09-22" } }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Enquête préliminaire ouverte le 21 novembre 2016 par le parquet de Paris pour « compromission de la défense nationale », après la publication par Le Monde d'un document classifié sur des frappes prévues en Syrie, obtenu par les journalistes Gérard Davet et Fabrice Lhomme lors d'entretiens avec François Hollande (franceinfo, https://www.franceinfo.fr/politique/francois-hollande/hollande-et-le-secret-defense-une-enquete-ouverte-pour-compromission-de-la-defense-nationale-apres-la-publication-par-le-monde-de-documents-classifies-sur-la-syrie_1932169.html). Issue de l'enquête non trouvée, et il n'est pas établi qu'elle le visait personnellement (irresponsabilité présidentielle, art. 67 de la Constitution) : non publiée.",
+    "Aucune mise en examen, condamnation ou enquête le visant personnellement trouvée pour 2025-2026. Un cambriolage à son domicile parisien (deux suspects mis en examen fin novembre 2025) le concerne comme victime : non retenu.",
+    "Photo : pas de portrait officiel libre trouvé sur Commons (ni présidentiel, ni Assemblée nationale). Vignette 400px refusée par upload.wikimedia.org (HTTP 400) : vignette 500px utilisée, vérifiée HTTP 200.",
+    "Dates précises de début et de fin de ses fonctions à la Cour des comptes et de ses enseignements à Sciences Po issues de Wikipédia seul."
+  ]
+}

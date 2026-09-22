@@ -1,0 +1,210 @@
+{
+  "id": "royal",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/SEGOLENE_ROYAL_DEAUVILLE_2020_2_%28cropped%29.jpg/500px-SEGOLENE_ROYAL_DEAUVILLE_2020_2_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:SEGOLENE_ROYAL_DEAUVILLE_2020_2_(cropped).jpg",
+    "auteur": "Georges Biard",
+    "licence": "CC BY-SA 4.0",
+    "annee": "2020",
+    "officielle": false,
+    "legende": "Ségolène Royal à Deauville en 2020"
+  },
+  "presentation": {
+    "texte": "Ségolène Royal est une haute fonctionnaire et femme politique française, longtemps membre du Parti socialiste. Députée des Deux-Sèvres, plusieurs fois ministre et présidente de la région Poitou-Charentes de 2004 à 2014, elle a été la candidate du PS à l'élection présidentielle de 2007. Elle est candidate à la primaire du PS, de Place publique et de la GRS en vue de l'élection présidentielle de 2027.",
+    "sources": [
+      {
+        "titre": "Wikipédia – Ségolène Royal",
+        "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+        "date": "2026-09-22"
+      },
+      {
+        "titre": "Brut – Ségolène Royal annonce sa participation à la primaire",
+        "url": "https://www.brut.media/fr/articles/france/politique/presidentielle-2027-segolene-royal-annonce-sa-participation-a-la-primaire-de-l-espace-socialiste",
+        "date": "2026-07-10"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1953-09-22",
+    "lieu": "Dakar (Sénégal)",
+    "source": {
+      "titre": "Wikipédia – Ségolène Royal",
+      "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+      "date": "2026-09-22"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Annonce le 10 juillet 2026 sa candidature à la primaire du PS, de Place publique et de la GRS pour l'élection présidentielle de 2027.",
+      "source": {
+        "titre": "Brut",
+        "url": "https://www.brut.media/fr/articles/france/politique/presidentielle-2027-segolene-royal-annonce-sa-participation-a-la-primaire-de-l-espace-socialiste",
+        "date": "2026-07-10"
+      }
+    },
+    {
+      "periode": "2021",
+      "texte": "Candidate battue aux élections sénatoriales des Français établis hors de France.",
+      "source": {
+        "titre": "Wikipédia – Ségolène Royal",
+        "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2017-2020",
+      "texte": "Ambassadrice chargée de la négociation internationale pour les pôles arctique et antarctique, démise de cette fonction le 24 janvier 2020.",
+      "source": {
+        "titre": "Wikipédia – Ségolène Royal",
+        "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2014-2017",
+      "texte": "Ministre de l'Écologie, du Développement durable et de l'Énergie, puis de l'Environnement, de l'Énergie et de la Mer (gouvernements Valls II et Cazeneuve).",
+      "source": {
+        "titre": "Wikipédia – Ségolène Royal",
+        "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2004-2014",
+      "texte": "Présidente du conseil régional de Poitou-Charentes (élue en 2004, réélue en 2010).",
+      "source": {
+        "titre": "Wikipédia – Ségolène Royal",
+        "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2007",
+      "texte": "Candidate du Parti socialiste à l'élection présidentielle : 25,87 % au premier tour, 46,94 % au second tour face à Nicolas Sarkozy.",
+      "source": {
+        "titre": "Wikipédia – Ségolène Royal",
+        "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2000-2002",
+      "texte": "Ministre déléguée à la Famille, à l'Enfance (et aux Personnes handicapées à partir de 2001), gouvernement Jospin.",
+      "source": {
+        "titre": "Wikipédia – Ségolène Royal",
+        "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1997-2000",
+      "texte": "Ministre déléguée à l'Enseignement scolaire, gouvernement Jospin.",
+      "source": {
+        "titre": "Wikipédia – Ségolène Royal",
+        "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1992-1993",
+      "texte": "Ministre de l'Environnement, gouvernement Bérégovoy.",
+      "source": {
+        "titre": "Wikipédia – Ségolène Royal",
+        "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1988-2007",
+      "texte": "Députée de la 2e circonscription des Deux-Sèvres (mandats interrompus par ses fonctions ministérielles).",
+      "source": {
+        "titre": "Wikipédia – Ségolène Royal",
+        "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+        "date": "2026-09-22"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "1994",
+      "texte": "Avocate au barreau de Paris (cabinet Mignard, Teitgen, Grisoni & associés).",
+      "source": {
+        "titre": "Wikipédia – Ségolène Royal",
+        "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "Années 1980",
+      "texte": "Conseillère du président François Mitterrand.",
+      "source": {
+        "titre": "Wikipédia – Ségolène Royal",
+        "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1980",
+      "texte": "Conseillère au tribunal administratif de Paris à sa sortie de l'ENA.",
+      "source": {
+        "titre": "Wikipédia – Ségolène Royal",
+        "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "Formation",
+      "texte": "Licence de sciences économiques (université Nancy-II), diplômée de l'Institut d'études politiques de Paris (1975), ancienne élève de l'ENA (promotion Voltaire, 1980).",
+      "source": {
+        "titre": "Wikipédia – Ségolène Royal",
+        "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+        "date": "2026-09-22"
+      }
+    }
+  ],
+  "affaires": [
+    {
+      "titre": "Frais d'ambassadrice des pôles : enquête du Parquet national financier",
+      "texte": "Le Parquet national financier a ouvert une enquête préliminaire sur l'usage fait par Ségolène Royal des moyens mis à sa disposition en tant qu'ambassadrice chargée des pôles, après des révélations de la cellule investigation de Radio France.",
+      "etat": "classement",
+      "etat_detail": "Enquête classée sans suite le 28 juin 2021, le parquet indiquant qu'aucune infraction n'avait été relevée.",
+      "date_etat": "2021-06-28",
+      "sources": [
+        {
+          "titre": "France 24 – Une enquête vise Ségolène Royal pour ses frais en tant qu'ambassadrice des pôles",
+          "url": "https://www.france24.com/fr/20200115-une-enqu%C3%AAte-vise-s%C3%A9gol%C3%A8ne-royal-pour-ses-frais-en-tant-qu-ambassadrice-des-p%C3%B4les",
+          "date": "2020-01-15"
+        },
+        {
+          "titre": "franceinfo – L'enquête visant Ségolène Royal pour des frais en tant qu'ambassadrice des pôles classée sans suite",
+          "url": "https://www.franceinfo.fr/politique/segolene-royal/l-enquete-visant-segolene-royal-pour-des-frais-en-tant-qu-ambassadrice-des-poles-classee-sans-suite_4682287.html",
+          "date": "2021-06-28"
+        }
+      ]
+    },
+    {
+      "titre": "Poursuites pour diffamation devant la Cour de justice de la République (bizutage au lycée Thiers)",
+      "texte": "Poursuivie pour diffamation envers des fonctionnaires par deux enseignants du lycée Thiers de Marseille, qu'elle avait mis en cause en 1997, alors ministre déléguée à l'Enseignement scolaire, à propos de faits de bizutage.",
+      "etat": "relaxe",
+      "etat_detail": "Relaxée par la Cour de justice de la République le 16 mai 2000.",
+      "date_etat": "2000-05-16",
+      "sources": [
+        {
+          "titre": "INA – Verdict au procès de Ségolène Royal (France 2, journal de 20 heures)",
+          "url": "https://www.ina.fr/ina-eclaire-actu/video/cab00026056/verdict-au-proces-de-segolene-royal",
+          "date": "2000-05-16"
+        }
+      ]
+    }
+  ],
+  "a_verifier": [
+    "Diffamation envers le journaliste Sylvain Tronchet (Radio France) : condamnée par le tribunal correctionnel de Paris le 20 avril 2023 à 500 € d'amende avec sursis et 1 000 € de dommages et intérêts, pour des propos tenus en novembre 2019 dans « Les Grosses Têtes » et sur France Inter ; son avocat a annoncé faire appel (Puremédias, 27 avril 2023 : https://www.ozap.com/actu/-journalisme-de-caniveau-segolene-royal-condamnee-pour-avoir-diffame-un-journaliste-de-radio-france/631199). Issue de l'appel NON trouvée : non publiée tant que l'état actuel n'est pas établi. Puremédias n'est par ailleurs pas dans la liste des exemples de presse reconnue : chercher une source AFP / Le Monde / franceinfo.",
+    "Affaire CJR (2000) : seule source trouvée = archive INA du JT de France 2 (+ Encyclopædia Universalis). Vérifier si une source de presse écrite (Le Monde, Libération) est souhaitée en complément.",
+    "Affaire prud'homale : montants des indemnités non précisés par la source.",
+    "Présidente de l'association France-Algérie depuis le 18 décembre 2025 (Wikipédia) : non retenu dans le parcours politique (fonction associative).",
+    "Vignette : largeur 400px refusée par Wikimedia (HTTP 400) ; vignette 500px utilisée (HTTP 200 vérifié le 2026-09-22).",
+    "Litige prud'homal (collaboratrices parlementaires, Cass. soc. 8/04/2009, Europe 1) retiré de l'affichage : contentieux civil du travail, hors du périmètre pénal retenu pour les autres fiches."
+  ]
+}

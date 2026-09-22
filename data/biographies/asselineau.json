@@ -1,0 +1,57 @@
+{
+  "id": "asselineau",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fran%C3%A7ois_ASSELINEAU.jpg/500px-Fran%C3%A7ois_ASSELINEAU.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_ASSELINEAU.jpg",
+    "auteur": "Union populaire républicaine",
+    "licence": "CC BY-SA 4.0",
+    "annee": "2014",
+    "officielle": false,
+    "legende": "François Asselineau en 2014 (photo diffusée par l'UPR)"
+  },
+  "presentation": {
+    "texte": "François Asselineau est un haut fonctionnaire (inspecteur général des finances) et homme politique français. Il a fondé en 2007 l'Union populaire républicaine (UPR), qu'il préside et qui milite pour la sortie de l'Union européenne, de l'euro et de l'OTAN. Il a été candidat à l'élection présidentielle de 2017.",
+    "sources": [
+      { "titre": "François Asselineau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau", "date": "2026-09-22" }
+    ]
+  },
+  "naissance": {
+    "date": "1957-09-14",
+    "lieu": "Paris",
+    "source": { "titre": "François Asselineau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "2022", "texte": "N'obtient pas les parrainages nécessaires pour se présenter à l'élection présidentielle.", "source": { "titre": "François Asselineau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau", "date": "2026-09-22" } },
+    { "periode": "2017", "texte": "Candidat à l'élection présidentielle : 0,92 % au premier tour.", "source": { "titre": "François Asselineau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau", "date": "2026-09-22" } },
+    { "periode": "2012", "texte": "N'obtient pas les parrainages nécessaires pour se présenter à l'élection présidentielle.", "source": { "titre": "François Asselineau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau", "date": "2026-09-22" } },
+    { "periode": "depuis 2007", "texte": "Fondateur et président de l'Union populaire républicaine (UPR), réélu à la tête du parti en 2011, 2014, 2017, 2020 et 2023.", "source": { "titre": "François Asselineau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau", "date": "2026-09-22" } },
+    { "periode": "2001-2008", "texte": "Conseiller de Paris (19e arrondissement), élu sur la liste de Jean Tiberi. Cadre du RPF puis du RIF.", "source": { "titre": "François Asselineau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "1980-1985", "texte": "Diplômé d'HEC Paris (1980) et de l'École nationale d'administration (1985, promotion Léonard-de-Vinci).", "source": { "titre": "François Asselineau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau", "date": "2026-09-22" } },
+    { "periode": "1985-1993", "texte": "Inspecteur des finances, puis chargé de mission au Crédit national et chef de bureau au ministère de l'Économie et des Finances.", "source": { "titre": "François Asselineau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau", "date": "2026-09-22" } },
+    { "periode": "1993-2004", "texte": "Membre de cabinets ministériels (Industrie, Tourisme, Affaires étrangères), puis directeur de cabinet de Charles Pasqua au conseil général des Hauts-de-Seine (2001-2004). Inspecteur général des finances en 2001.", "source": { "titre": "François Asselineau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau", "date": "2026-09-22" } },
+    { "periode": "2004-2006", "texte": "Délégué général à l'intelligence économique au ministère de l'Économie et des Finances.", "source": { "titre": "François Asselineau — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau", "date": "2026-09-22" } }
+  ],
+  "affaires": [
+    {
+      "titre": "Plaintes de deux anciens collaborateurs pour harcèlement et agressions sexuelles",
+      "texte": "Visé par deux plaintes déposées en 2020 par d'anciens collaborateurs de l'UPR. Placé en garde à vue le 3 février 2021, il est mis en examen le 5 février 2021 pour harcèlement moral, harcèlement sexuel, agressions sexuelles par personne abusant de l'autorité que lui confère sa fonction et intimidation d'une victime. Les juges d'instruction ont prononcé un non-lieu le 6 décembre 2024 ; le parquet a fait appel. Le 7 avril 2026, la chambre de l'instruction de la cour d'appel de Paris a infirmé ce non-lieu et ordonné son renvoi devant le tribunal correctionnel de Paris, pour harcèlement sexuel par personne abusant de son autorité au préjudice d'un collaborateur, ainsi que pour agressions sexuelles et tentative d'agression sexuelle au préjudice d'un second. Il conteste les faits.",
+      "etat": "renvoi_proces",
+      "etat_detail": "Renvoyé devant le tribunal correctionnel de Paris par arrêt de la chambre de l'instruction du 7 avril 2026. Date du procès non connue. François Asselineau est présumé innocent.",
+      "date_etat": "2026-04-07",
+      "sources": [
+        { "titre": "franceinfo — L'ancien candidat à la présidentielle François Asselineau mis en examen pour « harcèlement sexuel » et « agressions sexuelles »", "url": "https://www.franceinfo.fr/politique/francois-asselineau/l-ancien-candidat-a-la-presidentielle-francois-asselineau-mis-en-examen-pour-harcelement-sexuel-et-agressions-sexuelles_4285201.html", "date": "2021-02-05" },
+        { "titre": "franceinfo — François Asselineau finalement renvoyé devant le tribunal correctionnel, notamment pour « harcèlement sexuel » et « agressions sexuelles » sur deux collaborateurs", "url": "https://www.franceinfo.fr/politique/francois-asselineau/info-franceinfo-francois-asselineau-finalement-renvoye-devant-le-tribunal-correctionnel-notamment-pour-harcelement-sexuel-et-agressions-sexuelles-sur-deux-collaborateurs_8002061.html", "date": "2026-05-13" }
+      ]
+    }
+  ],
+  "a_verifier": [
+    "Date du procès devant le tribunal correctionnel non trouvée. Vérifier aussi un éventuel pourvoi contre l'arrêt de renvoi du 7 avril 2026.",
+    "« Il conteste les faits » : franceinfo (5 février 2021) écrit qu'il « dément ces accusations » ; en 2026, son avocat n'a pas répondu à franceinfo.",
+    "Photo : photo diffusée par le parti en 2014 (licence vérifiée sur Commons), pas un portrait institutionnel, et ancienne. Aucune photo plus récente exploitable sur Commons (2024 : photo d'affichage électoral). Vignette en 500px : la taille de 400px est refusée par Wikimedia.",
+    "Score aux élections européennes de 2019 comme tête de liste UPR : non repris, faute de vérification.",
+    "Recherche web par mots-clés sur d'autres procédures non faite (quota épuisé)."
+  ]
+}

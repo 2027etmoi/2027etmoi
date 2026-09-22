@@ -1,0 +1,25 @@
+{
+  "id": "labib",
+  "mise_a_jour": "2026-09-22",
+  "presentation": {
+    "texte": "Selma Labib est conductrice de bus et porte-parole du NPA-Révolutionnaires, l'un des deux partis nés de la scission du Nouveau Parti anticapitaliste en 2022. Elle a conduit la liste du NPA-Révolutionnaires aux élections européennes de 2024. Le parti a annoncé sa candidature à l'élection présidentielle de 2027 le 17 juin 2026.",
+    "sources": [
+      { "titre": "NPA-Révolutionnaires (reprise d'un article de RTL) – Présidentielle 2027 : Selma Labib officiellement candidate pour le NPA-Révolutionnaires", "url": "https://npa-revolutionnaires.org/sur-rtl-presidentielle-2027-selma-labib-officiellement-candidate-pour-le-npa-revolutionnaires/", "date": "2026-06-17" }
+    ]
+  },
+  "parcours_politique": [
+    { "periode": "2026", "texte": "Candidate déclarée du NPA-Révolutionnaires à l'élection présidentielle de 2027 ; elle cherche à réunir les 500 parrainages.", "source": { "titre": "NPA-Révolutionnaires / RTL", "url": "https://npa-revolutionnaires.org/sur-rtl-presidentielle-2027-selma-labib-officiellement-candidate-pour-le-npa-revolutionnaires/", "date": "2026-06-17" } },
+    { "periode": "2024", "texte": "Tête de liste du NPA-Révolutionnaires aux élections européennes : 0,15 % des voix.", "source": { "titre": "NPA-Révolutionnaires / RTL", "url": "https://npa-revolutionnaires.org/sur-rtl-presidentielle-2027-selma-labib-officiellement-candidate-pour-le-npa-revolutionnaires/", "date": "2026-06-17" } },
+    { "periode": "Actuellement", "texte": "Porte-parole du NPA-Révolutionnaires.", "source": { "titre": "NPA-Révolutionnaires / RTL", "url": "https://npa-revolutionnaires.org/sur-rtl-presidentielle-2027-selma-labib-officiellement-candidate-pour-le-npa-revolutionnaires/", "date": "2026-06-17" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "Actuellement", "texte": "Conductrice de bus.", "source": { "titre": "NPA-Révolutionnaires / RTL", "url": "https://npa-revolutionnaires.org/sur-rtl-presidentielle-2027-selma-labib-officiellement-candidate-pour-le-npa-revolutionnaires/", "date": "2026-06-17" } }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Pas de page Wikipédia en français. Date et lieu de naissance inconnus (« 30 ans » en juin 2026 selon RTL) : champ naissance omis.",
+    "Seule source : le site du parti, qui reprend un article de RTL. Retrouver l'article original de RTL, ou une autre source de presse, pour la date de début des fonctions de porte-parole, l'employeur ou la ville, et la formation.",
+    "Photo : aucun portrait libre sur Commons. Le seul fichier trouvé, File:Presidentielles-2027-Selma-LABIB.png, est un bandeau de texte sans photo, et sa licence (CC BY 3.0, auteur inconnu, repris du site du NPA-R) est douteuse. Champ photo omis.",
+    "Aucune procédure judiciaire trouvée. La recherche de presse systématique n'a pas pu être menée jusqu'au bout, faute de quota de recherche web : à confirmer."
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "faure",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "La Loi du plus juste (livre-programme, Robert Laffont)",
+    "url": "https://www.lisez.com/livres/la-loi-du-plus-juste/9782221289303",
+    "etat": "partiel",
+    "note": "Livre-programme paru le 17/09/2026, non consultable en ligne ; pas de programme détaillé sur le site de campagne au 22/09/2026. Mesures reprises d'un entretien au Nouvel Obs rapporté par l'AFP."
+  },
+  "reperes": [
+    {
+      "texte": "Premier secrétaire du Parti socialiste depuis avril 2018, reconduit au congrès de Nancy en 2025.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Olivier_Faure", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Député de la 11e circonscription de Seine-et-Marne depuis 2012.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Olivier_Faure", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Président du groupe socialiste à l'Assemblée nationale de 2016 à 2018.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Olivier_Faure", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidature à la primaire annoncée au 20 h de TF1 le 30 août 2026.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/le-chef-du-parti-socialiste-olivier-faure-confirme-sa-candidature-a-la-primaire-de-son-camp-en-vue-de-l-election-presidentielle_8169896.html", "date": "2026-08-30" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "travail",
+      "texte": "SMIC porté à 1 700 euros net.",
+      "nature": "declaration",
+      "source": { "titre": "AFP (via Orange Actualités), d'après un entretien au Nouvel Obs", "url": "https://actu.orange.fr/politique/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions-CNT000002rW0aW.html", "date": "2026-09-16" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Conférence salariale où l'État conditionne ses aides aux entreprises à l'augmentation des salaires.",
+      "nature": "declaration",
+      "source": { "titre": "AFP (via Boursorama)", "url": "https://www.boursorama.com/actualite-economique/actualites/olivier-faure-a-gauche-toute-pour-la-primaire-9db61319a9452da24d0e9bea2fa49132", "date": "2026-09-17" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Pour chaque euro de dividende versé aux actionnaires, au moins l'équivalent pour les salariés (participation, intéressement ou salaire).",
+      "nature": "declaration",
+      "source": { "titre": "AFP (via Orange Actualités), d'après un entretien au Nouvel Obs", "url": "https://actu.orange.fr/politique/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions-CNT000002rW0aW.html", "date": "2026-09-16" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Âge de départ à la retraite à 62 ans.",
+      "nature": "declaration",
+      "source": { "titre": "AFP (via Orange Actualités), d'après un entretien au Nouvel Obs", "url": "https://actu.orange.fr/politique/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions-CNT000002rW0aW.html", "date": "2026-09-16" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Faire cotiser l'intelligence artificielle pour financer les retraites et la protection sociale.",
+      "nature": "declaration",
+      "source": { "titre": "AFP (via Orange Actualités), d'après un entretien au Nouvel Obs", "url": "https://actu.orange.fr/politique/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions-CNT000002rW0aW.html", "date": "2026-09-16" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Aucun budget, investissement ou aide publique en dehors des objectifs de protection de la biodiversité.",
+      "nature": "declaration",
+      "source": { "titre": "AFP (via Boursorama)", "url": "https://www.boursorama.com/actualite-economique/actualites/olivier-faure-a-gauche-toute-pour-la-primaire-9db61319a9452da24d0e9bea2fa49132", "date": "2026-09-17" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Régularisation des travailleurs sans papiers ; le chiffre de 500 000, cité en référence à l'Espagne, « ne (le) choque pas ».",
+      "nature": "declaration",
+      "source": { "titre": "AFP (via Orange Actualités), d'après un entretien au Nouvel Obs", "url": "https://actu.orange.fr/politique/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions-CNT000002rW0aW.html", "date": "2026-09-16" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Création d'une commission « vérité et réconciliation » sur la colonisation.",
+      "nature": "declaration",
+      "source": { "titre": "AFP (via Orange Actualités), d'après un entretien au Nouvel Obs", "url": "https://actu.orange.fr/politique/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions-CNT000002rW0aW.html", "date": "2026-09-16" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Site de campagne", "url": "https://avecfaure2027.fr/", "type": "site", "date": "2026-09-22" },
+    { "titre": "La Loi du plus juste (fiche éditeur)", "url": "https://www.lisez.com/livres/la-loi-du-plus-juste/9782221289303", "type": "livre", "date": "2026-09-17" },
+    { "titre": "franceinfo : Olivier Faure confirme sa candidature (20 h de TF1)", "url": "https://www.franceinfo.fr/elections/presidentielle/le-chef-du-parti-socialiste-olivier-faure-confirme-sa-candidature-a-la-primaire-de-son-camp-en-vue-de-l-election-presidentielle_8169896.html", "type": "article", "date": "2026-08-30" },
+    { "titre": "AFP : Faure développe ses propositions", "url": "https://actu.orange.fr/politique/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions-CNT000002rW0aW.html", "type": "article", "date": "2026-09-16" },
+    { "titre": "France 24 : ce qu'il faut savoir sur la primaire (dates, débats)", "url": "https://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal", "type": "article", "date": "2026-09-16" }
+  ],
+  "a_verifier": [
+    "L'entretien original au Nouvel Obs (16/09/2026) n'a pas été ouvert ; mesures vérifiées dans les dépêches AFP.",
+    "Carburants : demande au Premier ministre (17/09/2026) de doubler les aides ciblées et de les rendre automatiques, financées par le maintien de la contribution exceptionnelle des grandes entreprises (franceinfo). Revendication d'actualité adressée au gouvernement, non retenue comme mesure de programme.",
+    "Contenu détaillé du livre « La Loi du plus juste » non consulté."
+  ]
+}

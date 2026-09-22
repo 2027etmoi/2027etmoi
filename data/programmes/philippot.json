@@ -1,0 +1,217 @@
+{
+  "id": "philippot",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (Les Patriotes, édition 2026-2027)",
+    "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+    "etat": "complet",
+    "note": "Livret-programme du parti Les Patriotes, « édition 2026-2027 », mis en ligne en septembre 2026 ; il sert de base à la candidature de Florian Philippot, sans être présenté comme un programme présidentiel distinct."
+  },
+  "reperes": [
+    {
+      "texte": "Président-fondateur des Patriotes (2017) ; vice-président du Front national de 2012 à 2017 ; député européen de 2014 à 2019.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Florian_Philippot", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidat déclaré en 2021 pour la présidentielle de 2022, il s'est retiré en février 2022 faute de parrainages suffisants.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Florian_Philippot", "date": "2026-09-22" }
+    },
+    {
+      "texte": "A annoncé sa candidature pour 2027 le 9 mai 2026 sur France 2, sans exclure un rassemblement des souverainistes.",
+      "source": { "titre": "Front Populaire", "url": "https://frontpopulaire.fr/politique/contents/florian-philippot-troisieme-candidat-souverainiste-a-la-presidentielle_tco_31760632", "date": "2026-05-09" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "international",
+      "texte": "Sortie de l'Union européenne, de l'euro, de l'espace Schengen, de la CEDH et de l'OTAN.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Démocratie, institutions » et « Guerre et paix »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "international",
+      "texte": "Arrêt des financements de la guerre en Ukraine.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Coût de l'Europe »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "international",
+      "texte": "Refus de la création d'une armée européenne et maintien d'une dissuasion nucléaire strictement nationale.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Guerre et paix »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Référendum d'initiative citoyenne (RIC) sur tout sujet, inscrit dans la Constitution.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Démocratie, institutions, corruption »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Révision de la Constitution uniquement par référendum, avec suppression de la procédure de révision par le Congrès.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Démocratie, institutions, corruption »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Inéligibilité à vie et interdiction de toute charge publique pour les élus condamnés définitivement pour corruption.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Démocratie, institutions, corruption »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Retour au franc sur la base d'un nouveau franc pour un euro, avec conversion de la dette en francs.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Redresser les finances publiques »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Financement de l'État auprès de la Banque de France et création d'une Caisse nationale pour l'équipement et la réindustrialisation.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Redresser les finances publiques »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Renationalisation des autoroutes et rétablissement des monopoles publics dans le rail et l'énergie.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Modèle social et services publics »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Sortie du marché européen de l'électricité et rétablissement du monopole public national d'EDF.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Énergie »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Moratoire total et définitif sur les éoliennes terrestres et en mer.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Énergie »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Plan d'investissement massif dans le nucléaire de nouvelle génération et l'hydroélectricité.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Écologie et protection animale »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Maintien de la vente de voitures thermiques neuves au-delà de 2035.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Énergie »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Remplacement de la PAC par une « Politique agricole française » fondée sur les circuits courts et la qualité.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Agriculture »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Rétablissement de prix planchers agricoles et possibilité de quotas ou barrières tarifaires, y compris envers les pays européens.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Agriculture »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Suppression des agences régionales de santé (ARS) et du Conseil de l'Ordre.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Santé »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Sortie de l'OMS et dénonciation du traité mondial sur les pandémies.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Santé »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Liberté vaccinale pour tous les citoyens et les soignants, sans perte d'emploi pour refus d'un vaccin.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Santé »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Création de centres de santé locaux pour les soins courants et les urgences non vitales.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Santé »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "education",
+      "texte": "La moitié du temps scolaire en primaire consacrée à la maîtrise du français.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « École »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "education",
+      "texte": "Fin du collège unique, avec des parcours différenciés dès 14 ans, y compris vers l'apprentissage.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « École »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "education",
+      "texte": "Retour sur les restrictions à l'instruction en famille instaurées sous Emmanuel Macron.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « École »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Dissolution de Frontex et sortie du pacte européen sur la migration et l'asile.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Immigration »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Fin de l'immigration de travail et de la directive européenne sur les travailleurs détachés.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Immigration »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Obtention de la nationalité conditionnée à la maîtrise du français, à la connaissance de l'histoire et à l'adhésion aux valeurs fondamentales.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Culture et patrimoine »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Construction des « dizaines de milliers » de places de prison manquantes et expulsion des détenus étrangers.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Sécurité, justice »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Rétablissement des peines planchers et réforme des réductions automatiques de peine.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Sécurité, justice »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Excuse de minorité appliquée seulement si le juge la motive spécialement.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Sécurité, justice »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Recréation d'une police de proximité implantée dans les quartiers sensibles.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Sécurité, justice »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Castration chimique automatique en cas de récidive pour les auteurs d'infractions pédocriminelles.",
+      "nature": "programme",
+      "source": { "titre": "Les Patriotes, Grandes orientations 2026-2027, « Protection de l'enfance »", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "date": "2026-09" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Site des Patriotes", "url": "https://les-patriotes.fr/", "type": "site", "date": "2026-09-22" },
+    { "titre": "Page « Projet pour la France »", "url": "https://les-patriotes.fr/projetpourlafrance/", "type": "site", "date": "2026-09-22" },
+    { "titre": "Livret « Grandes orientations pour un projet patriote » (PDF, 19 pages)", "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf", "type": "document", "date": "2026-09" }
+  ],
+  "a_verifier": [
+    "Retraites : le livret évoque la possibilité de « baisser l'âge de départ » si les Français le désirent, sans âge ni modalité : non retenu comme mesure.",
+    "Chiffrages du livret (économies de 60 Md€/an, recettes de 74,8 Md€/an, prix de l'électricité « divisé par trois ») : objectifs annoncés, non repris comme mesures.",
+    "« 98 mesures publiées le 11 septembre 2026 » : information lue uniquement sur un agrégateur, non vérifiée.",
+    "Travail et logement : aucune mesure concrète identifiée dans le livret."
+  ]
+}

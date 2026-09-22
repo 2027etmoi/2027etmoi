@@ -1,0 +1,62 @@
+{
+  "id": "labib",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Campagne présidentielle 2027 du NPA-Révolutionnaires",
+    "url": "https://npa-revolutionnaires.org/campagnes-presidentielles",
+    "etat": "aucun",
+    "note": "Pas de programme publié au 22/09/2026 : le NPA-Révolutionnaires présente des « objectifs pour les luttes » plutôt que des promesses ; revendications tirées des interventions de la candidate publiées sur le site du parti."
+  },
+  "reperes": [
+    {
+      "texte": "Conductrice de bus en région parisienne, porte-parole du NPA-Révolutionnaires ; candidate à la mairie d'Ivry-sur-Seine en 2026.",
+      "source": { "titre": "Communiqué du NPA-Révolutionnaires", "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante", "date": "2026-06-17" }
+    },
+    {
+      "texte": "Tête de liste du NPA-Révolutionnaires aux élections européennes de 2024, où le parti a obtenu 0,15 % des voix.",
+      "source": { "titre": "RTL, article reproduit par le NPA-Révolutionnaires", "url": "https://npa-revolutionnaires.org/articles/sur-rtl-presidentielle-2027-selma-labib-officiellement-candidate-pour-le-npa-revolutionnaires", "date": "2026-06-17" }
+    },
+    {
+      "texte": "Désignée candidate par le comité politique national du NPA-Révolutionnaires (6-7 juin 2026), candidature annoncée le 17 juin 2026.",
+      "source": { "titre": "Communiqué du NPA-Révolutionnaires", "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante", "date": "2026-06-17" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "travail",
+      "texte": "Hausse de 400 euros par mois des salaires et des pensions pour tous ; aucun revenu inférieur à 2 000 euros net.",
+      "nature": "programme",
+      "source": { "titre": "NPA-R, intervention de Selma Labib à la Fête de l'Humanité 2026", "url": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026", "date": "2026-09-12" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Interdiction de tous les licenciements.",
+      "nature": "programme",
+      "source": { "titre": "Entretien au Lyon Bondy Blog, reproduit par le NPA-R", "url": "https://npa-revolutionnaires.org/articles/dans-le-lyon-bondy-blog-selma-labib-cest-nous-qui-produisons-tout-donc-cest-a-nous-de-decider-de-tout-dans-cette-societe", "date": "2026-07-14" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Partage du travail entre tous : forte baisse du temps de travail sans perte de salaire ni hausse de la charge de travail.",
+      "nature": "programme",
+      "source": { "titre": "NPA-R, intervention de Selma Labib à la Fête de l'Humanité 2026", "url": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026", "date": "2026-09-12" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Régularisation de tous les sans-papiers ; liberté de circulation et d'installation.",
+      "nature": "programme",
+      "source": { "titre": "NPA-R, intervention de Selma Labib à la Fête de l'Humanité 2026", "url": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026", "date": "2026-09-12" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Page « Campagnes présidentielles » du NPA-Révolutionnaires", "url": "https://npa-revolutionnaires.org/campagnes-presidentielles", "type": "page", "date": "2026-09" },
+    { "titre": "Intervention de Selma Labib à la Fête de l'Humanité 2026 (texte)", "url": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026", "type": "discours", "date": "2026-09-12" },
+    { "titre": "Communiqué de candidature", "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante", "type": "article", "date": "2026-06-17" },
+    { "titre": "Tract de campagne distribué à la Fête de l'Humanité (PDF)", "url": "https://npa-revolutionnaires.org/wp-content/uploads/2026/08/260911_tract-huma.pdf", "type": "pdf", "date": "2026-09-11" }
+  ],
+  "a_verifier": [
+    "« Fin des aides aux entreprises » (mentionné dans candidats.json) : le tract de septembre 2026 dénonce « plus de 200 milliards de subventions » au patronat mais sans formuler de mesure ; non publié.",
+    "« Pas un homme, pas une femme, pas un euro pour les guerres impérialistes » : slogan antimilitariste, non retenu comme mesure.",
+    "Pas de page Wikipédia pour la candidate au 22/09/2026 ; repères tirés des publications du NPA-R et de l'article RTL qu'il reproduit.",
+    "Articles BFM et Libération du 17/06/2026 listés sur le site du parti, non consultés."
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "id": "retailleau",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Le projet — site de campagne Retailleau 2027",
+    "url": "https://www.avecretailleau.fr/projet",
+    "etat": "partiel",
+    "note": "Au 22/09/2026, le site de campagne détaille des mesures sur 9 thèmes (institutions, éducation, travail, entreprises, agriculture, logement, famille, électricité, IA) ; d'autres chapitres (sécurité, justice, santé, retraites, finances publiques, environnement…) y sont annoncés « à venir »."
+  },
+  "reperes": [
+    {
+      "texte": "Sénateur de la Vendée depuis 2004, président du groupe LR au Sénat de 2014 à 2024.",
+      "source": { "titre": "Wikipédia — Bruno Retailleau", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Ministre de l'Intérieur du 21 septembre 2024 au 12 octobre 2025.",
+      "source": { "titre": "Wikipédia — Bruno Retailleau", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Président des Républicains depuis le 18 mai 2025.",
+      "source": { "titre": "Wikipédia — Bruno Retailleau", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Désigné candidat LR à la présidentielle par une consultation des adhérents : 73,8 % des votants, participation de 60,01 %.",
+      "source": { "titre": "Les Républicains — Bruno Retailleau largement désigné comme candidat", "url": "https://republicains.fr/actualites/2026/04/20/bruno-retailleau-largement-designe-comme-candidat-des-republicains-pour-lelection-presidentielle/", "date": "2026-04-20" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "economie",
+      "texte": "Plus de 25 milliards d'euros d'allègements sur le coût du travail et près de 15 milliards sur la fiscalité de production, dont suppression de la C3S et de la CVAE.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Réduire de 60 % le handicap fiscal de nos entreprises", "url": "https://www.avecretailleau.fr/projet/mesure/reduire-de-60-le-handicap-fiscal-de-nos-entreprises-par", "date": "2026-09-11" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Suppression ou recentrage par ordonnances de cent règles pénalisant la production, dont le relèvement du seuil de 50 à 100 salariés pour toutes les obligations.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Supprimer 100 règles qui pénalisent le plus les entreprises", "url": "https://www.avecretailleau.fr/projet/mesure/supprimer-100-regles-qui-penalisent-le-plus-les-entreprises", "date": "2026-09-11" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Création d'un Fonds France Production de 600 millions d'euros par an pour moderniser l'outil industriel, piloté par les régions.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Créer un Fonds France Production", "url": "https://www.avecretailleau.fr/projet/mesure/creer-un-fonds-france-production-pour-moderniser-nos-usines", "date": "2026-09-11" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Report automatique de l'exigibilité des droits de mutation sur la transmission d'entreprise jusqu'à la cession, tant que l'activité se poursuit.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Libérer et faciliter la transmission des entreprises", "url": "https://www.avecretailleau.fr/projet/mesure/liberer-et-faciliter-la-transmission-des-entreprises", "date": "2026-09-11" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Libérer par l'IA l'équivalent de 250 000 emplois à temps plein dans les services publics d'ici 2032 : 125 000 agents redéployés, 125 000 départs non remplacés.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Simplifier les démarches et réduire les tâches", "url": "https://www.avecretailleau.fr/projet/mesure/simplifier-les-demarches-et-reduire-les-taches", "date": "2026-09-12" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Baisse des cotisations de 30 milliards d'euros par an, dont la moitié pour les salariés, soit environ 500 euros nets par an au salaire médian.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Rendre 500 euros par an à tous les salariés", "url": "https://www.avecretailleau.fr/projet/mesure/rendre-30-milliards-d-euros-aux-salaries-et-aux-entreprises", "date": "2026-09-12" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Seuil « zéro cotisation » à partir de 1 623 heures travaillées par an : au-delà, plus de cotisations sociales salariales ni patronales, hors CSG et CRDS.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Exonérer totalement les heures supplémentaires de cotisations sociales", "url": "https://www.avecretailleau.fr/projet/mesure/rapprocher-le-brut-du-net-avec-le-seuil-zero-cotisation", "date": "2026-09-11" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Revenu d'incitation à l'activité remplaçant RSA, prime d'activité et ASS : 300 euros par mois, plus 250 euros dès quinze heures de formation ou recherche d'emploi.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Permettre à ceux qui reprennent un emploi de gagner plus", "url": "https://www.avecretailleau.fr/projet/mesure/faire-gagner-plus-a-ceux-qui-reprennent-un-emploi", "date": "2026-09-11" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Assurance chômage : fin de l'indemnisation au refus d'une troisième offre raisonnable ; indemnisation des ruptures conventionnelles limitée à six mois et plafonnée.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Réduire les durées et plafonner les allocations chômage", "url": "https://www.avecretailleau.fr/projet/mesure/reduire-les-durees-et-plafonner-les-allocations-chomage", "date": "2026-09-11" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Code du travail refondé sur un socle de 50 principes fondamentaux, le reste relevant en priorité de l'accord d'entreprise ou de branche.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Refonder le code du travail sur 50 principes", "url": "https://www.avecretailleau.fr/projet/mesure/refonder-le-code-du-travail-sur-50-principes-rendre-le", "date": "2026-09-11" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Après l'âge légal, plus aucune cotisation hors CSG et CRDS pour les retraités qui travaillent, avec cumul partiel de la pension et du revenu d'activité.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Ne plus pénaliser les retraités qui veulent continuer à travailler", "url": "https://www.avecretailleau.fr/projet/mesure/augmenter-le-salaire-net-des-seniors-ayant-tous-leurs", "date": "2026-09-11" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Compte social unique : total des aides non contributives plafonné à 70 % du SMIC net par adulte, hors handicap, dépendance et vieillesse.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Plafonner les aides sociales à 70 % du SMIC", "url": "https://www.avecretailleau.fr/projet/mesure/plafonner-les-aides-sociales-a-70-du-smic", "date": "2026-09-11" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Revenu familial de 240 euros par mois par enfant dès le premier, fusionnant douze dispositifs, conditionné à cinq ans de résidence régulière et d'activité.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Verser 240 euros par mois par enfant mineur", "url": "https://www.avecretailleau.fr/projet/mesure/verser-240-euros-par-mois-par-enfant-mineur", "date": "2026-09-12" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Revenu familial doublé pour le troisième enfant mineur : 960 euros par mois pour trois enfants.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Doubler le Revenu familial pour le troisième enfant", "url": "https://www.avecretailleau.fr/projet/mesure/doubler-le-revenu-familial-pour-le-troisieme-enfant", "date": "2026-09-12" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Congé de naissance facultatif étendu jusqu'aux six mois de l'enfant, pour l'un ou l'autre parent, indemnisé à 70 % de la rémunération antérieure.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Prolonger le congé jusqu'aux six mois de l'enfant", "url": "https://www.avecretailleau.fr/projet/mesure/prolonger-le-conge-jusqu-aux-six-mois-de-l-enfant", "date": "2026-09-12" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Création d'un étage de retraite par épargne, individuel, complémentaire et volontaire, avec un compte d'épargne retraite pour chaque actif.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Financer nos entreprises avec l'épargne", "url": "https://www.avecretailleau.fr/projet/mesure/financer-les-entreprises-avec-l-epargne-et-preparer-la", "date": "2026-09-11" }
+    },
+    {
+      "theme": "education",
+      "texte": "Hausse du traitement des professeurs : 135 euros nets de plus par mois en début de carrière, environ 300 euros en milieu de carrière.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Mieux payer les professeurs, sur la fiche de paie", "url": "https://www.avecretailleau.fr/projet/mesure/concentrer-le-primaire-et-le-college-sur-les-savoirs", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Création de 1 000 établissements publics autonomes d'ici 2032, libres de recruter leurs professeurs et de déroger aux programmes, évalués tous les trois ans.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Créer mille écoles autonomes dans l'école publique", "url": "https://www.avecretailleau.fr/projet/mesure/reconstruire-la-formation-et-le-recrutement-des-maitres", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Suppression de la carte scolaire et de la règle du 80-20 entre public et privé sous contrat ; instruction en famille libre jusqu'à six ans.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Rendre aux familles la liberté de choisir l'école de leurs enfants", "url": "https://www.avecretailleau.fr/projet/mesure/instaurer-une-veritable-gestion-des-ressources-humaines-et", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Examen d'entrée en sixième déterminant l'affectation dans des groupes de niveau au collège, avec passerelles jusqu'à la troisième.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Tourner la page du collège unique", "url": "https://www.avecretailleau.fr/projet/mesure/mettre-l-intelligence-artificielle-au-service-des", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Rétablissement de la note chiffrée ; brevet conditionnant l'entrée au lycée ; redoublement relevant du seul conseil de classe.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Rétablir les notes chiffrées", "url": "https://www.avecretailleau.fr/projet/mesure/evaluer-et-certifier-chaque-etablissement-decentraliser-et", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Au moins un internat disciplinaire par académie, affectation décidée par l'autorité académique après des exclusions répétées.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Créer des internats disciplinaires", "url": "https://www.avecretailleau.fr/projet/mesure/retablir-l-evaluation-qui-dit-la-verite-et-la-selection-au", "date": "2026-09-22" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Abrogation du volet électricité de la PPE 3 et arrêt des nouveaux appels d'offres photovoltaïques et éoliens en mer tant que la demande n'augmente pas nettement.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Cesser de subventionner les éoliennes…", "url": "https://www.avecretailleau.fr/projet/mesure/cesser-de-subventionner-ce-qui-fait-monter-la-facture-les", "date": "2026-09-22" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Fixer d'emblée à 80 ans l'horizon d'exploitation des centrales nucléaires, les contrôles décennaux de sûreté étant maintenus.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Prolonger les centrales nucléaires jusqu'à 80 ans", "url": "https://www.avecretailleau.fr/projet/mesure/prolonger-les-centrales-nucleaires-jusqu-a-80-ans", "date": "2026-09-22" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Confirmer la commande de huit EPR2 supplémentaires dans les deux premières années du mandat si l'avancement des six premiers est satisfaisant.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Construire les EPR2 dans les coûts et délais prévus", "url": "https://www.avecretailleau.fr/projet/mesure/construire-les-epr2-dans-les-couts-et-delais-prevus", "date": "2026-09-22" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Relance de la recherche sur les réacteurs de quatrième génération, avec un premier réacteur de puissance visé en 2045.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Préparer les réacteurs nucléaires de quatrième génération", "url": "https://www.avecretailleau.fr/projet/mesure/preparer-les-reacteurs-nucleaires-de-quatrieme-generation", "date": "2026-09-22" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Contrat pour différence bidirectionnel entre EDF et les fournisseurs, reversant aux consommateurs les excédents quand les prix de marché dépassent un prix de référence fixé par la CRE.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Stabiliser le prix de l'électricité", "url": "https://www.avecretailleau.fr/projet/mesure/stabiliser-le-prix-de-l-electricite", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Quotas de visas et de titres de séjour fixés par la loi ; contrôles aux frontières intérieures sans limitation de temps.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Faire fixer par la loi des quotas migratoires", "url": "https://www.avecretailleau.fr/projet/mesure/faire-fixer-par-la-loi-des-quotas-migratoires", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Suppression du droit du sol simple, inscrite dans la Constitution par référendum : nationalité acquise par filiation ou par assimilation vérifiée.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Supprimer le droit du sol et revenir à l'assimilation", "url": "https://www.avecretailleau.fr/projet/mesure/charte-republicaine", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Accès des étrangers aux prestations sociales conditionné à cinq ans de séjour régulier et de travail, principe inscrit dans la Constitution.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Conditionner les prestations sociales à cinq ans de séjour et de travail", "url": "https://www.avecretailleau.fr/projet/mesure/conditionner-les-prestations-sociales-a-cinq-ans-de-sejour", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Expulsion obligatoire de tout étranger condamné pénalement ou menaçant l'ordre public, inscrite dans la Constitution ; mariage subordonné à la régularité du séjour.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Rendre à la France la maîtrise de son immigration", "url": "https://www.avecretailleau.fr/projet/mesure/rendre-a-la-france-la-maitrise-de-son-immigration", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Inscription dans la Constitution d'un droit à la sécurité, à égalité avec les libertés fondamentales.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Inscrire le droit à la sécurité dans la Constitution", "url": "https://www.avecretailleau.fr/projet/mesure/inscrire-le-droit-a-la-securite-dans-la-constitution", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Professeurs reconnus dépositaires de l'autorité publique, avec peines aggravées pour leurs agresseurs et poursuites systématiques par les parquets.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Protéger les professeurs et faire respecter la laïcité", "url": "https://www.avecretailleau.fr/projet/mesure/refonder-l-education-prioritaire-et-passer-de-l-inclusion", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Vérification des antécédents de tout adulte au contact d'enfants avant la prise de poste, puis surveillance permanente, sur le modèle britannique.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Protéger nos enfants : aucun adulte sans contrôle", "url": "https://www.avecretailleau.fr/projet/mesure/refaire-de-l-ecole-un-sanctuaire-restaurer-l-autorite-et", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Usage encadré de la vision par ordinateur pour la sécurité intérieure, avec interdiction de la reconnaissance faciale en temps réel à des fins de surveillance de masse.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Répondre à la guerre informationnelle", "url": "https://www.avecretailleau.fr/projet/mesure/repondre-a-la-guerre-informationnelle", "date": "2026-09-12" }
+    },
+    {
+      "theme": "international",
+      "texte": "Interdire aux autorités françaises d'appliquer le droit européen et la jurisprudence de la CJUE lorsqu'ils sont contraires à la Constitution ou excèdent les compétences de l'Union.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Écarter le droit européen lorsqu'il excède ses compétences", "url": "https://www.avecretailleau.fr/projet/mesure/investir-toutes-les-autorites-publiques-francaises-du", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Moyens consacrés à l'IA de défense multipliés par cinq sur le quinquennat, de 130 à 650 millions d'euros par an.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Multiplier par cinq les moyens de l'IA de défense", "url": "https://www.avecretailleau.fr/projet/mesure/multiplier-par-cinq-les-moyens-de-l-ia-de-defense", "date": "2026-09-11" }
+    },
+    {
+      "theme": "international",
+      "texte": "Opposition à l'European Grid Package et constitution d'une coalition d'États favorables au nucléaire pour imposer la neutralité technologique au niveau européen.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Décider en France de notre production d'électricité", "url": "https://www.avecretailleau.fr/projet/mesure/decider-en-france-de-notre-production-d-electricite", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Référendum législatif ouvert à tout sujet, la loi adoptée par référendum ne pouvant être remise en cause par aucun juge.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Ouvrir le référendum à toute la matière législative", "url": "https://www.avecretailleau.fr/projet/mesure/elargir-le-referendum-a-toute-la-matiere-legislative-et", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Seuil du référendum d'initiative partagée abaissé d'un dixième à un vingtième du corps électoral, soit environ 2,5 millions de citoyens.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Abaisser le seuil du référendum d'initiative partagée", "url": "https://www.avecretailleau.fr/projet/mesure/abaisser-le-seuil-du-referendum-d-initiative-partagee", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "« Dernier mot démocratique » : après une censure du Conseil constitutionnel, le Président pourrait saisir le peuple ou le Congrès (majorité des trois cinquièmes) pour promulguer la loi.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Donner le dernier mot au peuple quand une loi est censurée", "url": "https://www.avecretailleau.fr/projet/mesure/lorsque-le-conseil-constitutionnel-censure-une-loi", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Clause de sauvegarde nationale dans la Constitution, permettant de faire primer la loi française sur une interprétation jurisprudentielle d'un traité.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Protéger nos lois des interprétations que la France n'a jamais acceptées", "url": "https://www.avecretailleau.fr/projet/mesure/introduire-dans-la-constitution-une-clause-de-sauvegarde", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Préciser la laïcité dans la Constitution : nul ne pourrait invoquer ses convictions religieuses pour s'exonérer de la règle commune ; neutralité étendue aux usagers du service public.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Inscrire la laïcité et nos racines judéo-chrétiennes dans la Constitution", "url": "https://www.avecretailleau.fr/projet/mesure/inscrire-la-laicite-et-nos-racines-dans-la-constitution", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Suppression par référendum du principe de précaution de la Charte de l'environnement, remplacé par un principe de responsabilité et d'innovation.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Supprimer le principe de précaution par référendum", "url": "https://www.avecretailleau.fr/projet/mesure/suppression-du-principe-de-precaution-inscrit-dans-la", "date": "2026-09-22" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Abrogation du ZAN ; objectifs de sobriété foncière fixés par contrats territoriaux entre le préfet et chaque intercommunalité.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Abroger le ZAN", "url": "https://www.avecretailleau.fr/projet/mesure/abroger-le-zan", "date": "2026-09-22" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Expulsion des squatteurs sous dix jours maximum après constat ; contravention de cinquième classe pour les impayés avérés.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Faire exécuter les expulsions pour squat ou impayés", "url": "https://www.avecretailleau.fr/projet/mesure/accelerer-les-expulsions-pour-squat-ou-impayes", "date": "2026-09-12" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Suppression de l'encadrement des loyers issu de la loi ELAN : loyer librement fixé entre bailleur et locataire à la signature du bail.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Supprimer l'encadrement des loyers", "url": "https://www.avecretailleau.fr/projet/mesure/supprimer-l-encadrement-des-loyers", "date": "2026-09-12" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Versement automatique aux communes de 9 000 euros de TVA par logement neuf construit.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Inciter financièrement les communes", "url": "https://www.avecretailleau.fr/projet/mesure/verser-9-000-euros-aux-communes-par-logement-neuf-construit", "date": "2026-09-11" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Le DPE reste informatif mais ne peut plus fonder une interdiction administrative de louer.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Lever les interdictions de louer liées au DPE", "url": "https://www.avecretailleau.fr/projet/mesure/lever-les-interdictions-de-louer-liees-au-dpe", "date": "2026-09-12" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Programme d'accession pour les locataires HLM avec un objectif de vente de 10 % des pavillons HLM, soit près de 86 000 logements.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Vendre leur logement aux locataires HLM qui le souhaitent", "url": "https://www.avecretailleau.fr/projet/mesure/vendre-leur-logement-aux-locataires-hlm-qui-le-souhaitent", "date": "2026-09-12" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "PAC : seuil de dégressivité relevé de 52 à 100 hectares et forfait petit agriculteur porté de 1 250 à 3 000 euros.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Garantir le budget agricole européen sur sept ans", "url": "https://www.avecretailleau.fr/projet/mesure/garantir-le-budget-agricole-europeen-sur-sept-ans", "date": "2026-09-12" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Réautorisation de certains néonicotinoïdes, dont l'acétamipride, dès lors qu'ils sont autorisés dans le marché unique européen.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Cesser d'évaluer deux fois par l'ANSES", "url": "https://www.avecretailleau.fr/projet/mesure/ne-plus-jamais-evaluer-deux-fois-ce-qui-l-a-deja-ete", "date": "2026-09-11" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Suppression de l'Office français de la biodiversité ; la police de l'environnement hors chasse reviendrait à la gendarmerie.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Supprimer l'OFB", "url": "https://www.avecretailleau.fr/projet/mesure/supprimer-l-ofb-et-accelerer-les-autorisations-sanitaires", "date": "2026-09-11" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Projets de stockage d'eau à usage agricole reconnus d'intérêt général majeur, avec délais d'instruction opposables et silence valant acceptation.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Permettre aux agriculteurs de stocker l'eau", "url": "https://www.avecretailleau.fr/projet/mesure/permettre-aux-agriculteurs-de-stocker-l-eau", "date": "2026-09-11" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Négociations commerciales closes au 31 décembre ; opposition à l'intégration de l'Ukraine au marché agricole européen.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Rééquilibrer les négociations commerciales", "url": "https://www.avecretailleau.fr/projet/mesure/encadrer-les-negociations-et-controler-les-importations", "date": "2026-09-11" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Abandon de l'objectif uniforme de réduction de 50 % des produits phytosanitaires fixé par Ecophyto 2030, au profit d'autorisations au cas par cas.",
+      "nature": "programme",
+      "source": { "titre": "Retailleau 2027 — Supprimer le principe de précaution (agriculture)", "url": "https://www.avecretailleau.fr/projet/mesure/supprimer-le-principe-de-precaution-par-referendum", "date": "2026-09-11" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Le projet — site de campagne Retailleau 2027", "url": "https://www.avecretailleau.fr/projet", "type": "site", "date": "2026-09-22" },
+    { "titre": "Qui est Bruno Retailleau ? — site de campagne", "url": "https://www.avecretailleau.fr/candidat", "type": "site", "date": "2026-09-22" },
+    { "titre": "Les Républicains — désignation de Bruno Retailleau comme candidat", "url": "https://republicains.fr/actualites/2026/04/20/bruno-retailleau-largement-designe-comme-candidat-des-republicains-pour-lelection-presidentielle/", "type": "article", "date": "2026-04-20" }
+  ],
+  "a_verifier": [
+    "Le site de campagne annonce des chapitres « à venir » (sécurité, justice, santé, retraites, finances publiques, immigration, environnement, culture, tourisme) : à compléter lors de leur publication.",
+    "Plusieurs URL de mesures du site ne correspondent pas à leur titre (ex. l'URL « concentrer-le-primaire-et-le-college-sur-les-savoirs » porte la mesure sur la rémunération des professeurs) : vérifier la stabilité des liens."
+  ]
+}

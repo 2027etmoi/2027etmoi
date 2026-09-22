@@ -1,0 +1,54 @@
+{
+  "id": "royal",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "« L'Ordre juste » et « la France tranquille »",
+    "url": "https://segolene-ordrejuste.fr/",
+    "etat": "partiel",
+    "note": "Cinq priorités générales publiées sur le site de campagne et annoncées le 10/07/2026 ; pas de programme détaillé au 22/09/2026, quelques mesures rapportées par la presse."
+  },
+  "reperes": [
+    {
+      "texte": "Née le 22 septembre 1953 à Dakar ; députée des Deux-Sèvres de 1988 à 2007.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Ministre de l'Environnement (1992-1993), chargée de l'Éducation et de la Famille dans le gouvernement Jospin (1997-2002), de l'Écologie et de l'Énergie (2014-2017).",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Présidente de la région Poitou-Charentes de 2004 à 2014 ; candidate PS à la présidentielle de 2007 (46,94 % au second tour).",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidature à la primaire socialiste annoncée le 10 juillet 2026.",
+      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/presidentielle-2027-segolene-royal-annonce-sa-candidature-a-la-primaire-socialiste", "date": "2026-07-10" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "travail",
+      "texte": "Abaissement de la TVA sur les produits alimentaires français.",
+      "nature": "presse",
+      "source": { "titre": "AFP (via France 24)", "url": "https://www.france24.com/fr/info-en-continu/20260904-s%C3%A9gol%C3%A8ne-royal-le-comeback-permanent", "date": "2026-09-04" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Installation de caméras dans le périscolaire.",
+      "nature": "presse",
+      "source": { "titre": "AFP (via France 24)", "url": "https://www.france24.com/fr/info-en-continu/20260904-s%C3%A9gol%C3%A8ne-royal-le-comeback-permanent", "date": "2026-09-04" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Site de campagne", "url": "https://segolene-ordrejuste.fr/", "type": "site", "date": "2026-09-22" },
+    { "titre": "La lettre de Ségolène (septembre 2026)", "url": "https://segolene-ordrejuste.fr/la-lettre-de-segolene", "type": "article", "date": "2026-09" },
+    { "titre": "LCP : Ségolène Royal annonce sa candidature à la primaire", "url": "https://lcp.fr/actualites/presidentielle-2027-segolene-royal-annonce-sa-candidature-a-la-primaire-socialiste", "type": "article", "date": "2026-07-10" },
+    { "titre": "AFP / France 24 : « Ségolène Royal, le comeback permanent »", "url": "https://www.france24.com/fr/info-en-continu/20260904-s%C3%A9gol%C3%A8ne-royal-le-comeback-permanent", "type": "article", "date": "2026-09-04" },
+    { "titre": "Fiche de la candidate sur le site de la primaire Choisir 2027", "url": "https://choisir2027.fr/candidat/segolene-royal/", "type": "article", "date": "2026-09-22" },
+    { "titre": "France 24 : ce qu'il faut savoir sur la primaire (dates, débats)", "url": "https://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal", "type": "article", "date": "2026-09-16" }
+  ],
+  "a_verifier": [
+    "Cinq priorités annoncées le 10/07/2026 (LCP) et reprises sur le site, formulées comme des orientations, non retenues comme mesures : application des décisions de la COP21 ; « ordre juste » pour l'éducation, la santé et la sécurité quotidienne ; « tolérance zéro » pour les agresseurs et les violences faites aux enfants ; « urgence énergétique » pour les PME et l'agriculture ; rôle de « puissance médiatrice » de la France.",
+    "Meeting d'Alfortville (septembre 2026) : pas encore de compte rendu des propositions consulté."
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "id": "lisnard",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Notre programme — Nouvelle Énergie",
+    "url": "https://www.unenouvelleenergie.fr/notre-programme/",
+    "etat": "partiel",
+    "note": "Au 22/09/2026, le site de campagne lisnard2027.fr annonce une ouverture prochaine ; le programme est publié sur le site de Nouvelle Énergie (3 axes, 5 pages thématiques, pages « Questions » datées). Les pages thématiques ne sont pas datées : la date indiquée est celle de la consultation."
+  },
+  "reperes": [
+    {
+      "texte": "Maire de Cannes depuis 2014, réélu en 2020 puis le 15 mars 2026.",
+      "source": { "titre": "Wikipédia — David Lisnard", "url": "https://fr.wikipedia.org/wiki/David_Lisnard", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Président de l'Association des maires de France depuis novembre 2021, réélu en novembre 2023.",
+      "source": { "titre": "Wikipédia — David Lisnard", "url": "https://fr.wikipedia.org/wiki/David_Lisnard", "date": "2026-09-22" }
+    },
+    {
+      "texte": "A quitté Les Républicains et officialisé sa candidature le 31 mars 2026 au 20 heures de France 2 ; il se prononce pour une primaire ouverte à droite.",
+      "source": { "titre": "LCP — « Je suis candidat » : David Lisnard quitte LR", "url": "https://lcp.fr/actualites/je-suis-candidat-david-lisnard-quitte-lr-et-relance-le-debat-sur-une-primaire-a-droite", "date": "2026-03-31" }
+    },
+    {
+      "texte": "Président du mouvement Nouvelle Énergie, qui revendiquait environ 15 000 adhérents au printemps 2026.",
+      "source": { "titre": "Nouvelle Énergie — Qui est David Lisnard ?", "url": "https://www.unenouvelleenergie.fr/questions/qui-est-david-lisnard/", "date": "2026-08-31" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "economie",
+      "texte": "200 milliards d'euros d'économies répartis : 120 milliards rendus aux actifs, 40 milliards de baisse des impôts de production (dont suppression de la C3S), 40 milliards pour la dette.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Que ferait David Lisnard des 200 milliards d'économies annoncés ?", "url": "https://www.unenouvelleenergie.fr/questions/que-ferait-david-lisnard-des-200-milliards-d-economies/", "date": "2026-08-31" }
+    },
+    {
+      "theme": "economie",
+      "texte": "80 milliards d'euros de baisse de la dépense publique visés dès la première année.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Quelles économies propose David Lisnard ?", "url": "https://www.unenouvelleenergie.fr/questions/quelles-economies-david-lisnard-propose-t-il-et-ou-exactement/", "date": "2026-08-31" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Ne plus remplacer l'ensemble des 500 000 départs annuels de la fonction publique, en commençant par les fonctions administratives.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Quel candidat veut réduire le nombre de fonctionnaires ?", "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-reduire-le-nombre-de-fonctionnaires/", "date": "2026-08-18" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Réduction du nombre des quelque 1 200 agences et opérateurs publics ; sont cités les DREAL, les DDTM et les ARS.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Quelles économies propose David Lisnard ?", "url": "https://www.unenouvelleenergie.fr/questions/quelles-economies-david-lisnard-propose-t-il-et-ou-exactement/", "date": "2026-08-31" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Fin des subventions aux entreprises destinées à compenser leurs charges, remplacées par une baisse directe de la fiscalité et des charges.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Quel candidat veut supprimer les subventions aux entreprises ?", "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-les-subventions-aux-entreprises/", "date": "2026-08-18" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Baisse des cotisations de 120 milliards d'euros rendue en salaire net, soit environ 400 euros de plus par mois et par salarié.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Que propose David Lisnard pour le pouvoir d'achat ?", "url": "https://www.unenouvelleenergie.fr/questions/que-propose-david-lisnard-pour-le-pouvoir-d-achat/", "date": "2026-08-31" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Contrat de travail unique pour les nouveaux emplois, fusionnant CDI et CDD, avec des indemnités de licenciement progressives.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Réussir une nouvelle ambition française", "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Charges patronales négatives pour l'embauche de personnes au RSA depuis plus de deux ans.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Réussir une nouvelle ambition française", "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Retraite par capitalisation obligatoire et collective, négociée branche par branche, en complément partiel de la répartition.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — David Lisnard est-il favorable à la retraite par capitalisation ?", "url": "https://www.unenouvelleenergie.fr/questions/david-lisnard-est-il-favorable-a-la-retraite-par-capitalisation/", "date": "2026-08-31" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Désindexation des pensions supérieures à environ 2 000 euros par mois, le différentiel finançant l'amorçage de la capitalisation.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — David Lisnard est-il favorable à la retraite par capitalisation ?", "url": "https://www.unenouvelleenergie.fr/questions/david-lisnard-est-il-favorable-a-la-retraite-par-capitalisation/", "date": "2026-08-31" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Maintien de la réforme des retraites de 2023, sans retour en arrière.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Quel âge de départ à la retraite David Lisnard défend-il ?", "url": "https://www.unenouvelleenergie.fr/questions/quel-age-de-depart-a-la-retraite-david-lisnard-defend-il/", "date": "2026-08-31" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Regroupement des aides sociales en une allocation unique plafonnée à un pourcentage du SMIC ; fin du versement des prestations non contributives à l'étranger.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Quel candidat veut regrouper les aides sociales en une allocation unique ?", "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-regrouper-les-aides-sociales-en-une-allocation-unique/", "date": "2026-08-18" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Conventionnement différencié : meilleur remboursement des actes dans les zones sous-dotées que dans les zones saturées.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Santé", "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Suppression des ARS, responsabilités transférées aux préfets et aux élus ; présidence des conseils d'administration des hôpitaux rendue aux maires.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Santé", "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Doubler le nombre d'étudiants en médecine d'ici 2030, supprimer Parcoursup et autoriser l'exercice sous supervision dès la 5e année.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Santé", "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Maisons de santé pluridisciplinaires dans chaque canton et accès direct aux infirmiers, kinésithérapeutes et pharmaciens.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Santé", "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Création d'un consortium pharmaceutique européen sur le modèle d'Airbus pour relocaliser la production de médicaments.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Santé", "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Abrogation de la carte scolaire et instauration progressive d'un chèque-éducation, valable dans le public comme dans le privé.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Éducation", "url": "https://www.unenouvelleenergie.fr/notre-programme/education/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Certificat de fin de primaire dont la validation conditionne l'entrée au collège.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Éducation", "url": "https://www.unenouvelleenergie.fr/notre-programme/education/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Hausse de 20 % de la rémunération des enseignants en cinq ans, conditionnée à plus de présence, de formation continue et d'évaluation.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Éducation", "url": "https://www.unenouvelleenergie.fr/notre-programme/education/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Liberté pour les chefs d'établissement de recruter leurs équipes et de gérer leur budget, en contrepartie d'une évaluation publique des résultats.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Éducation", "url": "https://www.unenouvelleenergie.fr/notre-programme/education/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Éveil des 1-6 ans confié aux communes ; classes d'excellence en mathématiques et en sciences dans chaque académie.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Éducation", "url": "https://www.unenouvelleenergie.fr/notre-programme/education/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Arrêt du démantèlement programmé des réacteurs, prolongation jusqu'à 60 ans, première série de six EPR et déploiement de mini-réacteurs.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Quel candidat veut construire de nouveaux réacteurs nucléaires ?", "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-construire-de-nouveaux-reacteurs-nucleaires/", "date": "2026-08-18" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Diviser par huit la délivrance de titres de séjour.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Immigration", "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Revenir sur l'accord franco-algérien de 1968.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Immigration", "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Suppression de l'Aide médicale d'État, remplacée par une aide d'urgence, pour 700 millions d'euros d'économies.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Immigration", "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Durée de rétention administrative portée à 24 mois et construction de centres de rétention supplémentaires.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Immigration", "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Fin de l'automaticité du droit du sol et rétablissement du délit de séjour irrégulier.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Immigration", "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Prestations sociales non contributives réservées aux étrangers résidant régulièrement en France depuis au moins cinq ans.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Immigration", "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Construction de 20 000 places de prison.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Quel candidat propose de construire des places de prison ?", "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-de-construire-des-places-de-prison/", "date": "2026-08-18" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Majorité pénale abaissée à 16 ans et excuse de minorité inversée dès 13 ans.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Sécurité", "url": "https://www.unenouvelleenergie.fr/notre-programme/securite/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Rétablissement des peines planchers pour les récidivistes et suppression des réductions de peine automatiques.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Sécurité", "url": "https://www.unenouvelleenergie.fr/notre-programme/securite/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Possibilité, pour les communes volontaires, d'armer leur police municipale et de lui donner accès aux fichiers.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Sécurité", "url": "https://www.unenouvelleenergie.fr/notre-programme/securite/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Interdiction des Frères musulmans et du voile à l'université ; expulsion des prêcheurs radicaux.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Sécurité", "url": "https://www.unenouvelleenergie.fr/notre-programme/securite/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Les parents de mineurs délinquants répondraient des actes de leurs enfants ; les parents solvables paieraient la réparation.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Quel candidat veut rendre les parents responsables des délits de leurs enfants ?", "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-rendre-les-parents-responsables-des-delits-de-leurs-enfants/", "date": "2026-08-18" }
+    },
+    {
+      "theme": "international",
+      "texte": "Sortie de la Convention européenne des droits de l'homme « en dernier recours », après un bras de fer avec la CEDH.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Immigration", "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Mesures de rétorsion envers les pays non coopératifs en matière migratoire : visas, transferts d'argent, aide publique au développement.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Immigration", "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Élargir le champ de l'article 11 de la Constitution pour permettre un référendum sur l'immigration.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Quel candidat propose un référendum sur l'immigration ?", "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-un-referendum-sur-l-immigration/", "date": "2026-08-18" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Inscrire dans la Constitution la primauté du droit national en matière migratoire face aux décisions de la CJUE et de la CEDH.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Immigration", "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Création de provinces à la place des départements et des régions.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Quel candidat veut remplacer les départements et les régions ?", "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-remplacer-les-departements-et-les-regions/", "date": "2026-08-18" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Transfert aux collectivités d'un pouvoir réglementaire et du pouvoir d'appliquer les lois, hors domaine régalien.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Que propose David Lisnard pour décentraliser la France ?", "url": "https://www.unenouvelleenergie.fr/questions/que-propose-david-lisnard-pour-decentraliser-la-france/", "date": "2026-08-31" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Suppression de l'article 55 de la loi SRU imposant aux communes un quota de logements sociaux.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Réussir une nouvelle ambition française", "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Fin des surtranspositions françaises en agriculture et clauses miroirs obligatoires pour les produits importés.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Agriculture", "url": "https://www.unenouvelleenergie.fr/notre-programme/agriculture/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Autorisation des nouvelles techniques génomiques (NTG) et usage des phytosanitaires sur base scientifique.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Agriculture", "url": "https://www.unenouvelleenergie.fr/notre-programme/agriculture/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Statut unique de l'exploitation agricole regroupant production, forêt, énergie, transformation et tourisme rural ; guichet numérique unique.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Agriculture", "url": "https://www.unenouvelleenergie.fr/notre-programme/agriculture/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Réserves d'eau (« bassines ») autorisées lorsqu'elles sont techniquement justifiées et décidées localement.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Agriculture", "url": "https://www.unenouvelleenergie.fr/notre-programme/agriculture/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Rémunération des services environnementaux rendus par les agriculteurs et forestiers, comme le stockage du carbone.",
+      "nature": "programme",
+      "source": { "titre": "Nouvelle Énergie — Programme : Agriculture", "url": "https://www.unenouvelleenergie.fr/notre-programme/agriculture/", "date": "2026-09-22" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Notre programme — Nouvelle Énergie", "url": "https://www.unenouvelleenergie.fr/notre-programme/", "type": "site", "date": "2026-09-22" },
+    { "titre": "Questions / réponses sourcées — Nouvelle Énergie", "url": "https://www.unenouvelleenergie.fr/questions/", "type": "site", "date": "2026-09-22" },
+    { "titre": "Discours de David Lisnard à Bayeux (PDF)", "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/Discours-de-David-Lisnard-a-Bayeux-17062026.pdf", "type": "document", "date": "2026-06-17" },
+    { "titre": "Livret Santé — Nouvelle Énergie (PDF)", "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/05/Livret-Sante-Nouvelle-Energie.pdf", "type": "document", "date": "2026-05" },
+    { "titre": "LCP — David Lisnard quitte LR et se déclare candidat", "url": "https://lcp.fr/actualites/je-suis-candidat-david-lisnard-quitte-lr-et-relance-le-debat-sur-une-primaire-a-droite", "type": "article", "date": "2026-03-31" }
+  ],
+  "a_verifier": [
+    "Le site lisnard2027.fr indique « ouvre prochainement » au 22/09/2026 : à surveiller pour un programme de campagne complet.",
+    "Les pages d'axes du programme (« Être maître de notre destin », « Réussir une nouvelle ambition française ») semblent reprendre un texte de 2021 (références au Covid) ; elles proposent l'âge légal à 65 ans et une capitalisation individuelle, ce qui diffère des positions de 2026 (maintien de la réforme 2023, capitalisation collective). Seules des mesures non contradictoires en ont été reprises (contrat unique, charges négatives RSA, article 55 SRU).",
+    "Page nucléaire : les détails chiffrés (60 ans, six EPR) sont attribués au livre de David Lisnard, que nous n'avons pas consulté directement.",
+    "Discours de Saint-Raphaël (4 juillet 2026) et de Bayeux (17 juin 2026) non lus en entier : sources possibles de mesures supplémentaires."
+  ]
+}

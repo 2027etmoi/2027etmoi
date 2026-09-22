@@ -1,0 +1,224 @@
+{
+  "id": "villepin",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Projet France 2027 (La France humaniste)",
+    "url": "https://www.lafrancehumaniste.fr/france2027.html",
+    "etat": "partiel",
+    "note": "Candidature non déclarée au 22/09/2026 ; le parti publie huit « chantiers » thématiques sous forme de tribunes signées (février à septembre 2026), sans programme consolidé."
+  },
+  "reperes": [
+    {
+      "texte": "Premier ministre du 31 mai 2005 au 17 mai 2007.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Ministre des Affaires étrangères de 2002 à 2004 ; discours au Conseil de sécurité de l'ONU sur l'Irak le 14 février 2003.",
+      "source": { "titre": "Wikipédia", "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Annonce en juin 2025 la création de son parti, La France humaniste.",
+      "source": { "titre": "Euronews", "url": "https://www.euronews.com/2025/06/25/former-french-prime-minister-dominique-de-villepin-launches-humanist-political-party", "date": "2025-06-25" }
+    },
+    {
+      "texte": "Pas officiellement candidat au 16 septembre 2026 ; une centaine de personnes travaillent à réunir les 500 parrainages.",
+      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "date": "2026-09-16" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "economie",
+      "texte": "Ramener toute la fiscalité à neuf grands impôts et réduire le code des impôts à quarante pages.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Big Bang : la règle républicaine", "url": "https://www.lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html", "date": "2026-08-28" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Supprimer les niches fiscales et sociales, estimées à environ 175 milliards d'euros par an.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Big Bang : la règle républicaine", "url": "https://www.lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html", "date": "2026-08-28" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Ramener le déficit public sous 3 % en 2031 et l'y maintenir ensuite.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Big Bang : la règle républicaine", "url": "https://www.lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html", "date": "2026-08-28" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Créer un impôt unique sur le patrimoine, censé rapporter 8 milliards d'euros de plus, et renforcer l'imposition des successions.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Big Bang : la règle républicaine", "url": "https://www.lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html", "date": "2026-08-28" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Constituer un fonds national de souveraineté et de solidarité investissant notamment dans la décarbonation et le numérique.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Big Bang : la règle républicaine", "url": "https://www.lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html", "date": "2026-08-28" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Basculer plus de 200 milliards d'euros de cotisations non contributives vers la CSG, pour une hausse de 6 % du salaire réel (environ 90 € par mois au Smic).",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Big Bang : la règle républicaine", "url": "https://www.lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html", "date": "2026-08-28" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Adopter une grande loi d'accompagnement de l'IA instaurant un pilotage des compétences.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — IA : notre pouvoir de dire NON au monopole américain", "url": "https://www.lafrancehumaniste.fr/articles/ia-pouvoir-de-dire-non-monopole-americain.html", "date": "2026-06-13" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Réforme des retraites préparée par une conférence sociale et une convention citoyenne, puis soumise à référendum.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Le chemin gaulliste", "url": "https://www.lafrancehumaniste.fr/articles/chemin-gaulliste.html", "date": "2026-05-24" }
+    },
+    {
+      "theme": "education",
+      "texte": "Sanctuariser le budget de l'Éducation nationale hors pensions et augmenter d'au moins 20 % les dépenses réelles par élève.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Refonder l'école pour refaire société", "url": "https://www.lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "date": "2026-09-01" }
+    },
+    {
+      "theme": "education",
+      "texte": "Revalorisation salariale d'au moins 10 % pour l'ensemble des personnels scolaires.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Refonder l'école pour refaire société", "url": "https://www.lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "date": "2026-09-01" }
+    },
+    {
+      "theme": "education",
+      "texte": "Interdiction effective des téléphones portables dans l'enceinte des établissements scolaires.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Refonder l'école pour refaire société", "url": "https://www.lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "date": "2026-09-01" }
+    },
+    {
+      "theme": "education",
+      "texte": "Créer « Signal Éduc », plateforme nationale de signalement unique indépendante de la hiérarchie.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Refonder l'école pour refaire société", "url": "https://www.lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "date": "2026-09-01" }
+    },
+    {
+      "theme": "education",
+      "texte": "Au moins cent heures annuelles d'enseignement des pratiques artistiques à l'école.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — La République culturelle", "url": "https://www.lafrancehumaniste.fr/articles/la-republique-culturelle.html", "date": "2026-07-23" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Créer un registre national de traçabilité des auteurs de violences sur mineurs accessible à l'administration.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Refonder l'école pour refaire société", "url": "https://www.lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "date": "2026-09-01" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Rétablir un prix du carbone intégralement rendu aux ménages.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Pourquoi je suis écogaulliste ?", "url": "https://www.lafrancehumaniste.fr/articles/pourquoi-je-suis-ecogaulliste.html", "date": "2026-06-28" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Planifier l'électrification des usages avec des moyens pluriannuels.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Pourquoi je suis écogaulliste ?", "url": "https://www.lafrancehumaniste.fr/articles/pourquoi-je-suis-ecogaulliste.html", "date": "2026-06-28" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "L'État fixe les objectifs climatiques et délègue aux maires les moyens financiers et humains.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Pourquoi je suis écogaulliste ?", "url": "https://www.lafrancehumaniste.fr/articles/pourquoi-je-suis-ecogaulliste.html", "date": "2026-06-28" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Réduire de moitié l'usage total des produits phytosanitaires d'ici 2030.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Souveraineté agricole et alimentaire", "url": "https://www.lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html", "date": "2026-02" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Viser cinq cent mille exploitations agricoles en 2035.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Souveraineté agricole et alimentaire", "url": "https://www.lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html", "date": "2026-02" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Viser un excédent agricole et agroalimentaire de dix milliards d'euros.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Souveraineté agricole et alimentaire", "url": "https://www.lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html", "date": "2026-02" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Étendre graduellement le mécanisme d'ajustement carbone aux frontières aux produits agricoles.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Souveraineté agricole et alimentaire", "url": "https://www.lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html", "date": "2026-02" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Transformer 500 médiathèques en pôles culturels de proximité sur cinq ans.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — La République culturelle", "url": "https://www.lafrancehumaniste.fr/articles/la-republique-culturelle.html", "date": "2026-07-23" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Encadrer la censure du gouvernement par une motion de défiance constructive, conditionnée à un gouvernement alternatif.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Le chemin gaulliste", "url": "https://www.lafrancehumaniste.fr/articles/chemin-gaulliste.html", "date": "2026-05-24" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Nommer un gouvernement resserré d'une dizaine de ministères et réunir un conseil des territoires avec les présidents de régions.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Le chemin gaulliste", "url": "https://www.lafrancehumaniste.fr/articles/chemin-gaulliste.html", "date": "2026-05-24" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Créer un Conseil de l'IA auprès du président et une Autorité de sûreté de l'IA, sur le modèle de l'Autorité de sûreté nucléaire.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — IA : notre pouvoir de dire NON au monopole américain", "url": "https://www.lafrancehumaniste.fr/articles/ia-pouvoir-de-dire-non-monopole-americain.html", "date": "2026-06-13" }
+    },
+    {
+      "theme": "international",
+      "texte": "Créer un conseil de sécurité européen réunissant les principales puissances de l'Union.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Le moment européen", "url": "https://www.lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html", "date": "2026-03-06" }
+    },
+    {
+      "theme": "international",
+      "texte": "Créer une DARPA européenne, financée à un niveau annuel comparable à celui de la DARPA américaine.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Le moment européen", "url": "https://www.lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html", "date": "2026-03-06" }
+    },
+    {
+      "theme": "international",
+      "texte": "Pause sur les élargissements de l'UE au-delà des procédures en cours ; intégration de l'Ukraine par seuils successifs.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Le moment européen", "url": "https://www.lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html", "date": "2026-03-06" }
+    },
+    {
+      "theme": "international",
+      "texte": "Obliger les établissements d'enseignement à proposer à tous leurs étudiants un semestre dans un autre État de l'UE.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Le moment européen", "url": "https://www.lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html", "date": "2026-03-06" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "« Pause sur Schengen » et coordination des politiques migratoires entre États européens volontaires.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — Le moment européen", "url": "https://www.lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html", "date": "2026-03-06" }
+    }
+  ],
+  "ressources": [
+    { "titre": "La France humaniste — Projet France 2027", "url": "https://www.lafrancehumaniste.fr/france2027.html", "type": "programme", "date": "2026-09-22" },
+    { "titre": "Site de La France humaniste", "url": "https://www.lafrancehumaniste.fr/", "type": "site", "date": "2026-09-22" },
+    { "titre": "LCP — « Nous voulons être présents en 2027 »", "url": "https://lcp.fr/actualites/dominique-de-villepin-nous-voulons-etre-presents-en-2027-429413", "type": "article", "date": "2026-01-19" },
+    { "titre": "LCP — La liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "type": "article", "date": "2026-09-16" }
+  ],
+  "a_verifier": [
+    "Retraites : abrogation de la réforme portant l'âge légal à 64 ans et retour à un système par points — lu seulement sur des sites non reconnus (entrevue.fr, labanque.org) ; aucune source primaire ou média reconnu ouvert.",
+    "Défense (Le moment européen) : un premier résumé mentionnait un programme de porte-avions européen (~10 Md€), une DARPA à 4 Md$ et une dissuasion associant huit pays — chiffres non confirmés mot pour mot.",
+    "Éducation : modulation du financement public du privé selon la condition sociale des élèves, « semestre civique » à 15 ans (formulé au conditionnel) — non retenus.",
+    "Culture : revenu minimal d'environ 1 000 € par mois pour les artistes émergents sous forme d'impôt négatif, contribution de 1,50 € par billet dans les salles de plus de 1 500 places — thème culture hors grille.",
+    "Date de l'article agricole : 25 ou 26 février 2026 selon la page (date réduite à 2026-02).",
+    "Immigration : Villepin met en garde contre le fait de faire de l'Algérie un « bouc émissaire » (résumé de recherche, source non ouverte) — position, pas une mesure."
+  ]
+}

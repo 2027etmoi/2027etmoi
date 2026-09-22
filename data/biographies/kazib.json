@@ -1,0 +1,56 @@
+{
+  "id": "kazib",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Anasse_Kazib%2C_d%C3%A9cembre_2021.jpg/500px-Anasse_Kazib%2C_d%C3%A9cembre_2021.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Anasse_Kazib,_d%C3%A9cembre_2021.jpg",
+    "auteur": "PabloMorao27",
+    "licence": "CC BY-SA 4.0",
+    "annee": "2021",
+    "officielle": false,
+    "legende": "Anasse Kazib en décembre 2021"
+  },
+  "presentation": {
+    "texte": "Anasse Kazib est cheminot aiguilleur à la SNCF, syndicaliste SUD-Rail et militant trotskiste. Il est la principale figure de Révolution permanente, organisation issue du Nouveau Parti anticapitaliste (NPA) et indépendante depuis 2021. Après une tentative de candidature en 2022, restée sans les parrainages nécessaires, il est candidat déclaré pour 2027 et cherche à réunir les 500 parrainages.",
+    "sources": [
+      { "titre": "Wikipédia – Anasse Kazib", "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib", "date": "2026-09-22" },
+      { "titre": "Révolution permanente – Anasse Kazib 2027 : 500 parrainages pour que la classe ouvrière s'invite dans la présidentielle", "url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-500-parrainages-pour-que-la-classe-ouvriere-s-invite-dans-la-presidentielle", "date": "2026-06-01" }
+    ]
+  },
+  "naissance": {
+    "date": "1987-01-02",
+    "lieu": "Sarcelles (Val-d'Oise)",
+    "source": { "titre": "Wikipédia – Anasse Kazib", "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "2026", "texte": "Candidat déclaré de Révolution permanente à l'élection présidentielle de 2027.", "source": { "titre": "Révolution permanente", "url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-500-parrainages-pour-que-la-classe-ouvriere-s-invite-dans-la-presidentielle", "date": "2026-06-01" } },
+    { "periode": "2024", "texte": "Candidat aux élections législatives anticipées dans la 2e circonscription de la Seine-Saint-Denis : 3,67 % des voix.", "source": { "titre": "Wikipédia – Anasse Kazib", "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib", "date": "2026-09-22" } },
+    { "periode": "2021-2022", "texte": "Tentative de candidature à l'élection présidentielle de 2022 : 160 parrainages recueillis, sur les 500 nécessaires.", "source": { "titre": "Wikipédia – Anasse Kazib", "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib", "date": "2026-09-22" } },
+    { "periode": "Depuis 2017", "texte": "Membre de Révolution permanente, courant du NPA jusqu'à sa sortie du parti en 2021.", "source": { "titre": "Wikipédia – Anasse Kazib", "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "Avant 2012", "texte": "Coursier pour des laboratoires chimiques.", "source": { "titre": "Wikipédia – Anasse Kazib", "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib", "date": "2026-09-22" } },
+    { "periode": "Depuis 2012", "texte": "Cheminot, aiguilleur en 3×8 à la gare de triage du Bourget ; délégué syndical SUD-Rail.", "source": { "titre": "Wikipédia – Anasse Kazib", "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib", "date": "2026-09-22" } },
+    { "periode": "À partir de 2018", "texte": "Chroniqueur dans l'émission « Les Grandes Gueules » (RMC), en parallèle de son travail de cheminot.", "source": { "titre": "Wikipédia – Anasse Kazib", "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib", "date": "2026-09-22" } }
+  ],
+  "affaires": [
+    {
+      "titre": "Poursuites pour apologie du terrorisme (publications du 7 octobre 2023)",
+      "texte": "Anasse Kazib est poursuivi pour apologie du terrorisme. En cause : trois retweets publiés le 7 octobre 2023, jour de l'attaque du Hamas contre Israël (dont « vive la résistance palestinienne »), et un tweet répondant à la présidente de la Commission européenne. La procédure fait suite à une plainte déposée en janvier 2024 par l'association Jeunesse française juive.",
+      "etat": "renvoi_proces",
+      "etat_detail": "Renvoyé devant le tribunal à Paris. Le procès, d'abord reporté en 2025, a de nouveau été renvoyé lors de l'audience de fin juin 2026 ; aucune nouvelle date n'a été trouvée. Anasse Kazib est présumé innocent.",
+      "date_etat": "2026-06-26",
+      "sources": [
+        { "titre": "20 Minutes (avec AFP) – Attaque du 7-Octobre : pour Mélenchon, le caractère terroriste des massacres est une « affaire qui se discute »", "url": "https://www.20minutes.fr/politique/4231442-20260626-attaque-7-octobre-melenchon-caractere-terroriste-massacres-affaire-discute", "date": "2026-06-26" },
+        { "titre": "Blast – Le procès du militant Anasse Kazib pour apologie du terrorisme renvoyé au 26 juin 2026", "url": "https://www.blast-info.fr/articles/2025/le-proces-du-militant-anasse-kazib-pour-apologie-du-terrorisme-renvoye-au-26-juin-2026-Mu_0IT8URLiZVFSB6tla1Q", "date": "2025-06-18" }
+      ]
+    }
+  ],
+  "a_verifier": [
+    "Date exacte de l'audience de juin 2026 : Blast annonçait le 26 juin 2026 (un vendredi), tandis que 20 Minutes/AFP (publié le 26/06/2026) écrit qu'il « devait être jugé jeudi », soit le 25 juin. date_etat est la date de publication de l'article.",
+    "Motif du renvoi de juin 2026 : pour Wikipédia, une question de constitutionnalité ; le titre du Monde du 26/06/2026 évoque « la remise en cause d'une des parties civiles » (article payant, non lu). Motif non publié. Nouvelle date d'audience à rechercher.",
+    "Juridiction exacte (tribunal correctionnel de Paris, 17e chambre ?) non confirmée par une source ouverte.",
+    "Vignette : les vignettes de 400 px sont refusées par Wikimedia (HTTP 400). La vignette de 500 px a été vérifiée (HTTP 200).",
+    "Recherche de presse incomplète : quota de recherche web épuisé. Vérifier s'il existe d'autres procédures (gardes à vue lors de mobilisations, etc.)."
+  ]
+}

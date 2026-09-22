@@ -1,0 +1,44 @@
+{
+  "id": "mathieu",
+  "mise_a_jour": "2026-09-22",
+  "presentation": {
+    "texte": "Benoît Mathieu, 27 ans, est candidat sans étiquette à l'élection présidentielle de 2027. Ingénieur agronome de formation, originaire de Chauffailles (Saône-et-Loire), il a enseigné les mathématiques comme contractuel avant de partir en avril 2026 pour un tour de France à vélo, afin de solliciter le parrainage de maires sans étiquette. Il défend une démocratie plus directe : référendum d'initiative citoyenne, conventions citoyennes tirées au sort et assemblée citoyenne chargée de réécrire la Constitution.",
+    "sources": [
+      { "titre": "ICI Bourgogne (Radio France) — Benoît Mathieu aimerait bien chanter le ban bourguignon à l'Elysée, il veut se présenter aux élections Présidentielles", "url": "https://www.radiofrance.fr/francebleu/podcasts/l-info-d-ici-7h30-ici-bourgogne/benoit-mathieu-aimerait-bien-chanter-le-ban-bourguignon-a-l-elysee-il-veut-se-presenter-aux-elections-presidentielles-7722626", "date": "2026-04-25" },
+      { "titre": "RMC — Présidentielle 2027 : à 27 ans, il sillonne la France à vélo en quête des 500 parrainages", "url": "https://rmc.bfmtv.com/actualites/politique/presidentielle-2027-a-27-ans-il-sillonne-la-france-a-velo-en-quete-des-500-parrainages_AV-202605030128.html", "date": "2026-05-03" },
+      { "titre": "France 3 Nouvelle-Aquitaine — « Le défi le plus fou de toute ma vie » : cet ingénieur sillonne la France à vélo pour devenir président de la République", "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/correze/brive/le-defi-le-plus-fou-de-toute-ma-vie-cet-ingenieur-sillonne-la-france-a-velo-pour-devenir-president-de-la-republique-3396664.html", "date": "2026-08-04" }
+    ]
+  },
+  "parcours_politique": [
+    {
+      "periode": "Août 2026",
+      "texte": "Dit avoir réuni 30 promesses de parrainage après avoir rencontré 150 maires.",
+      "source": { "titre": "France 3 Nouvelle-Aquitaine — « Le défi le plus fou de toute ma vie » : cet ingénieur sillonne la France à vélo pour devenir président de la République", "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/correze/brive/le-defi-le-plus-fou-de-toute-ma-vie-cet-ingenieur-sillonne-la-france-a-velo-pour-devenir-president-de-la-republique-3396664.html", "date": "2026-08-04" }
+    },
+    {
+      "periode": "2026",
+      "texte": "Candidat déclaré à l'élection présidentielle de 2027, sans parti ni financement extérieur. Prévoit un itinéraire de 12 000 km à vélo passant par chaque département de France continentale et ne sollicite que des maires sans étiquette.",
+      "source": { "titre": "RMC — Présidentielle 2027 : à 27 ans, il sillonne la France à vélo en quête des 500 parrainages", "url": "https://rmc.bfmtv.com/actualites/politique/presidentielle-2027-a-27-ans-il-sillonne-la-france-a-velo-en-quete-des-500-parrainages_AV-202605030128.html", "date": "2026-05-03" }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "Avant 2026",
+      "texte": "Enseignant contractuel de mathématiques dans des collèges de Bourgogne.",
+      "source": { "titre": "ICI Bourgogne (Radio France) — Benoît Mathieu aimerait bien chanter le ban bourguignon à l'Elysée, il veut se présenter aux élections Présidentielles", "url": "https://www.radiofrance.fr/francebleu/podcasts/l-info-d-ici-7h30-ici-bourgogne/benoit-mathieu-aimerait-bien-chanter-le-ban-bourguignon-a-l-elysee-il-veut-se-presenter-aux-elections-presidentielles-7722626", "date": "2026-04-25" }
+    },
+    {
+      "periode": "Formation",
+      "texte": "Ingénieur agronome de formation, diplômé d'AgroSup Dijon.",
+      "source": { "titre": "ICI Bourgogne (Radio France) — Benoît Mathieu aimerait bien chanter le ban bourguignon à l'Elysée, il veut se présenter aux élections Présidentielles", "url": "https://www.radiofrance.fr/francebleu/podcasts/l-info-d-ici-7h30-ici-bourgogne/benoit-mathieu-aimerait-bien-chanter-le-ban-bourguignon-a-l-elysee-il-veut-se-presenter-aux-elections-presidentielles-7722626", "date": "2026-04-25" }
+    }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Date et lieu de naissance non publiés : champ naissance omis.",
+    "Aucune photo sous licence libre trouvée sur Wikimedia Commons (septembre 2026) : champ photo omis.",
+    "Date de déclaration : Wikipédia indique le 30 mars 2026 ; ICI Bourgogne situe le départ à vélo « début avril ».",
+    "Distance annoncée : 12 000 km (RMC) contre 10 000 km (ICI Bourgogne). RMC parle d'enseignement « des sciences et des mathématiques », ICI des mathématiques.",
+    "Nombre de promesses de parrainage (30 au 4 août 2026) à actualiser."
+  ]
+}
