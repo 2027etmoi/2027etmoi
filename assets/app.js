@@ -47,7 +47,7 @@ function row(c) {
   const links = linksHtml(c.liens);
   const m = moyennes[c.id];
   const poll = m
-    ? `<a class="poll" href="sondages.html#${encodeURIComponent(c.id)}" title="Moyenne sur ${m.n} sondage${m.n > 1 ? "s" : ""}, de ${formatPct(m.min)} à ${formatPct(m.max)}">${formatPct(m.moyenne)}</a>
+    ? `<a class="poll" href="/sondages.html#${encodeURIComponent(c.id)}" title="Moyenne sur ${m.n} sondage${m.n > 1 ? "s" : ""}, de ${formatPct(m.min)} à ${formatPct(m.max)}">${formatPct(m.moyenne)}</a>
        <span class="poll-n">${m.n} sondage${m.n > 1 ? "s" : ""}</span>`
     : `<span class="props-empty">Non testé</span>`;
 

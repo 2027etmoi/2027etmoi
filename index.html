@@ -3,58 +3,83 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>2027 et moi — Les candidats</title>
-  <meta name="description" content="Qui se présente à l'élection présidentielle française de 2027 : candidats, partis, statut de candidature, propositions et liens vers leurs sites.">
+  <title>Présidentielle 2027 : candidats, programmes et sondages, tout sourcé — 2027 et moi</title>
+  <meta name="description" content="Élection présidentielle 2027 en France : qui sont les candidats, que proposent-ils, que disent les sondages ? Programmes comparés thème par thème, parcours, données de campagne. Toutes les informations sont sourcées, sans parti pris.">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+  <meta name="theme-color" content="#faf8f4">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap">
-  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="/assets/style.css?v=1165c930">
+  <!--SEO-->
+  <link rel="canonical" href="https://2027etmoi.netlify.app/">
+  <meta property="og:site_name" content="2027 et moi">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Présidentielle 2027 : candidats, programmes et sondages, tout sourcé">
+  <meta property="og:description" content="Élection présidentielle 2027 en France : qui sont les candidats, que proposent-ils, que disent les sondages ? Programmes comparés thème par thème, parcours, données de campagne. Toutes les informations sont sourcées, sans parti pris.">
+  <meta property="og:url" content="https://2027etmoi.netlify.app/">
+  <meta property="og:image" content="https://2027etmoi.netlify.app/assets/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Présidentielle 2027 : candidats, programmes et sondages, tout sourcé">
+  <meta name="twitter:description" content="Élection présidentielle 2027 en France : qui sont les candidats, que proposent-ils, que disent les sondages ? Programmes comparés thème par thème, parcours, données de campagne. Toutes les informations sont sourcées, sans parti pris.">
+  <meta name="twitter:image" content="https://2027etmoi.netlify.app/assets/og.jpg">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "2027 et moi", "url": "https://2027etmoi.netlify.app/", "inLanguage": "fr-FR", "description": "Élection présidentielle 2027 en France : qui sont les candidats, que proposent-ils, que disent les sondages ? Programmes comparés thème par thème, parcours, données de campagne. Toutes les informations sont sourcées, sans parti pris."}</script>
+  <!--/SEO-->
 </head>
 <body>
-  <nav class="site-nav"><div class="wrap"><a class="brand" href="index.html">2027 et moi</a><a href="index.html" aria-current="page">Candidats</a><a href="mes-priorites.html">Mes priorités</a><a href="comparateur.html">Comparateur</a><a href="donnees.html">Données</a><a href="sondages.html">Sondages</a><a href="faq.html">FAQ</a></div></nav>
-  <header class="site-header">
-    <div class="wrap">
-      <p class="kicker">Présidentielle 2027</p>
-      <h1>Qui se présente ?</h1>
-      <p class="lede">Candidats déclarés, pressentis ou retirés, avec leur parti, leurs propositions phares et des liens vers leurs sites et programmes. Chaque statut indique sa source et sa date.</p>
-      <p class="meta" id="meta"></p>
+  <nav class="site-nav"><div class="wrap"><a class="brand" href="/" aria-current="page">2027 et moi</a><a href="/candidats.html">Candidats</a><a href="/mes-priorites.html">Mes priorités</a><a href="/comparateur.html">Comparateur</a><a href="/donnees.html">Données</a><a href="/sondages.html">Sondages</a><a href="/faq.html">FAQ</a></div></nav>
+
+  <header class="site-header hero">
+    <div class="wrap hero-grid">
+      <div>
+        <p class="kicker">Élection présidentielle · 18 avril et 2 mai 2027</p>
+        <h1>Présidentielle 2027 : qui se présente, que proposent-ils ?</h1>
+        <p class="lede">Candidats, programmes comparés thème par thème, parcours, sondages et données de campagne. <strong>Chaque information est sourcée</strong>, sans parti pris ni classement.</p>
+        <p class="hero-cta">
+          <a class="cta" href="/candidats.html">Voir les candidats</a>
+          <a class="cta cta-soft" href="/mes-priorites.html">Trouver les propositions qui comptent pour moi</a>
+        </p>
+      </div>
+      <aside class="countdown card" aria-label="Compte à rebours">
+        <span class="countdown-n" id="jours">—</span>
+        <span class="countdown-l">jours avant le 1er tour</span>
+        <span class="source">Premier tour le dimanche 18 avril 2027 · <a href="https://www.elysee.fr/emmanuel-macron/2026/07/01/compte-rendu-du-conseil-des-ministres-du-mercredi-1er-juillet-2026" target="_blank" rel="noopener">source</a></span>
+      </aside>
     </div>
   </header>
 
   <main class="wrap">
-    <section class="controls" aria-label="Filtres">
-      <label class="search">
-        <span class="visually-hidden">Rechercher</span>
-        <input type="search" id="q" placeholder="Rechercher un nom, un parti, une proposition…" autocomplete="off">
-      </label>
-      <div class="filter-row">
-        <fieldset class="chips" id="f-bloc">
-          <legend>Famille politique</legend>
-        </fieldset>
-        <fieldset class="chips" id="f-statut">
-          <legend>Statut</legend>
-        </fieldset>
+    <section class="section" aria-labelledby="explorer">
+      <h2 id="explorer">Explorer la campagne</h2>
+      <div class="entry-grid">
+        <a class="entry card" href="/candidats.html"><span class="entry-t">Qui se présente</span><span>Candidats déclarés, en primaire ou pressentis, leur parti, leur statut et leurs propositions phares.</span></a>
+        <a class="entry card" href="/mes-priorites.html"><span class="entry-t">Mes priorités</span><span>Réagissez à des propositions anonymes sur les sujets qui comptent pour vous, puis découvrez qui les porte.</span></a>
+        <a class="entry card" href="/comparateur.html"><span class="entry-t">Comparer les programmes</span><span>Jusqu'à quatre candidats côte à côte, thème par thème : retraites, santé, écologie, sécurité…</span></a>
+        <a class="entry card" href="/donnees.html"><span class="entry-t">La campagne en données</span><span>Programmes publiés, chiffrages, temps de parole, sondages et évaluations externes.</span></a>
       </div>
-      <p class="count" id="count" aria-live="polite"></p>
     </section>
 
-    <div class="table-wrap">
-      <table id="table">
-        <thead>
-          <tr>
-            <th scope="col" data-tip-quoi="Personnalité et parti ou mouvement. Le nom mène à la fiche détaillée." data-tip-calcul="Tri par nom de famille." data-tip-source="Voir la fiche candidat."><button data-sort="nom">Candidat</button></th>
-            <th scope="col" data-tip-quoi="Famille politique, pour se repérer." data-tip-calcul="Classement indicatif en six familles ; « Autres » en cas de doute." data-tip-source="Positionnement du parti tel que décrit par la presse et les partis eux-mêmes."><button data-sort="bloc">Famille</button></th>
-            <th scope="col" data-tip-quoi="Déclaré, en primaire, pressenti ou pas candidat, avec une précision." data-tip-calcul="La liste officielle ne sera arrêtée par le Conseil constitutionnel que vers la mi-mars 2027." data-tip-source="Presse reconnue ou site officiel, cité et daté dans chaque case."><button data-sort="statut">Statut</button></th>
-            <th scope="col" data-tip-quoi="Moyenne des intentions de vote au 1er tour dans les sondages récents (fenêtre indiquée sur la page Sondages)." data-tip-calcul="Pour chaque sondage, moyenne des scores sur les hypothèses où la personnalité est testée ; puis moyenne entre sondages, pour qu&#x27;un institut ne pèse pas plus qu&#x27;un autre." data-tip-source="Notices des instituts déposées à la Commission des sondages ; détail sur la page Sondages."><button data-sort="sondage" title="Moyenne des sondages récents">Sondages</button></th>
-            <th scope="col" data-tip-quoi="Jusqu&#x27;à quatre mesures du candidat, sur des thèmes différents." data-tip-calcul="Choisies automatiquement parmi les mesures vérifiées de la fiche programme, en privilégiant celles issues d&#x27;un document officiel. L&#x27;ensemble est sur la fiche candidat." data-tip-source="Chaque mesure est sourcée sur la fiche candidat.">Propositions phares</th>
-            <th scope="col" data-tip-quoi="Site de campagne, parti, programme, réseaux sociaux et Wikipédia." data-tip-source="Liens vérifiés (pages ouvertes).">Liens</th>
-          </tr>
-        </thead>
-        <tbody id="rows"></tbody>
-      </table>
-    </div>
+    <section class="section" aria-labelledby="etapes">
+      <h2 id="etapes">Prochaines étapes</h2>
+      <ol class="steps" id="steps"></ol>
+      <p class="notice">Les dates « estimées » découlent des règles électorales et seront fixées par le décret de convocation. <a href="/faq.html#dates">Tout le calendrier</a></p>
+    </section>
 
-    <p class="empty" id="empty" hidden>Aucun candidat ne correspond à ces filtres.</p>
+    <section class="section" aria-labelledby="liste">
+      <h2 id="liste">Les candidats à la présidentielle 2027</h2>
+      <!--CANDIDATS-->
+      <div class="cand-groups"><div class="cand-group"><h3><span class="dot gauche"></span>Gauche</h3><ul class="cand-links"><li><a href="/candidats/arthaud.html">Nathalie Arthaud</a> <span class="party">Lutte ouvrière</span></li><li><a href="/candidats/bouamrane.html">Karim Bouamrane</a> <span class="party">Parti socialiste</span></li><li><a href="/candidats/cazeneuve.html">Bernard Cazeneuve</a> <span class="party">La Convention</span></li><li><a href="/candidats/faure.html">Olivier Faure</a> <span class="party">Parti socialiste</span></li><li><a href="/candidats/glucksmann.html">Raphaël Glucksmann</a> <span class="party">Place publique</span></li><li><a href="/candidats/guedj.html">Jérôme Guedj</a> <span class="party">Parti socialiste</span></li><li><a href="/candidats/hollande.html">François Hollande</a> <span class="party">Parti socialiste</span></li><li><a href="/candidats/kazib.html">Anasse Kazib</a> <span class="party">Révolution permanente</span></li><li><a href="/candidats/labib.html">Selma Labib</a> <span class="party">NPA-Révolutionnaires</span></li><li><a href="/candidats/massard.html">Lydie Massard</a> <span class="party">Union démocratique bretonne</span></li><li><a href="/candidats/maurel.html">Emmanuel Maurel</a> <span class="party">Gauche républicaine et socialiste</span></li><li><a href="/candidats/melenchon.html">Jean-Luc Mélenchon</a> <span class="party">La France insoumise</span></li><li><a href="/candidats/roussel.html">Fabien Roussel</a> <span class="party">Parti communiste français</span></li><li><a href="/candidats/royal.html">Ségolène Royal</a> <span class="party">Parti socialiste</span></li><li><a href="/candidats/ruffin.html">François Ruffin</a> <span class="party">Debout!</span></li></ul></div><div class="cand-group"><h3><span class="dot ecolo"></span>Écologistes</h3><ul class="cand-links"><li><a href="/candidats/batho.html">Delphine Batho</a> <span class="party">Génération écologie</span></li><li><a href="/candidats/tondelier.html">Marine Tondelier</a> <span class="party">Les Écologistes</span></li></ul></div><div class="cand-group"><h3><span class="dot centre"></span>Centre</h3><ul class="cand-links"><li><a href="/candidats/attal.html">Gabriel Attal</a> <span class="party">Renaissance</span></li><li><a href="/candidats/le-maire.html">Bruno Le Maire</a> <span class="party">Ex-Renaissance</span></li><li><a href="/candidats/philippe.html">Édouard Philippe</a> <span class="party">Horizons</span></li><li><a href="/candidats/villepin.html">Dominique de Villepin</a> <span class="party">La France humaniste</span></li></ul></div><div class="cand-group"><h3><span class="dot droite"></span>Droite</h3><ul class="cand-links"><li><a href="/candidats/bertrand.html">Xavier Bertrand</a> <span class="party">Les Républicains (candidat indépendant, Nous France)</span></li><li><a href="/candidats/lisnard.html">David Lisnard</a> <span class="party">Nouvelle Énergie</span></li><li><a href="/candidats/retailleau.html">Bruno Retailleau</a> <span class="party">Les Républicains</span></li></ul></div><div class="cand-group"><h3><span class="dot extdroite"></span>Droite nationaliste</h3><ul class="cand-links"><li><a href="/candidats/asselineau.html">François Asselineau</a> <span class="party">Union populaire républicaine</span></li><li><a href="/candidats/dupont-aignan.html">Nicolas Dupont-Aignan</a> <span class="party">Debout la France</span></li><li><a href="/candidats/le-pen.html">Marine Le Pen</a> <span class="party">Rassemblement national</span></li><li><a href="/candidats/philippot.html">Florian Philippot</a> <span class="party">Les Patriotes</span></li><li><a href="/candidats/zemmour.html">Éric Zemmour</a> <span class="party">Reconquête</span></li></ul></div><div class="cand-group"><h3><span class="dot autre"></span>Autres</h3><ul class="cand-links"><li><a href="/candidats/branco.html">Juan Branco</a> <span class="party">Sans étiquette (soutenu par Les Ruches)</span></li><li><a href="/candidats/durif.html">Sylvain Durif</a> <span class="party">Sans parti</span></li><li><a href="/candidats/egger.html">Clara Egger</a> <span class="party">Solution démocratique</span></li><li><a href="/candidats/lalanne.html">Francis Lalanne</a> <span class="party">France Libre</span></li><li><a href="/candidats/lassalle.html">Jean Lassalle</a> <span class="party">Résistons !</span></li><li><a href="/candidats/mathieu.html">Benoît Mathieu</a> <span class="party">Sans étiquette</span></li><li><a href="/candidats/mikolajczak.html">Antoine Mikolajczak</a> <span class="party">Équinoxe</span></li><li><a href="/candidats/mlekuz.html">Manolo Mlekuz</a> <span class="party">Trajectoire</span></li></ul></div></div>
+      <!--/CANDIDATS-->
+      <p><a href="/candidats.html">Tous les candidats, avec leurs statuts et leurs sources →</a></p>
+    </section>
+
+    <section class="section prose" aria-labelledby="bref">
+      <h2 id="bref">L'élection présidentielle 2027 en bref</h2>
+      <p>Le président de la République sera élu au suffrage universel direct lors de deux tours, le <strong>18 avril</strong> et le <strong>2 mai 2027</strong>. Pour figurer sur la liste officielle, chaque candidat doit réunir au moins <strong>500 parrainages</strong> d'élus venant d'au moins 30 départements ; le Conseil constitutionnel publiera la liste vers la mi-mars 2027. D'ici là, les « candidats » sont des candidats à la candidature : certains sont déclarés, d'autres passent par une primaire ou n'ont pas encore annoncé leur décision.</p>
+      <p>Ce site rassemble, pour chacun, le programme publié ou les propositions rapportées par la presse, le parcours, les affaires judiciaires éventuelles avec leur état exact, les sondages et le temps de parole à la télévision et à la radio. <a href="/faq.html">Questions fréquentes sur l'élection</a></p>
+    </section>
 
     <section class="trust" aria-labelledby="trust-title">
       <h2 id="trust-title">Vérifiable, de bout en bout</h2>
@@ -65,14 +90,13 @@
         </div>
         <div class="trust-item">
           <h3>Tout est public</h3>
-          <p>Le code du site, toutes les données et l'historique de chaque modification sont consultables sur <a href="https://github.com/PhilippeBout/2027etmoi" target="_blank" rel="noopener">GitHub</a>. Les règles de sourçage sont publiées : <a href="https://github.com/PhilippeBout/2027etmoi/blob/main/docs/methode-sources.md" target="_blank" rel="noopener">programmes</a>, <a href="https://github.com/PhilippeBout/2027etmoi/blob/main/docs/methode-biographies.md" target="_blank" rel="noopener">biographies</a>, <a href="https://github.com/PhilippeBout/2027etmoi/blob/main/docs/methode-candidatures.md" target="_blank" rel="noopener">données</a>.</p>
+          <p>Le code du site, toutes les données et l'historique de chaque modification sont consultables sur <a href="https://github.com/PhilippeBout/2027etmoi" target="_blank" rel="noopener">GitHub</a>, avec les règles de sourçage.</p>
         </div>
         <div class="trust-item">
           <h3>Chacun peut vérifier</h3>
-          <p>Une erreur, un oubli, une source plus récente ? <a href="https://github.com/PhilippeBout/2027etmoi/issues" target="_blank" rel="noopener">Signalez-le sur GitHub</a> en indiquant la page et, si possible, une source. Les corrections sont visibles publiquement.</p>
+          <p>Une erreur, un oubli, une source plus récente ? <a href="https://github.com/PhilippeBout/2027etmoi/issues" target="_blank" rel="noopener">Signalez-le sur GitHub</a>. Les corrections sont visibles publiquement.</p>
         </div>
       </div>
-      <p class="notice">La liste officielle des candidats n'est publiée par le Conseil constitutionnel qu'après la collecte des 500 parrainages, vers la mi-mars 2027. D'ici là, ce tableau recense les candidatures <strong>déclarées</strong>, <strong>en primaire</strong> ou <strong>pressenties</strong> telles que rapportées publiquement. <a href="faq.html#parrainages">En savoir plus</a></p>
     </section>
   </main>
 
@@ -85,12 +109,12 @@
       <ul class="footer-points">
         <li><strong>Sourcé</strong> : chaque information renvoie à sa source datée.</li>
         <li><strong>Public</strong> : code, données et historique des modifications <a href="https://github.com/PhilippeBout/2027etmoi" target="_blank" rel="noopener">sur GitHub</a>.</li>
-        <li><strong>Vérifiable</strong> : <a href="https://github.com/PhilippeBout/2027etmoi/issues" target="_blank" rel="noopener">signaler une erreur</a> · <a href="faq.html#neutralite">notre méthode</a></li>
+        <li><strong>Vérifiable</strong> : <a href="https://github.com/PhilippeBout/2027etmoi/issues" target="_blank" rel="noopener">signaler une erreur</a> · <a href="/faq.html#neutralite">notre méthode</a></li>
       </ul>
     </div>
   </footer>
 
-  <script src="assets/common.js"></script>
-  <script src="assets/app.js"></script>
+  <script src="/assets/common.js?v=fcf9668b"></script>
+  <script src="/assets/accueil.js?v=5bb83b9f"></script>
 </body>
 </html>

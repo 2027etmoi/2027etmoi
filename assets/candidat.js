@@ -65,7 +65,8 @@ function presentationHtml(b) {
     ? ` Né(e) le ${esc(formatDate(b.naissance.date))}${b.naissance.lieu ? ` à ${esc(b.naissance.lieu)}` : ""}.`
     : "";
   return `<div class="presentation">
-    <p class="lede">${esc(b.presentation.texte)}${naiss}</p>
+    <p class="lede clamp" id="pres">${esc(b.presentation.texte)}${naiss}</p>
+    <button type="button" class="more" onclick="this.previousElementSibling.classList.toggle('clamp');this.textContent=this.previousElementSibling.classList.contains('clamp')?'Lire la suite':'Réduire'">Lire la suite</button>
     ${(b.presentation.sources || []).map((s) => sourceHtml(s)).join("")}
   </div>`;
 }
@@ -139,7 +140,8 @@ function openTarget(hash) {
 }
 
 async function init() {
-  const id = new URLSearchParams(location.search).get("id");
+  // /candidats/<id>.html (pages générées) ou candidat.html?id=<id> (gabarit)
+  const id = /\/candidats\/([^/]+)\.html$/.exec(location.pathname)?.[1] || new URLSearchParams(location.search).get("id");
   const main = $("main");
   let data;
   try {
@@ -154,7 +156,7 @@ async function init() {
     return;
   }
 
-  document.title = `${c.nom} — 2027 et moi`;
+  if (!location.pathname.startsWith("/candidats/")) document.title = `${c.nom} — 2027 et moi`;
   const [p, b, sondages, tp] = await Promise.all([loadProgramme(c.id), loadBiographie(c.id), loadSondages(), loadTempsParole()]);
   const m = computeMoyennes(sondages)[c.id];
 
@@ -164,13 +166,13 @@ async function init() {
       <p class="kicker">${esc(c.parti)}</p>
       <h1>${esc(c.nom)}</h1>
       <div class="cand-head">${blocHtml(c.bloc)} ${badge(c.statut)}
-        ${m ? `<a class="poll" href="sondages.html#${encodeURIComponent(c.id)}">${formatPct(m.moyenne)}</a><span class="notice">moyenne de ${m.n} sondage${m.n > 1 ? "s" : ""}</span>` : ""}
+        ${m ? `<a class="poll" href="/sondages.html#${encodeURIComponent(c.id)}">${formatPct(m.moyenne)}</a><span class="notice">moyenne de ${m.n} sondage${m.n > 1 ? "s" : ""}</span>` : ""}
       </div>
       ${presentationHtml(b)}
       ${c.statut_detail ? `<p class="status-line"><strong>Candidature :</strong> ${esc(c.statut_detail)}</p>` : ""}
       ${sourceHtml(c.source)}
       <div class="cand-head"><div class="links">${linksHtml(c.liens)}</div></div>
-      ${EN_LICE.includes(c.statut) ? `<a class="cta" href="comparateur.html?c=${encodeURIComponent(c.id)}">Comparer avec d'autres candidats</a>` : ""}
+      ${EN_LICE.includes(c.statut) ? `<a class="cta" href="/comparateur.html?c=${encodeURIComponent(c.id)}">Comparer avec d'autres candidats</a>` : ""}
       </div>
     </header>`;
 

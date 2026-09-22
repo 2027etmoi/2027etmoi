@@ -228,7 +228,7 @@ function renderResultats() {
       <p class="share"><input type="text" id="share" readonly value="${esc(location.href.split("#")[0] + encoder())}"><button type="button" class="chip" id="copy">Copier le lien</button></p>
       <p class="quiz-nav">
         <button type="button" class="chip" id="again">Recommencer avec d'autres propositions</button>
-        <a class="cta" href="comparateur.html?c=${encodeURIComponent(lignes.slice(0, 4).map((l) => l.id).join(","))}&t=${encodeURIComponent(st.tirage.map((b) => b.theme).join(","))}">Comparer ces candidats en détail</a>
+        <a class="cta" href="/comparateur.html?c=${encodeURIComponent(lignes.slice(0, 4).map((l) => l.id).join(","))}&t=${encodeURIComponent(st.tirage.map((b) => b.theme).join(","))}">Comparer ces candidats en détail</a>
       </p>
     </section>
     ${limitesHtml()}`;

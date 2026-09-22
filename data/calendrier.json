@@ -1,0 +1,23 @@
+{
+  "mise_a_jour": "2026-09-22",
+  "etapes": [
+    { "date": "2026-10-09", "fin": "2026-10-10", "titre": "Primaire PS / Place publique / GRS (1er tour)", "statut": "prevue",
+      "source": { "titre": "choisir2027.fr", "url": "https://choisir2027.fr/", "date": "2026-09-22" } },
+    { "date": "2026-10-16", "fin": "2026-10-17", "titre": "Primaire PS / Place publique / GRS (2nd tour éventuel)", "statut": "prevue",
+      "source": { "titre": "choisir2027.fr", "url": "https://choisir2027.fr/", "date": "2026-09-22" } },
+    { "date": "2026-12-10", "fin": "2026-12-13", "titre": "Référendum interne des Écologistes sur la candidature de Marine Tondelier", "statut": "prevue",
+      "source": { "titre": "Journal du Net", "url": "https://www.journaldunet.com/business/action-publique/1555211-referendum-interne-des-ecologistes-sur-la-candidature-de-marine-tondelier-a-la-presidentielle-de-2027/", "date": "2026-09-22" } },
+    { "date": "2027-02-07", "titre": "Décret de convocation des électeurs (au plus tard)", "statut": "estimee",
+      "source": { "titre": "Toute l'Europe", "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/", "date": "2026-08-18" } },
+    { "date": "2027-03-12", "titre": "Fin du dépôt des parrainages et des inscriptions sur les listes électorales", "statut": "estimee",
+      "source": { "titre": "Toute l'Europe", "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/", "date": "2026-08-18" } },
+    { "date": "2027-03-16", "titre": "Liste officielle des candidats (Conseil constitutionnel)", "statut": "estimee",
+      "source": { "titre": "Toute l'Europe", "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/", "date": "2026-08-18" } },
+    { "date": "2027-04-05", "titre": "Début de la campagne officielle", "statut": "estimee",
+      "source": { "titre": "Toute l'Europe", "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/", "date": "2026-08-18" } },
+    { "date": "2027-04-18", "titre": "Premier tour de l'élection présidentielle", "statut": "officielle",
+      "source": { "titre": "Élysée, compte rendu du Conseil des ministres", "url": "https://www.elysee.fr/emmanuel-macron/2026/07/01/compte-rendu-du-conseil-des-ministres-du-mercredi-1er-juillet-2026", "date": "2026-07-01" } },
+    { "date": "2027-05-02", "titre": "Second tour de l'élection présidentielle", "statut": "officielle",
+      "source": { "titre": "Élysée, compte rendu du Conseil des ministres", "url": "https://www.elysee.fr/emmanuel-macron/2026/07/01/compte-rendu-du-conseil-des-ministres-du-mercredi-1er-juillet-2026", "date": "2026-07-01" } }
+  ]
+}

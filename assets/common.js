@@ -109,7 +109,7 @@ function linksHtml(liens) {
 }
 
 async function loadCandidats() {
-  const res = await fetch("data/candidats.json", { cache: "no-cache" });
+  const res = await fetch("/data/candidats.json", { cache: "no-cache" });
   if (!res.ok) throw new Error("candidats.json introuvable");
   return res.json();
 }
@@ -124,8 +124,8 @@ async function loadOptional(path) {
   }
 }
 
-const loadProgramme = (id) => loadOptional(`data/programmes/${encodeURIComponent(id)}.json`);
-const loadBiographie = (id) => loadOptional(`data/biographies/${encodeURIComponent(id)}.json`);
+const loadProgramme = (id) => loadOptional(`/data/programmes/${encodeURIComponent(id)}.json`);
+const loadBiographie = (id) => loadOptional(`/data/biographies/${encodeURIComponent(id)}.json`);
 
 const ETATS_AFFAIRE = {
   enquete: "Enquête en cours",
@@ -139,7 +139,7 @@ const ETATS_AFFAIRE = {
   classement: "Classement sans suite",
 };
 
-const loadSondages = () => loadOptional("data/sondages.json");
+const loadSondages = () => loadOptional("/data/sondages.json");
 
 // Moyenne des intentions de vote par personnalité.
 // Un sondage compte pour une voix : on fait d'abord la moyenne des hypothèses
@@ -175,10 +175,10 @@ function formatPct(v) {
 }
 
 function candidatUrl(id) {
-  return `candidat.html?id=${encodeURIComponent(id)}`;
+  return `/candidats/${encodeURIComponent(id)}.html`;
 }
 
-const loadTempsParole = () => loadOptional("data/temps-parole.json");
+const loadTempsParole = () => loadOptional("/data/temps-parole.json");
 
 // Durée en minutes → « 2 h 05 » ou « 45 min »
 function formatDuree(min) {
@@ -227,3 +227,31 @@ function initHeaderTips() {
   window.addEventListener("scroll", () => document.querySelectorAll(".tip.open").forEach((t) => t.classList.remove("open")), { passive: true });
 }
 initHeaderTips();
+
+// Date de dernière mise à jour, affichée dans le pied de page de toutes les pages
+(async () => {
+  const meta = await loadOptional("/data/meta.json");
+  const foot = document.querySelector(".site-footer .footer-grid > div");
+  if (!meta || !foot) return;
+  const d = meta.donnees && meta.donnees > meta.publication ? meta.donnees : meta.publication;
+  foot.insertAdjacentHTML("beforeend", `<p class="maj">Dernière mise à jour : <strong>${esc(formatDate(d))}</strong> · <a href="https://github.com/PhilippeBout/2027etmoi/commits/main" target="_blank" rel="noopener">historique des modifications</a></p>`);
+})();
+
+// Menu mobile et lien d'évitement (accessibilité), communs à toutes les pages
+(() => {
+  const main = document.querySelector("main");
+  if (main && !main.id) main.id = "contenu";
+  if (main) document.body.insertAdjacentHTML("afterbegin", `<a class="skip" href="#${main.id}">Aller au contenu</a>`);
+  const nav = document.querySelector(".site-nav .wrap");
+  if (!nav) return;
+  nav.insertAdjacentHTML("beforeend", `<button type="button" class="menu-btn" aria-expanded="false" aria-controls="menu">Menu</button>`);
+  const links = [...nav.querySelectorAll("a:not(.brand)")];
+  const menu = document.createElement("div");
+  menu.className = "menu-links"; menu.id = "menu";
+  links.forEach((a) => menu.appendChild(a));
+  nav.insertBefore(menu, nav.querySelector(".menu-btn"));
+  nav.querySelector(".menu-btn").addEventListener("click", (e) => {
+    const open = nav.classList.toggle("open");
+    e.currentTarget.setAttribute("aria-expanded", String(open));
+  });
+})();

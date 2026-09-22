@@ -58,7 +58,7 @@ function cellChiffrage(k) {
 }
 
 function cellSondage(m, id) {
-  return m ? `<a class="poll" href="sondages.html#${encodeURIComponent(id)}">${formatPct(m.moyenne)}</a><span class="poll-n">${m.n} sondage${m.n > 1 ? "s" : ""}</span>` : `<span class="props-empty">Non testé</span>`;
+  return m ? `<a class="poll" href="/sondages.html#${encodeURIComponent(id)}">${formatPct(m.moyenne)}</a><span class="poll-n">${m.n} sondage${m.n > 1 ? "s" : ""}</span>` : `<span class="props-empty">Non testé</span>`;
 }
 
 function cellParole(tp, id) {
@@ -107,7 +107,7 @@ function render() {
 
 async function init() {
   const [cands, sondages, cand, evals, tparole] = await Promise.all([
-    loadCandidats(), loadSondages(), loadOptional("data/candidatures.json"), loadOptional("data/evaluations.json"), loadTempsParole(),
+    loadCandidats(), loadSondages(), loadOptional("/data/candidatures.json"), loadOptional("/data/evaluations.json"), loadTempsParole(),
   ]);
   const moy = computeMoyennes(sondages);
   const instById = Object.fromEntries((evals?.institutions || []).map((i) => [i.id, i]));

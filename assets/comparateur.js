@@ -43,8 +43,13 @@ function buildPickers(candidats) {
         b.setAttribute("aria-pressed", String(sel.cands.includes(c.id)));
         await render();
       }, c.bloc);
+      b.dataset.search = normalize(`${c.nom} ${c.parti}`);
       pc.appendChild(b);
     });
+  $("q-cand").addEventListener("input", (e) => {
+    const q = normalize(e.target.value.trim());
+    pc.querySelectorAll(".chip").forEach((b) => { b.hidden = q && !b.dataset.search.includes(q) && b.getAttribute("aria-pressed") !== "true"; });
+  });
 
   const pt = $("pick-theme");
   const all = chip("Tous", sel.themes.size === 0, () => {

@@ -6,8 +6,9 @@ Site d'information indépendant et non partisan sur l'élection présidentielle 
 
 | Page | Contenu |
 |---|---|
-| `index.html` | Tableau des candidats : statut, moyenne des sondages, propositions phares, liens |
-| `candidat.html?id=<id>` | Fiche candidat : photo, présentation, parcours, affaires judiciaires, programme et propositions par thème |
+| `index.html` | Accueil : compte à rebours, prochaines étapes (data/calendrier.json), entrées, liste des candidats |
+| `candidats.html` | Tableau des candidats : statut, moyenne des sondages, propositions phares, liens |
+| `candidats/<id>.html` | Fiche candidat (générée par le build à partir du gabarit `candidat.html`) : photo, présentation, parcours, affaires, programme par thème, temps de parole |
 | `mes-priorites.html` | Questionnaire : choix de thèmes, propositions anonymes, puis révélation de qui propose quoi (sans recommandation de vote, rien n'est enregistré) |
 | `comparateur.html?c=<id>,<id>&t=<theme>` | Propositions de 1 à 4 candidats, thème par thème |
 | `sondages.html` | Moyenne des intentions de vote et détail de chaque sondage |
@@ -46,13 +47,28 @@ python3 scripts/verifier_liens.py
 
 `verifier_liens.py` teste toutes les URL et signale les liens morts.
 
+## Build (référencement)
+
+```bash
+python3 scripts/build.py
+```
+
+Lancé automatiquement par Netlify à chaque déploiement (`netlify.toml`). Il :
+- écrit `data/meta.json` (date de dernière mise à jour affichée dans le pied de page) ;
+- génère une page statique par candidat dans `candidats/` (titre, description, balises de partage, données structurées `ProfilePage`, résumé lisible sans JavaScript) ;
+- met à jour les balises SEO des pages principales (entre `<!--SEO-->` et `<!--/SEO-->`), les données structurées de la FAQ et la liste des candidats de l'accueil ;
+- versionne les fichiers CSS/JS (`?v=` + empreinte) ;
+- écrit `sitemap.xml` et `robots.txt`.
+
+`candidats/`, `sitemap.xml` et `robots.txt` ne sont pas versionnés dans git : ils sont régénérés. L'URL du site vient de la variable `SITE_URL` (ou `URL`, fournie par Netlify).
+
 ## Lancer en local
 
 ```bash
 python3 -m http.server 8027
 ```
 
-Puis ouvrir http://localhost:8027. Un serveur local est nécessaire : les pages chargent les données JSON avec `fetch`.
+Lancer d'abord `python3 scripts/build.py` (pages candidats), puis ouvrir http://localhost:8027. Un serveur local est nécessaire : les pages chargent les données JSON avec `fetch`.
 
 ## Déploiement
 
