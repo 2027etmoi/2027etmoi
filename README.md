@@ -8,6 +8,7 @@ Site d'information indépendant et non partisan sur l'élection présidentielle 
 |---|---|
 | `index.html` | Tableau des candidats : statut, moyenne des sondages, propositions phares, liens |
 | `candidat.html?id=<id>` | Fiche candidat : photo, présentation, parcours, affaires judiciaires, programme et propositions par thème |
+| `mes-priorites.html` | Questionnaire : choix de thèmes, propositions anonymes, puis révélation de qui propose quoi (sans recommandation de vote, rien n'est enregistré) |
 | `comparateur.html?c=<id>,<id>&t=<theme>` | Propositions de 1 à 4 candidats, thème par thème |
 | `sondages.html` | Moyenne des intentions de vote et détail de chaque sondage |
 | `donnees.html` | Candidatures en données : déclaration, désignation, programme, chiffrage, sondages, temps de parole, évaluations externes — sans note ni classement |

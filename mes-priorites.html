@@ -3,19 +3,26 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Candidat — 2027 et moi</title>
-  <meta name="description" content="Fiche candidat à l'élection présidentielle 2027 : statut, programme et propositions par thème, avec sources.">
+  <title>Mes priorités — 2027 et moi</title>
+  <meta name="description" content="Choisissez les sujets qui comptent pour vous, réagissez à des propositions anonymes des candidats à la présidentielle 2027, puis découvrez qui propose quoi, sources à l'appui.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-  <nav class="site-nav"><div class="wrap"><a class="brand" href="index.html">2027 et moi</a><a href="index.html">Candidats</a><a href="mes-priorites.html">Mes priorités</a><a href="comparateur.html">Comparateur</a><a href="donnees.html">Données</a><a href="sondages.html">Sondages</a><a href="faq.html">FAQ</a></div></nav>
+  <nav class="site-nav"><div class="wrap"><a class="brand" href="index.html">2027 et moi</a><a href="index.html">Candidats</a><a href="mes-priorites.html" aria-current="page">Mes priorités</a><a href="comparateur.html">Comparateur</a><a href="donnees.html">Données</a><a href="sondages.html">Sondages</a><a href="faq.html">FAQ</a></div></nav>
 
-  <main class="wrap" id="main">
-    <a class="back" href="index.html">← Tous les candidats</a>
-    <p class="notice" id="loading">Chargement…</p>
+  <header class="site-header">
+    <div class="wrap">
+      <p class="kicker">2027 et moi</p>
+      <h1>Mes priorités</h1>
+      <p class="lede">Choisissez les sujets qui comptent pour vous, réagissez à des propositions présentées sans le nom de leur auteur, puis découvrez qui propose quoi, sources à l'appui.</p>
+    </div>
+  </header>
+
+  <main class="wrap" id="app">
+    <p class="notice">Chargement…</p>
   </main>
 
   <footer class="site-footer">
@@ -33,6 +40,6 @@
   </footer>
 
   <script src="assets/common.js"></script>
-  <script src="assets/candidat.js"></script>
+  <script src="assets/priorites.js"></script>
 </body>
 </html>

@@ -474,3 +474,56 @@ details > summary::-webkit-details-marker { display: none; }
 .tip-row { display: block; }
 .tip-row + .tip-row { margin-top: 6px; }
 .tip-row strong { color: var(--accent); font-weight: 600; }
+
+/* Mes priorités */
+.quiz h2 { margin-top: 0; }
+.quiz .chips { margin: 12px 0 18px; }
+.quiz .chip .poll-n { display: inline; margin-left: 4px; }
+.cta[disabled] { opacity: .45; cursor: not-allowed; }
+button.cta { border: 0; font: inherit; font-weight: 600; cursor: pointer; }
+.quiz-theme { display: inline-block; background: var(--tint); padding: 4px 14px; border-radius: 8px; }
+.quiz-item + .quiz-item { margin-top: 10px; }
+.quiz-item p { margin: 0 0 10px; font-size: 16px; }
+.quiz-letter { display: block; font-size: 12px; font-weight: 600; color: var(--muted); margin-bottom: 2px; }
+.quiz-answers { display: flex; flex-wrap: wrap; gap: 6px; }
+.quiz-answers .chip[data-answer="oui"][aria-pressed="true"] { background: var(--st-declare-bg); border-color: var(--st-declare-fg); }
+.quiz-answers .chip[data-answer="non"][aria-pressed="true"] { background: var(--st-empeche-bg); border-color: var(--st-empeche-fg); }
+.quiz-answers .chip[data-answer="neutre"][aria-pressed="true"] { background: #efede8; border-color: #bdb7ac; }
+.quiz-nav { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; margin: 20px 0; }
+.bar-split { display: flex; height: 10px; border-radius: 999px; overflow: hidden; background: #efede8; }
+.bar-oui { background: #9fd1b0; }
+.bar-non { background: #eeb3ab; }
+.answer-tag { display: inline-block; font-size: 11px; font-weight: 600; padding: 1px 7px; border-radius: 4px; margin-right: 6px; background: #efede8; color: var(--muted); }
+.answer-tag.oui { background: var(--st-declare-bg); color: var(--st-declare-fg); }
+.answer-tag.non { background: var(--st-empeche-bg); color: var(--st-empeche-fg); }
+
+/* Mes priorités v2 */
+.profil { margin: 10px 0; }
+.profil legend { min-width: 120px; }
+.imp-list { display: grid; gap: 6px; margin-top: 10px; }
+.imp-row {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 16px;
+  padding: 10px 12px; border-radius: 10px; background: #fcfbf8; border-left: 4px solid var(--tint);
+}
+.imp-label { font-weight: 600; }
+.imp-label .poll-n { font-weight: 400; }
+.imp-choices { display: flex; flex-wrap: wrap; gap: 6px; }
+.imp-choices .chip { font-size: 13px; padding: 4px 10px; }
+.imp-choices .chip[data-imp="2"][aria-pressed="true"] { background: var(--tint); border-color: #b9b1a3; font-weight: 600; }
+.sugg { font-size: 11px; font-weight: 600; background: var(--pastel-butter); color: #7d5400; border-radius: 4px; padding: 1px 6px; margin-left: 4px; }
+.progress { height: 6px; border-radius: 999px; background: #ece8e1; overflow: hidden; margin-bottom: 14px; }
+.progress span { display: block; height: 100%; background: linear-gradient(90deg, #a9c1e8, #c7b8ec); transition: width .2s; }
+.quiz-answers .chip[data-answer="2"][aria-pressed="true"], .quiz-answers .chip[data-answer="1"][aria-pressed="true"] { background: var(--st-declare-bg); border-color: var(--st-declare-fg); }
+.quiz-answers .chip[data-answer="-1"][aria-pressed="true"], .quiz-answers .chip[data-answer="-2"][aria-pressed="true"] { background: var(--st-empeche-bg); border-color: var(--st-empeche-fg); }
+.quiz-answers .chip[data-answer="0"][aria-pressed="true"] { background: #efede8; border-color: #bdb7ac; }
+.results th { white-space: normal; vertical-align: bottom; }
+.th-pill { display: inline-block; background: var(--tint); border-radius: 6px; padding: 2px 8px; font-size: 12px; color: var(--text); }
+.acc {
+  display: inline-block; min-width: 54px; padding: 2px 8px; border-radius: 6px; font-weight: 600; font-size: 13px;
+  background: linear-gradient(90deg, #cfe8d7 var(--p), #f3efe9 var(--p));
+}
+.share { display: flex; gap: 8px; flex-wrap: wrap; }
+.share input {
+  flex: 1 1 300px; font: inherit; font-size: 13px; padding: 8px 12px; border-radius: 8px;
+  border: 1px solid var(--border); background: #fbfaf7; color: var(--muted);
+}
