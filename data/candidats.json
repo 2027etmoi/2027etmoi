@@ -1,0 +1,541 @@
+{
+  "mise_a_jour": "2026-09-22",
+  "candidats": [
+    {
+      "nom": "Jean-Luc Mélenchon",
+      "parti": "La France insoumise",
+      "bloc": "gauche",
+      "statut": "declare",
+      "statut_detail": "Candidature annoncée au 20 h de TF1. Soutenu par le NPA-l'Anticapitaliste.",
+      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851", "date": "2026-05-03" },
+      "propositions": ["Blocage des prix et hausse des salaires", "Planification écologique", "Passage à une 6e République", "Programme « L'Avenir en commun » (édition 2025)"],
+      "liens": {
+        "campagne": "https://melenchon2027.fr/",
+        "programme": "https://melenchon2027.fr/programme2025/livre/",
+        "parti": "https://lafranceinsoumise.fr/",
+        "x": "https://x.com/jlmelenchon",
+        "instagram": "https://www.instagram.com/jlmelenchon/",
+        "youtube": "https://www.youtube.com/@JLMelenchon",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+      }
+    },
+    {
+      "nom": "Olivier Faure",
+      "parti": "Parti socialiste",
+      "bloc": "gauche",
+      "statut": "primaire",
+      "statut_detail": "Candidat à la primaire PS / Place publique / GRS (9-10 oct., 2e tour 16-17 oct.).",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/le-chef-du-parti-socialiste-olivier-faure-confirme-sa-candidature-a-la-primaire-de-son-camp-en-vue-de-l-election-presidentielle_8169896.html", "date": "2026-08-30" },
+      "propositions": ["Livre-programme « La Loi du plus juste »"],
+      "liens": {
+        "campagne": "https://avecfaure2027.fr/",
+        "parti": "https://www.parti-socialiste.fr/",
+        "x": "https://x.com/faureolivier",
+        "instagram": "https://www.instagram.com/olivierfaure/",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Olivier_Faure"
+      }
+    },
+    {
+      "nom": "Raphaël Glucksmann",
+      "parti": "Place publique",
+      "bloc": "gauche",
+      "statut": "primaire",
+      "statut_detail": "Candidat à la primaire PS / Place publique / GRS. Soutenu par Boris Vallaud.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/le-cofondateur-de-place-publique-raphael-glucksmann-officialise-sa-candidature-a-l-election-presidentielle-pour-relever-la-france_8158841.html", "date": "2026-08-23" },
+      "propositions": ["Indépendance énergétique, technologique et industrielle", "Investissement public vert de 100 Md€ sur 10 ans", "Hausse du salaire net par baisse des prélèvements sociaux", "Défense de la démocratie contre les ingérences"],
+      "liens": {
+        "campagne": "https://glucks2027.fr/",
+        "parti": "https://place-publique.eu/",
+        "instagram": "https://www.instagram.com/raphaelglucksmann/",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"
+      }
+    },
+    {
+      "nom": "Jérôme Guedj",
+      "parti": "Parti socialiste",
+      "bloc": "gauche",
+      "statut": "primaire",
+      "statut_detail": "Candidat validé à la primaire PS / Place publique / GRS.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jerome-guedj-appelle-a-la-constitution-d-une-dream-team-de-la-gauche-republicaine-universaliste-laique_8164709.html", "date": "2026-08-27" },
+      "propositions": ["Gauche « républicaine, universaliste, laïque »", "Gel de la réforme des retraites"],
+      "liens": {
+        "campagne": "https://www.jeromeguedj2027.fr/",
+        "x": "https://x.com/JeromeGuedj",
+        "wikipedia": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj"
+      }
+    },
+    {
+      "nom": "Ségolène Royal",
+      "parti": "Parti socialiste",
+      "bloc": "gauche",
+      "statut": "primaire",
+      "statut_detail": "Candidate validée à la primaire PS / Place publique / GRS.",
+      "source": { "titre": "Brut", "url": "https://www.brut.media/fr/articles/france/politique/presidentielle-2027-segolene-royal-annonce-sa-participation-a-la-primaire-de-l-espace-socialiste", "date": "2026-07-10" },
+      "propositions": ["« L'Ordre juste » : école, hôpital, sécurité du quotidien", "Urgences climatique et énergétique", "Reconstruction d'un État fort", "La France comme « puissance médiatrice »"],
+      "liens": {
+        "wikipedia": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal"
+      }
+    },
+    {
+      "nom": "Emmanuel Maurel",
+      "parti": "Gauche républicaine et socialiste",
+      "bloc": "gauche",
+      "statut": "primaire",
+      "statut_detail": "Candidat validé à la primaire PS / Place publique / GRS.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-04-septembre-2026_8167499.html", "date": "2026-09-04" },
+      "propositions": ["« Démondialiser, démarchandiser, démocratiser »"],
+      "liens": {
+        "parti": "https://g-r-s.fr/",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+      }
+    },
+    {
+      "nom": "Fabien Roussel",
+      "parti": "Parti communiste français",
+      "bloc": "gauche",
+      "statut": "declare",
+      "statut_detail": "Investi par 72 % des adhérents du PCF. Pas de participation à une primaire.",
+      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389", "date": "2026-09-06" },
+      "propositions": ["Travail et salaires", "Réindustrialisation", "Nucléaire civil et énergies renouvelables", "Services publics de proximité"],
+      "liens": {
+        "parti": "https://www.pcf.fr/",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
+      }
+    },
+    {
+      "nom": "François Ruffin",
+      "parti": "Debout!",
+      "bloc": "gauche",
+      "statut": "declare",
+      "statut_detail": "Candidat hors primaire depuis l'abandon de la primaire de la gauche unitaire.",
+      "source": { "titre": "Orange / AFP", "url": "https://actu.orange.fr/politique/presidentielle-francois-ruffin-l-ex-insoumis-qui-a-du-mal-a-socialiser-CNT000002rVfmk.html", "date": "2026-09-16" },
+      "propositions": ["Statut des « métiers essentiels »", "Président payé au SMIC"],
+      "liens": {
+        "campagne": "https://ruffin2027.fr/",
+        "parti": "https://debout.fr/",
+        "x": "https://x.com/francois_ruffin",
+        "instagram": "https://www.instagram.com/francois_ruffin/",
+        "youtube": "https://www.youtube.com/@francois_ruffin",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+      }
+    },
+    {
+      "nom": "Bernard Cazeneuve",
+      "parti": "La Convention",
+      "bloc": "gauche",
+      "statut": "pressenti",
+      "statut_detail": "Candidature de fait : « Lettre aux Français » publiée en juillet 2026, sans déclaration formelle confirmée.",
+      "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-la-candidature-de-bernard-cazeneuve-traduit-la-difficulte-de-notre-personnel-politique-a-se-renouveler-selon-bruno-cautres", "date": "2026-07-17" },
+      "propositions": ["Protéger les vies", "Remettre l'État en ordre", "Reconstruire les souverainetés", "Retraites : privilégier la durée de cotisation à l'âge légal"],
+      "liens": {
+        "parti": "https://la-convention.fr/",
+        "programme": "https://www.la-convention.fr/lettre",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
+      }
+    },
+    {
+      "nom": "Karim Bouamrane",
+      "parti": "Parti socialiste",
+      "bloc": "gauche",
+      "statut": "declare",
+      "statut_detail": "Maire de Saint-Ouen. Refuse la primaire, qu'il juge « fermée ».",
+      "source": { "titre": "CNews", "url": "https://www.cnews.fr/france/2026-08-26/presidentielle-2027-karim-bouamrane-ne-participera-pas-la-primaire-socialiste", "date": "2026-08-26" },
+      "propositions": [],
+      "liens": {
+        "wikipedia": "https://fr.wikipedia.org/wiki/Karim_Bouamrane"
+      }
+    },
+    {
+      "nom": "François Hollande",
+      "parti": "Parti socialiste",
+      "bloc": "gauche",
+      "statut": "pressenti",
+      "statut_detail": "Refuse la primaire. Décision annoncée pour fin décembre 2026.",
+      "source": { "titre": "Yahoo / AFP", "url": "https://fr.news.yahoo.com/sport/pr%C3%A9sidentielle-2027-hollande-fera-savoir-121329237.html", "date": "2026-09" },
+      "propositions": [],
+      "liens": {
+        "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande"
+      }
+    },
+    {
+      "nom": "Nathalie Arthaud",
+      "parti": "Lutte ouvrière",
+      "bloc": "gauche",
+      "statut": "declare",
+      "statut_detail": "Désignée au congrès de LO. Quatrième candidature.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html", "date": "2025-12-08" },
+      "propositions": ["Candidature communiste révolutionnaire, « camp des travailleurs »"],
+      "liens": {
+        "campagne": "https://www.nathalie-arthaud.info/",
+        "parti": "https://www.lutte-ouvriere.org/",
+        "instagram": "https://www.instagram.com/nathalie_arthaud_lo/",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud"
+      }
+    },
+    {
+      "nom": "Anasse Kazib",
+      "parti": "Révolution permanente",
+      "bloc": "gauche",
+      "statut": "declare",
+      "statut_detail": "En quête des 500 parrainages.",
+      "source": { "titre": "Révolution permanente", "url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-500-parrainages-pour-que-la-classe-ouvriere-s-invite-dans-la-presidentielle", "date": "2026-06-01" },
+      "propositions": [],
+      "liens": {
+        "campagne": "https://anasse2027.fr/",
+        "parti": "https://www.revolutionpermanente.fr/",
+        "x": "https://x.com/AnasseKazib",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Anasse_Kazib"
+      }
+    },
+    {
+      "nom": "Selma Labib",
+      "parti": "NPA-Révolutionnaires",
+      "bloc": "gauche",
+      "statut": "declare",
+      "statut_detail": "Conductrice de bus, 30 ans.",
+      "source": { "titre": "NPA-Révolutionnaires", "url": "https://npa-revolutionnaires.org/sur-rtl-presidentielle-2027-selma-labib-officiellement-candidate-pour-le-npa-revolutionnaires/", "date": "2026-06-17" },
+      "propositions": ["Salaires, retraites, services publics", "Fin des aides aux entreprises"],
+      "liens": {
+        "parti": "https://npa-revolutionnaires.org/",
+        "x": "https://x.com/npa_revo"
+      }
+    },
+    {
+      "nom": "Marine Tondelier",
+      "parti": "Les Écologistes",
+      "bloc": "ecolo",
+      "statut": "declare",
+      "statut_detail": "Candidature maintenue par le conseil fédéral. Référendum interne du 10 au 13 décembre 2026 : candidature autonome ou retrait au profit d'un autre candidat.",
+      "source": { "titre": "Journal du Net", "url": "https://www.journaldunet.com/business/action-publique/1555211-referendum-interne-des-ecologistes-sur-la-candidature-de-marine-tondelier-a-la-presidentielle-de-2027/", "date": "2026-09-22" },
+      "propositions": ["21 propositions présentées comme base de rassemblement de la gauche"],
+      "liens": {
+        "campagne": "https://www.marinetondelier.fr/",
+        "x": "https://x.com/marinetondelier",
+        "instagram": "https://www.instagram.com/marinetondelier",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+      }
+    },
+    {
+      "nom": "Delphine Batho",
+      "parti": "Génération écologie",
+      "bloc": "ecolo",
+      "statut": "declare",
+      "statut_detail": "Candidate « pour reconstruire une écologie capable de gouverner ».",
+      "source": { "titre": "Site de campagne", "url": "https://www.delphinebatho.fr/", "date": "2025-11-25" },
+      "propositions": [],
+      "liens": {
+        "campagne": "https://www.delphinebatho.fr/",
+        "parti": "https://generationecologie.fr/",
+        "instagram": "https://www.instagram.com/delphine_batho",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+      }
+    },
+    {
+      "nom": "Boris Vallaud",
+      "parti": "Parti socialiste",
+      "bloc": "gauche",
+      "statut": "renonce",
+      "statut_detail": "Soutient Raphaël Glucksmann.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/boris-vallaud-fait-le-choix-de-soutenir-raphael-glucksmann-pour-la-primaire-de-la-gauche-en-vue-de-la-presidentielle-2027_8165114.html", "date": "2026-08-27" },
+      "propositions": [],
+      "liens": { "wikipedia": "https://fr.wikipedia.org/wiki/Boris_Vallaud" }
+    },
+    {
+      "nom": "Clémentine Autain",
+      "parti": "L'Après",
+      "bloc": "gauche",
+      "statut": "renonce",
+      "statut_detail": "Retrait en dénonçant « l'empilement des candidatures » à gauche.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-la-deputee-clementine-autain-retire-sa-candidature-denoncant-l-empilement-des-candidatures-a-gauche_8103848.html", "date": "2026-07-11" },
+      "propositions": [],
+      "liens": { "wikipedia": "https://fr.wikipedia.org/wiki/Cl%C3%A9mentine_Autain" }
+    },
+    {
+      "nom": "Lucie Castets",
+      "parti": "Sans étiquette",
+      "bloc": "gauche",
+      "statut": "renonce",
+      "statut_detail": "A déclaré ne pas être candidate.",
+      "source": { "titre": "Orange / AFP", "url": "https://actu.orange.fr/politique/presidentielle-2027-lucie-castets-assure-ne-pas-etre-candidate-magic-CNT000002n5bJm.html", "date": "2026-01-30" },
+      "propositions": [],
+      "liens": { "wikipedia": "https://fr.wikipedia.org/wiki/Lucie_Castets" }
+    },
+    {
+      "nom": "Philippe Poutou",
+      "parti": "NPA-l'Anticapitaliste",
+      "bloc": "gauche",
+      "statut": "renonce",
+      "statut_detail": "Le NPA-l'Anticapitaliste ne présente pas de candidat et soutient Jean-Luc Mélenchon.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/le-npa-anticapitaliste-renonce-a-presenter-un-candidat-a-l-election-presidentielle-2027-et-annonce-soutenir-jean-luc-melenchon_8084936.html", "date": "2026-06-29" },
+      "propositions": [],
+      "liens": { "parti": "https://lanticapitaliste.org/", "wikipedia": "https://fr.wikipedia.org/wiki/Philippe_Poutou" }
+    },
+
+    {
+      "nom": "Édouard Philippe",
+      "parti": "Horizons",
+      "bloc": "centre",
+      "statut": "declare",
+      "statut_detail": "Déclaré depuis septembre 2024. Refuse une primaire. Soutenu par Gérald Darmanin.",
+      "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-la-main-tendue-dedouard-philippe-rejetee-par-gabriel-attal-et-bruno-retailleau-relance-lidee-dune-primaire", "date": "2026-09-09" },
+      "propositions": ["Une France « plus sûre », « plus prospère », « plus conquérante »", "Maîtrise de la dépense publique", "Report progressif de l'âge de la retraite"],
+      "liens": {
+        "campagne": "https://www.edouardphilippe.fr/",
+        "parti": "https://horizonsleparti.fr/",
+        "x": "https://x.com/EPhilippe_LH",
+        "instagram": "https://www.instagram.com/edouardphilippelh/",
+        "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+      }
+    },
+    {
+      "nom": "Gabriel Attal",
+      "parti": "Renaissance",
+      "bloc": "centre",
+      "statut": "declare",
+      "statut_detail": "Candidature officialisée à Mur-de-Barrez (Aveyron). Renvoie la question d'une primaire à début 2027.",
+      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721", "date": "2026-05-22" },
+      "propositions": ["Former 20 millions d'actifs à l'IA en cinq ans", "Retraite universelle sans âge légal", "Rapprocher le salaire brut du salaire net", "Quotas annuels d'immigration économique"],
+      "liens": {
+        "campagne": "https://attalpresident.fr/",
+        "programme": "https://attalpresident.fr/programme",
+        "parti": "https://parti-renaissance.fr/",
+        "x": "https://x.com/GabrielAttal",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+      }
+    },
+    {
+      "nom": "Dominique de Villepin",
+      "parti": "La France humaniste",
+      "bloc": "centre",
+      "statut": "pressenti",
+      "statut_detail": "Fait campagne sans déclaration officielle.",
+      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "date": "2026-09-16" },
+      "propositions": [],
+      "liens": {
+        "parti": "https://www.lafrancehumaniste.fr/",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+      }
+    },
+    {
+      "nom": "Bruno Le Maire",
+      "parti": "Ex-Renaissance",
+      "bloc": "centre",
+      "statut": "pressenti",
+      "statut_detail": "Décision annoncée pour octobre 2026.",
+      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/presidentielle-2027-bruno-le-maire-dira-en-octobre-s-il-est-candidat-437967", "date": "2026-06-22" },
+      "propositions": [],
+      "liens": { "wikipedia": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire" }
+    },
+    {
+      "nom": "Gérald Darmanin",
+      "parti": "Renaissance",
+      "bloc": "centre",
+      "statut": "renonce",
+      "statut_detail": "Soutient Édouard Philippe.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/politique/gerald-darmanin-ne-se-presentera-pas-a-l-election-presidentielle-et-apporte-son-soutien-a-edouard-philippe_8151311.html", "date": "2026-08-17" },
+      "propositions": [],
+      "liens": { "wikipedia": "https://fr.wikipedia.org/wiki/G%C3%A9rald_Darmanin" }
+    },
+    {
+      "nom": "François Bayrou",
+      "parti": "MoDem",
+      "bloc": "centre",
+      "statut": "renonce",
+      "statut_detail": "« Je ne suis pas candidat. » Ne soutient personne pour l'instant.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/l-ancien-premier-ministre-francois-bayrou-n-est-pas-candidat-a-l-election-presidentielle-de-2027_8054486.html", "date": "2026-06-10" },
+      "propositions": [],
+      "liens": { "parti": "https://www.mouvementdemocrate.fr/", "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Bayrou" }
+    },
+
+    {
+      "nom": "Bruno Retailleau",
+      "parti": "Les Républicains",
+      "bloc": "droite",
+      "statut": "declare",
+      "statut_detail": "Désigné par les adhérents LR, sans primaire. Refuse de se retirer.",
+      "source": { "titre": "Les Républicains", "url": "https://republicains.fr/actualites/2026/04/20/bruno-retailleau-largement-designe-comme-candidat-des-republicains-pour-lelection-presidentielle/", "date": "2026-04-19" },
+      "propositions": ["500 € rendus par an à chaque salarié", "Heures supplémentaires sans cotisations sociales", "Allocation sociale unique plafonnée à 70 % du SMIC", "Contrôle des frontières et exécution effective des peines"],
+      "liens": {
+        "campagne": "https://www.avecretailleau.fr/",
+        "parti": "https://republicains.fr/",
+        "x": "https://x.com/brunoretailleau",
+        "instagram": "https://www.instagram.com/bruno_retailleau/",
+        "youtube": "https://www.youtube.com/@Bruno_Retailleau",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+      }
+    },
+    {
+      "nom": "David Lisnard",
+      "parti": "Nouvelle Énergie",
+      "bloc": "droite",
+      "statut": "declare",
+      "statut_detail": "A quitté LR. Réclame une primaire de la droite et du centre.",
+      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/je-suis-candidat-david-lisnard-quitte-lr-et-relance-le-debat-sur-une-primaire-a-droite", "date": "2026-03-31" },
+      "propositions": ["« Rupture libérale » : baisse des impôts des entreprises et des ménages", "Simplification administrative", "Autonomie des collectivités", "Politique migratoire ferme"],
+      "liens": {
+        "campagne": "https://lisnard2027.fr",
+        "parti": "https://www.unenouvelleenergie.fr/",
+        "x": "https://x.com/davidlisnard",
+        "youtube": "https://www.youtube.com/@david_lisnard",
+        "wikipedia": "https://fr.wikipedia.org/wiki/David_Lisnard"
+      }
+    },
+    {
+      "nom": "Xavier Bertrand",
+      "parti": "Nous France (indépendant)",
+      "bloc": "droite",
+      "statut": "declare",
+      "statut_detail": "Candidat indépendant, hors étiquette LR. Refuse toute primaire.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html", "date": "2026-08-27" },
+      "propositions": ["« République des territoires » par référendum", "Un an de prison ferme pour toute agression d'un policier, gendarme, pompier ou maire", "Regroupement familial divisé par trois", "400 000 logements par an"],
+      "liens": {
+        "campagne": "https://www.nousfrance.fr/",
+        "x": "https://x.com/xavierbertrand",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+      }
+    },
+    {
+      "nom": "Laurent Wauquiez",
+      "parti": "Les Républicains",
+      "bloc": "droite",
+      "statut": "renonce",
+      "statut_detail": "Pas candidat. A appelé Bruno Retailleau à se retirer au profit d'Édouard Philippe.",
+      "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/main-tendue-de-laurent-wauquiez-a-edouard-philippe-cest-le-retour-de-la-droite-la-plus-bete-du-monde-tacle-le-camp-de-bruno-retailleau", "date": "2026-07" },
+      "propositions": [],
+      "liens": { "wikipedia": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez" }
+    },
+    {
+      "nom": "Michel Barnier",
+      "parti": "Les Républicains",
+      "bloc": "droite",
+      "statut": "renonce",
+      "statut_detail": "Pas candidat « à ce stade ». Réclame une primaire la plus ouverte possible.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/politique/michel-barnier/presidentielle-2027-michel-barnier-se-sent-capable-d-etre-president-mais-ne-veut-pas-personnaliser-aujourd-hui-la-campagne_7949753.html", "date": "2026-04-19" },
+      "propositions": [],
+      "liens": { "wikipedia": "https://fr.wikipedia.org/wiki/Michel_Barnier" }
+    },
+
+    {
+      "nom": "Marine Le Pen",
+      "parti": "Rassemblement national",
+      "bloc": "extdroite",
+      "statut": "declare",
+      "statut_detail": "Éligible : l'inéligibilité ferme fixée en appel (15 mois) est déjà purgée. Pourvoi en cassation en cours, décision attendue au plus tard début avril 2027. Jordan Bardella serait son Premier ministre.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/ineligibilite-peine-de-prison-pourquoi-la-condamnation-de-marine-le-pen-a-ete-reduite-en-appel_8098121.html", "date": "2026-07-07" },
+      "propositions": ["« Priorité nationale » pour le logement social et les APL", "Abrogation de la loi SRU, suppression du ZAN", "TVA à 5,5 % sur carburants, gaz et électricité"],
+      "liens": {
+        "parti": "https://rassemblementnational.fr/",
+        "x": "https://x.com/MLP_officiel",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Marine_Le_Pen"
+      }
+    },
+    {
+      "nom": "Jordan Bardella",
+      "parti": "Rassemblement national",
+      "bloc": "extdroite",
+      "statut": "renonce",
+      "statut_detail": "Pas candidat : désigné futur Premier ministre en cas de victoire de Marine Le Pen. Recours possible si la situation judiciaire de celle-ci se retournait.",
+      "source": { "titre": "RTS", "url": "https://www.rts.ch/info/monde/2026/article/marine-le-pen-sera-candidate-a-la-presidentielle-de-2027-29297057.html", "date": "2026-07-07" },
+      "propositions": [],
+      "liens": {
+        "x": "https://x.com/J_Bardella",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Jordan_Bardella"
+      }
+    },
+    {
+      "nom": "Éric Zemmour",
+      "parti": "Reconquête",
+      "bloc": "extdroite",
+      "statut": "declare",
+      "statut_detail": "Annonce dans « Face à BFM ». Soutenu par Sarah Knafo.",
+      "source": { "titre": "L'Avenir", "url": "https://www.lavenir.net/actu/monde/2026/09/18/zemmour-confirme-quil-sera-candidat-a-lelection-presidentielle-en-france-et-durcit-encore-son-discours-sur-limmigration-5OFMOVM6CVCDFHY4B3GI5QID3Q/", "date": "2026-09-17" },
+      "propositions": ["Expulsion des étrangers condamnés, clandestins ou au chômage depuis plus d'un an"],
+      "liens": {
+        "parti": "https://www.parti-reconquete.fr/",
+        "x": "https://x.com/ZemmourEric",
+        "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour"
+      }
+    },
+    {
+      "nom": "Sarah Knafo",
+      "parti": "Reconquête",
+      "bloc": "extdroite",
+      "statut": "renonce",
+      "statut_detail": "Pas candidate. Juge Éric Zemmour « candidat naturel ».",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/politique/pas-candidate-a-l-election-presidentielle-de-2027-sarah-knafo-lance-une-grande-consultation-des-francais_7970540.html", "date": "2026-04-29" },
+      "propositions": [],
+      "liens": { "wikipedia": "https://fr.wikipedia.org/wiki/Sarah_Knafo" }
+    },
+    {
+      "nom": "Marion Maréchal",
+      "parti": "Identité-Libertés",
+      "bloc": "extdroite",
+      "statut": "renonce",
+      "statut_detail": "Pas candidate. Soutient Marine Le Pen.",
+      "source": { "titre": "CNews", "url": "https://www.cnews.fr/france/2026-09-20/presidentielle-2027-marion-marechal-prete-jeter-toutes-ses-forces-dans-la", "date": "2026-09-20" },
+      "propositions": [],
+      "liens": {
+        "parti": "https://identite-libertes.fr/",
+        "x": "https://x.com/MarionMarechal",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Marion_Mar%C3%A9chal"
+      }
+    },
+    {
+      "nom": "Nicolas Dupont-Aignan",
+      "parti": "Debout la France",
+      "bloc": "extdroite",
+      "statut": "declare",
+      "statut_detail": "Candidature officialisée à Yerres (Essonne). Quatrième candidature.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html", "date": "2026-09-19" },
+      "propositions": ["Sortie de l'Union européenne", "Sortie du marché européen de l'électricité", "Baisse de 40 centimes par litre sur les carburants", "Fin de l'aide à l'Ukraine"],
+      "liens": {
+        "campagne": "https://www.dupontaignan.fr/",
+        "parti": "https://www.debout-la-france.fr/",
+        "x": "https://x.com/dupontaignan",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+      }
+    },
+    {
+      "nom": "Florian Philippot",
+      "parti": "Les Patriotes",
+      "bloc": "extdroite",
+      "statut": "declare",
+      "statut_detail": "Annonce sur France 2. N'exclut pas un rassemblement des souverainistes.",
+      "source": { "titre": "Front Populaire", "url": "https://frontpopulaire.fr/politique/contents/florian-philippot-troisieme-candidat-souverainiste-a-la-presidentielle_tco_31760632", "date": "2026-05-09" },
+      "propositions": ["Sortie de l'UE et de l'euro"],
+      "liens": {
+        "parti": "https://les-patriotes.fr/",
+        "x": "https://x.com/f_philippot",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Florian_Philippot"
+      }
+    },
+    {
+      "nom": "François Asselineau",
+      "parti": "Union populaire républicaine",
+      "bloc": "extdroite",
+      "statut": "declare",
+      "statut_detail": "Candidature confirmée par l'UPR.",
+      "source": { "titre": "UPR", "url": "https://upr.fr/actualites/francois-asselineau-en-2027-je-serai-le-seul-candidat-a-la-presidence-de-la-republique-francaise", "date": "2026-07-07" },
+      "propositions": ["Sortie de l'UE, de l'euro et de l'OTAN", "Rétablissement du contrôle des capitaux"],
+      "liens": {
+        "parti": "https://upr.fr/",
+        "x": "https://x.com/f_asselineau",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+      }
+    },
+    {
+      "nom": "Jean Lassalle",
+      "parti": "Résistons !",
+      "bloc": "autre",
+      "statut": "pressenti",
+      "statut_detail": "Candidature conditionnée à une cagnotte d'au moins 100 000 €. Revendique environ 250 parrainages.",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-de-nouveau-candidat-a-l-election_8102522.html", "date": "2026-07-10" },
+      "propositions": ["Ruralité, défense des petits partis"],
+      "liens": {
+        "parti": "https://resistons-france.fr/",
+        "x": "https://x.com/jeanlassalle",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Jean_Lassalle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>2027 et moi — Les candidats</title>
+  <meta name="description" content="Qui se présente à l'élection présidentielle française de 2027 : candidats, partis, statut de candidature, propositions et liens vers leurs sites.">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <p class="kicker">Présidentielle 2027</p>
+      <h1>Qui se présente ?</h1>
+      <p class="lede">Candidats déclarés, pressentis ou retirés, avec leur parti, leurs propositions phares et des liens vers leurs sites et programmes. Chaque statut indique sa source et sa date.</p>
+      <p class="meta" id="meta"></p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls" aria-label="Filtres">
+      <label class="search">
+        <span class="visually-hidden">Rechercher</span>
+        <input type="search" id="q" placeholder="Rechercher un nom, un parti, une proposition…" autocomplete="off">
+      </label>
+      <div class="filter-row">
+        <fieldset class="chips" id="f-bloc">
+          <legend>Famille politique</legend>
+        </fieldset>
+        <fieldset class="chips" id="f-statut">
+          <legend>Statut</legend>
+        </fieldset>
+      </div>
+      <p class="count" id="count" aria-live="polite"></p>
+    </section>
+
+    <div class="table-wrap">
+      <table id="table">
+        <thead>
+          <tr>
+            <th scope="col"><button data-sort="nom">Candidat</button></th>
+            <th scope="col"><button data-sort="bloc">Famille</button></th>
+            <th scope="col"><button data-sort="statut">Statut</button></th>
+            <th scope="col">Propositions phares</th>
+            <th scope="col">Liens</th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+
+    <p class="empty" id="empty" hidden>Aucun candidat ne correspond à ces filtres.</p>
+
+    <section class="notes">
+      <h2>À propos de ces données</h2>
+      <p>La liste officielle des candidats n'est publiée par le Conseil constitutionnel qu'après la collecte des 500 parrainages, quelques semaines avant le premier tour. D'ici là, ce tableau recense les candidatures <strong>déclarées</strong> et <strong>envisagées</strong> telles que rapportées publiquement. Chaque ligne cite sa source.</p>
+      <p>Une erreur ou un oubli ? Les données sont dans <code>data/candidats.json</code> sur le <a href="https://github.com/PhilippeBout/2027etmoi">dépôt GitHub</a>.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">2027 et moi — site d'information indépendant et non partisan.</div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
