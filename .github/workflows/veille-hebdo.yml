@@ -71,6 +71,7 @@ jobs:
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          show_full_output: true   # diagnostic temporaire
           prompt: |
             Dépôt : ${{ github.repository }}. Lis puis applique à la lettre les consignes du fichier .github/veille-claude.md.
             Le rapport de veille de la semaine est dans rapport.md à la racine.
