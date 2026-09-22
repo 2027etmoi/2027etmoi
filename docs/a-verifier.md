@@ -1,6 +1,6 @@
 # Points à vérifier (généré)
 
-Généré le 2026-09-22 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 466 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
+Généré le 2026-09-22 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 535 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
 
 ## Biographies et affaires judiciaires
 
@@ -697,4 +697,73 @@ Généré le 2026-09-22 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] egger : candidature limitée par choix à la démocratie directe et à la décentralisation ; seule la q19 est documentée. Le RIC proposé est limité à la révision de la Constitution (initiative constituante et référendum obligatoire).
 - [ ] durif : aucun programme ni aucune mesure identifiés au 22/09/2026 ; les sites durif2027.com et sylvaindurif2027.fr ne sont pas officiels.
 - [ ] q18 maurel : volonté de sortir des traités européens évoquée ; à sourcer précisément avant de publier (règle : proposition explicite de sortie = pour).
+- [ ] melenchon q29/q30/q35 : sources reprises de data/programmes/melenchon.json (PDF AEC 2025 via web.archive.org) ; le PDF n'a pas pu être rouvert (web.archive.org inaccessible, pages melenchon2027.fr/programme2025 en 404). Programme « en cours de réactualisation ».
+- [ ] melenchon q31 : seule source directe datée de 2022 ; une recherche indique que la mesure figurerait dans l'AEC 2025 (non vérifié).
+- [ ] melenchon q32 : la « conscription écologique » (2026) vise une garde régionale de sécurité civile, pas un service militaire ; la conscription citoyenne de 9 mois est citée par France 24 comme proposition de 2022. Valeur plutot_pour à confirmer.
+- [ ] melenchon q27 : source de 2021, rien de plus récent trouvé.
+- [ ] melenchon q33 : LFI a voté contre et saisi le Conseil constitutionnel (Manuel Bompard : « une très mauvaise réponse à un vrai problème », franceinfo) ; aucun propos de Mélenchon lui-même trouvé, donc omis.
+- [ ] melenchon q34 : il parle de suspendre les « accords commerciaux » UE-Israël, sans nommer l'accord d'association.
+- [ ] ruffin q28 : sa critique porte sur l'interdiction du voile pour les moins de 15 ans (Attal, 2025), pas sur une interdiction générale ; pas de réaction trouvée à la proposition du RN d'août 2026.
+- [ ] ruffin q29 : vote contre une restriction du droit du sol limitée à Mayotte, d'où plutot_contre.
+- [ ] ruffin q33 : abstention au vote définitif (21/07/2026) ; pas de déclaration trouvée.
+- [ ] ruffin q27 et q34 : sources de 2023, rien de plus récent trouvé ; en 2023 il a aussi dit « je dois progresser » sur les droits LGBT+, sans revenir explicitement sur la GPA.
+- [ ] arthaud q32 : elle dénonce le retour du service militaire volontaire (déc. 2025) et, au meeting du 14/02/2026, les appels à « rétablir le service militaire » ; brochure de campagne (PDF > 10 Mo) non lue.
+- [ ] labib q32 : simple mention critique du « retour du service militaire », d'où plutot_contre.
+- [ ] kazib q28 : déduit d'une mesure explicite (abrogation de la loi de 2004 et des lois « islamophobes ») ; pas de propos direct sur une interdiction dans l'espace public. q32 : le SNU a été abandonné ; le programme ne parle pas du service militaire.
+- [ ] batho q32 : a jugé la relance du service national militaire et volontaire « nécessaire » (franceinfo, 27/11/2025), sans se prononcer sur son caractère obligatoire, donc omis.
+- [ ] tondelier q33 : aucune position trouvée sur l'interdiction des réseaux sociaux aux moins de 15 ans.
+- [ ] roussel q32 : aucune position trouvée sur un service obligatoire (2022 : proposait d'« ouvrir un grand débat » sur le service national, selon la recherche, non vérifié).
+- [ ] q25 et q26 : aucune position trouvée pour ces huit candidats. Mélenchon a soutenu en 2020 le passage de 12 à 14 semaines, ce qui ne répond pas à la question « au-delà de 14 semaines ».
+- [ ] q30 (Roussel, Ruffin, Tondelier, Batho) : la PPL écologiste sur le vote des étrangers aux municipales (commission, 04/02/2026) n'a donné lieu à aucun scrutin public trouvé ; aucun propos direct des candidats trouvé.
+- [ ] q33 (scrutin n° 8431) : le Conseil constitutionnel a censuré le 14/08/2026 l'article 1 (interdiction aux moins de 15 ans) de la loi du 24/08/2026. Les votes restent des positions exprimées, mais la question pourrait mériter un contexte.
+- [ ] faure q33 : une abstention a été codée « nuance ». Aucune déclaration personnelle trouvée ; à retirer si l'on ne veut pas coder une abstention.
+- [ ] faure q34 : position confirmée par la cosignature de la proposition de résolution n° 1532 (10/06/2025, https://www.assemblee-nationale.fr/dyn/17/textes/l17b1532_proposition-resolution-europeenne), par un post X du 25/03/2026 (https://x.com/faureolivier/status/2036747968619896916) et par des propos d'avril 2024 (Times of Israel). Les posts X ont été lus via l'API fxtwitter, car x.com bloque la lecture directe.
+- [ ] faure q27 : en 2019 (franceinfo), s'est dit « contre la marchandisation du corps des femmes », sans position claire sur une GPA non commerciale. Question omise.
+- [ ] glucksmann q34 : en avril 2024, il demandait « plus de pression » sur le gouvernement israélien sans réclamer explicitement la suspension de l'accord (Times of Israel, 26/04/2024). Question omise, faute de source explicite.
+- [ ] glucksmann q27 : source de 2024 (campagne européenne). Aucune déclaration plus récente trouvée, ni contradictoire.
+- [ ] glucksmann q28, bouamrane q28 : sources secondaires (Entrevue) qui citent BFMTV-RMC et Europe 1-CNews. L'original n'a pas été ouvert.
+- [ ] hollande q28 : agrégateur Titres Presse citant BFMTV (article du 02/09/2026). L'original n'a pas été ouvert.
+- [ ] hollande q27 (2013) et q35 (2012) : sources anciennes, retenues faute de déclaration récente contraire. En 2008, il était opposé à la réintégration du commandement intégré, puis l'a assumée en 2012.
+- [ ] royal q28 : source TSA Algérie (08/09/2026) citant ses propos sur BFMTV. Autre relais : Titres Presse du 02/09/2026 (« Laissons les femmes tranquilles »).
+- [ ] maurel q35 : le programme qualifie l'OTAN de « mort cérébrale » et exprime des réserves sur l'intégration militaire européenne, sans proposer explicitement de quitter le commandement intégré. Question omise.
+- [ ] cazeneuve q35 : « demeurer dans l'OTAN » ne précise pas le commandement intégré. Codé « plutot_contre », à confirmer.
+- [ ] massard : aucune position sourcée trouvée sur q25-q35 (communiqués UDB et Le Peuple breton consultés).
+- [ ] q25, q26, q30, q31 : aucune position explicite trouvée pour ces candidats. La tribune UNICEF pour le vote à 16 ans (avril 2025, 32 maires) n'a pas pu être consultée (erreur 403) pour vérifier si Karim Bouamrane l'a signée.
+- [ ] philippe q29 : position limitée à Mayotte (suspension du droit du sol) ; codée plutot_pour au titre d'une position partielle. Sources concordantes : France 24 du 21/08/2026 et franceinfo 2024 (« À situation exceptionnelle, mesure exceptionnelle »). Rien trouvé sur la métropole.
+- [ ] philippe q32 : le programme porte le service militaire volontaire de 3 000 à 50 000 places, sans parler d'obligation. Pas de refus explicite du service obligatoire trouvé : question omise.
+- [ ] philippe q27 (GPA) : son opposition est mentionnée par la presse (édito franceinfo du 26/05/2026, Europe 1 2019), mais aucune citation directe récente n'a été trouvée : question omise.
+- [ ] attal q28 : la proposition d'interdire le voile aux moins de 15 ans dans l'espace public date de mai 2025 (franceinfo du 21/05/2025 et du 27/05/2025). Elle est rappelée le 01/09/2026, avec son refus d'une interdiction pour les adultes.
+- [ ] attal q33 : la loi interdisant les réseaux sociaux aux moins de 15 ans (adoptée le 21/07/2026) a été censurée par le Conseil constitutionnel le 14/08/2026. Le passage « par référendum » cité dans data/programmes/attal.json n'est pas confirmé. Son vote nominatif en tant que député n'a pas été vérifié.
+- [ ] attal q27 : la GPA est défendue dans son livre « En homme libre » et à la convention de Renaissance (Europe 1, 25/08/2025). Elle ne figure pas dans les pages de programme consultées.
+- [ ] villepin q35 : en 2011-2012, il proposait de sortir du commandement intégré de l'OTAN (Europe 1, « Le programme, hors compétition, de Villepin »). En janvier 2026 (LCP, 19/01/2026), il dit seulement que les Européens doivent d'abord montrer leur « unité » et que l'OTAN « n'aurait plus de sens » si les États-Unis prenaient le Groenland par la force. Rien de récent n'est explicite : question omise.
+- [ ] villepin q34 : la source date de 2025 et aucune déclaration de 2026 n'a été trouvée. Rien ne la contredit.
+- [ ] villepin q30 : son opposition au vote des étrangers remonte à 2004-2005 (Premier ministre) et n'a pas été confirmée par une source ouverte : question omise. Même chose pour q29 : selon un article franceinfo ancien sur Mayotte, il ne voulait pas remettre en cause le droit du sol en France. Article non ouvert.
+- [ ] le-maire : aucune source 2024-2026 sur q25-q35. Le manifeste d'août 2026 et l'entretien franceinfo du 06/09/2026 ne traitent que d'économie, d'autorité et de souveraineté. Positions anciennes non retenues : réécriture de la loi Taubira sur la filiation et opposition totale à la GPA (franceinfo, 15/11/2014) ; « le voile n'est pas souhaitable » (vers 2019), sans proposition d'interdiction. Il n'a pas de fichier data/programmes/le-maire.json.
+- [ ] retailleau q26 : le moratoire sur les lois sociétales (franceinfo, 31/03/2026) exclut a priori un nouvel allongement du délai d'IVG, mais aucune déclaration explicite sur le délai n'a été trouvée : question omise.
+- [ ] retailleau q27 : citation sur la GPA datant d'environ 2024, rapportée par Europe 1 le 25/08/2025 ; chercher une déclaration de campagne 2026.
+- [ ] retailleau q32 : source Entrevue (reprise d'un entretien sur BFMTV), hors liste de médias privilégiés ; réponse « plutôt oui » assortie de « on en discutera ». En novembre 2025, il soutenait le service militaire volontaire (franceinfo, 26/11/2025). Trouver l'entretien d'origine.
+- [ ] retailleau q28 : « plutot_contre » s'appuie sur « inapplicable » et sur des interdictions limitées à certains lieux ; il ne rejette pas le principe sur le fond.
+- [ ] lisnard q28 : il rejette l'amende proposée par le RN, mais se dit hostile au voile (tribune du 09/12/2025). Choix entre « nuance » et « plutot_contre » à confirmer.
+- [ ] lisnard q29 : « fin de l'automaticité » : l'écart avec une suppression complète justifie « plutot_pour ».
+- [ ] lisnard q32 : article publié sur le site du parti (12/12/2025) ; « universel » implique une obligation, mais le mot « obligatoire » n'y figure pas.
+- [ ] lisnard q30/q35 : des sites agrégateurs (monvote2027.fr, etc.) lui prêtent des positions contradictoires, sans source primaire : non retenues.
+- [ ] bertrand q32 : seule source datée de 2015 (et proposition de loi antérieure). Pas de déclaration récente trouvée ; à confirmer pour 2026.
+- [ ] le-pen q25 : en 2017, elle promettait de remplacer le mariage pour tous par une union civile ; en 2022, « je ne retirerai aucun droit » et moratoire de trois ans sur les sujets de société. Aucune déclaration 2024-2026 trouvée.
+- [ ] le-pen q26, q27, q30, q35 : sources de 2011 à 2022, faute de déclaration plus récente. Pour q35, Jordan Bardella a exclu en 2024 une sortie « en période de guerre » (propos du président du parti, pas de la candidate).
+- [ ] le-pen q32 : favorable en 2017 à un service militaire obligatoire d'au moins trois mois (franceinfo, 20/03/2017) ; position 2022-2026 non confirmée : question omise.
+- [ ] le-pen q33 : son vote nominatif n'apparaît pas dans les scrutins n°5192 (26/01/2026) et n°8431 (21/07/2026) sur la loi réseaux sociaux : question omise.
+- [ ] zemmour : programme 2027 non publié ; q28, q29 et q35 viennent du programme 2022 ; q25 est une reformulation de franceinfo (2023), sans citation directe.
+- [ ] zemmour q33 : il critique surtout la vérification d'identité, pas le principe d'une limite d'âge ; « plutot_contre » à confirmer.
+- [ ] dupont-aignan q27/q32/q35 : sources = pages « Notre projet » de Debout la France (parti présidé par le candidat), non datées, en cours d'actualisation pour 2027 ; date = consultation. À confirmer quand le programme 2027 sera publié.
+- [ ] dupont-aignan q29 : propos de 2024 (Boulevard Voltaire, 17/02/2024) ; le projet DLF actuel dit « Supprimer le droit du sol via un référendum ». Pas de source 2025-2026 contradictoire trouvée.
+- [ ] dupont-aignan q33 : position tirée d'un communiqué signé (22/07/2026) qui critique la mesure sans formule « je suis contre » ; « plutot_contre » possible si l'on veut rester prudent.
+- [ ] dupont-aignan q28 : en 2012, jugeait « absurde » l'interdiction du voile dans la rue (tweet, Europe 1) ; une déléguée DLF a demandé un référendum (2019). Trop ancien ou pas du candidat : omis.
+- [ ] philippot q35 : date = mise en ligne du livret en septembre 2026 (jour exact inconnu, date de consultation retenue). Le livret est celui du parti Les Patriotes, présenté comme base de sa candidature.
+- [ ] philippot q28/q32 : propos anciens (2012-2017) tenus quand il était au FN (signes religieux dans l'espace public, mois de service militaire) : non retenus, faute de source récente.
+- [ ] asselineau q33 : l'UPR critique la loi sur les réseaux sociaux avant 15 ans (article non signé, 22/07/2026) ; Asselineau y a répondu dans un direct YouTube (Direct n°96) non vérifié. Non retenu.
+- [ ] asselineau q34 : communiqué UPR de 2014 (Bureau national) évoquant la suspension de l'accord UE-Israël : trop ancien et non signé du candidat. Non retenu.
+- [ ] lassalle q35 : source = programme de la campagne 2022, seul programme publié ; candidature 2027 non officialisée. À confirmer. Ce programme prévoit aussi un « service national universel militaire ou civil » dont le caractère obligatoire n'est pas explicite (q32 omis).
+- [ ] branco q32/q35 : Les Ruches proposent des référendums (service militaire obligatoire, sortie de l'OTAN) ; un référendum n'est pas une position (analogie avec la règle q18) : omis.
+- [ ] mlekuz, egger, mathieu, durif, mikolajczak : aucune position trouvée sur q25-q35 (programmes à mesure unique ou absents).
+- [ ] Positions retirées car sourcées uniquement par Entrevue (hors liste des médias reconnus) : glucksmann q28, bouamrane q28, retailleau q32. À resourcer avec l'émission d'origine ou un média reconnu.
 

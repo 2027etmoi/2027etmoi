@@ -190,7 +190,15 @@
     {
       "id": "q33",
       "theme": "societe",
-      "texte": "Faut-il interdire les réseaux sociaux aux moins de 15 ans ?"
+      "texte": "Faut-il interdire les réseaux sociaux aux moins de 15 ans ?",
+      "contexte": {
+        "texte": "Une loi en ce sens, adoptée en juillet 2026, a vu son article principal censuré par le Conseil constitutionnel le 14 août 2026 ; le gouvernement prépare une nouvelle rédaction.",
+        "source": {
+          "titre": "Conseil constitutionnel, décision n° 2026-911 DC",
+          "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-911-dc-du-14-aout-2026-communique-de-presse",
+          "date": "2026-08-14"
+        }
+      }
     }
   ],
   "positions": {
@@ -356,6 +364,78 @@
           "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
           "date": "2025-01"
         }
+      },
+      "q27": {
+        "position": "contre",
+        "resume": "Se dit opposé à la GPA, tout en voulant continuer à reconnaître les enfants nés par GPA à l'étranger (déclaration de 2021).",
+        "source": {
+          "titre": "France 24 (AFP) – Mélenchon défend sa « position paradoxale » sur la GPA",
+          "url": "https://www.france24.com/fr/info-en-continu/20210615-m%C3%A9lenchon-d%C3%A9fend-sa-position-paradoxale-sur-la-gpa",
+          "date": "2021-06-15"
+        }
+      },
+      "q28": {
+        "position": "contre",
+        "resume": "Juge « honteuse » la proposition du RN de sanctionner le port du voile dans l'espace public ; dit avoir changé d'avis sur le voile.",
+        "source": {
+          "titre": "franceinfo – « J'ai fait une erreur terrible » : Jean-Luc Mélenchon admet avoir changé d'avis sur le port du voile",
+          "url": "https://www.franceinfo.fr/politique/j-ai-fait-une-erreur-terrible-jean-luc-melenchon-admet-avoir-change-d-avis-sur-le-port-du-voile-islamique_8175281.html",
+          "date": "2026-09-03"
+        }
+      },
+      "q29": {
+        "position": "contre",
+        "resume": "Propose un droit du sol intégral pour tous les enfants nés en France, rétabli sur l'ensemble du territoire.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 10, p. 80-81 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q30": {
+        "position": "pour",
+        "resume": "Propose le droit de vote des étrangers aux élections locales.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 10, p. 80-81 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q31": {
+        "position": "pour",
+        "resume": "Favorable au droit de vote à 16 ans, avec un vote obligatoire à partir de 18 ans (campagne de 2022).",
+        "source": {
+          "titre": "franceinfo – Droit de vote à 16 ans : ce que dit Jean-Luc Mélenchon",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/video-droit-de-vote-a-16-ans-ce-que-dit-jean-luc-melenchon_4977258.html",
+          "date": "2022-02-23"
+        }
+      },
+      "q32": {
+        "position": "plutot_pour",
+        "resume": "Propose une garde régionale de sécurité civile « constituée par conscription » ; défendait en 2022 une conscription citoyenne obligatoire de neuf mois.",
+        "source": {
+          "titre": "France 24 (AFP) – Mélenchon colore sa rentrée en vert en proposant la « conscription écologique »",
+          "url": "https://www.france24.com/fr/info-en-continu/20260823-pr%C3%A9sidentielle-m%C3%A9lenchon-colore-sa-rentr%C3%A9e-en-vert-en-proposant-la-conscription-%C3%A9cologique",
+          "date": "2026-08-23"
+        }
+      },
+      "q34": {
+        "position": "pour",
+        "resume": "Propose de suspendre les accords commerciaux de l'Union européenne avec Israël.",
+        "source": {
+          "titre": "melenchon.fr – entretien à La Tribune Dimanche (« la grande explication sur sa candidature »)",
+          "url": "https://melenchon.fr/2026/05/11/jean-luc-melenchon-la-grande-explication-sur-sa-candidature/",
+          "date": "2026-05-10"
+        }
+      },
+      "q35": {
+        "position": "pour",
+        "resume": "Propose le retrait immédiat du commandement intégré de l'OTAN, puis, par étapes, de l'organisation elle-même.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 16, p. 118-119 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
       }
     },
     "roussel": {
@@ -411,6 +491,42 @@
           "titre": "PCF, « C'est de courage politique dont ont besoin nos agriculteurs ! (Fabien Roussel) »",
           "url": "https://www.pcf.fr/actualite_c_est_de_courage_politique_dont_ont_besoin_nos_agriculteurs_fabien_roussel",
           "date": "2024-01-20"
+        }
+      },
+      "q27": {
+        "position": "contre",
+        "resume": "« La GPA, on n’en veut pas » : refuse que le corps des femmes devienne une marchandise ; refus réaffirmé en septembre 2026.",
+        "source": {
+          "titre": "PCF – Université d'été 2025, discours de Fabien Roussel",
+          "url": "https://www.pcf.fr/ue_25_discours_fr",
+          "date": "2025-08-26"
+        }
+      },
+      "q28": {
+        "position": "contre",
+        "resume": "« Ce n'est pas le voile qui menace la République » : demande d'interdire les actes racistes et antisémites « et pas le voile ».",
+        "source": {
+          "titre": "PCF – discours de Fabien Roussel à la Fête de l'Humanité 2026",
+          "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
+          "date": "2026-09-15"
+        }
+      },
+      "q34": {
+        "position": "pour",
+        "resume": "Demande de « suspendre jusqu'à nouvel ordre » l'accord d'association entre l'Union européenne et Israël.",
+        "source": {
+          "titre": "PCF – Conférence européenne, discours de Fabien Roussel",
+          "url": "https://www.pcf.fr/conference_europeenne_discours_fabien_roussel",
+          "date": "2025-05-06"
+        }
+      },
+      "q35": {
+        "position": "pour",
+        "resume": "« La France doit sortir du commandement intégré de l'OTAN », première étape vers la sortie et la dissolution de l'OTAN.",
+        "source": {
+          "titre": "PCF – Université d'été 2025, discours de Fabien Roussel",
+          "url": "https://www.pcf.fr/ue_25_discours_fr",
+          "date": "2025-08-26"
         }
       }
     },
@@ -486,6 +602,51 @@
           "url": "https://nouspresident.fr/travaillisme-ecologique/",
           "date": "2026-09-09"
         }
+      },
+      "q27": {
+        "position": "contre",
+        "resume": "Dit ne pas être « personnellement » favorable à la GPA (déclaration de 2023).",
+        "source": {
+          "titre": "franceinfo – « Je dois progresser » : François Ruffin répond aux critiques après une sortie polémique sur les droits LGBT+",
+          "url": "https://www.franceinfo.fr/societe/lgbt/je-dois-progresser-francois-ruffin-repond-aux-critiques-apres-une-sortie-polemique-sur-les-droits-lgbt_5863658.html",
+          "date": "2023-06-02"
+        }
+      },
+      "q28": {
+        "position": "plutot_contre",
+        "resume": "A critiqué la proposition d'interdire le voile aux moins de 15 ans dans l'espace public, défendant « toute la loi de 1905 ».",
+        "source": {
+          "titre": "franceinfo – Interdire le voile pour les moins de 15 ans : « L'opportunisme de Gabriel Attal fait le jeu des islamistes », estime François Ruffin",
+          "url": "https://www.franceinfo.fr/politique/gabriel-attal/interdire-le-voile-pour-les-moins-de-15-ans-l-opportunisme-de-gabriel-attal-fait-le-jeu-des-islamistes-estime-francois-ruffin_7263228.html",
+          "date": "2025-05-21"
+        }
+      },
+      "q29": {
+        "position": "plutot_contre",
+        "resume": "A voté contre la loi restreignant l'accès à la nationalité par le droit du sol à Mayotte (scrutin n° 1308).",
+        "source": {
+          "titre": "Assemblée nationale – scrutin public n° 1308 (PPL nationalité à Mayotte, texte de la CMP)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+          "date": "2025-04-08"
+        }
+      },
+      "q33": {
+        "position": "nuance",
+        "resume": "S'est abstenu lors du vote définitif de la loi interdisant les réseaux sociaux aux moins de 15 ans (scrutin n° 8431).",
+        "source": {
+          "titre": "Assemblée nationale – scrutin public n° 8431 (PPL protection des mineurs sur les réseaux sociaux, texte de la CMP)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+          "date": "2026-07-21"
+        }
+      },
+      "q34": {
+        "position": "pour",
+        "resume": "Proposait que la France demande à l'UE de suspendre son accord d'association avec Israël (texte de 2023).",
+        "source": {
+          "titre": "francoisruffin.fr – Gaza : que pourrait faire la France ?",
+          "url": "https://francoisruffin.fr/gaza-que-pourrait-faire-la-france/",
+          "date": "2023-11-14"
+        }
       }
     },
     "arthaud": {
@@ -514,6 +675,15 @@
           "titre": "Brochure de campagne « Nathalie Arthaud – Présidentielle 2027 » (PDF)",
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
           "date": "2026-06"
+        }
+      },
+      "q32": {
+        "position": "contre",
+        "resume": "Dénonce « le retour du service militaire » et la hausse du budget de l'armée.",
+        "source": {
+          "titre": "franceinfo – Présidentielle 2027 : Nathalie Arthaud annonce sa candidature",
+          "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html",
+          "date": "2025-12-08"
         }
       }
     },
@@ -562,6 +732,24 @@
           "url": "https://anasse2027.fr/programme",
           "date": "2026-09-22"
         }
+      },
+      "q28": {
+        "position": "contre",
+        "resume": "Propose l'abrogation des lois qu'il qualifie d'islamophobes, « à commencer par la loi de 2004 » sur les signes religieux à l'école.",
+        "source": {
+          "titre": "Anasse 2027, « Notre programme »",
+          "url": "https://anasse2027.fr/programme",
+          "date": "2026-09-22"
+        }
+      },
+      "q32": {
+        "position": "plutot_contre",
+        "resume": "« Non au SNU et à la militarisation de nos écoles et de nos facs. »",
+        "source": {
+          "titre": "Anasse 2027, « Notre programme »",
+          "url": "https://anasse2027.fr/programme",
+          "date": "2026-09-22"
+        }
       }
     },
     "labib": {
@@ -588,6 +776,24 @@
         "resume": "Revendique la régularisation de tous les sans-papiers.",
         "source": {
           "titre": "NPA-R, intervention de Selma Labib à la Fête de l'Humanité 2026",
+          "url": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+          "date": "2026-09-12"
+        }
+      },
+      "q28": {
+        "position": "contre",
+        "resume": "Qualifie de « pur racisme » la proposition de Marine Le Pen d'interdire le voile dans la rue.",
+        "source": {
+          "titre": "NPA-Révolutionnaires – intervention de Selma Labib à la Fête de l'Humanité 2026",
+          "url": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+          "date": "2026-09-12"
+        }
+      },
+      "q32": {
+        "position": "plutot_contre",
+        "resume": "Critique « le retour du service militaire » et les dépenses militaires pour des « guerres impérialistes ».",
+        "source": {
+          "titre": "NPA-Révolutionnaires – intervention de Selma Labib à la Fête de l'Humanité 2026",
           "url": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
           "date": "2026-09-12"
         }
@@ -638,6 +844,24 @@
           "url": "https://actu.orange.fr/politique/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions-CNT000002rW0aW.html",
           "date": "2026-09-16"
         }
+      },
+      "q33": {
+        "position": "nuance",
+        "resume": "S'est abstenu lors du vote final de la loi interdisant les réseaux sociaux aux moins de 15 ans (21 juillet 2026).",
+        "source": {
+          "titre": "Assemblée nationale, analyse du scrutin n° 8431 (texte de la CMP, loi sur les mineurs et les réseaux sociaux)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+          "date": "2026-07-21"
+        }
+      },
+      "q34": {
+        "position": "pour",
+        "resume": "Écrit que l'Union européenne doit suspendre son accord d'association avec Israël.",
+        "source": {
+          "titre": "Olivier Faure sur X (@faureolivier)",
+          "url": "https://x.com/faureolivier/status/1990518659241136480",
+          "date": "2025-11-17"
+        }
       }
     },
     "glucksmann": {
@@ -676,6 +900,24 @@
           "url": "https://www.franceinfo.fr/elections/legislatives/elections-legislatives-soixante-dix-elus-dont-francois-hollande-elisabeth-borne-et-raphael-glucksmann-reclament-la-proportionnelle_7792037.html",
           "date": "2026-02-08"
         }
+      },
+      "q27": {
+        "position": "plutot_pour",
+        "resume": "Se dit favorable à une GPA non commerciale, « quand il n'y a pas d'échange mercantile » (propos de 2024).",
+        "source": {
+          "titre": "Têtu, « GPA éthique : Raphaël Glucksmann s'y déclare à son tour favorable » (d'après BFMTV)",
+          "url": "https://tetu.com/2024/04/26/gpa-ethique-gestation-pour-autrui-raphael-glucksmann-ps-elections-europeennes/",
+          "date": "2024-04-26"
+        }
+      },
+      "q32": {
+        "position": "pour",
+        "resume": "Propose un service civique obligatoire de dix mois pour tous les jeunes (service civil, non militaire).",
+        "source": {
+          "titre": "Public Sénat, « Fiscalité, école, immigration : ce que propose Raphaël Glucksmann »",
+          "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann",
+          "date": "2026-08-24"
+        }
       }
     },
     "guedj": {
@@ -705,6 +947,24 @@
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5729",
           "date": "2026-02-25"
         }
+      },
+      "q28": {
+        "position": "contre",
+        "resume": "Qualifie l'interdiction du voile dans l'espace public de violation de la loi de 1905 et juge qu'elle aurait l'effet inverse.",
+        "source": {
+          "titre": "Jérôme Guedj sur X (@JeromeGuedj)",
+          "url": "https://x.com/JeromeGuedj/status/2096954641300754938",
+          "date": "2026-09-07"
+        }
+      },
+      "q33": {
+        "position": "pour",
+        "resume": "A voté pour la loi interdisant les réseaux sociaux aux moins de 15 ans lors du vote final (21 juillet 2026).",
+        "source": {
+          "titre": "Assemblée nationale, analyse du scrutin n° 8431 (texte de la CMP, loi sur les mineurs et les réseaux sociaux)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+          "date": "2026-07-21"
+        }
       }
     },
     "royal": {
@@ -715,6 +975,15 @@
           "titre": "franceinfo – Ségolène Royal peut-elle créer la surprise à la primaire socialiste ?",
           "url": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/on-la-prend-tres-au-serieux-segolene-royal-peut-elle-creer-la-surprise-a-la-primaire-socialiste-vingt-ans-apres-son-echec-a-la-presidentielle_8184773.html",
           "date": "2026-09-11"
+        }
+      },
+      "q28": {
+        "position": "contre",
+        "resume": "Rejette l'interdiction du voile proposée par le RN : « diversion irresponsable », « inapplicable », pas de « chasse au foulard ».",
+        "source": {
+          "titre": "TSA Algérie, « Projet du RN d'interdire le voile en France : Ségolène Royal dénonce la chasse au foulard »",
+          "url": "https://www.tsa-algerie.com/france-segolene-royal-denonce-la-chasse-au-foulard/",
+          "date": "2026-09-08"
         }
       }
     },
@@ -799,6 +1068,33 @@
           "url": "https://emmanuel-maurel.fr/programme/",
           "date": "2026-09"
         }
+      },
+      "q29": {
+        "position": "contre",
+        "resume": "Réaffirme le droit du sol, présenté comme « un pilier du pacte civique », et s'oppose à sa remise en cause.",
+        "source": {
+          "titre": "Programme d'Emmanuel Maurel",
+          "url": "https://emmanuel-maurel.fr/programme/",
+          "date": "2026-09-22"
+        }
+      },
+      "q33": {
+        "position": "pour",
+        "resume": "Propose « pas de smartphone avant 15 ans » ; a voté la loi interdisant les réseaux sociaux aux moins de 15 ans.",
+        "source": {
+          "titre": "Assemblée nationale, analyse du scrutin n° 8431 (texte de la CMP, loi sur les mineurs et les réseaux sociaux)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+          "date": "2026-07-21"
+        }
+      },
+      "q34": {
+        "position": "plutot_pour",
+        "resume": "Estime que la gauche doit « mettre à l'ordre du jour la question de la suspension de l'accord commercial Israël-UE ».",
+        "source": {
+          "titre": "Programme d'Emmanuel Maurel",
+          "url": "https://emmanuel-maurel.fr/programme/",
+          "date": "2026-09-22"
+        }
       }
     },
     "tondelier": {
@@ -864,6 +1160,33 @@
           "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/deficit-public-lutte-contre-le-trafic-de-drogue-et-accord-du-ceta-le-8h30-franceinfo-de-marine-tondelier_6418306.html",
           "date": "2024-03-26"
         }
+      },
+      "q28": {
+        "position": "contre",
+        "resume": "« La laïcité, c'est la neutralité de l'État. Ça n'a jamais été la police du vêtement dans l'espace public. »",
+        "source": {
+          "titre": "franceinfo – La verbalisation du voile dans l'espace public proposée par le RN fait débat",
+          "url": "https://www.franceinfo.fr/politique/front-national/on-ne-peut-pas-interdire-de-pratiquer-la-religion-aux-gens-la-verbalisation-du-voile-dans-l-espace-public-proposee-par-le-rn-fait-debat_8170754.html",
+          "date": "2026-08-31"
+        }
+      },
+      "q31": {
+        "position": "pour",
+        "resume": "Veut abaisser le droit de vote à 16 ans et créer une « Assemblée nationale des enfants ».",
+        "source": {
+          "titre": "LCP – Marine Tondelier propose de créer une « Assemblée nationale des enfants »",
+          "url": "https://lcp.fr/actualites/marine-tondelier-propose-de-creer-une-assemblee-nationale-des-enfants-436846",
+          "date": "2026-05-27"
+        }
+      },
+      "q34": {
+        "position": "pour",
+        "resume": "« Il est temps de mettre fin à l'accord d'association entre l'Union européenne et Israël. »",
+        "source": {
+          "titre": "Les Écologistes – discours de Marine Tondelier aux Journées d'été 2025",
+          "url": "https://lesecologistes.fr/posts/998ekWsksRh9LHv2buaa3/discours-de-marine-tondelier-aux-journees-d-ete-des-ecologistes-2025",
+          "date": "2025-08-21"
+        }
       }
     },
     "cazeneuve": {
@@ -890,6 +1213,15 @@
         "resume": "Propose d'introduire une dose de proportionnelle aux élections législatives.",
         "source": {
           "titre": "Synthèse de la Lettre aux Français de Bernard Cazeneuve, proposition 12",
+          "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+          "date": "2026-07-15"
+        }
+      },
+      "q35": {
+        "position": "plutot_contre",
+        "resume": "Propose de « demeurer dans l'OTAN, sans rien y abdiquer » ; ne mentionne pas le commandement intégré.",
+        "source": {
+          "titre": "Synthèse de la Lettre aux Français « Tenir la promesse de la France », proposition 25",
           "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
           "date": "2026-07-15"
         }
@@ -950,6 +1282,42 @@
           "titre": "franceinfo – Élections législatives : 70 élus dont François Hollande, Élisabeth Borne et Raphaël Glucksmann réclament la proportionnelle",
           "url": "https://www.franceinfo.fr/elections/legislatives/elections-legislatives-soixante-dix-elus-dont-francois-hollande-elisabeth-borne-et-raphael-glucksmann-reclament-la-proportionnelle_7792037.html",
           "date": "2026-02-08"
+        }
+      },
+      "q27": {
+        "position": "contre",
+        "resume": "Se déclarait « fermement opposé » à la GPA (lettre publiée en 2013, alors président) ; aucune déclaration plus récente trouvée.",
+        "source": {
+          "titre": "franceinfo, « Hollande réaffirme son opposition ferme à la GPA »",
+          "url": "https://www.franceinfo.fr/politique/hollande-reaffirme-son-opposition-ferme-a-la-gpa_1643903.html",
+          "date": "2013-02-01"
+        }
+      },
+      "q28": {
+        "position": "contre",
+        "resume": "Rejette l'interdiction du voile : « On ne va pas aller faire la police de ce qui est porté ou pas ».",
+        "source": {
+          "titre": "Titres Presse, « Proposition du RN sur le voile : François Hollande réagit » (d'après BFMTV)",
+          "url": "https://www.titrespresse.com/19888192603/francois-hollande-jean",
+          "date": "2026-09-02"
+        }
+      },
+      "q33": {
+        "position": "pour",
+        "resume": "A voté pour la loi interdisant les réseaux sociaux aux moins de 15 ans lors du vote final (21 juillet 2026).",
+        "source": {
+          "titre": "Assemblée nationale, analyse du scrutin n° 8431 (texte de la CMP, loi sur les mineurs et les réseaux sociaux)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+          "date": "2026-07-21"
+        }
+      },
+      "q35": {
+        "position": "contre",
+        "resume": "Confirmait en 2012 que la France resterait dans le commandement intégré de l'OTAN ; aucune déclaration plus récente sur ce point.",
+        "source": {
+          "titre": "franceinfo, « François Hollande veut donner du sens à la présence française dans l'OTAN »",
+          "url": "https://www.franceinfo.fr/politique/francois-hollande-veut-donner-du-sens-a-la-presence-francaise-dans-l-otan_264003.html",
+          "date": "2012-03-01"
         }
       }
     },
@@ -1034,6 +1402,24 @@
           "url": "https://www.france24.com/fr/info-en-continu/20250522-edouard-philippe-d%C3%A9favorable-%C3%A0-la-proportionnelle-qui-conduirait-%C3%A0-une-absence-de-majorit%C3%A9",
           "date": "2025-05-22"
         }
+      },
+      "q28": {
+        "position": "contre",
+        "resume": "Juge « inconstitutionnelle » et « scandaleuse » la proposition du RN de sanctionner le voile dans l'espace public : « ça ne veut pas dire que je veux l'interdire ».",
+        "source": {
+          "titre": "franceinfo — Sanctionner le port du voile : Edouard Philippe juge la proposition du RN \"inconstitutionnelle\" et \"scandaleuse\"",
+          "url": "https://www.franceinfo.fr/societe/religion/sanctionner-le-port-du-voile-edouard-philippe-juge-la-proposition-du-rn-inconstitutionnelle-et-scandaleuse_8173319.html",
+          "date": "2026-09-02"
+        }
+      },
+      "q29": {
+        "position": "plutot_pour",
+        "resume": "Propose de suspendre totalement le droit du sol à Mayotte pendant plusieurs années. Aucune proposition trouvée pour le reste du territoire.",
+        "source": {
+          "titre": "Europe 1 — Édouard Philippe veut « fermer les vannes de l'immigration » à Mayotte et suspendre les demandes d'asile",
+          "url": "https://www.europe1.fr/politique/edouard-philippe-veut-fermer-les-vannes-de-limmigration-a-mayotte-et-suspendre-les-demandes-dasile-1025045",
+          "date": "2026-08-20"
+        }
       }
     },
     "attal": {
@@ -1090,6 +1476,33 @@
           "url": "https://attalpresident.fr/actualites/bfm-tv-gabriel-attal-veut-changer-de-modele-pour-redonner-de-la-puissance-a-la-france",
           "date": "2026-09-06"
         }
+      },
+      "q27": {
+        "position": "plutot_pour",
+        "resume": "Favorable à la légalisation d'une GPA « éthique », sans transaction commerciale ; veut ouvrir le débat plutôt que légiférer immédiatement.",
+        "source": {
+          "titre": "franceinfo — Édito. Avec la GPA, Gabriel Attal veut s'emparer du totem des réformes \"disruptives\"",
+          "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-avec-la-gpa-gabriel-attal-veut-s-emparer-du-totem-des-reformes-disruptives_7998872.html",
+          "date": "2026-05-26"
+        }
+      },
+      "q28": {
+        "position": "nuance",
+        "resume": "En désaccord avec l'interdiction pour les femmes majeures, qui « ont le droit » de le porter ; propose de l'interdire aux mineures de moins de 15 ans.",
+        "source": {
+          "titre": "franceinfo — \"Pour moi, l'école, ce n'est pas un sujet de campagne présidentielle…\", déclare Gabriel Attal",
+          "url": "https://www.franceinfo.fr/politique/gabriel-attal/pour-moi-l-ecole-ce-n-est-pas-un-sujet-de-campagne-presidentielle-c-est-juste-le-c-ur-de-mon-engagement-en-politique-declare-gabriel-attal-candidat-de-renaissance-a-la-presidentielle_8172782.html",
+          "date": "2026-09-01"
+        }
+      },
+      "q33": {
+        "position": "pour",
+        "resume": "Programme : « nous irons au bout de leur interdiction pour les moins de 15 ans » concernant les réseaux sociaux.",
+        "source": {
+          "titre": "attalpresident.fr — École",
+          "url": "https://attalpresident.fr/programme/education",
+          "date": "2026-09-22"
+        }
       }
     },
     "villepin": {
@@ -1118,6 +1531,15 @@
           "titre": "La France humaniste — Souveraineté agricole et alimentaire",
           "url": "https://www.lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html",
           "date": "2026-02-25"
+        }
+      },
+      "q34": {
+        "position": "pour",
+        "resume": "Appelle à « suspendre immédiatement l'accord européen avec Israël » face à la situation à Gaza (déclaration de mai 2025).",
+        "source": {
+          "titre": "France 24 (AFP) — Gaza : Villepin appelle les Occidentaux à \"isoler\" Israël pour empêcher \"une épuration ethnique\"",
+          "url": "https://www.france24.com/fr/info-en-continu/20250520-gaza-villepin-appelle-les-occidentaux-%C3%A0-isoler-isra%C3%ABl-pour-emp%C3%AAcher-une-%C3%A9puration-ethnique",
+          "date": "2025-05-20"
         }
       }
     },
@@ -1285,6 +1707,42 @@
           "url": "https://www.avecretailleau.fr/projet/mesure/abroger-le-zan",
           "date": "2026-09-22"
         }
+      },
+      "q25": {
+        "position": "contre",
+        "resume": "Promet un moratoire sur les lois sociétales : « on ne touche pas à ce qui est voté », mariage pour tous compris, malgré son opposition en 2013.",
+        "source": {
+          "titre": "franceinfo — Présidentielle 2027 : Bruno Retailleau promet « un moratoire » sur les lois sociétales",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-en-cas-d-election-bruno-retailleau-promet-un-moratoire-sur-les-lois-societales_7906910.html",
+          "date": "2026-03-31"
+        }
+      },
+      "q27": {
+        "position": "contre",
+        "resume": "Qualifie la GPA de « marchandisation du corps humain » et rejette toute notion de GPA éthique.",
+        "source": {
+          "titre": "Europe 1 — GPA : la proposition de légalisation de Gabriel Attal divise les rangs du gouvernement",
+          "url": "https://www.europe1.fr/politique/gpa-la-proposition-de-legalisation-de-gabriel-attal-divise-les-rangs-du-gouvernement-770020",
+          "date": "2025-08-25"
+        }
+      },
+      "q28": {
+        "position": "plutot_contre",
+        "resume": "Juge l'interdiction du voile dans l'espace public « inapplicable » ; propose de l'interdire là où c'est juridiquement possible : sport, école, université.",
+        "source": {
+          "titre": "Europe 1 — Objectif Élysée 2027 : l'interdiction du voile dans l'espace public est « inapplicable », estime Bruno Retailleau",
+          "url": "https://www.europe1.fr/politique/objectif-elysee-2027-linterdiction-du-voile-dans-lespace-public-est-inapplicable-estime-bruno-retailleau-1064318",
+          "date": "2026-09-08"
+        }
+      },
+      "q29": {
+        "position": "pour",
+        "resume": "Propose de supprimer le droit du sol par référendum : nationalité acquise seulement par filiation ou par assimilation vérifiée.",
+        "source": {
+          "titre": "Retailleau 2027 — Supprimer le droit du sol et revenir à l'assimilation",
+          "url": "https://www.avecretailleau.fr/projet/mesure/charte-republicaine",
+          "date": "2026-09-22"
+        }
       }
     },
     "lisnard": {
@@ -1404,6 +1862,33 @@
           "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-defend-une-ecologie-pragmatique-et-non-punitive/",
           "date": "2026-08-22"
         }
+      },
+      "q28": {
+        "position": "plutot_contre",
+        "resume": "Critique la proposition du RN de sanctionner le voile dans l'espace public ; privilégie des interdictions ciblées (université, services publics) et la lutte contre l'islamisme.",
+        "source": {
+          "titre": "Europe 1 — « Il faut casser les ressorts de l'islamisme » : David Lisnard réagit à la proposition du RN",
+          "url": "https://www.europe1.fr/politique/il-faut-casser-les-ressorts-de-lislamisme-david-lisnard-reagit-a-la-proposition-du-rn-de-sanctionner-le-port-du-voile-dans-lespace-public-1052360",
+          "date": "2026-09-03"
+        }
+      },
+      "q29": {
+        "position": "plutot_pour",
+        "resume": "Propose de « mettre fin à l'automaticité du droit du sol », sans suppression complète annoncée.",
+        "source": {
+          "titre": "Nouvelle Énergie — Programme : Immigration",
+          "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+          "date": "2026-09-22"
+        }
+      },
+      "q32": {
+        "position": "pour",
+        "resume": "Juge nécessaire le retour d'un service militaire universel et court, environ trois mois, en caserne et en uniforme.",
+        "source": {
+          "titre": "Nouvelle Énergie — « Une expérience formatrice, qu'il ne faut pas idéaliser » : David Lisnard raconte son service militaire",
+          "url": "https://www.unenouvelleenergie.fr/une-experience-formatrice-quil-ne-faut-pas-idealiser-david-lisnard-raconte-son-service-militaire/",
+          "date": "2025-12-12"
+        }
       }
     },
     "bertrand": {
@@ -1459,6 +1944,24 @@
           "titre": "France 24 — Bertrand veut « reprendre le contrôle » de l'immigration",
           "url": "https://www.france24.com/fr/info-en-continu/20211104-bertrand-veut-reprendre-le-contr%C3%B4le-de-l-immigration",
           "date": "2021-11-04"
+        }
+      },
+      "q27": {
+        "position": "contre",
+        "resume": "Cosigne une tribune transpartisane opposée à toute GPA, y compris dite « éthique ».",
+        "source": {
+          "titre": "franceinfo — 15 personnalités politiques, dont Aurore Bergé, signent une tribune contre la GPA",
+          "url": "https://www.franceinfo.fr/societe/loi-sur-la-famille/gestation-pour-autrui/dans-une-tribune-transpartisane-quinze-personnalites-politiques-s-opposent-a-la-gpa-dont-aurore-berge-la-ministre-de-l-egalite-femmes-hommes_8034425.html",
+          "date": "2026-05-28"
+        }
+      },
+      "q32": {
+        "position": "pour",
+        "resume": "En 2015, plaidait pour un service militaire obligatoire de trois à six mois pour filles et garçons. Position ancienne, non réaffirmée depuis.",
+        "source": {
+          "titre": "franceinfo — Attentats de Paris : Xavier Bertrand plaide pour un service militaire obligatoire",
+          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/attentats-de-paris-xavier-bertrand-plaide-pour-un-service-militaire-obligatoire_1187469.html",
+          "date": "2015-11-22"
         }
       }
     },
@@ -1606,6 +2109,69 @@
           "url": "https://www.publicsenat.fr/actualites/politique/prix-planchers-dans-lagriculture-un-prix-garanti-ne-peut-fonctionner-que-si-on-nimpose-pas-la-multiplication-des-normes-estime-marine-le-pen",
           "date": "2024-02-28"
         }
+      },
+      "q25": {
+        "position": "plutot_contre",
+        "resume": "En 2022, avait abandonné l'abrogation du mariage pour tous promise en 2017 : « Je ne retirerai aucun droit aux Français ».",
+        "source": {
+          "titre": "franceinfo — Présidentielle 2022 : comment le programme de Marine Le Pen affecterait la vie des minorités",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2022-il-pourrait-y-avoir-des-tentatives-de-revenir-sur-des-acquis-comment-le-programme-de-marine-le-pen-affecterait-la-vie-des-minorites_5090638.html",
+          "date": "2022-04-22"
+        }
+      },
+      "q26": {
+        "position": "contre",
+        "resume": "S'est opposée au passage à 14 semaines (2022) et a proposé d'inscrire dans la Constitution le droit en vigueur, délai de 14 semaines compris.",
+        "source": {
+          "titre": "LCP — IVG : Marine Le Pen propose de faire entrer « le droit actuel en vigueur » dans la Constitution",
+          "url": "https://lcp.fr/actualites/ivg-marine-le-pen-propose-de-faire-entrer-le-droit-actuel-en-vigueur-dans-la",
+          "date": "2022-11-22"
+        }
+      },
+      "q27": {
+        "position": "contre",
+        "resume": "Se déclarait opposée à la GPA lors du débat sur la loi de bioéthique en 2019.",
+        "source": {
+          "titre": "franceinfo — PMA : Marine Le Pen est « opposée » au texte en l'état",
+          "url": "https://www.franceinfo.fr/politique/front-national/pma-marine-le-pen-se-dite-opposee-au-texte-en-l-etat_3617015.html",
+          "date": "2019-09-14"
+        }
+      },
+      "q28": {
+        "position": "pour",
+        "resume": "Veut « interdire le voile » progressivement : d'abord par décret dans certains lieux, puis par référendum sur une loi contre les idéologies islamistes.",
+        "source": {
+          "titre": "franceinfo — Marine Le Pen souhaite « interdire le voile » islamique « de manière progressive »",
+          "url": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-souhaite-interdire-le-voile-islamique-de-maniere-progressive_8196287.html",
+          "date": "2026-09-16"
+        }
+      },
+      "q29": {
+        "position": "pour",
+        "resume": "Son projet de loi référendaire « citoyenneté-identité-immigration » supprime le droit du sol.",
+        "source": {
+          "titre": "Public Sénat — Immigration : comment une proposition de loi des sénateurs PS tente de déjouer les plans de Marine Le Pen",
+          "url": "https://www.publicsenat.fr/actualites/politique/immigration-comment-une-proposition-de-loi-des-senateurs-ps-tente-de-dejouer-les-plans-de-marine-le-pen",
+          "date": "2025-05-16"
+        }
+      },
+      "q30": {
+        "position": "contre",
+        "resume": "Rejette le droit de vote des étrangers non européens aux élections locales : « le droit de vote est intimement lié à la nationalité ».",
+        "source": {
+          "titre": "franceinfo — Marine Le Pen : « le droit de vote est intimement lié à la nationalité »",
+          "url": "https://www.franceinfo.fr/politique/marine-le-pen-le-droit-de-vote-est-intimement-lie-a-la-nationalite_261879.html",
+          "date": "2011-12-06"
+        }
+      },
+      "q35": {
+        "position": "plutot_pour",
+        "resume": "En 2022, proposait de sortir du commandement intégré de l'OTAN, mais pas tant que dure la guerre en Ukraine.",
+        "source": {
+          "titre": "Public Sénat — Otan : les propositions des candidats à la présidentielle",
+          "url": "https://www.publicsenat.fr/actualites/politique/otan-les-propositions-des-candidats-a-la-presidentielle-200136",
+          "date": "2022-03-25"
+        }
       }
     },
     "zemmour": {
@@ -1661,6 +2227,51 @@
           "titre": "Public Sénat – Présidentielle 2022 : Éric Zemmour détaille son programme",
           "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
           "date": "2022-03-23"
+        }
+      },
+      "q25": {
+        "position": "plutot_contre",
+        "resume": "Reste opposé au mariage pour tous, mais n'entendait pas l'abroger s'il était au pouvoir (selon franceinfo, 2023).",
+        "source": {
+          "titre": "franceinfo — Mariage pour tous : ces politiques qui ont changé d'avis",
+          "url": "https://www.franceinfo.fr/societe/mariage/mariage-et-homoparentalite/mariage-pour-tous-ces-politiques-qui-ont-change-d-avis_5788994.html",
+          "date": "2023-04-24"
+        }
+      },
+      "q28": {
+        "position": "pour",
+        "resume": "En 2022, proposait d'interdire le port du voile dans l'espace public, présenté comme un moyen de protéger les femmes musulmanes.",
+        "source": {
+          "titre": "Europe 1 — Présidentielle : comment Zemmour veut-il conquérir l'électorat féminin ?",
+          "url": "https://www.europe1.fr/politique/presidentielle-comment-zemmour-veut-il-conquerir-lelectorat-feminin-4098316",
+          "date": "2022-03-09"
+        }
+      },
+      "q29": {
+        "position": "pour",
+        "resume": "Programme 2022 : suppression du droit du sol.",
+        "source": {
+          "titre": "France 24 — Présidentielle : quelques propositions du candidat Zemmour",
+          "url": "https://www.france24.com/fr/info-en-continu/20211130-pr%C3%A9sidentielle-quelques-propositions-du-candidat-zemmour",
+          "date": "2021-11-30"
+        }
+      },
+      "q33": {
+        "position": "plutot_contre",
+        "resume": "Dénonce la loi interdisant les réseaux sociaux aux moins de 15 ans comme un pas vers le « flicage » par la vérification d'identité.",
+        "source": {
+          "titre": "franceinfo — Vrai ou faux : l'interdiction des réseaux sociaux aux moins de 15 ans permettrait-elle de « fliquer » la population ?",
+          "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/vrai-ou-faux-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-permettrait-elle-de-fliquer-la-population-comme-le-denonce-eric-zemmour_7767827.html",
+          "date": "2026-01-29"
+        }
+      },
+      "q35": {
+        "position": "pour",
+        "resume": "Programme 2022 : sortie du commandement intégré de l'OTAN, en restant dans l'Alliance atlantique.",
+        "source": {
+          "titre": "France 24 — Présidentielle : quelques propositions du candidat Zemmour",
+          "url": "https://www.france24.com/fr/info-en-continu/20211130-pr%C3%A9sidentielle-quelques-propositions-du-candidat-zemmour",
+          "date": "2021-11-30"
         }
       }
     },
@@ -1726,6 +2337,51 @@
           "titre": "Europe 1 – « La proportionnelle est mensongère par rapport à la démocratie », assure Nicolas Dupont-Aignan",
           "url": "https://www.europe1.fr/politique/la-proportionnelle-est-mensongere-par-rapport-la-democratie-assure-nicolas-dupont-aignan-235458",
           "date": "2024-12-16"
+        }
+      },
+      "q27": {
+        "position": "contre",
+        "resume": "Le projet de Debout la France propose de « refuser catégoriquement » la gestation pour autrui.",
+        "source": {
+          "titre": "Debout la France, « Notre projet » – Famille",
+          "url": "https://www.debout-la-france.fr/projet/famille/",
+          "date": "2026-09-22"
+        }
+      },
+      "q29": {
+        "position": "pour",
+        "resume": "Demande la suppression du droit du sol dans tout le pays, la nationalité s'obtenant par une naturalisation exigeante ; son projet prévoit un référendum.",
+        "source": {
+          "titre": "« Il faut supprimer le droit du sol partout dans le pays ! » – Boulevard Voltaire, repris par Debout la France",
+          "url": "https://www.debout-la-france.fr/actualite/il-faut-supprimer-le-droit-du-sol-partout-dans-le-pays-%C2%B7-boulevard-voltaire-17-02-24/",
+          "date": "2024-02-17"
+        }
+      },
+      "q32": {
+        "position": "pour",
+        "resume": "Propose un service national civique obligatoire de trois mois pour tous les jeunes de 18 ans, avec une option militaire d'un an.",
+        "source": {
+          "titre": "Debout la France, « Notre projet » – Défense",
+          "url": "https://www.debout-la-france.fr/projet/defense/",
+          "date": "2026-09-22"
+        }
+      },
+      "q33": {
+        "position": "plutot_contre",
+        "resume": "Juge que l'interdiction des réseaux sociaux aux moins de 15 ans restreint les libertés et préfère renforcer contrôles, police et justice.",
+        "source": {
+          "titre": "Communiqué de Nicolas Dupont-Aignan : « La protection de nos enfants se joue sur le terrain ! »",
+          "url": "https://www.debout-la-france.fr/actualite/communique-la-protection-de-nos-enfants-se-joue-sur-le-terrain/",
+          "date": "2026-07-22"
+        }
+      },
+      "q35": {
+        "position": "pour",
+        "resume": "Le projet de Debout la France propose de sortir du commandement intégré de l'OTAN.",
+        "source": {
+          "titre": "Debout la France, « Notre projet » – Défense et Affaires étrangères",
+          "url": "https://www.debout-la-france.fr/projet/defense/",
+          "date": "2026-09-22"
         }
       }
     },
@@ -1801,6 +2457,15 @@
           "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
           "date": "2026-09"
         }
+      },
+      "q35": {
+        "position": "pour",
+        "resume": "Propose de quitter l'OTAN, condition selon lui de l'indépendance de la France.",
+        "source": {
+          "titre": "Les Patriotes, Grandes orientations pour un projet patriote, édition 2026-2027, « Guerre et paix »",
+          "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+          "date": "2026-09-22"
+        }
       }
     },
     "asselineau": {
@@ -1830,10 +2495,28 @@
           "url": "https://upr.fr/nos-fondamentaux",
           "date": "2026-09-22"
         }
+      },
+      "q35": {
+        "position": "pour",
+        "resume": "Propose le retrait de la France de l'OTAN, avec la sortie de l'Union européenne et de l'euro.",
+        "source": {
+          "titre": "UPR – François Asselineau invité sur GP-TV",
+          "url": "https://upr.fr/medias/francois-asselineau-invite-de-nicolas-stoquer-sur-gp-tv-13-07-2026",
+          "date": "2026-07-13"
+        }
       }
     },
-    "lassalle": {},
-    "mlekuz": {},
+    "lassalle": {
+      "q35": {
+        "position": "plutot_pour",
+        "resume": "Son programme de 2022 propose de « préparer notre désengagement de l'OTAN », sans calendrier précis.",
+        "source": {
+          "titre": "Jean Lassalle 2022, programme présidentiel (site Résistons !)",
+          "url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+          "date": "2022-02-25"
+        }
+      }
+    },
     "egger": {
       "q19": {
         "position": "pour",
@@ -1880,6 +2563,15 @@
         "resume": "Propose une sortie de l'Union européenne (« Frexit organisé ») pour retrouver la maîtrise des lois et des frontières.",
         "source": {
           "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 1 Souveraineté",
+          "url": "https://dieudolalanne2027.com/programme/",
+          "date": "2026-09-22"
+        }
+      },
+      "q35": {
+        "position": "pour",
+        "resume": "Propose la sortie de l'OTAN pour retrouver l'indépendance militaire et diplomatique.",
+        "source": {
+          "titre": "Dieudo Lalanne 2027, « Le Projet 2027 »",
           "url": "https://dieudolalanne2027.com/programme/",
           "date": "2026-09-22"
         }
@@ -1986,8 +2678,17 @@
         }
       }
     },
-    "durif": {},
-    "mikolajczak": {}
+    "batho": {
+      "q33": {
+        "position": "pour",
+        "resume": "A voté pour la loi interdisant les réseaux sociaux aux moins de 15 ans lors du vote définitif (scrutin n° 8431).",
+        "source": {
+          "titre": "Assemblée nationale – scrutin public n° 8431 (PPL protection des mineurs sur les réseaux sociaux, texte de la CMP)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+          "date": "2026-07-21"
+        }
+      }
+    }
   },
   "a_verifier": [
     "Dates au format AAAA-MM : le programme L'Avenir en commun 2025 (daté 2025-01, jour non connu) et la brochure LO (2026-06) ; la page programme de Kazib n'est pas datée (date de consultation 2026-09-22).",
@@ -2100,6 +2801,75 @@
     "mlekuz : le programme et la FAQ de Trajectoire refusent explicitement de se prononcer sur les sujets sociaux et économiques avant la constituante ; aucune position sur les 24 questions. Le RIC n'apparaît pas dans son programme.",
     "egger : candidature limitée par choix à la démocratie directe et à la décentralisation ; seule la q19 est documentée. Le RIC proposé est limité à la révision de la Constitution (initiative constituante et référendum obligatoire).",
     "durif : aucun programme ni aucune mesure identifiés au 22/09/2026 ; les sites durif2027.com et sylvaindurif2027.fr ne sont pas officiels.",
-    "q18 maurel : volonté de sortir des traités européens évoquée ; à sourcer précisément avant de publier (règle : proposition explicite de sortie = pour)."
+    "q18 maurel : volonté de sortir des traités européens évoquée ; à sourcer précisément avant de publier (règle : proposition explicite de sortie = pour).",
+    "melenchon q29/q30/q35 : sources reprises de data/programmes/melenchon.json (PDF AEC 2025 via web.archive.org) ; le PDF n'a pas pu être rouvert (web.archive.org inaccessible, pages melenchon2027.fr/programme2025 en 404). Programme « en cours de réactualisation ».",
+    "melenchon q31 : seule source directe datée de 2022 ; une recherche indique que la mesure figurerait dans l'AEC 2025 (non vérifié).",
+    "melenchon q32 : la « conscription écologique » (2026) vise une garde régionale de sécurité civile, pas un service militaire ; la conscription citoyenne de 9 mois est citée par France 24 comme proposition de 2022. Valeur plutot_pour à confirmer.",
+    "melenchon q27 : source de 2021, rien de plus récent trouvé.",
+    "melenchon q33 : LFI a voté contre et saisi le Conseil constitutionnel (Manuel Bompard : « une très mauvaise réponse à un vrai problème », franceinfo) ; aucun propos de Mélenchon lui-même trouvé, donc omis.",
+    "melenchon q34 : il parle de suspendre les « accords commerciaux » UE-Israël, sans nommer l'accord d'association.",
+    "ruffin q28 : sa critique porte sur l'interdiction du voile pour les moins de 15 ans (Attal, 2025), pas sur une interdiction générale ; pas de réaction trouvée à la proposition du RN d'août 2026.",
+    "ruffin q29 : vote contre une restriction du droit du sol limitée à Mayotte, d'où plutot_contre.",
+    "ruffin q33 : abstention au vote définitif (21/07/2026) ; pas de déclaration trouvée.",
+    "ruffin q27 et q34 : sources de 2023, rien de plus récent trouvé ; en 2023 il a aussi dit « je dois progresser » sur les droits LGBT+, sans revenir explicitement sur la GPA.",
+    "arthaud q32 : elle dénonce le retour du service militaire volontaire (déc. 2025) et, au meeting du 14/02/2026, les appels à « rétablir le service militaire » ; brochure de campagne (PDF > 10 Mo) non lue.",
+    "labib q32 : simple mention critique du « retour du service militaire », d'où plutot_contre.",
+    "kazib q28 : déduit d'une mesure explicite (abrogation de la loi de 2004 et des lois « islamophobes ») ; pas de propos direct sur une interdiction dans l'espace public. q32 : le SNU a été abandonné ; le programme ne parle pas du service militaire.",
+    "batho q32 : a jugé la relance du service national militaire et volontaire « nécessaire » (franceinfo, 27/11/2025), sans se prononcer sur son caractère obligatoire, donc omis.",
+    "tondelier q33 : aucune position trouvée sur l'interdiction des réseaux sociaux aux moins de 15 ans.",
+    "roussel q32 : aucune position trouvée sur un service obligatoire (2022 : proposait d'« ouvrir un grand débat » sur le service national, selon la recherche, non vérifié).",
+    "q25 et q26 : aucune position trouvée pour ces huit candidats. Mélenchon a soutenu en 2020 le passage de 12 à 14 semaines, ce qui ne répond pas à la question « au-delà de 14 semaines ».",
+    "q30 (Roussel, Ruffin, Tondelier, Batho) : la PPL écologiste sur le vote des étrangers aux municipales (commission, 04/02/2026) n'a donné lieu à aucun scrutin public trouvé ; aucun propos direct des candidats trouvé.",
+    "q33 (scrutin n° 8431) : le Conseil constitutionnel a censuré le 14/08/2026 l'article 1 (interdiction aux moins de 15 ans) de la loi du 24/08/2026. Les votes restent des positions exprimées, mais la question pourrait mériter un contexte.",
+    "faure q33 : une abstention a été codée « nuance ». Aucune déclaration personnelle trouvée ; à retirer si l'on ne veut pas coder une abstention.",
+    "faure q34 : position confirmée par la cosignature de la proposition de résolution n° 1532 (10/06/2025, https://www.assemblee-nationale.fr/dyn/17/textes/l17b1532_proposition-resolution-europeenne), par un post X du 25/03/2026 (https://x.com/faureolivier/status/2036747968619896916) et par des propos d'avril 2024 (Times of Israel). Les posts X ont été lus via l'API fxtwitter, car x.com bloque la lecture directe.",
+    "faure q27 : en 2019 (franceinfo), s'est dit « contre la marchandisation du corps des femmes », sans position claire sur une GPA non commerciale. Question omise.",
+    "glucksmann q34 : en avril 2024, il demandait « plus de pression » sur le gouvernement israélien sans réclamer explicitement la suspension de l'accord (Times of Israel, 26/04/2024). Question omise, faute de source explicite.",
+    "glucksmann q27 : source de 2024 (campagne européenne). Aucune déclaration plus récente trouvée, ni contradictoire.",
+    "glucksmann q28, bouamrane q28 : sources secondaires (Entrevue) qui citent BFMTV-RMC et Europe 1-CNews. L'original n'a pas été ouvert.",
+    "hollande q28 : agrégateur Titres Presse citant BFMTV (article du 02/09/2026). L'original n'a pas été ouvert.",
+    "hollande q27 (2013) et q35 (2012) : sources anciennes, retenues faute de déclaration récente contraire. En 2008, il était opposé à la réintégration du commandement intégré, puis l'a assumée en 2012.",
+    "royal q28 : source TSA Algérie (08/09/2026) citant ses propos sur BFMTV. Autre relais : Titres Presse du 02/09/2026 (« Laissons les femmes tranquilles »).",
+    "maurel q35 : le programme qualifie l'OTAN de « mort cérébrale » et exprime des réserves sur l'intégration militaire européenne, sans proposer explicitement de quitter le commandement intégré. Question omise.",
+    "cazeneuve q35 : « demeurer dans l'OTAN » ne précise pas le commandement intégré. Codé « plutot_contre », à confirmer.",
+    "massard : aucune position sourcée trouvée sur q25-q35 (communiqués UDB et Le Peuple breton consultés).",
+    "q25, q26, q30, q31 : aucune position explicite trouvée pour ces candidats. La tribune UNICEF pour le vote à 16 ans (avril 2025, 32 maires) n'a pas pu être consultée (erreur 403) pour vérifier si Karim Bouamrane l'a signée.",
+    "philippe q29 : position limitée à Mayotte (suspension du droit du sol) ; codée plutot_pour au titre d'une position partielle. Sources concordantes : France 24 du 21/08/2026 et franceinfo 2024 (« À situation exceptionnelle, mesure exceptionnelle »). Rien trouvé sur la métropole.",
+    "philippe q32 : le programme porte le service militaire volontaire de 3 000 à 50 000 places, sans parler d'obligation. Pas de refus explicite du service obligatoire trouvé : question omise.",
+    "philippe q27 (GPA) : son opposition est mentionnée par la presse (édito franceinfo du 26/05/2026, Europe 1 2019), mais aucune citation directe récente n'a été trouvée : question omise.",
+    "attal q28 : la proposition d'interdire le voile aux moins de 15 ans dans l'espace public date de mai 2025 (franceinfo du 21/05/2025 et du 27/05/2025). Elle est rappelée le 01/09/2026, avec son refus d'une interdiction pour les adultes.",
+    "attal q33 : la loi interdisant les réseaux sociaux aux moins de 15 ans (adoptée le 21/07/2026) a été censurée par le Conseil constitutionnel le 14/08/2026. Le passage « par référendum » cité dans data/programmes/attal.json n'est pas confirmé. Son vote nominatif en tant que député n'a pas été vérifié.",
+    "attal q27 : la GPA est défendue dans son livre « En homme libre » et à la convention de Renaissance (Europe 1, 25/08/2025). Elle ne figure pas dans les pages de programme consultées.",
+    "villepin q35 : en 2011-2012, il proposait de sortir du commandement intégré de l'OTAN (Europe 1, « Le programme, hors compétition, de Villepin »). En janvier 2026 (LCP, 19/01/2026), il dit seulement que les Européens doivent d'abord montrer leur « unité » et que l'OTAN « n'aurait plus de sens » si les États-Unis prenaient le Groenland par la force. Rien de récent n'est explicite : question omise.",
+    "villepin q34 : la source date de 2025 et aucune déclaration de 2026 n'a été trouvée. Rien ne la contredit.",
+    "villepin q30 : son opposition au vote des étrangers remonte à 2004-2005 (Premier ministre) et n'a pas été confirmée par une source ouverte : question omise. Même chose pour q29 : selon un article franceinfo ancien sur Mayotte, il ne voulait pas remettre en cause le droit du sol en France. Article non ouvert.",
+    "le-maire : aucune source 2024-2026 sur q25-q35. Le manifeste d'août 2026 et l'entretien franceinfo du 06/09/2026 ne traitent que d'économie, d'autorité et de souveraineté. Positions anciennes non retenues : réécriture de la loi Taubira sur la filiation et opposition totale à la GPA (franceinfo, 15/11/2014) ; « le voile n'est pas souhaitable » (vers 2019), sans proposition d'interdiction. Il n'a pas de fichier data/programmes/le-maire.json.",
+    "retailleau q26 : le moratoire sur les lois sociétales (franceinfo, 31/03/2026) exclut a priori un nouvel allongement du délai d'IVG, mais aucune déclaration explicite sur le délai n'a été trouvée : question omise.",
+    "retailleau q27 : citation sur la GPA datant d'environ 2024, rapportée par Europe 1 le 25/08/2025 ; chercher une déclaration de campagne 2026.",
+    "retailleau q32 : source Entrevue (reprise d'un entretien sur BFMTV), hors liste de médias privilégiés ; réponse « plutôt oui » assortie de « on en discutera ». En novembre 2025, il soutenait le service militaire volontaire (franceinfo, 26/11/2025). Trouver l'entretien d'origine.",
+    "retailleau q28 : « plutot_contre » s'appuie sur « inapplicable » et sur des interdictions limitées à certains lieux ; il ne rejette pas le principe sur le fond.",
+    "lisnard q28 : il rejette l'amende proposée par le RN, mais se dit hostile au voile (tribune du 09/12/2025). Choix entre « nuance » et « plutot_contre » à confirmer.",
+    "lisnard q29 : « fin de l'automaticité » : l'écart avec une suppression complète justifie « plutot_pour ».",
+    "lisnard q32 : article publié sur le site du parti (12/12/2025) ; « universel » implique une obligation, mais le mot « obligatoire » n'y figure pas.",
+    "lisnard q30/q35 : des sites agrégateurs (monvote2027.fr, etc.) lui prêtent des positions contradictoires, sans source primaire : non retenues.",
+    "bertrand q32 : seule source datée de 2015 (et proposition de loi antérieure). Pas de déclaration récente trouvée ; à confirmer pour 2026.",
+    "le-pen q25 : en 2017, elle promettait de remplacer le mariage pour tous par une union civile ; en 2022, « je ne retirerai aucun droit » et moratoire de trois ans sur les sujets de société. Aucune déclaration 2024-2026 trouvée.",
+    "le-pen q26, q27, q30, q35 : sources de 2011 à 2022, faute de déclaration plus récente. Pour q35, Jordan Bardella a exclu en 2024 une sortie « en période de guerre » (propos du président du parti, pas de la candidate).",
+    "le-pen q32 : favorable en 2017 à un service militaire obligatoire d'au moins trois mois (franceinfo, 20/03/2017) ; position 2022-2026 non confirmée : question omise.",
+    "le-pen q33 : son vote nominatif n'apparaît pas dans les scrutins n°5192 (26/01/2026) et n°8431 (21/07/2026) sur la loi réseaux sociaux : question omise.",
+    "zemmour : programme 2027 non publié ; q28, q29 et q35 viennent du programme 2022 ; q25 est une reformulation de franceinfo (2023), sans citation directe.",
+    "zemmour q33 : il critique surtout la vérification d'identité, pas le principe d'une limite d'âge ; « plutot_contre » à confirmer.",
+    "dupont-aignan q27/q32/q35 : sources = pages « Notre projet » de Debout la France (parti présidé par le candidat), non datées, en cours d'actualisation pour 2027 ; date = consultation. À confirmer quand le programme 2027 sera publié.",
+    "dupont-aignan q29 : propos de 2024 (Boulevard Voltaire, 17/02/2024) ; le projet DLF actuel dit « Supprimer le droit du sol via un référendum ». Pas de source 2025-2026 contradictoire trouvée.",
+    "dupont-aignan q33 : position tirée d'un communiqué signé (22/07/2026) qui critique la mesure sans formule « je suis contre » ; « plutot_contre » possible si l'on veut rester prudent.",
+    "dupont-aignan q28 : en 2012, jugeait « absurde » l'interdiction du voile dans la rue (tweet, Europe 1) ; une déléguée DLF a demandé un référendum (2019). Trop ancien ou pas du candidat : omis.",
+    "philippot q35 : date = mise en ligne du livret en septembre 2026 (jour exact inconnu, date de consultation retenue). Le livret est celui du parti Les Patriotes, présenté comme base de sa candidature.",
+    "philippot q28/q32 : propos anciens (2012-2017) tenus quand il était au FN (signes religieux dans l'espace public, mois de service militaire) : non retenus, faute de source récente.",
+    "asselineau q33 : l'UPR critique la loi sur les réseaux sociaux avant 15 ans (article non signé, 22/07/2026) ; Asselineau y a répondu dans un direct YouTube (Direct n°96) non vérifié. Non retenu.",
+    "asselineau q34 : communiqué UPR de 2014 (Bureau national) évoquant la suspension de l'accord UE-Israël : trop ancien et non signé du candidat. Non retenu.",
+    "lassalle q35 : source = programme de la campagne 2022, seul programme publié ; candidature 2027 non officialisée. À confirmer. Ce programme prévoit aussi un « service national universel militaire ou civil » dont le caractère obligatoire n'est pas explicite (q32 omis).",
+    "branco q32/q35 : Les Ruches proposent des référendums (service militaire obligatoire, sortie de l'OTAN) ; un référendum n'est pas une position (analogie avec la règle q18) : omis.",
+    "mlekuz, egger, mathieu, durif, mikolajczak : aucune position trouvée sur q25-q35 (programmes à mesure unique ou absents).",
+    "Positions retirées car sourcées uniquement par Entrevue (hors liste des médias reconnus) : glucksmann q28, bouamrane q28, retailleau q32. À resourcer avec l'émission d'origine ou un média reconnu."
   ]
 }
