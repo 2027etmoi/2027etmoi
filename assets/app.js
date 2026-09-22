@@ -36,7 +36,7 @@ function compare(a, b) {
   else if (state.sort === "statut") r = order(STATUTS, a.statut) - order(STATUTS, b.statut);
   // Plus haut score en premier ; les personnalités non testées à la fin
   else if (state.sort === "sondage") r = (moyennes[b.id]?.moyenne ?? -1) - (moyennes[a.id]?.moyenne ?? -1);
-  if (r === 0) r = a.nom.localeCompare(b.nom, "fr");
+  if (r === 0) r = a.id.localeCompare(b.id, "fr"); // id = nom de famille
   return state.dir === "asc" ? r : -r;
 }
 

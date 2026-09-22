@@ -33,7 +33,7 @@ function buildPickers(candidats) {
   const order = Object.keys(BLOCS);
   candidats
     .filter((c) => EN_LICE.includes(c.statut))
-    .sort((a, b) => order.indexOf(a.bloc) - order.indexOf(b.bloc) || a.nom.localeCompare(b.nom, "fr"))
+    .sort((a, b) => order.indexOf(a.bloc) - order.indexOf(b.bloc) || a.id.localeCompare(b.id, "fr"))
     .forEach((c) => {
       const b = chip(c.nom, sel.cands.includes(c.id), async () => {
         const i = sel.cands.indexOf(c.id);

@@ -27,6 +27,12 @@
   ],
   "mesures": [
     {
+      "theme": "economie",
+      "texte": "Suspension du versement de dividendes pour toute entreprise qui ne s'engage pas dans sa propre transformation écologique.",
+      "nature": "declaration",
+      "source": { "titre": "Europe 1 (discours aux journées d'été du PS)", "url": "https://www.europe1.fr/politique/presidentielle-2027-olivier-faure-predit-que-le-bloc-central-va-seffondrer-et-promet-un-autre-futur-1042901", "date": "2026-08-29" }
+    },
+    {
       "theme": "travail",
       "texte": "SMIC porté à 1 700 euros net.",
       "nature": "declaration",
@@ -45,6 +51,12 @@
       "source": { "titre": "AFP (via Orange Actualités), d'après un entretien au Nouvel Obs", "url": "https://actu.orange.fr/politique/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions-CNT000002rW0aW.html", "date": "2026-09-16" }
     },
     {
+      "theme": "travail",
+      "texte": "Fonds national permettant aux familles les plus modestes d'acheter des aliments à prix réduits, en quantité et qualité suffisantes.",
+      "nature": "declaration",
+      "source": { "titre": "Europe 1 (discours aux journées d'été du PS)", "url": "https://www.europe1.fr/politique/presidentielle-2027-olivier-faure-predit-que-le-bloc-central-va-seffondrer-et-promet-un-autre-futur-1042901", "date": "2026-08-29" }
+    },
+    {
       "theme": "retraites",
       "texte": "Âge de départ à la retraite à 62 ans.",
       "nature": "declaration",
@@ -57,10 +69,22 @@
       "source": { "titre": "AFP (via Orange Actualités), d'après un entretien au Nouvel Obs", "url": "https://actu.orange.fr/politique/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions-CNT000002rW0aW.html", "date": "2026-09-16" }
     },
     {
+      "theme": "education",
+      "texte": "Création d'un grand service public de la lecture.",
+      "nature": "declaration",
+      "source": { "titre": "Europe 1 (discours aux journées d'été du PS)", "url": "https://www.europe1.fr/politique/presidentielle-2027-olivier-faure-predit-que-le-bloc-central-va-seffondrer-et-promet-un-autre-futur-1042901", "date": "2026-08-29" }
+    },
+    {
       "theme": "ecologie",
       "texte": "Aucun budget, investissement ou aide publique en dehors des objectifs de protection de la biodiversité.",
       "nature": "declaration",
       "source": { "titre": "AFP (via Boursorama)", "url": "https://www.boursorama.com/actualite-economique/actualites/olivier-faure-a-gauche-toute-pour-la-primaire-9db61319a9452da24d0e9bea2fa49132", "date": "2026-09-17" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Grand fonds national et européen doté de ressources permanentes pour investir dans la transition écologique sur 20 ou 30 ans.",
+      "nature": "declaration",
+      "source": { "titre": "Europe 1 (discours aux journées d'été du PS)", "url": "https://www.europe1.fr/politique/presidentielle-2027-olivier-faure-predit-que-le-bloc-central-va-seffondrer-et-promet-un-autre-futur-1042901", "date": "2026-08-29" }
     },
     {
       "theme": "immigration",
@@ -85,6 +109,8 @@
   "a_verifier": [
     "L'entretien original au Nouvel Obs (16/09/2026) n'a pas été ouvert ; mesures vérifiées dans les dépêches AFP.",
     "Carburants : demande au Premier ministre (17/09/2026) de doubler les aides ciblées et de les rendre automatiques, financées par le maintien de la contribution exceptionnelle des grandes entreprises (franceinfo). Revendication d'actualité adressée au gouvernement, non retenue comme mesure de programme.",
-    "Contenu détaillé du livre « La Loi du plus juste » non consulté."
+    "Contenu détaillé du livre « La Loi du plus juste » non consulté. Au 22/09/2026, la presse ouverte (AFP 16 et 17/09/2026) ne rapporte pas de mesure du livre au-delà de celles déjà publiées ; souveraineté alimentaire et numérique citées comme priorités industrielles, sans mesure précise.",
+    "Projet du PS adopté en juillet 2026 (franceinfo, 04/09/2026) : leasing social à 100 € par mois, nationalisation des autoroutes, alignement de la fiscalité du kérosène sur celle du pétrole, « fonds de sécurité climatique ». Présentés par des responsables du parti, non attribués à Faure lui-même : non publiés.",
+    "Premier débat télévisé de la primaire « Choisir 2027 » prévu le 23/09/2026 (LCI) : pas encore eu lieu au 22/09/2026, à suivre."
   ]
 }

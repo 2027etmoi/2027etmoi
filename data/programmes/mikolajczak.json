@@ -1,0 +1,47 @@
+{
+  "id": "mikolajczak",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Présidentielle 2027 – priorités d'Équinoxe (programme officiel annoncé)",
+    "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+    "etat": "partiel",
+    "note": "Au 22/09/2026, le site d'Équinoxe indique que le programme officiel « arrive très prochainement » ; il publie trois priorités (décider collectivement, produire en France, vivre en bonne santé), un manifeste, un tract et quelques propositions."
+  },
+  "reperes": [
+    {
+      "texte": "Ingénieur (ICAM de Lille), 28 ans ; a monté pendant cinq ans des projets locaux d'énergies renouvelables.",
+      "source": { "titre": "Parti Équinoxe – Qui est Antoine Mikolajczak ?", "url": "https://parti-equinoxe.fr/qui-est-antoine-mikolajczak/", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Désigné candidat par un vote des adhérents d'Équinoxe au jugement majoritaire ; campagne lancée le 27 juin 2026 à Saint-Père-sur-Loire (Loiret).",
+      "source": { "titre": "Parti Équinoxe – Retour sur le lancement de campagne d'Équinoxe", "url": "https://parti-equinoxe.fr/retour-sur-le-lancement-de-campagne-dequinoxe/", "date": "2026-07-02" }
+    },
+    {
+      "texte": "Équinoxe, parti fondé en 2021, revendique une soixantaine d'élus locaux ; le candidat recherche les 500 parrainages.",
+      "source": { "titre": "JHM – Sous la bannière d'Équinoxe, Antoine Mikolajczak brigue la présidence de la République", "url": "https://jhm.fr/sous-la-banniere-dequinoxe-antoine-mikolajczak-brigue-la-presidence-de-la-republique/", "date": "2026-07-11" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "sante",
+      "texte": "Création d'un « défenseur de la santé », autorité indépendante chargée d'évaluer l'impact sanitaire des lois et des politiques publiques.",
+      "nature": "programme",
+      "source": { "titre": "Parti Équinoxe – Nommer un ou une défenseur de la santé", "url": "https://parti-equinoxe.fr/nommer-un-ou-une-defenseur-de-la-sante/", "date": "2026-09-11" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Renforcement du droit à l'expérimentation locale des collectivités, dont les réussites pourraient être répliquées ailleurs.",
+      "nature": "declaration",
+      "source": { "titre": "Tribune d'Antoine Mikolajczak dans Le Télégramme, reprise sur le site d'Équinoxe – « Clarté, moyens et confiance pour nos territoires »", "url": "https://parti-equinoxe.fr/clarte-moyens-et-confiance-pour-nos-territoires/", "date": "2026-08-26" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Le Parisien – « Monsieur Tout-le-Monde » candidat à la présidentielle 2027 ? Antoine Mikolajczak et Équinoxe face au défi des 500 parrainages", "url": "https://www.leparisien.fr/oise-60/monsieur-tout-le-monde-candidat-a-la-presidentielle-2027-antoine-mikolajczak-et-equinoxe-face-au-defi-des-500-parrainages-12-08-2026-CN5YEZHLCJGF7CSTOWAQUMI4PY.php", "type": "article", "date": "2026-08-12" },
+    { "titre": "Tract de campagne Équinoxe 2027 (PDF)", "url": "https://parti-equinoxe.fr/wp-content/uploads/2026/07/Parti-equinoxe-Tracts.pdf", "type": "document", "date": "2026-07" }
+  ],
+  "a_verifier": [
+    "Priorités générales (simplifier le droit et réduire le nombre de normes, développer la démocratie directe et les conventions citoyennes, relocaliser les productions agricoles et industrielles) : formulées comme des orientations, non retenues comme mesures.",
+    "Tribune du Télégramme (25/08/2026) : lue dans sa reprise sur le site d'Équinoxe ; l'original (letelegramme.fr/opinions/clarte-moyens-et-confiance-pour-nos-territoires-7104967.php) n'a pas été ouvert.",
+    "Filières professionnelles (article du 2/09/2026) : propositions tronquées à la lecture de la page, non publiées."
+  ]
+}

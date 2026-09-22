@@ -125,6 +125,25 @@
   ],
   "affaires": [
     {
+      "titre": "Outrage et menace envers un mandataire judiciaire (2024)",
+      "texte": "Poursuivi pour outrage et menace envers un mandataire judiciaire, pour des faits commis entre le 8 avril et le 7 juin 2024, alors qu'il intervenait en faveur d'un agriculteur béarnais placé en liquidation judiciaire ; selon le parquet de Pau, il avait adressé des SMS à l'administrateur judiciaire. Condamné le 10 juillet 2025 par le tribunal correctionnel de Pau à 5 000 euros d'amende, dont 2 500 euros avec sursis. À l'audience, il a indiqué qu'il ne ferait pas appel.",
+      "etat": "condamnation_non_definitive",
+      "etat_detail": "Condamné en première instance le 10 juillet 2025 ; il a déclaré qu'il ne ferait pas appel. Le caractère définitif de la condamnation (absence d'appel, y compris du parquet) n'est confirmé par aucune source : Jean Lassalle reste présumé innocent.",
+      "date_etat": "2025-07-10",
+      "sources": [
+        {
+          "titre": "ICI Béarn Bigorre — Jean Lassalle condamné pour outrage et menace envers un mandataire judiciaire",
+          "url": "https://www.ici.fr/infos/faits-divers-justice/jean-lassalle-devant-le-tribunal-de-pau-pour-outrage-et-menace-a-un-huissier-de-justice-1133854",
+          "date": "2025-07-10"
+        },
+        {
+          "titre": "France 3 Nouvelle-Aquitaine — « Je ne regrette rien, je suis même plutôt fier » : Jean Lassalle condamné à 2 500 euros d'amende pour outrage et menace",
+          "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/pau/je-ne-regrette-rien-je-suis-meme-plutot-fier-jean-lassalle-condamne-a-2-500-euros-d-amende-pour-outrage-et-menace-3186648.html",
+          "date": "2025-07-11"
+        }
+      ]
+    },
+    {
       "titre": "Enquête préliminaire pour viol et agression sexuelle",
       "texte": "Visé à partir de juillet 2023 par une enquête préliminaire du parquet de Bordeaux pour viol et agression sexuelle, portant sur des faits dénoncés remontant à 2010. Entendu en audition libre en novembre 2023, il est « ressorti libre sans poursuites à ce stade », selon le parquet. Il a contesté les faits. L'enquête a été classée sans suite le 29 mars 2024.",
       "etat": "classement",
@@ -151,9 +170,9 @@
   ],
   "a_verifier": [
     "Classement sans suite : article du Monde du 29 mars 2024 cité via Wikipédia, non ouvert (paywall ou blocage anti-robot). À relire.",
-    "Enquête pénale ouverte en avril 2022 par le parquet de Pau pour atteinte à la sincérité du scrutin, après la mise en scène de son abstention au second tour de la présidentielle le 24 avril 2022 (franceinfo, 28 avril 2022). Issue non trouvée. Non publiée.",
+    "Enquête pénale ouverte en avril 2022 par le parquet de Pau pour atteinte à la sincérité du scrutin, après la mise en scène de son abstention au second tour de la présidentielle le 24 avril 2022 (franceinfo, 28 avril 2022 ; ICI). Le Conseil constitutionnel a annulé les suffrages de Lourdios-Ichère. Lot 3 (22/09/2026) : deux recherches (franceinfo, ICI, France 24, Europe 1, Public Sénat, LCP) et pages thématiques franceinfo et ICI : aucune suite trouvée (ni poursuite, ni classement, ni alternative aux poursuites). Non publiée.",
     "Parcours professionnel : pas de dates précises dans les sources.",
     "Photo : ancienne (2017) et non officielle. Aucun portrait institutionnel libre trouvé. Vignette en 500px : la taille de 400px est refusée par Wikimedia.",
-    "Recherche web par mots-clés sur d'autres procédures non faite (quota épuisé)."
+    "Lot 3 (22/09/2026) : recherche par mots-clés faite ; une procédure nouvelle trouvée et publiée : condamnation du 10 juillet 2025 (outrage et menace). Date exacte de publication de l'article ICI : la page affiche « publié le mercredi 9 juillet 2025 à 17h38 » (article d'annonce mis à jour après le jugement du jeudi 10 juillet) ; date 10/07 retenue. Caractère définitif à confirmer."
   ]
 }

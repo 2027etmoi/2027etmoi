@@ -112,6 +112,12 @@
     },
     {
       "theme": "retraites",
+      "texte": "Reculer l'âge légal de départ « après 64 ans » et le lier à l'espérance de vie en bonne santé.",
+      "nature": "declaration",
+      "source": { "titre": "LCP — Présidentielle : que proposent les candidats sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751", "date": "2026-09-16" }
+    },
+    {
+      "theme": "retraites",
       "texte": "Congé de naissance facultatif étendu jusqu'aux six mois de l'enfant, pour l'un ou l'autre parent, indemnisé à 70 % de la rémunération antérieure.",
       "nature": "programme",
       "source": { "titre": "Retailleau 2027 — Prolonger le congé jusqu'aux six mois de l'enfant", "url": "https://www.avecretailleau.fr/projet/mesure/prolonger-le-conge-jusqu-aux-six-mois-de-l-enfant", "date": "2026-09-12" }
@@ -369,7 +375,10 @@
     { "titre": "Les Républicains — désignation de Bruno Retailleau comme candidat", "url": "https://republicains.fr/actualites/2026/04/20/bruno-retailleau-largement-designe-comme-candidat-des-republicains-pour-lelection-presidentielle/", "type": "article", "date": "2026-04-20" }
   ],
   "a_verifier": [
-    "Le site de campagne annonce des chapitres « à venir » (sécurité, justice, santé, retraites, finances publiques, immigration, environnement, culture, tourisme) : à compléter lors de leur publication.",
+    "Au 22/09/2026 (page /projet consultée), les chapitres Justice, Immigration, Sécurité, Comptes publics, Retraites, Culture, Santé, Tourisme et Écologie sont toujours marqués « À venir », sans mesure détaillée : à compléter lors de leur publication.",
+    "Sécurité : selon Public Sénat (03/09/2026), la future « Charte de l'ordre républicain » « pourrait » inscrire dans la Constitution des peines minimales pour certains crimes et délits graves, le renforcement de la sécurité des prisons et la rétention de sûreté — formulé au conditionnel, non publié.",
+    "Sécurité : suppression du juge d'application des peines, castration chimique des pédocriminels, cour disciplinaire des magistrats — lus seulement dans un résumé de recherche, aucune page source ouverte ne les contient.",
+    "Santé : aucune mesure trouvée au 22/09/2026 (chapitre « à venir », rien dans la presse ouverte).",
     "Plusieurs URL de mesures du site ne correspondent pas à leur titre (ex. l'URL « concentrer-le-primaire-et-le-college-sur-les-savoirs » porte la mesure sur la rémunération des professeurs) : vérifier la stabilité des liens."
   ]
 }

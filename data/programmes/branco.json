@@ -1,0 +1,178 @@
+{
+  "id": "branco",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "« La Voie » – programme intégral (Les Ruches)",
+    "url": "https://ruches.org/le-projet",
+    "etat": "complet",
+    "note": "Au 22/09/2026, le site du mouvement Les Ruches publie le programme intégral « La Voie » : 845 mesures réparties en 24 thèmes, dont plusieurs soumises à référendum ; une sélection est reprise ci-dessous."
+  },
+  "reperes": [
+    {
+      "texte": "Avocat depuis 2017, essayiste, auteur du pamphlet « Crépuscule » (2019) ; ancien conseiller juridique de WikiLeaks et de Julian Assange.",
+      "source": { "titre": "Wikipédia – Juan Branco", "url": "https://fr.wikipedia.org/wiki/Juan_Branco", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Candidat de La France insoumise aux législatives de 2017 dans la 12e circonscription de la Seine-Saint-Denis : 13,9 %.",
+      "source": { "titre": "Wikipédia – Juan Branco", "url": "https://fr.wikipedia.org/wiki/Juan_Branco", "date": "2026-09-22" }
+    },
+    {
+      "texte": "A annoncé sa candidature à la présidentielle de 2027 sur Sud Radio le 19 décembre 2025 ; soutenu par le mouvement citoyen Les Ruches.",
+      "source": { "titre": "Sud Radio – L'avocat Juan Branco, candidat à la présidentielle", "url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle", "date": "2025-12-19" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "international",
+      "texte": "Référendum (article 11) sur la sortie de l'Union européenne, de l'euro, du Conseil de l'Europe et/ou de l'espace Schengen.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », normes 01 Souveraineté", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Référendum sur la sortie de l'OTAN (commandement intégré ou traité).",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », normes 01 Souveraineté", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Référendum d'initiative citoyenne en toutes matières et mandat révocable à toutes les échelles.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », normes 02 Démocratie", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Suppression du poste de Premier ministre ; mandat présidentiel de 7 ans, limité à trois mandats.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », normes 02 Démocratie", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Fusion du Conseil constitutionnel, de la Cour de cassation et du Conseil d'État en une « Cour des peuples ».",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », normes 02 Démocratie", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Vote obligatoire et prise en compte du vote blanc, rendant le mandat caduc en cas de majorité de votes blancs.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », normes 02 Démocratie", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Parrainages présidentiels remplacés par 50 000 parrainages citoyens, avec le soutien de 150 maires ; interdiction des sondages un an avant la présidentielle.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », normes 02 Démocratie", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Suppression des régions et des intercommunalités ; retour au duo commune-département comme unité territoriale de base.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », normes 02 Démocratie", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Création d'un Procureur de la nation élu, chargé de la politique des poursuites ; élection et révocation des magistrats inscrites dans la Constitution.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », normes 02 Démocratie", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Suppression des brigades anticriminalité (BAC) au profit d'une police de proximité ; dissolution des BRAV-M.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », réforme 02 L'Intérieur", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Récépissé de contrôle d'identité, enregistrement systématique des interventions et port obligatoire du matricule.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », réforme 02 L'Intérieur", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Conditionnalisation du regroupement familial et traitement des demandes d'asile au niveau consulaire.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », réforme 02 L'Intérieur", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Arrêt des livraisons d'armes à l'Ukraine ; intégration aux BRICS en tant que tête de file d'une Union des pays francophones.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », réforme 03 L'Extérieur et la Défense", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Référendum sur un service obligatoire pour tous : six mois communs, puis service civil de douze mois ou militaire de six mois.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », réforme 03 L'Extérieur et la Défense", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Suppression de 267 taxes à faible ou sans rendement connu ; rétablissement de l'ISF.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », réforme 04 L'Économie", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Publication annuelle des revenus fiscaux de tous les citoyens, sur le modèle finlandais.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », réforme 04 L'Économie", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "travail",
+      "texte": "SMIC déconcentré, avec un seuil minimal national relevé à 1 500 euros net.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », réforme 04 L'Économie", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Fusion des caisses de retraite publiques et privées ; alignement des régimes et des taux de cotisation.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », réforme 14 L'Administration et le Politique", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "RSA attribué automatiquement et étendu aux jeunes dès 18 ans, sans condition de ressources, s'ils quittent le foyer fiscal familial.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », réforme 04 L'Économie (Social)", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Gratuité réelle des études universitaires pour tout résident français ; intégration des grandes écoles dans des pôles universitaires.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », réforme 06 L'Instruction", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Fin de la tarification à l'acte à l'hôpital ; suppression d'un quart à la moitié des postes d'encadrement administratif hospitalier.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », réforme 07 La Santé", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Construction de 14 réacteurs EPR 2 ; sortie du marché européen de l'électricité et nationalisation de la distribution d'électricité.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », réforme 12 L'Énergie, l'Écologie et les Logements", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Suppression des APL et autres aides au logement ; création d'une garantie universelle des loyers ; abrogation de la loi ELAN.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », réforme 12 L'Énergie, l'Écologie et les Logements", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Moratoire et restructuration de la dette des agriculteurs ; alignement de leurs droits assurantiels sur ceux des salariés du régime général.",
+      "nature": "programme",
+      "source": { "titre": "Les Ruches, « La Voie », réforme 10 L'Agriculture, le Vivant et la Mer", "url": "https://ruches.org/le-projet", "date": "2026-09-22" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Sud Radio – L'avocat Juan Branco, candidat à la présidentielle (invité d'André Bercoff)", "url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle", "type": "video", "date": "2025-12-19" },
+    { "titre": "Les Ruches – site du mouvement de soutien", "url": "https://ruches.org/", "type": "site", "date": "2026-09-22" }
+  ],
+  "a_verifier": [
+    "Date de publication du programme « La Voie » sur ruches.org non indiquée sur la page ; date de consultation retenue. Un PDF du projet est proposé au téléchargement (non ouvert).",
+    "Sud Radio (19/12/2025) évoque « plus de 300 propositions » ; la page ruches.org consultée le 22/09/2026 annonce 845 mesures."
+  ]
+}

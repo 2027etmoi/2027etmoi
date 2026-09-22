@@ -112,10 +112,11 @@
     { "titre": "Annonce de candidature au 20 h de TF1 (compte rendu franceinfo)", "url": "https://www.franceinfo.fr/elections/presidentielle/le-communiste-fabien-roussel-officialise-sa-candidature-a-l-election-presidentielle-de-2027-pour-defendre-un-projet-de-rupture_8179856.html", "type": "article", "date": "2026-09-06" }
   ],
   "a_verifier": [
-    "SMIC à 1 700 euros net et hausse de 5 % de tous les salaires : chiffres vus uniquement sur un site non reconnu (bdor.fr / agrégateurs), non confirmés par une source primaire ou un média reconnu.",
-    "Retraite à 60 ans et semaine de 32 heures : attribuées par des agrégateurs (elyseescope), non confirmées pour 2027.",
+    "SMIC à 1 700 euros net et hausse de 5 % de tous les salaires : toujours non confirmés (recherche du 22/09/2026). Le discours de la Fête de l'Humanité 2026 constate un « SMIC à 1 420 € net » insuffisant et réclame des « hausses de salaires » sans chiffre ; le site de campagne ne donne aucun chiffre. Les montants trouvés dans la presse (1 500 €, 1 800 €) datent de la campagne 2022 ou d'avant.",
+    "Retraite à 60 ans et semaine de 32 heures : non confirmées pour 2027. LCP (16/09/2026) indique que Roussel « n'a pas encore dévoilé son programme en matière de retraites » et qu'il défendait la retraite à 60 ans à taux plein en 2022 ; le discours de la Fête de l'Humanité 2026 n'évoque ni l'âge de départ ni les 32 heures.",
     "Plan climat « Empreinte 2050 » du PCF (2023 : prolongation des réacteurs, 20 EPR2, 12 SMR) : document antérieur à 2025 ; la lettre de 2026 renvoie à « notre Plan Climat » sans en reprendre les chiffres.",
     "Article CNews du 03/09/2026 sur la consultation des militants : 403, non consulté.",
-    "Dates des PDF de campagne déduites des horodatages des fichiers (21/09/2026)."
+    "Dates des PDF de campagne déduites des horodatages des fichiers (21/09/2026).",
+    "Indexation des salaires sur les prix : présentée par Ian Brossat, directeur de campagne, sur franceinfo (07/09/2026), pas par le candidat lui-même ; à confirmer par un document de campagne."
   ]
 }

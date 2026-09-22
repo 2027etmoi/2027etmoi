@@ -13,37 +13,153 @@
   "presentation": {
     "texte": "Xavier Bertrand est un homme politique français, président du conseil régional des Hauts-de-France depuis 2016. Il a été plusieurs fois ministre de la Santé et du Travail entre 2004 et 2012 et secrétaire général de l'UMP. Il a annoncé le 27 août 2026 qu'il serait candidat à l'élection présidentielle de 2027, en candidat indépendant, soutenu par son mouvement Nous France.",
     "sources": [
-      { "titre": "Xavier Bertrand — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" },
-      { "titre": "Xavier Bertrand déclare qu'il « sera » candidat à l'élection présidentielle (franceinfo)", "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html", "date": "2026-08-27" }
+      {
+        "titre": "Xavier Bertrand — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+        "date": "2026-09-22"
+      },
+      {
+        "titre": "Xavier Bertrand déclare qu'il « sera » candidat à l'élection présidentielle (franceinfo)",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html",
+        "date": "2026-08-27"
+      }
     ]
   },
   "naissance": {
     "date": "1965-03-21",
     "lieu": "Châlons-sur-Marne (Marne)",
-    "source": { "titre": "Xavier Bertrand — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" }
+    "source": {
+      "titre": "Xavier Bertrand — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-22"
+    }
   },
   "parcours_politique": [
-    { "periode": "2026", "texte": "Déclare le 27 août 2026, à l'université d'été du Medef, qu'il sera candidat à l'élection présidentielle de 2027, en candidat indépendant.", "source": { "titre": "Xavier Bertrand déclare qu'il « sera » candidat à l'élection présidentielle (franceinfo)", "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html", "date": "2026-08-27" } },
-    { "periode": "2022-", "texte": "Fondateur du mouvement Nous France (annoncé en juillet 2022).", "source": { "titre": "Xavier Bertrand — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" } },
-    { "periode": "2021", "texte": "Candidat au congrès des Républicains pour la présidentielle 2022 : 22,36 % des voix, 4e, éliminé au premier tour.", "source": { "titre": "Xavier Bertrand — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" } },
-    { "periode": "2016-", "texte": "Président du conseil régional des Hauts-de-France (réélu le 2 juillet 2021).", "source": { "titre": "Xavier Bertrand — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" } },
-    { "periode": "2010-2016", "texte": "Maire de Saint-Quentin (Aisne).", "source": { "titre": "Xavier Bertrand — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" } },
-    { "periode": "2010-2012", "texte": "Ministre du Travail, de l'Emploi et de la Santé.", "source": { "titre": "Xavier Bertrand — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" } },
-    { "periode": "2009-2010", "texte": "Secrétaire général de l'UMP.", "source": { "titre": "Xavier Bertrand — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" } },
-    { "periode": "2007-2009", "texte": "Ministre du Travail et des Relations sociales.", "source": { "titre": "Xavier Bertrand — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" } },
-    { "periode": "2004-2007", "texte": "Secrétaire d'État à l'Assurance maladie (2004-2005), puis ministre de la Santé et des Solidarités (2005-2007).", "source": { "titre": "Xavier Bertrand — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" } },
-    { "periode": "2002-2016", "texte": "Député de la 2e circonscription de l'Aisne (2002-2004, 2007, 2009-2010, 2012-2016), mandat interrompu par ses fonctions gouvernementales.", "source": { "titre": "Xavier Bertrand — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" } }
+    {
+      "periode": "2026",
+      "texte": "Déclare le 27 août 2026, à l'université d'été du Medef, qu'il sera candidat à l'élection présidentielle de 2027, en candidat indépendant, alors que son parti Les Républicains a investi Bruno Retailleau.",
+      "source": {
+        "titre": "Xavier Bertrand déclare qu'il « sera » candidat à l'élection présidentielle (franceinfo)",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html",
+        "date": "2026-08-27"
+      }
+    },
+    {
+      "periode": "2022-",
+      "texte": "Fondateur du mouvement Nous France (annoncé en juillet 2022).",
+      "source": {
+        "titre": "Xavier Bertrand — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2021",
+      "texte": "Candidat au congrès des Républicains pour la présidentielle 2022 : 22,36 % des voix, 4e, éliminé au premier tour.",
+      "source": {
+        "titre": "Xavier Bertrand — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2016-",
+      "texte": "Président du conseil régional des Hauts-de-France (réélu le 2 juillet 2021).",
+      "source": {
+        "titre": "Xavier Bertrand — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2010-2016",
+      "texte": "Maire de Saint-Quentin (Aisne).",
+      "source": {
+        "titre": "Xavier Bertrand — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2010-2012",
+      "texte": "Ministre du Travail, de l'Emploi et de la Santé.",
+      "source": {
+        "titre": "Xavier Bertrand — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2009-2010",
+      "texte": "Secrétaire général de l'UMP.",
+      "source": {
+        "titre": "Xavier Bertrand — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2007-2009",
+      "texte": "Ministre du Travail et des Relations sociales.",
+      "source": {
+        "titre": "Xavier Bertrand — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2004-2007",
+      "texte": "Secrétaire d'État à l'Assurance maladie (2004-2005), puis ministre de la Santé et des Solidarités (2005-2007).",
+      "source": {
+        "titre": "Xavier Bertrand — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2002-2016",
+      "texte": "Député de la 2e circonscription de l'Aisne (2002-2004, 2007, 2009-2010, 2012-2016), mandat interrompu par ses fonctions gouvernementales.",
+      "source": {
+        "titre": "Xavier Bertrand — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+        "date": "2026-09-22"
+      }
+    }
   ],
   "parcours_professionnel": [
-    { "periode": "", "texte": "Maîtrise de droit public et DESS d'administration locale (université de Reims Champagne-Ardenne).", "source": { "titre": "Xavier Bertrand — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" } },
-    { "periode": "1987-1992", "texte": "Assistant parlementaire du sénateur Jacques Braconnier.", "source": { "titre": "Xavier Bertrand — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" } },
-    { "periode": "1992-2004", "texte": "Agent général d'assurances (groupes AXA et Swiss Life).", "source": { "titre": "Xavier Bertrand — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand", "date": "2026-09-22" } }
+    {
+      "periode": "",
+      "texte": "Maîtrise de droit public et DESS d'administration locale (université de Reims Champagne-Ardenne).",
+      "source": {
+        "titre": "Xavier Bertrand — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1987-1992",
+      "texte": "Assistant parlementaire du sénateur Jacques Braconnier.",
+      "source": {
+        "titre": "Xavier Bertrand — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1992-2004",
+      "texte": "Agent général d'assurances (groupes AXA et Swiss Life).",
+      "source": {
+        "titre": "Xavier Bertrand — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+        "date": "2026-09-22"
+      }
+    }
   ],
   "affaires": [],
   "a_verifier": [
     "Photo : pas de portrait officiel libre trouvé (photo Commission européenne). Vignette 500px (400px refusée par Wikimedia), vérifiée HTTP 200.",
-    "Plainte en diffamation de Mediapart (propos du 6 juillet 2010 sur des « méthodes fascistes », affaire Bettencourt) : Xavier Bertrand a été mis en examen le 30 juin 2011 (procédure automatique en cas de plainte avec constitution de partie civile) puis renvoyé devant le tribunal correctionnel (Europe 1 : https://www.europe1.fr/politique/Diffamation-Xavier-Bertrand-mis-en-examen-586340 et https://www.europe1.fr/societe/Mediapart-Xavier-Bertrand-en-correctionnelle-709166, non ouverts). Issue de la procédure (jugement, relaxe, désistement) non trouvée : non publiée.",
-    "Appartenance partisane actuelle : Wikipédia indique LR (2015-2017, puis depuis 2021) et franceinfo (27/08/2026) le présente encore comme président LR de la région ; candidats.json indique « hors étiquette LR ». À clarifier.",
+    "Plainte en diffamation de Mediapart (propos du 6 juillet 2010 sur des « méthodes fascistes », affaire Bettencourt) : mis en examen le 30 juin 2011 (procédure automatique en cas de plainte avec constitution de partie civile), renvoyé devant le tribunal correctionnel, puis relaxé par le tribunal correctionnel de Paris le 26 mars 2013, l'expression n'ayant pas été jugée comme visant un fait précis ; Edwy Plenel a annoncé faire appel (Europe 1, 26/03/2013 : https://www.europe1.fr/societe/Justice-Bertrand-gagne-face-a-Mediapart-695230). Issue de l'appel non trouvée (recherche du 22/09/2026) : non publiée tant que l'état final n'est pas établi.",
+    "Appartenance partisane : franceinfo et LCP (27/08/2026) le présentent comme « président Les Républicains » de la région Hauts-de-France, LCP évoquant « son parti Les Républicains », qui a investi Bruno Retailleau ; il se déclare candidat indépendant. Il est donc toujours présenté comme membre de LR en août 2026. candidats.json indique « Nous France (indépendant) » : cohérent pour la candidature, mais à harmoniser si l'on veut mentionner LR.",
     "Wikipédia indique qu'il avait annoncé le 3 février 2024 son intention d'être candidat en 2027.",
     "Mediator : controverses sur son rôle de ministre de la Santé, sans procédure judiciaire le visant personnellement trouvée."
   ]

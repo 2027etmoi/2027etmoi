@@ -46,9 +46,15 @@
     },
     {
       "theme": "travail",
-      "texte": "Augmentation du Smic (montant non précisé).",
+      "texte": "Augmentation du SMIC (montant non précisé) et indexation des bas salaires sur l'inflation.",
+      "nature": "programme",
+      "source": { "titre": "« 21 priorités communes qui devraient pouvoir nous rassembler » (site de Marine Tondelier)", "url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain", "date": "2026-04-17" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Congé payé climatique de cinq jours par an pour faire face aux vagues de chaleur.",
       "nature": "presse",
-      "source": { "titre": "France 24 (AFP) – socle programmatique de 21 priorités", "url": "https://www.france24.com/fr/info-en-continu/20260417-pr%C3%A9sidentielle-tondelier-propose-un-socle-programmatique-aux-autres-partis-de-gauche", "date": "2026-04-17" }
+      "source": { "titre": "France 24 (AFP) – mesures de santé environnementale", "url": "https://www.france24.com/fr/info-en-continu/20260530-pr%C3%A9sidentielle-tondelier-d%C3%A9voile-ses-mesures-pour-la-sant%C3%A9-environnementale", "date": "2026-05-30" }
     },
     {
       "theme": "retraites",
@@ -67,6 +73,12 @@
       "texte": "Interdiction du secteur lucratif dans la protection de l'enfance et accompagnement financier des jeunes de l'ASE jusqu'à 25 ans.",
       "nature": "declaration",
       "source": { "titre": "franceinfo – « un pays à hauteur d'enfant »", "url": "https://www.franceinfo.fr/elections/presidentielle/pour-son-dernier-deplacement-avant-son-accouchement-marine-tondelier-veut-un-pays-a-hauteur-d-enfant_8197694.html", "date": "2026-09-17" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Sécurité sociale écologique, dont une sécurité sociale de l'alimentation.",
+      "nature": "programme",
+      "source": { "titre": "« 21 priorités communes qui devraient pouvoir nous rassembler » (site de Marine Tondelier)", "url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain", "date": "2026-04-17" }
     },
     {
       "theme": "sante",
@@ -129,10 +141,28 @@
       "source": { "titre": "ICI Nord – L'invité d'ICI Matin", "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-nord/presidentielle-marine-tondelier-presente-les-mesures-des-ecologistes-pour-la-protection-de-la-mer-et-des-littoraux-4088500", "date": "2026-09-15" }
     },
     {
-      "theme": "immigration",
-      "texte": "Régularisation des travailleurs sans-papiers.",
+      "theme": "ecologie",
+      "texte": "Création d'un « ticket climat » pour rendre les transports en commun accessibles financièrement.",
+      "nature": "programme",
+      "source": { "titre": "« 21 priorités communes qui devraient pouvoir nous rassembler » (site de Marine Tondelier)", "url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain", "date": "2026-04-17" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Sortie du nucléaire.",
       "nature": "presse",
-      "source": { "titre": "France 24 (AFP) – socle programmatique de 21 priorités", "url": "https://www.france24.com/fr/info-en-continu/20260417-pr%C3%A9sidentielle-tondelier-propose-un-socle-programmatique-aux-autres-partis-de-gauche", "date": "2026-04-17" }
+      "source": { "titre": "6Médias / L'Express (via Orange Actualités) – propositions des partis face au défi climatique", "url": "https://actu.orange.fr/politique/canicules-et-incendies-que-proposent-les-partis-face-au-defi-climatique-magic-CNT000002rrQux.html", "date": "2026-08-21" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Plan national d'adaptation au changement climatique doté de 7 milliards d'euros par an jusqu'en 2032.",
+      "nature": "presse",
+      "source": { "titre": "6Médias / L'Express (via Orange Actualités) – propositions des partis face au défi climatique", "url": "https://actu.orange.fr/politique/canicules-et-incendies-que-proposent-les-partis-face-au-defi-climatique-magic-CNT000002rrQux.html", "date": "2026-08-21" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Régularisation des travailleurs sans papiers et titres de séjour pluriannuels automatiquement renouvelables.",
+      "nature": "programme",
+      "source": { "titre": "« 21 priorités communes qui devraient pouvoir nous rassembler » (site de Marine Tondelier)", "url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain", "date": "2026-04-17" }
     },
     {
       "theme": "securite",
@@ -151,6 +181,12 @@
       "texte": "Déploiement de centres de prise en charge des victimes de violences sexuelles sur le modèle belge (approche médicale, psychologique et judiciaire).",
       "nature": "declaration",
       "source": { "titre": "franceinfo – « un pays à hauteur d'enfant »", "url": "https://www.franceinfo.fr/elections/presidentielle/pour-son-dernier-deplacement-avant-son-accouchement-marine-tondelier-veut-un-pays-a-hauteur-d-enfant_8197694.html", "date": "2026-09-17" }
+    },
+    {
+      "theme": "securite",
+      "texte": "3 milliards d'euros consacrés à la lutte contre les violences faites aux femmes et aux enfants.",
+      "nature": "programme",
+      "source": { "titre": "« 21 priorités communes qui devraient pouvoir nous rassembler » (site de Marine Tondelier)", "url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain", "date": "2026-04-17" }
     },
     {
       "theme": "international",
@@ -199,6 +235,12 @@
       "texte": "Interdiction aux très gros chalutiers de pêcher le long des côtes françaises et soutien à la pêche artisanale.",
       "nature": "declaration",
       "source": { "titre": "ICI Nord – L'invité d'ICI Matin", "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-nord/presidentielle-marine-tondelier-presente-les-mesures-des-ecologistes-pour-la-protection-de-la-mer-et-des-littoraux-4088500", "date": "2026-09-15" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Moratoire sur les projets de mégabassines.",
+      "nature": "presse",
+      "source": { "titre": "6Médias / L'Express (via Orange Actualités) – propositions des partis face au défi climatique", "url": "https://actu.orange.fr/politique/canicules-et-incendies-que-proposent-les-partis-face-au-defi-climatique-magic-CNT000002rrQux.html", "date": "2026-08-21" }
     }
   ],
   "ressources": [
@@ -208,10 +250,9 @@
     { "titre": "LCP – Candidature à la présidentielle : pas de choix définitif des Écologistes avant la mi-décembre", "url": "https://lcp.fr/actualites/candidature-a-la-presidentielle-pas-de-choix-definitif-des-ecologistes-avant-la-mi", "type": "article", "date": "2026-09-21" }
   ],
   "a_verifier": [
-    "Liste complète des 21 priorités (post X du 17/04/2026, https://x.com/marinetondelier/status/2045125213474430977, non consultable) : la première priorité mentionnerait l'« indexation des bas salaires », texte intégral non lu.",
-    "Page programme officielle (marinetondelier.fr/le-programme → lesecologistes.fr/share/page/…/projet) bloquée par Cloudflare (403) : contenu non vérifié.",
-    "Congé climatique de cinq jours payés par an : mentionné dans la dépêche AFP du 30/05/2026 comme proposé en mai 2026, attribution et formulation exactes à confirmer.",
-    "Taxe Zucman (2 % au-delà de 100 M€), ISF climatique à partir de 1,3 M€ avec bonus-malus selon le DPE, contribution climat-énergie à 56 €/t CO2, sortie progressive du nucléaire, neutralité carbone 2040 : relevés uniquement sur des agrégateurs ou médias non retenus, à confirmer par une source primaire ou un média reconnu.",
+    "Les 21 priorités (billet du 17/04/2026 sur marinetondelier.fr) ont été lues ; les priorités restantes sont des orientations non retenues comme mesures : réforme fiscale « mettant à contribution les ultra riches », investissements dans les renouvelables et l'isolation, renaissance industrielle, revenu digne des agriculteurs, plan national contre la solitude, gratuité étendue des musées nationaux et régime des intermittents, reconnaissance des aidants, lutte contre la concentration des médias, relance du Pacte vert européen, soin et enfance « secteurs non lucratifs » (déjà couvert par la mesure sur la protection de l'enfance).",
+    "Page programme officielle (557 propositions, lesecologistes.fr/share/page/6ImK65GKUnvibm33WGkjkj/projet) toujours bloquée (403) le 22/09/2026 : contenu non vérifié.",
+    "Taxe Zucman (2 % au-delà de 100 M€), seuil de 1,3 M€ et bonus-malus DPE de l'ISF climatique, contribution climat-énergie à 56 €/t CO2 : non confirmés comme mesures de la candidate pour 2027 (seuls des articles sur les débats budgétaires de 2025 mentionnent la taxe Zucman chez les Écologistes). Neutralité carbone : L'Express (21/08/2026) indique 2050, et non 2040. La sortie du nucléaire est confirmée par L'Express et publiée.",
     "« Garantir le droit au logement » et « agir contre les pollutions, pesticides et malbouffe » (AFP 17/04/2026) : orientations trop générales pour constituer des mesures.",
     "Droit aux vacances pour tous les enfants (franceinfo 17/09/2026) : formulation (« ouvrir la possibilité ») trop imprécise."
   ]

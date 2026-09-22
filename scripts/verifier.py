@@ -164,6 +164,47 @@ if sd:
             if total > 102:
                 warn(w, f"total des scores > 100 ({total:.1f}) dans « {h.get('label')} »")
 
+# --- candidatures (page Données)
+MODES = {"auto", "vote_militants", "instance_parti", "primaire_fermee", "primaire_ouverte", "autre"}
+cd = load(DATA / "candidatures.json") if (DATA / "candidatures.json").exists() else None
+for cid, k in ((cd or {}).get("candidatures") or {}).items():
+    w = f"candidatures/{cid}"
+    if cid not in ids:
+        err(w, "id absent de candidats.json")
+    if (k.get("declaration") or {}).get("date"):
+        check_source(f"{w} déclaration", k["declaration"].get("source"))
+    d = k.get("designation") or {}
+    if d.get("mode"):
+        if d["mode"] not in MODES:
+            err(w, f"mode de désignation inconnu {d['mode']!r}")
+        check_source(f"{w} désignation", d.get("source"))
+    for i, x in enumerate(k.get("precedentes") or []):
+        check_source(f"{w} présidentielle {x.get('annee')}", x.get("source"))
+    c = k.get("chiffrage") or {}
+    if c.get("publie") is not None:
+        check_source(f"{w} chiffrage", c.get("source"))
+
+# --- évaluations externes
+ev = load(DATA / "evaluations.json") if (DATA / "evaluations.json").exists() else None
+if ev:
+    insts = {i.get("id") for i in ev.get("institutions", [])}
+    for i in ev.get("institutions", []):
+        if not (i.get("orientation") or {}).get("texte"):
+            err(f"evaluations/{i.get('id')}", "institution sans orientation ni statut")
+        else:
+            check_source(f"evaluations/{i.get('id')} orientation", i["orientation"].get("source"))
+    for e in ev.get("evaluations", []):
+        w = f"evaluations/{e.get('titre', '?')[:40]}"
+        if e.get("institution") not in insts:
+            err(w, "institution inconnue")
+        if len(e.get("candidats") or []) < 2:
+            err(w, "évaluation d'un seul candidat (exclue par la méthode)")
+        for cid in e.get("candidats") or []:
+            if cid not in ids:
+                err(w, f"id inconnu {cid}")
+        if not str(e.get("url", "")).startswith("http"):
+            err(w, "URL manquante")
+
 # --- couverture
 manque_prog = sorted(en_lice - set(progs))
 manque_bio = sorted(en_lice - set(bios))

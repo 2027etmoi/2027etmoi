@@ -42,10 +42,10 @@
         "date": "2026-08-30"
       },
       "propositions": [
+        "Suspension du versement de dividendes pour toute entreprise qui ne s'engage pas dans sa propre transformation écologique.",
         "SMIC porté à 1 700 euros net.",
         "Âge de départ à la retraite à 62 ans.",
-        "Aucun budget, investissement ou aide publique en dehors des objectifs de protection de la biodiversité.",
-        "Régularisation des travailleurs sans papiers ; le chiffre de 500 000, cité en référence à l'Espagne, « ne (le) choque pas »."
+        "Création d'un grand service public de la lecture."
       ],
       "liens": {
         "campagne": "https://avecfaure2027.fr/",
@@ -71,7 +71,7 @@
         "Taxe sur les superprofits des multinationales pétrolières.",
         "Hausse de la rémunération nette des travailleurs, financée par une taxation accrue des « méga-héritages » (1 % les plus gros) : 15 milliards d'euros.",
         "Départ plus tôt pour les carrières les plus hachées et les métiers difficiles, plus tard pour ceux ayant une espérance de vie en bonne santé plus longue.",
-        "Plan de 5 ans pour l'école : hausse de la rémunération des enseignants, baisse des effectifs par classe en primaire, rénovation du bâti scolaire."
+        "Plan de 5 ans pour l'école : baisse des effectifs par classe en primaire, rénovation du bâti scolaire."
       ],
       "liens": {
         "campagne": "https://glucks2027.fr/",
@@ -117,6 +117,7 @@
         "date": "2026-07-10"
       },
       "propositions": [
+        "Retour de l'impôt de solidarité sur la fortune (ISF).",
         "Abaissement de la TVA sur les produits alimentaires français.",
         "Installation de caméras dans le périscolaire."
       ],
@@ -203,11 +204,11 @@
       "parti": "La Convention",
       "bloc": "gauche",
       "statut": "declare",
-      "statut_detail": "Le Monde rapporte qu'il s'est déclaré candidat dans un entretien au Parisien, après sa « Lettre aux Français » ; LCP le classe encore parmi les prétendants. Décline la primaire socialiste.",
+      "statut_detail": "A annoncé sa candidature dans un entretien au Figaro (28 avril 2026), puis publié une « Lettre aux Français » en juillet. ICI et LCP notent qu'il ne s'est pas formellement déclaré. Décline la primaire socialiste.",
       "source": {
-        "titre": "Le Monde",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/16/presidentielle-2027-bernard-cazeneuve-se-declare-candidat-dans-un-entretien-au-parisien-et-decline-la-primaire-socialiste_6723827_823448.html",
-        "date": "2026-07-16"
+        "titre": "Europe 1",
+        "url": "https://www.europe1.fr/politique/presidentielle-2027-bernard-cazeneuve-annonce-sa-candidature-le-barrage-a-jean-luc-melenchon-se-precise-929339",
+        "date": "2026-04-29"
       },
       "propositions": [
         "Baisse des impôts de production, financée par une réduction des aides fiscales, au bénéfice des ETI, PME et TPE.",
@@ -343,10 +344,10 @@
         "date": "2026-09-22"
       },
       "propositions": [
-        "Création d'un « ISF climatique ».",
-        "Augmentation du Smic (montant non précisé).",
-        "Retraite à 60 ans pour les salariés ayant commencé avant 20 ans ou exercé des métiers pénibles, à 62 ans pour les autres.",
-        "Interdiction des aliments ultratransformés dans les cantines et de la publicité télévisée pour les produits trop sucrés ou salés avant 21 h."
+        "Augmentation du SMIC (montant non précisé) et indexation des bas salaires sur l'inflation.",
+        "Sécurité sociale écologique, dont une sécurité sociale de l'alimentation.",
+        "Création d'un « ticket climat » pour rendre les transports en commun accessibles financièrement.",
+        "Régularisation des travailleurs sans papiers et titres de séjour pluriannuels automatiquement renouvelables."
       ],
       "liens": {
         "campagne": "https://www.marinetondelier.fr/",
@@ -629,7 +630,7 @@
     {
       "id": "bertrand",
       "nom": "Xavier Bertrand",
-      "parti": "Nous France (indépendant)",
+      "parti": "Les Républicains (candidat indépendant, Nous France)",
       "bloc": "droite",
       "statut": "declare",
       "statut_detail": "A annoncé qu’il « sera » candidat, en indépendant ; déclaration officielle repoussée à la fin de l’année. Refuse toute primaire.",
@@ -948,7 +949,12 @@
         "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-chanteur-francis-lalanne-officiellement-candidat-premier-meeting-vendredi-a-paris_8153588.html",
         "date": "2026-08-19"
       },
-      "propositions": [],
+      "propositions": [
+        "Sortie de l'Union européenne (« Frexit organisé ») pour retrouver la maîtrise des lois et des frontières.",
+        "Retour au franc et reprise en main de la Banque de France.",
+        "Fin du passe et des obligations médicales ; interdiction constitutionnelle de toute discrimination fondée sur le statut médical.",
+        "Inscription dans la Constitution du référendum d'initiative citoyenne (RIC) en toutes matières ; création d'une assemblée constituante."
+      ],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Francis_Lalanne"
       }
@@ -966,8 +972,10 @@
         "date": "2025-12-19"
       },
       "propositions": [
-        "Préparer la sortie de l'Union européenne",
-        "Référendum d'initiative citoyenne et mandat révocatoire des élus"
+        "Référendum (article 11) sur la sortie de l'Union européenne, de l'euro, du Conseil de l'Europe et/ou de l'espace Schengen.",
+        "Référendum d'initiative citoyenne en toutes matières et mandat révocable à toutes les échelles.",
+        "Suppression des régions et des intercommunalités ; retour au duo commune-département comme unité territoriale de base.",
+        "Création d'un Procureur de la nation élu, chargé de la politique des poursuites ; élection et révocation des magistrats inscrites dans la Constitution."
       ],
       "liens": {
         "campagne": "https://ruches.org/",
@@ -977,7 +985,7 @@
     {
       "id": "durif",
       "nom": "Sylvain Durif",
-      "parti": "Non précisé",
+      "parti": "Sans parti",
       "bloc": "autre",
       "statut": "declare",
       "statut_detail": "Vidéaste. Candidature annoncée fin août 2026. Déjà candidat déclaré en 2017.",
@@ -1003,7 +1011,10 @@
         "url": "https://jhm.fr/sous-la-banniere-dequinoxe-antoine-mikolajczak-brigue-la-presidence-de-la-republique/",
         "date": "2026-07-12"
       },
-      "propositions": [],
+      "propositions": [
+        "Création d'un « défenseur de la santé », autorité indépendante chargée d'évaluer l'impact sanitaire des lois et des politiques publiques.",
+        "Renforcement du droit à l'expérimentation locale des collectivités, dont les réussites pourraient être répliquées ailleurs."
+      ],
       "liens": {
         "parti": "https://parti-equinoxe.fr/",
         "programme": "https://parti-equinoxe.fr/presidentielle-2027/"
@@ -1021,7 +1032,11 @@
         "url": "https://www.letelegramme.fr/morbihan/pontivy-56300/la-pontivyenne-lydie-massard-candidate-a-la-primaire-de-la-gauche-pour-la-prochaine-presidentielle-7017809.php",
         "date": "2026-04-02"
       },
-      "propositions": [],
+      "propositions": [
+        "Passage à une République fédérale : les territoires pourraient voter des lois dans certains domaines et disposeraient de ressources fiscales adaptées.",
+        "Majoration de la taxe d'habitation sur les résidences secondaires ouverte à toutes les communes, déplafonnée et progressive.",
+        "Fin de la possibilité pour l'État d'annuler des décisions locales prises dans le respect des règles, notamment en matière de protection de l'eau."
+      ],
       "liens": {
         "parti": "https://www.udb.bzh/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Lydie_Massard"

@@ -1,0 +1,63 @@
+{
+  "id": "massard",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Prises de position de candidature (communiqués UDB)",
+    "url": "https://www.udb.bzh/non-classifiee/lydie-massard-candidate-aux-primaires-de-la-gauche/",
+    "etat": "partiel",
+    "note": "Pas de programme présidentiel complet publié au 22/09/2026 ; le site de l'UDB publie sa déclaration de candidature à la primaire de la gauche (avril 2026) et des communiqués thématiques (logement, eau)."
+  },
+  "reperes": [
+    {
+      "texte": "Membre de l'Union démocratique bretonne (UDB) depuis 2015 ; députée européenne (groupe Verts/ALE) de septembre 2023 à juillet 2024.",
+      "source": { "titre": "Wikipédia – Lydie Massard", "url": "https://fr.wikipedia.org/wiki/Lydie_Massard", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Cuisinière dans un lycée en Bretagne après son mandat européen.",
+      "source": { "titre": "UDB – Lydie Massard : candidate aux primaires de la gauche", "url": "https://www.udb.bzh/non-classifiee/lydie-massard-candidate-aux-primaires-de-la-gauche/", "date": "2026-04-07" }
+    },
+    {
+      "texte": "Candidate déclarée à la primaire de la gauche le 2 avril 2026.",
+      "source": { "titre": "Le Télégramme – La Pontivyenne Lydie Massard candidate à la primaire de la gauche", "url": "https://www.letelegramme.fr/morbihan/pontivy-56300/la-pontivyenne-lydie-massard-candidate-a-la-primaire-de-la-gauche-pour-la-prochaine-presidentielle-7017809.php", "date": "2026-04-02" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "institutions",
+      "texte": "Passage à une République fédérale : les territoires pourraient voter des lois dans certains domaines et disposeraient de ressources fiscales adaptées.",
+      "nature": "programme",
+      "source": { "titre": "UDB – Lydie Massard : candidate aux primaires de la gauche", "url": "https://www.udb.bzh/non-classifiee/lydie-massard-candidate-aux-primaires-de-la-gauche/", "date": "2026-04-07" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Majoration de la taxe d'habitation sur les résidences secondaires ouverte à toutes les communes, déplafonnée et progressive.",
+      "nature": "programme",
+      "source": { "titre": "UDB – Crise du logement : Lydie Massard, candidate aux primaires de la gauche, prend position", "url": "https://www.udb.bzh/non-classifiee/communiques/crise-du-logement-lydie-massard-candidate-aux-primaires-de-la-gauche-prend-position/", "date": "2026-04-09" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Servitudes de résidence principale ouvertes à toutes les communes et intercommunalités ; expérimentation d'un statut de résident principal.",
+      "nature": "programme",
+      "source": { "titre": "UDB – Crise du logement : Lydie Massard, candidate aux primaires de la gauche, prend position", "url": "https://www.udb.bzh/non-classifiee/communiques/crise-du-logement-lydie-massard-candidate-aux-primaires-de-la-gauche-prend-position/", "date": "2026-04-09" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Affectation des droits de succession sur les logements à la rénovation thermique, à la réhabilitation et au logement social.",
+      "nature": "programme",
+      "source": { "titre": "UDB – Crise du logement : Lydie Massard, candidate aux primaires de la gauche, prend position", "url": "https://www.udb.bzh/non-classifiee/communiques/crise-du-logement-lydie-massard-candidate-aux-primaires-de-la-gauche-prend-position/", "date": "2026-04-09" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Fin de la possibilité pour l'État d'annuler des décisions locales prises dans le respect des règles, notamment en matière de protection de l'eau.",
+      "nature": "programme",
+      "source": { "titre": "UDB – Lydie Massard 2027 (tribune sur la politique de l'eau)", "url": "https://www.udb.bzh/non-classifiee/communiques/lydie-massard-2027/", "date": "2026-05-06" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Le Télégramme – La Pontivyenne Lydie Massard candidate à la primaire de la gauche", "url": "https://www.letelegramme.fr/morbihan/pontivy-56300/la-pontivyenne-lydie-massard-candidate-a-la-primaire-de-la-gauche-pour-la-prochaine-presidentielle-7017809.php", "type": "article", "date": "2026-04-02" }
+  ],
+  "a_verifier": [
+    "Maintien de la candidature hors primaire : aucune source ouverte trouvée. Un titre de presse repris par un agrégateur (« Le PS et Place publique l'ont enterrée » : la cantinière pontivyenne…) laisse entendre un retrait après le recentrage de la primaire ; l'article d'origine n'a pas été identifié ni ouvert.",
+    "Article du Télégramme du 2/04/2026 : seul le titre est accessible (article réservé aux abonnés) ; il confirme la candidature à la primaire."
+  ]
+}

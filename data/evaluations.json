@@ -1,0 +1,56 @@
+{
+  "mise_a_jour": "2026-09-22",
+  "institutions": [
+    {
+      "id": "ifrap",
+      "nom": "Fondation iFRAP",
+      "presentation": "Fondation pour la recherche sur les administrations et les politiques publiques, créée en 1985 sous forme d'association et reconnue d'utilité publique en 2009. Elle publie des études sur l'efficacité des politiques publiques.",
+      "orientation": {
+        "texte": "Généralement classée libérale ; elle défend la réduction de la dépense publique et la réforme de l'État, et se présente comme apolitique.",
+        "source": {
+          "titre": "Fondation pour la recherche sur les administrations et les politiques publiques — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Fondation_pour_la_recherche_sur_les_administrations_et_les_politiques_publiques",
+          "date": "2026-09-22"
+        }
+      },
+      "url": "https://www.ifrap.org/"
+    }
+  ],
+  "evaluations": [
+    {
+      "institution": "ifrap",
+      "titre": "Présidentielles 2027 : comparateur de programmes",
+      "url": "https://www.ifrap.org/comparateurs/presidentielles-2027",
+      "date": null,
+      "methode": "Recensement des propositions des candidats classées selon une grille commune de thèmes et sous-thèmes, avec la mention « Proposition non encore connue » lorsqu'un candidat ne s'est pas prononcé.",
+      "candidats": [
+        "arthaud",
+        "attal",
+        "bertrand",
+        "brun",
+        "cazeneuve",
+        "dupont-aignan",
+        "faure",
+        "glucksmann",
+        "hollande",
+        "le-pen",
+        "lisnard",
+        "melenchon",
+        "philippe",
+        "retailleau",
+        "roussel",
+        "royal",
+        "ruffin",
+        "tondelier",
+        "zemmour"
+      ],
+      "liens_par_candidat": {}
+    }
+  ],
+  "a_verifier": [
+    "iFRAP : date de mise en ligne du comparateur non indiquée sur la page (outil mis à jour en continu) ; liste des candidats relevée le 2026-09-22. Le comparateur contient aussi une colonne « Parti socialiste », non reprise car ce n'est pas un candidat.",
+    "Institut Montaigne : réalise traditionnellement un chiffrage des programmes présidentiels (2012, 2017, 2022, avec Les Echos). Aucune page de chiffrage 2027 n'a pu être vérifiée au 2026-09-22 (site inaccessible en lecture automatique, erreur 403). À vérifier : https://www.institutmontaigne.org/",
+    "I4CE : a annoncé le 11/09/2026 une série « Climat & présidentielles 2027 » (https://www.i4ce.org/climat-presidentielle-questions-debat/). Au 2026-09-22, il s'agit d'analyses thématiques qui ne portent pas sur des candidats nommés ; une éventuelle analyse des programmes est à surveiller.",
+    "Réseau Action Climat : avait publié en 2022 une analyse commune des programmes des candidats sur le climat (https://reseauactionclimat.org/presidentielle-candidats-climat/). Aucune édition 2027 trouvée au 2026-09-22."
+  ]
+}

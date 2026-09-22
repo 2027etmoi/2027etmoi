@@ -51,8 +51,14 @@
       "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann", "date": "2026-08-24" }
     },
     {
+      "theme": "retraites",
+      "texte": "Abrogation de la réforme des retraites de 2023, avec une meilleure prise en compte de la pénibilité.",
+      "nature": "presse",
+      "source": { "titre": "LCP – Que proposent les candidats sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751", "date": "2026-09-16" }
+    },
+    {
       "theme": "education",
-      "texte": "Plan de 5 ans pour l'école : hausse de la rémunération des enseignants, baisse des effectifs par classe en primaire, rénovation du bâti scolaire.",
+      "texte": "Plan de 5 ans pour l'école : baisse des effectifs par classe en primaire, rénovation du bâti scolaire.",
       "nature": "declaration",
       "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann", "date": "2026-08-24" }
     },
@@ -67,6 +73,18 @@
       "texte": "Relance des colonies de vacances : un séjour collectif garanti à chaque enfant.",
       "nature": "declaration",
       "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann", "date": "2026-08-24" }
+    },
+    {
+      "theme": "education",
+      "texte": "Hausse de 10 % du salaire de tous les enseignants, puis hausse graduelle selon la carrière (jusqu'à 25 % en milieu de carrière dans le primaire) ; coût estimé à 6 Md€.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/le-candidat-a-l-election-presidentielle-raphael-glucksmann-veut-augmenter-de-10-les-salaires-de-tous-les-enseignants_8169542.html", "date": "2026-08-30" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "10 milliards d'euros pour un leasing social permettant aux Français qui en ont besoin d'accéder à une voiture électrique.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/politique/presidentielle-2027-la-malediction-de-la-gauche-c-est-de-ne-parler-qu-a-la-gauche-estime-raphael-glucksmann_7986686.html", "date": "2026-05-06" }
     },
     {
       "theme": "immigration",
@@ -96,10 +114,10 @@
     { "titre": "France 24 : ce qu'il faut savoir sur la primaire (dates, débats)", "url": "https://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal", "type": "article", "date": "2026-09-16" }
   ],
   "a_verifier": [
-    "Investissement public vert de 100 Md€ sur 10 ans : trouvé uniquement sur des agrégateurs non admis ; aucune source primaire ou média reconnu ouvert.",
-    "Hausse de 10 % du salaire des enseignants : mentionnée dans un article connexe de franceinfo non ouvert.",
-    "Leasing social pour véhicules électriques et chèque carburant pour « 10 millions de ménages » : non présents dans l'article franceinfo du 21/09/2026.",
+    "Investissement public vert de 100 Md€ sur 10 ans : toujours trouvé uniquement sur des agrégateurs non admis (recherche du 22/09/2026). Dans l'entretien franceinfo du 06/05/2026, le chiffre de 100 Md€ désigne les sommes dépensées en 2021-2022 pour subventionner le gaz et le pétrole, pas un plan d'investissement.",
+    "Chèque carburant pour « 10 millions de ménages » : non présent dans l'article franceinfo du 21/09/2026. (Le leasing social à 10 Md€ est confirmé par franceinfo, 06/05/2026, et publié.)",
     "« 100 jours de révolution écologique » (avec Yannick Jadot) : évoqués (franceinfo, 18/09/2026) sans mesure précise.",
-    "Extension de la dissuasion nucléaire française aux pays européens et fonds de défense européen de 500 Md€ : lus uniquement dans des résumés de recherche, non vérifiés."
+    "Extension de la dissuasion nucléaire française aux pays européens et fonds de défense européen de 500 Md€ : non confirmés pour 2027. Des vidéos antérieures (Orange Actualités, non datées ici) le montrent refusant tout « partage » de la décision nucléaire, et appelant à un « grand emprunt collectif européen de 500 milliards d'euros » pour le soutien militaire à l'Ukraine ; pas de source de campagne 2026 trouvée.",
+    "Premier débat télévisé de la primaire « Choisir 2027 » prévu le 23/09/2026 (LCI) : pas encore eu lieu au 22/09/2026, à suivre."
   ]
 }

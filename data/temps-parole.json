@@ -1,0 +1,831 @@
+{
+  "mise_a_jour": "2026-09-22",
+  "source": {
+    "titre": "Arcom — relevés des temps de parole hors périodes électorales",
+    "url": "https://www.arcom.fr/temps-parole/hors-elections/recherche/source/2026",
+    "date": "2026-09-09"
+  },
+  "fichiers": [
+    {
+      "mois": "2026-01",
+      "url": "https://www.arcom.fr/sites/default/files/tphe/files/speaking_time_files/Export_web_Personnalites_avec_seuil_01-01-2026_31-01-2026.csv",
+      "publie_le": "2026-05-05"
+    },
+    {
+      "mois": "2026-02",
+      "url": "https://www.arcom.fr/sites/default/files/tphe/files/speaking_time_files/Export_web_Personnalites_avec_seuil_01-02-2026_28-02-2026.csv",
+      "publie_le": "2026-09-09"
+    },
+    {
+      "mois": "2026-03",
+      "url": "https://www.arcom.fr/sites/default/files/tphe/files/speaking_time_files/Export_web_Personnalites_avec_seuil_01-03-2026_31-03-2026.csv",
+      "publie_le": "2026-05-27"
+    },
+    {
+      "mois": "2026-04",
+      "url": "https://www.arcom.fr/sites/default/files/tphe/files/speaking_time_files/Export_web_Personnalites_avec_seuil_01-04-2026_30-04-2026.csv",
+      "publie_le": "2026-07-06"
+    },
+    {
+      "mois": "2026-05",
+      "url": "https://www.arcom.fr/sites/default/files/tphe/files/speaking_time_files/Export_web_Personnalites_avec_seuil_01-05-2026_31-05-2026.csv",
+      "publie_le": "2026-07-29"
+    },
+    {
+      "mois": "2026-06",
+      "url": "https://www.arcom.fr/sites/default/files/tphe/files/speaking_time_files/Export_web_Personnalites_avec_seuil_01-06-2026_30-06-2026.csv",
+      "publie_le": "2026-09-09"
+    }
+  ],
+  "mesure": "Temps de parole (seule mesure des fichiers Arcom hors période électorale), en minutes : somme de toutes les durées affichées pour la personnalité dans le fichier « Temps de parole des personnalités politiques » du mois, sur les 24 services relevés (TV : TF1, France 2, France 3, France 5, M6, TMC, T18, Novo19, RMC Life, RMC Découverte, RMC Story, BFMTV, CNews, LCI, franceinfo: ; radio : France Info, France Culture, France Inter, Radio Classique, BFM Business, RMC, RTL, Europe 1, Sud Radio) et les trois types d'émission (JTF, MAG, PROG). tv = chaînes généralistes + chaînes d'information ; radio = radios ; total = tv + radio.",
+  "mois": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+  ],
+  "candidats": {
+    "melenchon": {
+      "nom_arcom": "MELENCHON Jean-Luc / MELENCHON JEAN LUC",
+      "par_mois": {
+        "2026-01": {
+          "tv": 79.5,
+          "radio": 313.7,
+          "total": 393.2
+        },
+        "2026-02": {
+          "tv": 227.4,
+          "radio": 59.8,
+          "total": 287.2
+        },
+        "2026-03": {
+          "tv": 28.1,
+          "radio": 14.8,
+          "total": 43.0
+        },
+        "2026-04": {
+          "tv": 26.3,
+          "radio": 2.6,
+          "total": 28.9
+        },
+        "2026-05": {
+          "tv": 334.9,
+          "radio": 99.6,
+          "total": 434.4
+        },
+        "2026-06": {
+          "tv": 180.6,
+          "radio": 46.2,
+          "total": 226.8
+        }
+      }
+    },
+    "faure": {
+      "nom_arcom": "FAURE Olivier / FAURE OLIVIER",
+      "par_mois": {
+        "2026-01": {
+          "tv": 56.9,
+          "radio": 17.0,
+          "total": 73.9
+        },
+        "2026-02": {
+          "tv": 58.6,
+          "radio": 8.0,
+          "total": 66.6
+        },
+        "2026-03": {
+          "tv": 98.5,
+          "radio": 106.3,
+          "total": 204.8
+        },
+        "2026-04": {
+          "tv": 64.6,
+          "radio": 56.6,
+          "total": 121.2
+        },
+        "2026-05": {
+          "tv": 47.0,
+          "radio": 54.3,
+          "total": 101.3
+        },
+        "2026-06": {
+          "tv": 16.1,
+          "radio": 36.9,
+          "total": 52.9
+        }
+      }
+    },
+    "glucksmann": {
+      "nom_arcom": "GLUCKSMANN Raphaël",
+      "par_mois": {
+        "2026-01": {
+          "tv": 89.4,
+          "radio": 69.5,
+          "total": 158.8
+        },
+        "2026-02": {
+          "tv": 25.0,
+          "radio": 30.9,
+          "total": 55.9
+        },
+        "2026-03": {
+          "tv": 23.4,
+          "radio": 10.6,
+          "total": 34.0
+        },
+        "2026-04": {
+          "tv": 7.5,
+          "radio": null,
+          "total": 7.5
+        },
+        "2026-05": {
+          "tv": 35.0,
+          "radio": 19.5,
+          "total": 54.5
+        },
+        "2026-06": {
+          "tv": 60.9,
+          "radio": 30.7,
+          "total": 91.6
+        }
+      }
+    },
+    "guedj": {
+      "nom_arcom": "GUEDJ Jérôme",
+      "par_mois": {
+        "2026-01": {
+          "tv": 88.0,
+          "radio": 83.9,
+          "total": 171.9
+        },
+        "2026-02": {
+          "tv": 204.8,
+          "radio": 85.4,
+          "total": 290.2
+        },
+        "2026-03": {
+          "tv": 71.4,
+          "radio": 16.6,
+          "total": 88.0
+        },
+        "2026-04": {
+          "tv": 53.9,
+          "radio": 56.4,
+          "total": 110.3
+        },
+        "2026-05": {
+          "tv": 103.6,
+          "radio": 33.0,
+          "total": 136.7
+        },
+        "2026-06": {
+          "tv": 54.7,
+          "radio": null,
+          "total": 54.7
+        }
+      }
+    },
+    "royal": {
+      "nom_arcom": "ROYAL Ségolène",
+      "par_mois": {
+        "2026-01": {
+          "tv": 44.1,
+          "radio": 8.1,
+          "total": 52.2
+        },
+        "2026-02": {
+          "tv": 10.8,
+          "radio": null,
+          "total": 10.8
+        },
+        "2026-04": {
+          "tv": 15.2,
+          "radio": 2.7,
+          "total": 17.9
+        },
+        "2026-05": {
+          "tv": 2.0,
+          "radio": 20.5,
+          "total": 22.6
+        }
+      }
+    },
+    "roussel": {
+      "nom_arcom": "ROUSSEL Fabien",
+      "par_mois": {
+        "2026-01": {
+          "tv": 10.6,
+          "radio": 96.2,
+          "total": 106.8
+        },
+        "2026-02": {
+          "tv": null,
+          "radio": 3.4,
+          "total": 3.4
+        },
+        "2026-03": {
+          "tv": null,
+          "radio": 34.9,
+          "total": 34.9
+        },
+        "2026-04": {
+          "tv": 106.2,
+          "radio": 45.3,
+          "total": 151.5
+        },
+        "2026-05": {
+          "tv": 20.7,
+          "radio": null,
+          "total": 20.7
+        },
+        "2026-06": {
+          "tv": 95.7,
+          "radio": 33.2,
+          "total": 128.9
+        }
+      }
+    },
+    "ruffin": {
+      "nom_arcom": "RUFFIN François",
+      "par_mois": {
+        "2026-01": {
+          "tv": 54.6,
+          "radio": 17.2,
+          "total": 71.8
+        },
+        "2026-02": {
+          "tv": 21.4,
+          "radio": 19.1,
+          "total": 40.5
+        },
+        "2026-03": {
+          "tv": 9.9,
+          "radio": null,
+          "total": 9.9
+        },
+        "2026-04": {
+          "tv": 8.6,
+          "radio": 26.7,
+          "total": 35.3
+        },
+        "2026-05": {
+          "tv": 79.5,
+          "radio": 95.1,
+          "total": 174.6
+        },
+        "2026-06": {
+          "tv": 60.9,
+          "radio": 18.9,
+          "total": 79.8
+        }
+      }
+    },
+    "cazeneuve": {
+      "nom_arcom": "CAZENEUVE Bernard",
+      "par_mois": {
+        "2026-01": {
+          "tv": 64.2,
+          "radio": 47.1,
+          "total": 111.2
+        },
+        "2026-02": {
+          "tv": 36.4,
+          "radio": 14.8,
+          "total": 51.3
+        },
+        "2026-03": {
+          "tv": 7.8,
+          "radio": null,
+          "total": 7.8
+        },
+        "2026-05": {
+          "tv": 1.1,
+          "radio": 16.6,
+          "total": 17.8
+        }
+      }
+    },
+    "bouamrane": {
+      "nom_arcom": "BOUAMRANE Karim",
+      "par_mois": {
+        "2026-03": {
+          "tv": 16.6,
+          "radio": 8.5,
+          "total": 25.1
+        },
+        "2026-04": {
+          "tv": 25.1,
+          "radio": 4.5,
+          "total": 29.5
+        },
+        "2026-05": {
+          "tv": 29.7,
+          "radio": 33.4,
+          "total": 63.0
+        },
+        "2026-06": {
+          "tv": 94.2,
+          "radio": 51.0,
+          "total": 145.2
+        }
+      }
+    },
+    "hollande": {
+      "nom_arcom": "HOLLANDE François",
+      "par_mois": {
+        "2026-01": {
+          "tv": 163.3,
+          "radio": 85.6,
+          "total": 249.0
+        },
+        "2026-02": {
+          "tv": 48.1,
+          "radio": 36.1,
+          "total": 84.2
+        },
+        "2026-03": {
+          "tv": 71.8,
+          "radio": 51.0,
+          "total": 122.8
+        },
+        "2026-04": {
+          "tv": 55.0,
+          "radio": 10.4,
+          "total": 65.4
+        },
+        "2026-05": {
+          "tv": 24.1,
+          "radio": null,
+          "total": 24.1
+        },
+        "2026-06": {
+          "tv": 18.7,
+          "radio": 11.2,
+          "total": 29.9
+        }
+      }
+    },
+    "arthaud": {
+      "nom_arcom": "ARTHAUD Nathalie",
+      "par_mois": {
+        "2026-01": {
+          "tv": 20.2,
+          "radio": null,
+          "total": 20.2
+        },
+        "2026-02": {
+          "tv": 11.5,
+          "radio": 1.4,
+          "total": 12.9
+        },
+        "2026-04": {
+          "tv": 14.2,
+          "radio": null,
+          "total": 14.2
+        },
+        "2026-05": {
+          "tv": 30.7,
+          "radio": null,
+          "total": 30.7
+        },
+        "2026-06": {
+          "tv": 4.5,
+          "radio": null,
+          "total": 4.5
+        }
+      }
+    },
+    "tondelier": {
+      "nom_arcom": "TONDELIER Marine",
+      "par_mois": {
+        "2026-01": {
+          "tv": 37.4,
+          "radio": 33.0,
+          "total": 70.4
+        },
+        "2026-02": {
+          "tv": 43.2,
+          "radio": 93.9,
+          "total": 137.1
+        },
+        "2026-03": {
+          "tv": 46.8,
+          "radio": 56.5,
+          "total": 103.3
+        },
+        "2026-04": {
+          "tv": 46.3,
+          "radio": 53.4,
+          "total": 99.7
+        },
+        "2026-05": {
+          "tv": 70.3,
+          "radio": 29.8,
+          "total": 100.1
+        },
+        "2026-06": {
+          "tv": 133.7,
+          "radio": 181.0,
+          "total": 314.7
+        }
+      }
+    },
+    "batho": {
+      "nom_arcom": "BATHO Delphine",
+      "par_mois": {
+        "2026-06": {
+          "tv": 28.9,
+          "radio": 23.1,
+          "total": 52.0
+        }
+      }
+    },
+    "philippe": {
+      "nom_arcom": "PHILIPPE Edouard / EDOUARD PHILIPPE",
+      "par_mois": {
+        "2026-01": {
+          "tv": 3.2,
+          "radio": 3.1,
+          "total": 6.2
+        },
+        "2026-02": {
+          "tv": 2.3,
+          "radio": null,
+          "total": 2.3
+        },
+        "2026-03": {
+          "tv": 56.3,
+          "radio": 10.0,
+          "total": 66.2
+        },
+        "2026-04": {
+          "tv": 1.0,
+          "radio": null,
+          "total": 1.0
+        },
+        "2026-05": {
+          "tv": 181.7,
+          "radio": 37.2,
+          "total": 218.9
+        },
+        "2026-06": {
+          "tv": 16.2,
+          "radio": 5.2,
+          "total": 21.4
+        }
+      }
+    },
+    "attal": {
+      "nom_arcom": "ATTAL Gabriel / ATTAL GABRIEL",
+      "par_mois": {
+        "2026-01": {
+          "tv": 115.3,
+          "radio": 166.2,
+          "total": 281.4
+        },
+        "2026-02": {
+          "tv": 12.6,
+          "radio": 19.4,
+          "total": 32.0
+        },
+        "2026-03": {
+          "tv": 122.6,
+          "radio": 207.6,
+          "total": 330.2
+        },
+        "2026-04": {
+          "tv": 144.6,
+          "radio": 66.6,
+          "total": 211.2
+        },
+        "2026-05": {
+          "tv": 449.6,
+          "radio": 227.4,
+          "total": 677.0
+        },
+        "2026-06": {
+          "tv": 286.0,
+          "radio": 68.5,
+          "total": 354.4
+        }
+      }
+    },
+    "villepin": {
+      "nom_arcom": "DE VILLEPIN Dominique",
+      "par_mois": {
+        "2026-01": {
+          "tv": 156.3,
+          "radio": 32.8,
+          "total": 189.1
+        },
+        "2026-02": {
+          "tv": 1.3,
+          "radio": null,
+          "total": 1.3
+        },
+        "2026-03": {
+          "tv": 85.6,
+          "radio": 69.8,
+          "total": 155.4
+        },
+        "2026-04": {
+          "tv": 169.9,
+          "radio": 17.8,
+          "total": 187.7
+        },
+        "2026-05": {
+          "tv": 118.4,
+          "radio": 46.1,
+          "total": 164.5
+        },
+        "2026-06": {
+          "tv": 87.6,
+          "radio": 16.8,
+          "total": 104.4
+        }
+      }
+    },
+    "le-maire": {
+      "nom_arcom": "LE MAIRE Bruno",
+      "par_mois": {
+        "2026-01": {
+          "tv": 1.8,
+          "radio": null,
+          "total": 1.8
+        },
+        "2026-04": {
+          "tv": 81.6,
+          "radio": 14.7,
+          "total": 96.3
+        },
+        "2026-05": {
+          "tv": 134.2,
+          "radio": 17.6,
+          "total": 151.8
+        },
+        "2026-06": {
+          "tv": 195.4,
+          "radio": 21.3,
+          "total": 216.7
+        }
+      }
+    },
+    "retailleau": {
+      "nom_arcom": "RETAILLEAU Bruno / RETAILLEAU BRUNO",
+      "par_mois": {
+        "2026-01": {
+          "tv": 71.2,
+          "radio": 44.3,
+          "total": 115.5
+        },
+        "2026-02": {
+          "tv": 160.3,
+          "radio": 48.2,
+          "total": 208.6
+        },
+        "2026-03": {
+          "tv": 89.3,
+          "radio": 46.1,
+          "total": 135.4
+        },
+        "2026-04": {
+          "tv": 103.8,
+          "radio": 68.6,
+          "total": 172.4
+        },
+        "2026-05": {
+          "tv": 37.5,
+          "radio": 48.1,
+          "total": 85.6
+        },
+        "2026-06": {
+          "tv": 323.0,
+          "radio": 69.4,
+          "total": 392.4
+        }
+      }
+    },
+    "lisnard": {
+      "nom_arcom": "LISNARD David",
+      "par_mois": {
+        "2026-01": {
+          "tv": 20.1,
+          "radio": 28.6,
+          "total": 48.7
+        },
+        "2026-03": {
+          "tv": 24.2,
+          "radio": 38.3,
+          "total": 62.5
+        },
+        "2026-04": {
+          "tv": 93.0,
+          "radio": 65.5,
+          "total": 158.5
+        },
+        "2026-05": {
+          "tv": 48.4,
+          "radio": 38.2,
+          "total": 86.6
+        },
+        "2026-06": {
+          "tv": 23.3,
+          "radio": 18.6,
+          "total": 42.0
+        }
+      }
+    },
+    "bertrand": {
+      "nom_arcom": "BERTRAND Xavier",
+      "par_mois": {
+        "2026-01": {
+          "tv": 30.2,
+          "radio": 12.0,
+          "total": 42.2
+        },
+        "2026-02": {
+          "tv": 58.8,
+          "radio": 34.9,
+          "total": 93.7
+        },
+        "2026-03": {
+          "tv": 6.1,
+          "radio": 9.6,
+          "total": 15.7
+        },
+        "2026-04": {
+          "tv": 1.6,
+          "radio": null,
+          "total": 1.6
+        },
+        "2026-05": {
+          "tv": 10.3,
+          "radio": null,
+          "total": 10.3
+        },
+        "2026-06": {
+          "tv": 39.3,
+          "radio": 1.6,
+          "total": 40.9
+        }
+      }
+    },
+    "le-pen": {
+      "nom_arcom": "LE PEN Marine",
+      "par_mois": {
+        "2026-01": {
+          "tv": 188.4,
+          "radio": 39.6,
+          "total": 228.0
+        },
+        "2026-02": {
+          "tv": 120.4,
+          "radio": 15.0,
+          "total": 135.5
+        },
+        "2026-03": {
+          "tv": 325.3,
+          "radio": 66.5,
+          "total": 391.8
+        },
+        "2026-04": {
+          "tv": 40.5,
+          "radio": 22.2,
+          "total": 62.8
+        },
+        "2026-05": {
+          "tv": 208.8,
+          "radio": 50.4,
+          "total": 259.1
+        },
+        "2026-06": {
+          "tv": 146.7,
+          "radio": 62.8,
+          "total": 209.5
+        }
+      }
+    },
+    "zemmour": {
+      "nom_arcom": "ZEMMOUR Eric",
+      "par_mois": {
+        "2026-01": {
+          "tv": 50.5,
+          "radio": null,
+          "total": 50.5
+        },
+        "2026-02": {
+          "tv": 34.2,
+          "radio": null,
+          "total": 34.2
+        },
+        "2026-03": {
+          "tv": null,
+          "radio": 3.2,
+          "total": 3.2
+        },
+        "2026-04": {
+          "tv": 37.7,
+          "radio": 4.8,
+          "total": 42.5
+        },
+        "2026-05": {
+          "tv": 87.3,
+          "radio": 110.2,
+          "total": 197.6
+        },
+        "2026-06": {
+          "tv": 88.4,
+          "radio": 33.0,
+          "total": 121.4
+        }
+      }
+    },
+    "dupont-aignan": {
+      "nom_arcom": "DUPONT-AIGNAN Nicolas",
+      "par_mois": {
+        "2026-01": {
+          "tv": 42.4,
+          "radio": 13.7,
+          "total": 56.0
+        },
+        "2026-02": {
+          "tv": 46.4,
+          "radio": null,
+          "total": 46.4
+        },
+        "2026-03": {
+          "tv": 41.9,
+          "radio": 15.7,
+          "total": 57.5
+        },
+        "2026-04": {
+          "tv": 23.1,
+          "radio": null,
+          "total": 23.1
+        },
+        "2026-05": {
+          "tv": 71.0,
+          "radio": 57.6,
+          "total": 128.6
+        },
+        "2026-06": {
+          "tv": 61.4,
+          "radio": 17.9,
+          "total": 79.3
+        }
+      }
+    },
+    "philippot": {
+      "nom_arcom": "PHILIPPOT Florian",
+      "par_mois": {
+        "2026-01": {
+          "tv": 12.9,
+          "radio": 9.0,
+          "total": 21.9
+        },
+        "2026-02": {
+          "tv": 7.5,
+          "radio": 8.5,
+          "total": 16.0
+        },
+        "2026-03": {
+          "tv": 16.5,
+          "radio": 14.7,
+          "total": 31.2
+        },
+        "2026-05": {
+          "tv": 20.3,
+          "radio": 3.4,
+          "total": 23.7
+        },
+        "2026-06": {
+          "tv": 19.6,
+          "radio": null,
+          "total": 19.6
+        }
+      }
+    }
+  },
+  "limites": [
+    "Fichiers « avec seuil » : dans les 6 fichiers, aucune durée affichée n'est inférieure à 1 min (00:01:00) ; une cellule « - » signifie donc « pas de temps relevé » ou « moins de 1 min sur ce service et ce type d'émission ». Les totaux sont des minorants : la somme des personnalités d'un parti est inférieure de quelques pourcents au total du même parti dans le fichier « Temps de parole des partis politiques » du même mois.",
+    "Seul le temps de parole est publié hors période électorale : pas de temps d'antenne, ni de distinction entre fonctions (un ministre ou un élu local est compté comme toute personnalité).",
+    "Les chaînes et radios non relevées par l'Arcom (chaînes locales, parlementaires, web, réseaux sociaux) ne sont pas comptées.",
+    "Candidats sans entrée : absents des 6 fichiers ou sans aucune durée affichée (Anasse Kazib, Selma Labib, François Asselineau, Jean Lassalle, Manolo Mlekuz, Clara Egger, Benoît Mathieu, Francis Lalanne, Juan Branco, Sylvain Durif, Antoine Mikolajczak, Lydie Massard). Un mois manquant pour un candidat présent ailleurs signifie de même « rien d'affiché », pas 0.",
+    "tv ou radio = null : aucune durée affichée pour ce type de média ce mois-là (pas un zéro).",
+    "Arrondis : chaque valeur est arrondie séparément à 0,1 min ; total peut différer de tv + radio de 0,1.",
+    "publie_le = date « Last-Modified » renvoyée par le serveur de l'Arcom pour le fichier ; la page de l'Arcom n'affiche pas de date de publication.",
+    "Mars 2026 inclut la campagne des municipales (15 et 22 mars), période pour laquelle l'Arcom publie aussi des relevés électoraux distincts ; les fichiers utilisés ici sont ceux « hors périodes électorales »."
+  ],
+  "a_verifier": [
+    "Seuil de 1 min : déduit des fichiers (nom « avec_seuil », minimum observé 00:01:00), non documenté sur la page de l'Arcom consultée.",
+    "Signification exacte des types d'émission JTF, MAG, PROG : non documentée dans les fichiers.",
+    "Philippe (id philippe) : la ligne « EDOUARD PHILIPPE » (Horizons, mars 2026, sans durée affichée) est supposée être Édouard Philippe avec prénom et nom inversés ; elle ne change aucun total.",
+    "Doublons de casse (ex. « MELENCHON JEAN LUC » et « MELENCHON Jean-Luc », « RETAILLEAU BRUNO » et « RETAILLEAU Bruno ») additionnés comme une même personne.",
+    "David Lisnard apparaît sous deux appartenances en mars 2026 (Les Républicains et Nouvelle Energie) : les deux lignes sont additionnées.",
+    "Bruno Le Maire est classé « Renaissance » par l'Arcom (« Ex-Renaissance » dans candidats.json) : rattaché par le nom, sans homonyme dans les fichiers.",
+    "Le fichier personnalités de février 2026 porte une date Last-Modified du 2026-09-09, bien après les autres fichiers de ce mois : il a pu être remplacé (révision non signalée sur la page).",
+    "Mars 2026, Reconquête : la somme des personnalités (90,9 min) dépasse le total du parti dans le fichier des partis (90,0 min), incohérence mineure entre les deux fichiers de l'Arcom."
+  ]
+}

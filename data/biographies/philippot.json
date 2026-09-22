@@ -13,32 +13,128 @@
   "presentation": {
     "texte": "Florian Philippot est un homme politique français, haut fonctionnaire de formation. Ancien vice-président du Front national et député européen de 2014 à 2019, il a quitté ce parti en 2017 pour fonder Les Patriotes, qu'il préside et qui prône la sortie de l'Union européenne et de l'euro.",
     "sources": [
-      { "titre": "Florian Philippot — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Florian_Philippot", "date": "2026-09-22" }
+      {
+        "titre": "Florian Philippot — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+        "date": "2026-09-22"
+      }
     ]
   },
   "naissance": {
     "date": "1981-10-24",
     "lieu": "Croix (Nord)",
-    "source": { "titre": "Florian Philippot — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Florian_Philippot", "date": "2026-09-22" }
+    "source": {
+      "titre": "Florian Philippot — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+      "date": "2026-09-22"
+    }
   },
   "parcours_politique": [
-    { "periode": "2024", "texte": "Candidat aux élections européennes, sans être élu.", "source": { "titre": "Florian Philippot — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Florian_Philippot", "date": "2026-09-22" } },
-    { "periode": "2022", "texte": "Candidat déclaré à l'élection présidentielle, il se retire deux mois avant le scrutin faute de parrainages suffisants.", "source": { "titre": "Florian Philippot — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Florian_Philippot", "date": "2026-09-22" } },
-    { "periode": "depuis 2017", "texte": "Fondateur et président des Patriotes (depuis le 29 septembre 2017).", "source": { "titre": "Florian Philippot — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Florian_Philippot", "date": "2026-09-22" } },
-    { "periode": "2016-2021", "texte": "Conseiller régional du Grand Est (élu en Moselle).", "source": { "titre": "Florian Philippot — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Florian_Philippot", "date": "2026-09-22" } },
-    { "periode": "2014-2019", "texte": "Député européen (circonscription Est). Non réélu en 2019, sa liste ayant obtenu 0,6 %.", "source": { "titre": "Florian Philippot — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Florian_Philippot", "date": "2026-09-22" } },
-    { "periode": "2014-2016", "texte": "Conseiller municipal de Forbach (Moselle).", "source": { "titre": "Florian Philippot — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Florian_Philippot", "date": "2026-09-22" } },
-    { "periode": "2012-2017", "texte": "Vice-président du Front national chargé de la stratégie et de la communication.", "source": { "titre": "Florian Philippot — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Florian_Philippot", "date": "2026-09-22" } },
-    { "periode": "2012", "texte": "Directeur stratégique de la campagne présidentielle de Marine Le Pen.", "source": { "titre": "Florian Philippot — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Florian_Philippot", "date": "2026-09-22" } }
+    {
+      "periode": "2024",
+      "texte": "Candidat aux élections européennes, sans être élu.",
+      "source": {
+        "titre": "Florian Philippot — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2022",
+      "texte": "Candidat déclaré à l'élection présidentielle, il se retire deux mois avant le scrutin faute de parrainages suffisants.",
+      "source": {
+        "titre": "Florian Philippot — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "depuis 2017",
+      "texte": "Fondateur et président des Patriotes (depuis le 29 septembre 2017).",
+      "source": {
+        "titre": "Florian Philippot — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2016-2021",
+      "texte": "Conseiller régional du Grand Est (élu en Moselle).",
+      "source": {
+        "titre": "Florian Philippot — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2014-2019",
+      "texte": "Député européen (circonscription Est). Non réélu en 2019, sa liste ayant obtenu 0,6 %.",
+      "source": {
+        "titre": "Florian Philippot — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2014-2016",
+      "texte": "Conseiller municipal de Forbach (Moselle).",
+      "source": {
+        "titre": "Florian Philippot — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2012-2017",
+      "texte": "Vice-président du Front national chargé de la stratégie et de la communication.",
+      "source": {
+        "titre": "Florian Philippot — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2012",
+      "texte": "Directeur stratégique de la campagne présidentielle de Marine Le Pen.",
+      "source": {
+        "titre": "Florian Philippot — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+        "date": "2026-09-22"
+      }
+    }
   ],
   "parcours_professionnel": [
-    { "periode": "2001-2009", "texte": "Études à HEC Paris (entrée en 2001).", "source": { "titre": "Florian Philippot — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Florian_Philippot", "date": "2026-09-22" } },
-    { "periode": "2007-2009", "texte": "Élève de l'École nationale d'administration (promotion Willy-Brandt).", "source": { "titre": "Florian Philippot — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Florian_Philippot", "date": "2026-09-22" } },
-    { "periode": "depuis 2009", "texte": "Inspecteur à l'Inspection générale de l'administration, en disponibilité depuis 2011.", "source": { "titre": "Florian Philippot — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Florian_Philippot", "date": "2026-09-22" } }
+    {
+      "periode": "2001-2009",
+      "texte": "Études à HEC Paris (entrée en 2001).",
+      "source": {
+        "titre": "Florian Philippot — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2007-2009",
+      "texte": "Élève de l'École nationale d'administration (promotion Willy-Brandt).",
+      "source": {
+        "titre": "Florian Philippot — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "depuis 2009",
+      "texte": "Inspecteur à l'Inspection générale de l'administration, en disponibilité depuis 2011.",
+      "source": {
+        "titre": "Florian Philippot — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+        "date": "2026-09-22"
+      }
+    }
   ],
   "affaires": [],
   "a_verifier": [
-    "Aucune procédure judiciaire le visant personnellement et d'état connu n'a été trouvée. La plainte en diffamation du Qatar (2015) n'a pas abouti : le Parlement européen a refusé de lever son immunité (Le Figaro, 2 février 2016). Les recherches web par mots-clés n'ont pas pu être faites (quota épuisé) : à refaire, notamment pour les années 2020-2026 (période Covid).",
+    "Aucune procédure judiciaire le visant personnellement et d'état connu n'a été trouvée. La plainte en diffamation du Qatar (2015) n'a pas abouti : le Parlement européen a refusé de lever son immunité (Le Figaro, 2 février 2016). Lot 3 (22/09/2026) : recherches par mots-clés faites (« condamné », « mis en examen », « relaxé », « enquête parquet », « poursuivi », « diffamation »). Simples plaintes dont la suite n'est pas connue, non publiées : plainte en diffamation du ministre de l'Intérieur Matthias Fekl (2017, propos assimilant l'OCLCIFF à une « police politique », franceinfo et Public Sénat) ; plainte de l'eurodéputée Sophie Montel pour « usage de faux » (juillet 2018, France 24, Public Sénat). Aucune procédure liée à la période Covid trouvée. Issue de ces deux plaintes à rechercher.",
     "Photo : aucun portrait officiel du Parlement européen trouvé sur Commons. Photo de manifestation retenue (cadrage portrait vérifié). Vignette en 500px : la taille de 400px est refusée par Wikimedia.",
     "Parcours professionnel : Wikipédia (d'après Le Temps) indique une entrée à HEC en 2001 et un diplôme en 2009 ; dates à confirmer."
   ]

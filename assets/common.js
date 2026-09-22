@@ -177,3 +177,24 @@ function formatPct(v) {
 function candidatUrl(id) {
   return `candidat.html?id=${encodeURIComponent(id)}`;
 }
+
+const loadTempsParole = () => loadOptional("data/temps-parole.json");
+
+// Durée en minutes → « 2 h 05 » ou « 45 min »
+function formatDuree(min) {
+  if (typeof min !== "number") return "";
+  const h = Math.floor(min / 60), m = Math.round(min % 60);
+  return h ? `${h} h ${String(m).padStart(2, "0")}` : `${m} min`;
+}
+
+function formatMois(ym) {
+  return formatDate(ym); // « AAAA-MM » → « septembre 2026 »
+}
+
+// Dernier mois publié pour un candidat : { mois, tv, radio, total } ou null
+function dernierTempsParole(tp, id) {
+  const pm = tp?.candidats?.[id]?.par_mois;
+  if (!pm) return null;
+  const mois = (tp.mois || Object.keys(pm)).filter((m) => pm[m]).sort().pop();
+  return mois ? { mois, ...pm[mois] } : null;
+}

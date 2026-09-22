@@ -27,10 +27,22 @@
   ],
   "mesures": [
     {
+      "theme": "economie",
+      "texte": "Retour de l'impôt de solidarité sur la fortune (ISF).",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/on-la-prend-tres-au-serieux-segolene-royal-peut-elle-creer-la-surprise-a-la-primaire-socialiste-vingt-ans-apres-son-echec-a-la-presidentielle_8184773.html", "date": "2026-09-11" }
+    },
+    {
       "theme": "travail",
       "texte": "Abaissement de la TVA sur les produits alimentaires français.",
       "nature": "presse",
       "source": { "titre": "AFP (via France 24)", "url": "https://www.france24.com/fr/info-en-continu/20260904-s%C3%A9gol%C3%A8ne-royal-le-comeback-permanent", "date": "2026-09-04" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Baisse des taxes sur les carburants pour limiter la hausse des prix à la pompe.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/on-la-prend-tres-au-serieux-segolene-royal-peut-elle-creer-la-surprise-a-la-primaire-socialiste-vingt-ans-apres-son-echec-a-la-presidentielle_8184773.html", "date": "2026-09-11" }
     },
     {
       "theme": "securite",
@@ -49,6 +61,8 @@
   ],
   "a_verifier": [
     "Cinq priorités annoncées le 10/07/2026 (LCP) et reprises sur le site, formulées comme des orientations, non retenues comme mesures : application des décisions de la COP21 ; « ordre juste » pour l'éducation, la santé et la sécurité quotidienne ; « tolérance zéro » pour les agresseurs et les violences faites aux enfants ; « urgence énergétique » pour les PME et l'agriculture ; rôle de « puissance médiatrice » de la France.",
-    "Meeting d'Alfortville (septembre 2026) : pas encore de compte rendu des propositions consulté."
+    "Meeting d'Alfortville (septembre 2026) : pas encore de compte rendu des propositions consulté.",
+    "Caméras « partout dans le cadre scolaire » (propos sur RMC rapportés par franceinfo, 11/09/2026) : proche de la mesure déjà publiée sur le périscolaire, non ajoutée en doublon.",
+    "Premier débat télévisé de la primaire « Choisir 2027 » prévu le 23/09/2026 (LCI) : pas encore eu lieu au 22/09/2026, à suivre."
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "id": "durif",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "Aucun programme publié",
+    "url": "https://www.rtl.fr/actu/politique/christ-cosmique-grand-monarque-et-bientot-president-de-la-republique-le-videaste-complotiste-sylvain-durif-se-declare-candidat-a-l-election-de-2027-7900664715",
+    "etat": "aucun",
+    "note": "Au 22/09/2026, aucun programme ni aucune mesure n'a été trouvé dans la presse ; la candidature a été annoncée par une courte vidéo sur les réseaux sociaux."
+  },
+  "reperes": [
+    {
+      "texte": "Vidéaste connu depuis 2012 pour ses déclarations à Bugarach (Aude), où il se présente comme le « Christ cosmique » et le « grand monarque ».",
+      "source": { "titre": "RTL – Le vidéaste complotiste Sylvain Durif se déclare candidat à l'élection de 2027", "url": "https://www.rtl.fr/actu/politique/christ-cosmique-grand-monarque-et-bientot-president-de-la-republique-le-videaste-complotiste-sylvain-durif-se-declare-candidat-a-l-election-de-2027-7900664715", "date": "2026-08-25" }
+    },
+    {
+      "texte": "Candidat aux municipales de 2014 à Arques (Aude) : 7 voix. Candidature annoncée pour la présidentielle de 2017, restée sans suite.",
+      "source": { "titre": "20 Minutes – Présidentielle 2027 : qui est Sylvain Durif, le « Christ cosmique » qui veut se présenter ?", "url": "https://www.20minutes.fr/politique/4241053-20260826-presidentielle-2027-sylvain-durif-christ-cosmique-veut-presenter", "date": "2026-08-26" }
+    },
+    {
+      "texte": "Candidature pour 2027 annoncée dans une vidéo publiée le 23 août 2026 sur les réseaux sociaux, sans parti : il s'y dit président de la « gouvernance pacifique planétaire et cosmique Elvita ».",
+      "source": { "titre": "RTL", "url": "https://www.rtl.fr/actu/politique/christ-cosmique-grand-monarque-et-bientot-president-de-la-republique-le-videaste-complotiste-sylvain-durif-se-declare-candidat-a-l-election-de-2027-7900664715", "date": "2026-08-25" }
+    }
+  ],
+  "mesures": [],
+  "ressources": [
+    { "titre": "20 Minutes – Présidentielle 2027 : qui est Sylvain Durif, le « Christ cosmique » qui veut se présenter ?", "url": "https://www.20minutes.fr/politique/4241053-20260826-presidentielle-2027-sylvain-durif-christ-cosmique-veut-presenter", "type": "article", "date": "2026-08-26" }
+  ],
+  "a_verifier": [
+    "Aucun site de campagne officiel identifié : les sites durif2027.com et sylvaindurif2027.fr sont présentés par Wikipédia comme des sites « moqueurs » (non officiels). Ne pas les utiliser comme source.",
+    "Programme de 2017 (« instaurer le paradis », publié sur Facebook) : antérieur à 2025 et non revendiqué pour 2027. Non retenu."
+  ]
+}

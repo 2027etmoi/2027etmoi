@@ -13,32 +13,143 @@
   "presentation": {
     "texte": "Nicolas Dupont-Aignan est un homme politique français, fondateur et président de Debout la France, parti se réclamant du gaullisme et du souverainisme. Il a été député de l'Essonne de 1997 à 2024 et maire d'Yerres de 1995 à 2017, fonction qu'il occupe de nouveau depuis 2026. Il a été candidat aux élections présidentielles de 2012, 2017 et 2022.",
     "sources": [
-      { "titre": "Nicolas Dupont-Aignan — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan", "date": "2026-09-22" }
+      {
+        "titre": "Nicolas Dupont-Aignan — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+        "date": "2026-09-22"
+      }
     ]
   },
   "naissance": {
     "date": "1961-03-07",
     "lieu": "Paris (15e arrondissement)",
-    "source": { "titre": "Nicolas Dupont-Aignan — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan", "date": "2026-09-22" }
+    "source": {
+      "titre": "Nicolas Dupont-Aignan — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+      "date": "2026-09-22"
+    }
   },
   "parcours_politique": [
-    { "periode": "depuis 2026", "texte": "Maire d'Yerres (Essonne), élu de nouveau aux municipales de mars 2026.", "source": { "titre": "Nicolas Dupont-Aignan — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan", "date": "2026-09-22" } },
-    { "periode": "2022", "texte": "Candidat à l'élection présidentielle : 2,06 % au premier tour.", "source": { "titre": "Nicolas Dupont-Aignan — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan", "date": "2026-09-22" } },
-    { "periode": "2017", "texte": "Candidat à l'élection présidentielle : 4,70 % au premier tour. Conclut ensuite un accord de gouvernement avec Marine Le Pen pour le second tour.", "source": { "titre": "Nicolas Dupont-Aignan — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan", "date": "2026-09-22" } },
-    { "periode": "2012", "texte": "Candidat à l'élection présidentielle : 1,79 % au premier tour.", "source": { "titre": "Nicolas Dupont-Aignan — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan", "date": "2026-09-22" } },
-    { "periode": "depuis 2008", "texte": "Président de Debout la République, devenu Debout la France, créé en 1999 comme courant du RPR puis de l'UMP avant de devenir un parti autonome.", "source": { "titre": "Nicolas Dupont-Aignan — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan", "date": "2026-09-22" } },
-    { "periode": "2002-2017", "texte": "Président de la communauté d'agglomération du Val d'Yerres (2002-2015), puis de Val d'Yerres Val de Seine (2016-2017).", "source": { "titre": "Nicolas Dupont-Aignan — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan", "date": "2026-09-22" } },
-    { "periode": "1997-2024", "texte": "Député de la 8e circonscription de l'Essonne, battu aux élections législatives de 2024.", "source": { "titre": "Nicolas Dupont-Aignan — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan", "date": "2026-09-22" } },
-    { "periode": "1995-2017", "texte": "Maire d'Yerres (Essonne).", "source": { "titre": "Nicolas Dupont-Aignan — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan", "date": "2026-09-22" } }
+    {
+      "periode": "depuis 2026",
+      "texte": "Maire d'Yerres (Essonne), élu de nouveau aux municipales de mars 2026.",
+      "source": {
+        "titre": "Nicolas Dupont-Aignan — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2022",
+      "texte": "Candidat à l'élection présidentielle : 2,06 % au premier tour.",
+      "source": {
+        "titre": "Nicolas Dupont-Aignan — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2017",
+      "texte": "Candidat à l'élection présidentielle : 4,70 % au premier tour. Conclut ensuite un accord de gouvernement avec Marine Le Pen pour le second tour.",
+      "source": {
+        "titre": "Nicolas Dupont-Aignan — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2012",
+      "texte": "Candidat à l'élection présidentielle : 1,79 % au premier tour.",
+      "source": {
+        "titre": "Nicolas Dupont-Aignan — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "depuis 2008",
+      "texte": "Président de Debout la République, devenu Debout la France, créé en 1999 comme courant du RPR puis de l'UMP avant de devenir un parti autonome.",
+      "source": {
+        "titre": "Nicolas Dupont-Aignan — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2002-2017",
+      "texte": "Président de la communauté d'agglomération du Val d'Yerres (2002-2015), puis de Val d'Yerres Val de Seine (2016-2017).",
+      "source": {
+        "titre": "Nicolas Dupont-Aignan — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1997-2024",
+      "texte": "Député de la 8e circonscription de l'Essonne, battu aux élections législatives de 2024.",
+      "source": {
+        "titre": "Nicolas Dupont-Aignan — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1995-2017",
+      "texte": "Maire d'Yerres (Essonne).",
+      "source": {
+        "titre": "Nicolas Dupont-Aignan — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+        "date": "2026-09-22"
+      }
+    }
   ],
   "parcours_professionnel": [
-    { "periode": "1982-1985", "texte": "Diplômé de Sciences Po Paris (1982), licence de droit (1984), DESS de gestion à l'université Paris-Dauphine (1985).", "source": { "titre": "Nicolas Dupont-Aignan — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan", "date": "2026-09-22" } },
-    { "periode": "1987-1989", "texte": "Élève de l'École nationale d'administration (ENA).", "source": { "titre": "Nicolas Dupont-Aignan — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan", "date": "2026-09-22" } },
-    { "periode": "1988-1995", "texte": "Administrateur civil : ministère de l'Intérieur, cabinet du préfet de la région Île-de-France, puis cabinets des ministres François Bayrou (Éducation nationale) et Michel Barnier (Environnement).", "source": { "titre": "Nicolas Dupont-Aignan — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan", "date": "2026-09-22" } }
+    {
+      "periode": "1982-1985",
+      "texte": "Diplômé de Sciences Po Paris (1982), licence de droit (1984), DESS de gestion à l'université Paris-Dauphine (1985).",
+      "source": {
+        "titre": "Nicolas Dupont-Aignan — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1987-1989",
+      "texte": "Élève de l'École nationale d'administration (ENA).",
+      "source": {
+        "titre": "Nicolas Dupont-Aignan — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1988-1995",
+      "texte": "Administrateur civil : ministère de l'Intérieur, cabinet du préfet de la région Île-de-France, puis cabinets des ministres François Bayrou (Éducation nationale) et Michel Barnier (Environnement).",
+      "source": {
+        "titre": "Nicolas Dupont-Aignan — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+        "date": "2026-09-22"
+      }
+    }
   ],
-  "affaires": [],
+  "affaires": [
+    {
+      "titre": "Tweet sur l'« invasion migratoire » (2017)",
+      "texte": "Poursuivi pour provocation à la haine ou à la discrimination après un tweet du 17 janvier 2017, publié alors qu'il était candidat à la présidentielle, dans lequel il évoquait une « invasion migratoire ». Les poursuites ont été engagées par le parquet de Paris après un signalement de la Licra ; le parquet avait requis 5 000 euros d'amende avec sursis. Le tribunal correctionnel de Paris (17e chambre) l'a relaxé le 6 juin 2018, après avoir rejeté l'argument tiré de son immunité parlementaire.",
+      "etat": "relaxe",
+      "etat_detail": "Relaxé en première instance le 6 juin 2018. Aucune information trouvée sur un éventuel appel.",
+      "date_etat": "2018-06-06",
+      "sources": [
+        {
+          "titre": "Public Sénat (AFP) — Dupont-Aignan relaxé pour ses propos sur l'« invasion migratoire » en France",
+          "url": "https://www.publicsenat.fr/actualites/politique/dupont-aignan-relaxe-pour-ses-propos-sur-l-invasion-migratoire-en-france-86680",
+          "date": "2018-06-06"
+        }
+      ]
+    }
+  ],
   "a_verifier": [
-    "Aucune procédure judiciaire le visant personnellement n'a été trouvée : rien sur Wikipédia ni dans les flux franceinfo. Les recherches par mots-clés (« condamné », « mis en examen », « enquête parquet ») n'ont pas pu être faites, le quota de recherche web étant épuisé. À refaire.",
+    "Lot 3 (22/09/2026) : recherches par mots-clés faites (« condamné », « mis en examen », « relaxé », « enquête parquet », « poursuivi », « plainte »). Une procédure trouvée et publiée : relaxe du 6 juin 2018 (« invasion migratoire ») ; appel éventuel non trouvé (recherche dédiée sans résultat) : à vérifier. Simples plaintes sans suite procédurale connue, non publiées : plainte pour « menace de mort sous condition » de la députée MoDem Maud Petit (Europe 1, 2019) ; plainte en diffamation annoncée par le Dr Jérôme Marty (UFML, ICI, 2021). Sanction de l'Assemblée nationale pour fraude au scrutin (franceinfo) : sanction disciplinaire parlementaire, hors périmètre.",
     "Photo : portrait fourni par le parti (autorisation VRT), pas un portrait institutionnel. Une photo de 2026 existe sur Commons (File:Nicolas_Dupont-Aignan_2026.jpg, CC0), mais c'est une scène de dédicace, pas un portrait. Vignette en 500px : la taille de 400px est refusée par Wikimedia.",
     "Parcours professionnel : la section Wikipédia correspondante porte le bandeau « à sourcer »."
   ]

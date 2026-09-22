@@ -13,30 +13,106 @@
   "presentation": {
     "texte": "François Ruffin est journaliste, documentariste et homme politique. Il est député de la 1re circonscription de la Somme depuis 2017. Fondateur du journal Fakir, il a lancé le parti Picardie debout ! en 2017, devenu Debout !, qu'il préside depuis 2025. Longtemps proche de La France insoumise sans en être membre, il s'en est éloigné en 2024. Il est candidat à l'élection présidentielle de 2027 en dehors de toute primaire.",
     "sources": [
-      { "titre": "Wikipédia – François Ruffin", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin", "date": "2026-09-22" },
-      { "titre": "Orange / AFP – Présidentielle : François Ruffin, l'ex-insoumis qui a du mal à socialiser", "url": "https://actu.orange.fr/politique/presidentielle-francois-ruffin-l-ex-insoumis-qui-a-du-mal-a-socialiser-CNT000002rVfmk.html", "date": "2026-09-16" }
+      {
+        "titre": "Wikipédia – François Ruffin",
+        "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+        "date": "2026-09-22"
+      },
+      {
+        "titre": "Orange / AFP – Présidentielle : François Ruffin, l'ex-insoumis qui a du mal à socialiser",
+        "url": "https://actu.orange.fr/politique/presidentielle-francois-ruffin-l-ex-insoumis-qui-a-du-mal-a-socialiser-CNT000002rVfmk.html",
+        "date": "2026-09-16"
+      }
     ]
   },
   "naissance": {
     "date": "1975-10-18",
     "lieu": "Calais (Pas-de-Calais)",
-    "source": { "titre": "Wikipédia – François Ruffin", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin", "date": "2026-09-22" }
+    "source": {
+      "titre": "Wikipédia – François Ruffin",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "date": "2026-09-22"
+    }
   },
   "parcours_politique": [
-    { "periode": "2026", "texte": "Candidat déclaré à l'élection présidentielle de 2027, en dehors de toute primaire depuis l'abandon de la primaire de la gauche unitaire.", "source": { "titre": "Orange / AFP", "url": "https://actu.orange.fr/politique/presidentielle-francois-ruffin-l-ex-insoumis-qui-a-du-mal-a-socialiser-CNT000002rVfmk.html", "date": "2026-09-16" } },
-    { "periode": "Depuis 2025", "texte": "Président de Debout ! (anciennement Picardie debout !), dont il avait été porte-parole de 2017 à 2025.", "source": { "titre": "Wikipédia – François Ruffin", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin", "date": "2026-09-22" } },
-    { "periode": "Depuis 2017", "texte": "Député de la 1re circonscription de la Somme, élu en 2017 et réélu en 2022 et en 2024. Il a siégé au groupe La France insoumise (2017-2024), puis au groupe Écologiste et social.", "source": { "titre": "Wikipédia – François Ruffin", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin", "date": "2026-09-22" } },
-    { "periode": "2024", "texte": "Rompt avec La France insoumise en raison de désaccords stratégiques ; figure parmi les initiateurs du Nouveau Front populaire.", "source": { "titre": "Wikipédia – François Ruffin", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin", "date": "2026-09-22" } }
+    {
+      "periode": "2026",
+      "texte": "Candidat déclaré à l'élection présidentielle de 2027, en dehors de toute primaire depuis l'abandon de la primaire de la gauche unitaire.",
+      "source": {
+        "titre": "Orange / AFP",
+        "url": "https://actu.orange.fr/politique/presidentielle-francois-ruffin-l-ex-insoumis-qui-a-du-mal-a-socialiser-CNT000002rVfmk.html",
+        "date": "2026-09-16"
+      }
+    },
+    {
+      "periode": "Depuis 2025",
+      "texte": "Président de Debout ! (anciennement Picardie debout !), dont il avait été porte-parole de 2017 à 2025.",
+      "source": {
+        "titre": "Wikipédia – François Ruffin",
+        "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "Depuis 2017",
+      "texte": "Député de la 1re circonscription de la Somme, élu en 2017 et réélu en 2022 et en 2024. Il a siégé au groupe La France insoumise (2017-2024), puis au groupe Écologiste et social.",
+      "source": {
+        "titre": "Wikipédia – François Ruffin",
+        "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2024",
+      "texte": "Rompt avec La France insoumise en raison de désaccords stratégiques ; figure parmi les initiateurs du Nouveau Front populaire.",
+      "source": {
+        "titre": "Wikipédia – François Ruffin",
+        "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+        "date": "2026-09-22"
+      }
+    }
   ],
   "parcours_professionnel": [
-    { "periode": "1999", "texte": "Fonde le journal Fakir à Amiens.", "source": { "titre": "franceinfo – Journalisme engagé, critique des médias et France périphérique : qui est François Ruffin ?", "url": "https://www.francetvinfo.fr/societe/nuit-debout/journalisme-engage-critique-des-medias-et-france-peripherique-qui-est-francois-ruffin-l-inspirateur-de-nuit-debout_1413979.html", "date": "2016-04-28" } },
-    { "periode": "2000-2002", "texte": "Maîtrise de lettres modernes à l'université de Picardie, puis diplôme du Centre de formation des journalistes (CFJ) en 2002.", "source": { "titre": "Wikipédia – François Ruffin", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin", "date": "2026-09-22" } },
-    { "periode": "2005-2012", "texte": "Reporter pour l'émission « Là-bas si j'y suis » (France Inter) et collaborateur du Monde diplomatique.", "source": { "titre": "Wikipédia – François Ruffin", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin", "date": "2026-09-22" } },
-    { "periode": "2016-2024", "texte": "Réalisateur de documentaires, dont « Merci patron ! » (César du meilleur film documentaire en 2017), puis, avec Gilles Perret, « J'veux du soleil », « Debout les femmes ! » et « Au boulot ! ».", "source": { "titre": "Wikipédia – François Ruffin", "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin", "date": "2026-09-22" } }
+    {
+      "periode": "1999",
+      "texte": "Fonde le journal Fakir à Amiens.",
+      "source": {
+        "titre": "franceinfo – Journalisme engagé, critique des médias et France périphérique : qui est François Ruffin ?",
+        "url": "https://www.francetvinfo.fr/societe/nuit-debout/journalisme-engage-critique-des-medias-et-france-peripherique-qui-est-francois-ruffin-l-inspirateur-de-nuit-debout_1413979.html",
+        "date": "2016-04-28"
+      }
+    },
+    {
+      "periode": "2000-2002",
+      "texte": "Maîtrise de lettres modernes à l'université de Picardie, puis diplôme du Centre de formation des journalistes (CFJ) en 2002.",
+      "source": {
+        "titre": "Wikipédia – François Ruffin",
+        "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2005-2012",
+      "texte": "Reporter pour l'émission « Là-bas si j'y suis » (France Inter) et collaborateur du Monde diplomatique.",
+      "source": {
+        "titre": "Wikipédia – François Ruffin",
+        "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2016-2024",
+      "texte": "Réalisateur de documentaires, dont « Merci patron ! » (César du meilleur film documentaire en 2017), puis, avec Gilles Perret, « J'veux du soleil », « Debout les femmes ! » et « Au boulot ! ».",
+      "source": {
+        "titre": "Wikipédia – François Ruffin",
+        "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+        "date": "2026-09-22"
+      }
+    }
   ],
   "affaires": [],
   "a_verifier": [
-    "Diffamation (livre « Quartier Nord ») : selon Wikipédia, condamné pour diffamation par le tribunal d'Amiens le 23 avril 2008, sur plainte de Nourédine Gaham. Europe 1 (7 mars 2017, https://www.europe1.fr/politique/legislatives-francois-ruffin-refoule-a-amiens-nord-2996414) confirme une « condamnation pour diffamation » liée à ce livre, sans date, sans peine et sans dire si elle est définitive. Non publié tant que la date, la peine et le caractère définitif ne sont pas établis.",
+    "Diffamation (livre « Quartier Nord ») : selon Wikipédia, condamné pour diffamation par le tribunal d'Amiens le 23 avril 2008, sur plainte de Nourédine Gaham. Europe 1 (7 mars 2017, https://www.europe1.fr/politique/legislatives-francois-ruffin-refoule-a-amiens-nord-2996414) confirme une « condamnation pour diffamation » liée à ce livre, sans date, sans peine et sans dire si elle est définitive. Non publié tant que la date, la peine et le caractère définitif ne sont pas établis. Recherche du 22/09/2026 (lot 1) : deux requêtes (franceinfo, France 24, Europe 1, ICI, France 3, Acrimed, puis web ouvert) : seules des publications de réseaux sociaux (dates contradictoires : 23 avril ou 23 août 2008) et la page Wikipédia du livre ; aucune source de presse reconnue donnant la date, la peine et le caractère définitif. Toujours non publié.",
     "Photo : pas de portrait officiel de député sur Commons. Photo retenue : image extraite d'une vidéo Thinkerview (2022), CC BY-SA 4.0.",
     "Vignette : les vignettes de 400 px sont refusées par Wikimedia (HTTP 400). La vignette de 500 px a été vérifiée (HTTP 200).",
     "Surveillance de Fakir par Bernard Squarcini pour le compte de LVMH : François Ruffin y est victime, non mis en cause. Non retenu.",

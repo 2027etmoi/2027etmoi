@@ -1,0 +1,57 @@
+{
+  "id": "branco",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Juan_Branco_Pick.jpg/500px-Juan_Branco_Pick.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Juan_Branco_Pick.jpg",
+    "auteur": "UPOP Marseille",
+    "licence": "CC BY 4.0",
+    "annee": "2024",
+    "officielle": false,
+    "legende": "Juan Branco en septembre 2024"
+  },
+  "presentation": {
+    "texte": "Juan Branco est un avocat, essayiste et réalisateur franco-espagnol, docteur en droit, connu pour son pamphlet « Crépuscule » (2019) contre Emmanuel Macron et pour avoir conseillé WikiLeaks et Julian Assange. Passé par Les Verts, l'équipe de campagne de François Hollande en 2012 puis La France insoumise, il a annoncé en décembre 2025 sa candidature à la présidentielle de 2027, sans étiquette, soutenu par le mouvement Les Ruches.",
+    "sources": [
+      { "titre": "Wikipédia – Juan Branco", "url": "https://fr.wikipedia.org/wiki/Juan_Branco", "date": "2026-09-22" },
+      { "titre": "Sud Radio – L'avocat Juan Branco, candidat à la présidentielle", "url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle", "date": "2025-12-19" }
+    ]
+  },
+  "naissance": {
+    "date": "1989-08-26",
+    "lieu": "Estepona (Andalousie, Espagne)",
+    "source": { "titre": "Wikipédia – Juan Branco", "url": "https://fr.wikipedia.org/wiki/Juan_Branco", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "Depuis 2025", "texte": "Candidat déclaré à l'élection présidentielle de 2027, soutenu par le mouvement citoyen Les Ruches.", "source": { "titre": "Sud Radio", "url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle", "date": "2025-12-19" } },
+    { "periode": "2018-2019", "texte": "Soutien du mouvement des Gilets jaunes ; publie « Crépuscule », pamphlet sur l'accession au pouvoir d'Emmanuel Macron.", "source": { "titre": "Wikipédia – Juan Branco", "url": "https://fr.wikipedia.org/wiki/Juan_Branco", "date": "2026-09-22" } },
+    { "periode": "2017", "texte": "Candidat de La France insoumise aux législatives dans la 12e circonscription de la Seine-Saint-Denis : 13,9 %, éliminé au premier tour.", "source": { "titre": "Wikipédia – Juan Branco", "url": "https://fr.wikipedia.org/wiki/Juan_Branco", "date": "2026-09-22" } },
+    { "periode": "2012", "texte": "Membre du pôle culture de la campagne présidentielle de François Hollande (Parti socialiste).", "source": { "titre": "Wikipédia – Juan Branco", "url": "https://fr.wikipedia.org/wiki/Juan_Branco", "date": "2026-09-22" } },
+    { "periode": "Fin des années 2000", "texte": "Membre des Jeunes Verts, responsable de la section Île-de-France ; fondateur du think tank Jeune République.", "source": { "titre": "Wikipédia – Juan Branco", "url": "https://fr.wikipedia.org/wiki/Juan_Branco", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "2007-2014", "texte": "Sciences Po, École normale supérieure ; docteur en droit (thèse sur la Cour pénale internationale, 2014).", "source": { "titre": "Wikipédia – Juan Branco", "url": "https://fr.wikipedia.org/wiki/Juan_Branco", "date": "2026-09-22" } },
+    { "periode": "2012-2013", "texte": "Collaborateur extérieur au ministère des Affaires étrangères.", "source": { "titre": "Wikipédia – Juan Branco", "url": "https://fr.wikipedia.org/wiki/Juan_Branco", "date": "2026-09-22" } },
+    { "periode": "2013-2016", "texte": "Chercheur en droit (université Yale, Institut Max-Planck au Luxembourg) ; conseiller juridique de WikiLeaks et de Julian Assange.", "source": { "titre": "Wikipédia – Juan Branco", "url": "https://fr.wikipedia.org/wiki/Juan_Branco", "date": "2026-09-22" } },
+    { "periode": "Depuis 2017", "texte": "Avocat au barreau de Paris ; suspendu par le conseil de discipline de l'Ordre en octobre 2024 pour violation du secret de l'instruction, décision confirmée en appel en octobre 2025.", "source": { "titre": "Wikipédia – Juan Branco", "url": "https://fr.wikipedia.org/wiki/Juan_Branco", "date": "2026-09-22" } }
+  ],
+  "affaires": [
+    {
+      "titre": "Information judiciaire pour viol et agressions sexuelles",
+      "texte": "Juan Branco est poursuivi dans une information judiciaire ouverte à Paris pour le viol d'une étudiante de 20 ans au printemps 2021, ainsi que pour des faits d'agression sexuelle et de viol visant deux autres femmes. Il conteste les faits.",
+      "etat": "instruction_close",
+      "etat_detail": "Dans son réquisitoire définitif du 6 août 2026, le parquet de Paris demande son renvoi devant la cour criminelle départementale pour un viol et requiert un non-lieu pour les autres faits ; le juge d'instruction doit encore statuer. Juan Branco est présumé innocent.",
+      "date_etat": "2026-09-02",
+      "sources": [
+        { "titre": "franceinfo – Le parquet de Paris requiert le renvoi en procès pour viol de l'avocat Juan Branco", "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/le-parquet-de-paris-requiert-le-renvoi-en-proces-pour-viol-de-l-avocat-juan-branco_8172581.html", "date": "2026-09-02" },
+        { "titre": "Sud Radio (avec AFP) – Le parquet de Paris demande le procès de Juan Branco pour viol", "url": "https://www.sudradio.fr/societe/le-parquet-de-paris-requiert-le-renvoi-en-proces-pour-viol-de-lavocat-juan-branco", "date": "2026-09-01" }
+      ]
+    }
+  ],
+  "a_verifier": [
+    "Mises en examen : novembre 2021 (viol) puis juin 2023 (deux autres affaires) selon Wikipédia, qui cite Le Monde (payant, non ouvert). Dates non publiées dans la fiche.",
+    "Sénégal (août 2023) : arrêté et inculpé à Dakar (attentat, complot, diffusion de fausses nouvelles…) puis libéré le 7 août 2023 et rentré en France. Suites de cette procédure étrangère non trouvées. Non publié.",
+    "Suspension disciplinaire : durée exacte (trois ans dont neuf mois ferme selon Wikipédia ; « neuf mois » selon le titre de Libération du 24/10/2025, article non ouvert).",
+    "Photo : portrait de 2024 publié sur Commons par UPOP Marseille (CC BY 4.0) ; vignette 500 px vérifiée (HTTP 200)."
+  ]
+}

@@ -1,0 +1,1230 @@
+{
+  "mise_a_jour": "2026-09-22",
+  "candidatures": {
+    "philippe": {
+      "declaration": {
+        "date": "2024-09-03",
+        "source": {
+          "titre": "Europe 1 — Édouard Philippe annonce officiellement sa candidature à la prochaine élection présidentielle",
+          "url": "https://www.europe1.fr/politique/edouard-philippe-annonce-officiellement-sa-candidature-a-la-prochaine-election-presidentielle-4265431",
+          "date": "2024-09-03"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature annoncée par lui-même dans un entretien au Point, pour « la prochaine élection présidentielle ». Refuse l'idée d'une primaire.",
+        "source": {
+          "titre": "Public Sénat — La main tendue d'Édouard Philippe rejetée par Gabriel Attal et Bruno Retailleau relance l'idée d'une primaire",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-la-main-tendue-dedouard-philippe-rejetee-par-gabriel-attal-et-bruno-retailleau-relance-lidee-dune-primaire",
+          "date": "2026-09-09"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "attal": {
+      "declaration": {
+        "date": "2026-05-22",
+        "source": {
+          "titre": "LCP — Présidentielle 2027 : Gabriel Attal officialise sa candidature",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721",
+          "date": "2026-05-22"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature officialisée par lui-même à Mur-de-Barrez (Aveyron). Renvoie la question d'une primaire à début 2027.",
+        "source": {
+          "titre": "LCP — Présidentielle 2027 : Gabriel Attal officialise sa candidature",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721",
+          "date": "2026-05-22"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": "La page « programme » du site de campagne (consultée le 22 septembre 2026) présente des priorités, sans chiffrage global ; programme complet non identifié.",
+        "url": "https://attalpresident.fr/programme",
+        "source": {
+          "titre": "Site de campagne de Gabriel Attal — Programme",
+          "url": "https://attalpresident.fr/programme",
+          "date": "2026-09-22"
+        }
+      }
+    },
+    "villepin": {
+      "declaration": null,
+      "designation": null,
+      "precedentes": [
+        {
+          "annee": 2012,
+          "resultat": "non qualifié (n'a pas obtenu les 500 parrainages ; nombre non connu)",
+          "source": {
+            "titre": "Wikipédia — Dominique de Villepin",
+            "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+            "date": "2026-09-22"
+          }
+        }
+      ],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "le-maire": {
+      "declaration": null,
+      "designation": null,
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "retailleau": {
+      "declaration": {
+        "date": "2026-02-12",
+        "source": {
+          "titre": "Public Sénat — « Je suis prêt » : Bruno Retailleau se déclare candidat à l'élection présidentielle 2027",
+          "url": "https://www.publicsenat.fr/actualites/politique/je-suis-pret-bruno-retailleau-se-declare-candidat-a-lelection-presidentielle-2027",
+          "date": "2026-02-12"
+        }
+      },
+      "designation": {
+        "mode": "vote_militants",
+        "detail": "Consultation en ligne des adhérents LR (18-19 avril 2026) : 73,8 % pour la désignation directe de Bruno Retailleau comme candidat, les deux options de primaire (fermée ou ouverte) recueillant 14 % et 12,2 %. Participation d'environ 60 % (46 000 votants sur 76 653 inscrits). Pas de primaire.",
+        "source": {
+          "titre": "Public Sénat — Présidentielle : les adhérents LR désignent Bruno Retailleau comme candidat",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-bruno-retailleau-designe-candidat-par-les-adherents-lr",
+          "date": "2026-04-19"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "lisnard": {
+      "declaration": {
+        "date": "2026-03-31",
+        "source": {
+          "titre": "LCP — « Je suis candidat » : David Lisnard quitte LR et relance le débat sur une primaire à droite",
+          "url": "https://lcp.fr/actualites/je-suis-candidat-david-lisnard-quitte-lr-et-relance-le-debat-sur-une-primaire-a-droite",
+          "date": "2026-03-31"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Se déclare candidat en quittant Les Républicains, sous l'étiquette de son parti Nouvelle Énergie. Réclame une primaire de la droite et du centre.",
+        "source": {
+          "titre": "LCP — « Je suis candidat » : David Lisnard quitte LR et relance le débat sur une primaire à droite",
+          "url": "https://lcp.fr/actualites/je-suis-candidat-david-lisnard-quitte-lr-et-relance-le-debat-sur-une-primaire-a-droite",
+          "date": "2026-03-31"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "bertrand": {
+      "declaration": {
+        "date": "2026-08-27",
+        "source": {
+          "titre": "franceinfo — Xavier Bertrand annonce sa candidature à l'élection présidentielle",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html",
+          "date": "2026-08-27"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Annonce à l'université d'été du Medef qu'il « sera » candidat, en indépendant (Nous France) ; déclaration officielle repoussée à la fin de l'année. Refuse toute primaire.",
+        "source": {
+          "titre": "franceinfo — Xavier Bertrand annonce sa candidature à l'élection présidentielle",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html",
+          "date": "2026-08-27"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "le-pen": {
+      "declaration": {
+        "date": "2026-07-07",
+        "source": {
+          "titre": "LCP — « Ce soir, je suis candidate à l'élection présidentielle », annonce Marine Le Pen",
+          "url": "https://lcp.fr/actualites/ce-soir-je-suis-candidate-a-l-election-presidentielle-annonce-marine-le-pen-438886",
+          "date": "2026-07-07"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Annonce sa candidature elle-même au 20 h de TF1, le soir de l'arrêt de la cour d'appel ; aucune procédure interne de désignation au RN mentionnée par la source.",
+        "source": {
+          "titre": "LCP — « Ce soir, je suis candidate à l'élection présidentielle », annonce Marine Le Pen",
+          "url": "https://lcp.fr/actualites/ce-soir-je-suis-candidate-a-l-election-presidentielle-annonce-marine-le-pen-438886",
+          "date": "2026-07-07"
+        }
+      },
+      "precedentes": [
+        {
+          "annee": 2012,
+          "resultat": "17,90 % au 1er tour (3e)",
+          "source": {
+            "titre": "Wikipédia — Élection présidentielle française de 2012",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+            "date": "2026-09-22"
+          }
+        },
+        {
+          "annee": 2017,
+          "resultat": "21,30 % au 1er tour (2e) ; 33,90 % au 2d tour",
+          "source": {
+            "titre": "Wikipédia — Élection présidentielle française de 2017",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+            "date": "2026-09-22"
+          }
+        },
+        {
+          "annee": 2022,
+          "resultat": "23,15 % au 1er tour (2e) ; 41,45 % au 2d tour",
+          "source": {
+            "titre": "Wikipédia — Élection présidentielle française de 2022",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+            "date": "2026-09-22"
+          }
+        }
+      ],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "zemmour": {
+      "declaration": {
+        "date": "2026-09-17",
+        "source": {
+          "titre": "L'Avenir — Zemmour confirme qu'il sera candidat à l'élection présidentielle en France",
+          "url": "https://www.lavenir.net/actu/monde/2026/09/18/zemmour-confirme-quil-sera-candidat-a-lelection-presidentielle-en-france-et-durcit-encore-son-discours-sur-limmigration-5OFMOVM6CVCDFHY4B3GI5QID3Q/",
+          "date": "2026-09-17"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Annonce sa candidature lui-même dans « Face à BFM ». Président de Reconquête.",
+        "source": {
+          "titre": "L'Avenir — Zemmour confirme qu'il sera candidat à l'élection présidentielle en France",
+          "url": "https://www.lavenir.net/actu/monde/2026/09/18/zemmour-confirme-quil-sera-candidat-a-lelection-presidentielle-en-france-et-durcit-encore-son-discours-sur-limmigration-5OFMOVM6CVCDFHY4B3GI5QID3Q/",
+          "date": "2026-09-17"
+        }
+      },
+      "precedentes": [
+        {
+          "annee": 2022,
+          "resultat": "7,07 % au 1er tour (4e)",
+          "source": {
+            "titre": "Wikipédia — Élection présidentielle française de 2022",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+            "date": "2026-09-22"
+          }
+        }
+      ],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "dupont-aignan": {
+      "declaration": {
+        "date": "2026-09-19",
+        "source": {
+          "titre": "franceinfo — Nicolas Dupont-Aignan se lance dans sa quatrième campagne présidentielle",
+          "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html",
+          "date": "2026-09-19"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature officialisée par lui-même. Président de Debout la France.",
+        "source": {
+          "titre": "franceinfo — Nicolas Dupont-Aignan se lance dans sa quatrième campagne présidentielle",
+          "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html",
+          "date": "2026-09-19"
+        }
+      },
+      "precedentes": [
+        {
+          "annee": 2012,
+          "resultat": "1,79 % au 1er tour",
+          "source": {
+            "titre": "Wikipédia — Élection présidentielle française de 2012",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+            "date": "2026-09-22"
+          }
+        },
+        {
+          "annee": 2017,
+          "resultat": "4,70 % au 1er tour",
+          "source": {
+            "titre": "Wikipédia — Élection présidentielle française de 2017",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+            "date": "2026-09-22"
+          }
+        },
+        {
+          "annee": 2022,
+          "resultat": "2,06 % au 1er tour",
+          "source": {
+            "titre": "Wikipédia — Élection présidentielle française de 2022",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+            "date": "2026-09-22"
+          }
+        }
+      ],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "philippot": {
+      "declaration": {
+        "date": "2026-05-09",
+        "source": {
+          "titre": "Front Populaire — Florian Philippot, troisième candidat souverainiste à la présidentielle",
+          "url": "https://frontpopulaire.fr/politique/contents/florian-philippot-troisieme-candidat-souverainiste-a-la-presidentielle_tco_31760632",
+          "date": "2026-05-09"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Annonce sa candidature lui-même sur France 2. Président des Patriotes.",
+        "source": {
+          "titre": "Front Populaire — Florian Philippot, troisième candidat souverainiste à la présidentielle",
+          "url": "https://frontpopulaire.fr/politique/contents/florian-philippot-troisieme-candidat-souverainiste-a-la-presidentielle_tco_31760632",
+          "date": "2026-05-09"
+        }
+      },
+      "precedentes": [
+        {
+          "annee": 2022,
+          "resultat": "non qualifié (1 parrainage) ; candidature retirée avant le scrutin",
+          "source": {
+            "titre": "Conseil constitutionnel — Présidentielle 2022 : parrainages validés par candidat",
+            "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+            "date": "2022-03"
+          }
+        }
+      ],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "asselineau": {
+      "declaration": {
+        "date": null,
+        "source": {
+          "titre": "UPR — François Asselineau : « En 2027, je serai le seul candidat à la présidence de la République française »",
+          "url": "https://upr.fr/actualites/francois-asselineau-en-2027-je-serai-le-seul-candidat-a-la-presidence-de-la-republique-francaise",
+          "date": "2026-07-07"
+        }
+      },
+      "designation": {
+        "mode": null,
+        "detail": "Candidature confirmée par l'UPR, qu'il préside ; la source ne précise pas de procédure de désignation.",
+        "source": {
+          "titre": "UPR — François Asselineau : « En 2027, je serai le seul candidat à la présidence de la République française »",
+          "url": "https://upr.fr/actualites/francois-asselineau-en-2027-je-serai-le-seul-candidat-a-la-presidence-de-la-republique-francaise",
+          "date": "2026-07-07"
+        }
+      },
+      "precedentes": [
+        {
+          "annee": 2012,
+          "resultat": "non qualifié (18 parrainages, selon Le Monde cité par Wikipédia)",
+          "source": {
+            "titre": "Wikipédia — François Asselineau",
+            "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+            "date": "2026-09-22"
+          }
+        },
+        {
+          "annee": 2017,
+          "resultat": "0,92 % au 1er tour",
+          "source": {
+            "titre": "Wikipédia — Élection présidentielle française de 2017",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+            "date": "2026-09-22"
+          }
+        },
+        {
+          "annee": 2022,
+          "resultat": "non qualifié (293 parrainages)",
+          "source": {
+            "titre": "Conseil constitutionnel — Présidentielle 2022 : parrainages validés par candidat",
+            "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+            "date": "2022-03"
+          }
+        }
+      ],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "lassalle": {
+      "declaration": null,
+      "designation": null,
+      "precedentes": [
+        {
+          "annee": 2017,
+          "resultat": "1,21 % au 1er tour (7e sur 11)",
+          "source": {
+            "titre": "Wikipédia — Élection présidentielle française de 2017",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+            "date": "2026-09-22"
+          }
+        },
+        {
+          "annee": 2022,
+          "resultat": "3,13 % au 1er tour (7e sur 12)",
+          "source": {
+            "titre": "Wikipédia — Élection présidentielle française de 2022",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+            "date": "2026-09-22"
+          }
+        }
+      ],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "mlekuz": {
+      "declaration": {
+        "date": null,
+        "source": {
+          "titre": "Wikipédia — Candidatures à l'élection présidentielle française de 2027",
+          "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-22"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature personnelle sous l'étiquette Trajectoire, présentée début 2026 ; aucune procédure de désignation mentionnée.",
+        "source": {
+          "titre": "RMC — « Si j'arrive à l'Élysée... » : ce candidat pour 2027, âgé de 20 ans, veut être un président « sans pouvoir »",
+          "url": "https://rmc.bfmtv.com/actualites/politique/si-j-arrive-a-l-elysee-ce-candidat-pour-2027-age-de-20-ans-veut-etre-un-president-sans-pouvoir_AV-202607030571.html",
+          "date": "2026-07-03"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": false,
+        "detail": "Programme uniquement institutionnel (répartition du pouvoir politique) ; la page programme ne contient aucun chiffrage.",
+        "url": "https://trajectoire2027.fr/programme.html",
+        "source": {
+          "titre": "Trajectoire — Programme",
+          "url": "https://trajectoire2027.fr/programme.html",
+          "date": "2026-09-22"
+        }
+      }
+    },
+    "egger": {
+      "declaration": {
+        "date": "2026-04-19",
+        "source": {
+          "titre": "Solution démocratique — Annonce de la candidature de Clara Egger",
+          "url": "https://solutiondemocratique.fr/presidentielle2027-annonce-candidature-clara-egger/",
+          "date": "2026-04-19"
+        }
+      },
+      "designation": {
+        "mode": null,
+        "detail": "Candidate de Solution démocratique ; le communiqué d'annonce ne précise pas de procédure de désignation.",
+        "source": {
+          "titre": "Solution démocratique — Annonce de la candidature de Clara Egger",
+          "url": "https://solutiondemocratique.fr/presidentielle2027-annonce-candidature-clara-egger/",
+          "date": "2026-04-19"
+        }
+      },
+      "precedentes": [
+        {
+          "annee": 2022,
+          "resultat": "non qualifiée (36 parrainages)",
+          "source": {
+            "titre": "Conseil constitutionnel — Présidentielle 2022 : parrainages validés par candidat",
+            "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+            "date": "2022-03"
+          }
+        }
+      ],
+      "chiffrage": {
+        "publie": false,
+        "detail": "Programme limité à une mesure unique (instaurer la démocratie directe / RIC) ; le communiqué d'annonce ne contient aucun chiffrage.",
+        "url": null,
+        "source": {
+          "titre": "Solution démocratique — Annonce de la candidature de Clara Egger",
+          "url": "https://solutiondemocratique.fr/presidentielle2027-annonce-candidature-clara-egger/",
+          "date": "2026-04-19"
+        }
+      }
+    },
+    "mathieu": {
+      "declaration": {
+        "date": "2026-03-30",
+        "source": {
+          "titre": "Wikipédia — Candidatures à l'élection présidentielle française de 2027",
+          "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-22"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidat sans étiquette, sans parti ; tour de France à vélo depuis avril 2026 pour obtenir les 500 parrainages.",
+        "source": {
+          "titre": "RMC — Présidentielle 2027 : à 27 ans, il sillonne la France à vélo en quête des 500 parrainages",
+          "url": "https://rmc.bfmtv.com/actualites/politique/presidentielle-2027-a-27-ans-il-sillonne-la-france-a-velo-en-quete-des-500-parrainages_AV-202605030128.html",
+          "date": "2026-05-03"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "lalanne": {
+      "declaration": {
+        "date": "2026-08-19",
+        "source": {
+          "titre": "franceinfo — Présidentielle 2027 : le chanteur Francis Lalanne officiellement candidat",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-chanteur-francis-lalanne-officiellement-candidat-premier-meeting-vendredi-a-paris_8153588.html",
+          "date": "2026-08-19"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature annoncée par communiqué au nom du mouvement citoyen « France Libre » ; aucune procédure de désignation mentionnée.",
+        "source": {
+          "titre": "franceinfo — Présidentielle 2027 : le chanteur Francis Lalanne officiellement candidat",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-chanteur-francis-lalanne-officiellement-candidat-premier-meeting-vendredi-a-paris_8153588.html",
+          "date": "2026-08-19"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "branco": {
+      "declaration": {
+        "date": "2025-12-19",
+        "source": {
+          "titre": "Sud Radio — L'avocat Juan Branco candidat à la présidentielle",
+          "url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle",
+          "date": "2025-12-19"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature annoncée par lui-même sur Sud Radio ; sans étiquette, soutenu par Les Ruches.",
+        "source": {
+          "titre": "Sud Radio — L'avocat Juan Branco candidat à la présidentielle",
+          "url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle",
+          "date": "2025-12-19"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "durif": {
+      "declaration": {
+        "date": "2026-08-23",
+        "source": {
+          "titre": "Wikipédia — Candidatures à l'élection présidentielle française de 2027",
+          "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-22"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature annoncée par lui-même ; aucune procédure de désignation mentionnée.",
+        "source": {
+          "titre": "20 Minutes — Présidentielle 2027 : Sylvain Durif veut se présenter",
+          "url": "https://www.20minutes.fr/politique/4241053-20260826-presidentielle-2027-sylvain-durif-christ-cosmique-veut-presenter",
+          "date": "2026-08-26"
+        }
+      },
+      "precedentes": [
+        {
+          "annee": 2017,
+          "resultat": "non qualifié (aucun parrainage validé dans la liste publiée par le Conseil constitutionnel)",
+          "source": {
+            "titre": "Conseil constitutionnel — Présidentielle 2017 : liste des parrainages validés (fichier complet)",
+            "url": "https://presidentielle2017.conseil-constitutionnel.fr/wp-content/uploads/2017/03/parrainagestotal.csv",
+            "date": "2017-03"
+          }
+        }
+      ],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "mikolajczak": {
+      "declaration": {
+        "date": null,
+        "source": {
+          "titre": "JHM — Sous la bannière d'Équinoxe, Antoine Mikolajczak brigue la présidence de la République",
+          "url": "https://jhm.fr/sous-la-banniere-dequinoxe-antoine-mikolajczak-brigue-la-presidence-de-la-republique/",
+          "date": "2026-07-12"
+        }
+      },
+      "designation": {
+        "mode": "vote_militants",
+        "detail": "Désigné par une élection au jugement majoritaire des adhérents d'Équinoxe (date et résultats non précisés).",
+        "source": {
+          "titre": "Équinoxe — Présidentielle 2027",
+          "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+          "date": "2026-09-22"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": "Le programme officiel pour 2027 est annoncé « très prochainement » sur le site du parti (consulté le 22 septembre 2026).",
+        "url": null,
+        "source": {
+          "titre": "Équinoxe — Présidentielle 2027",
+          "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+          "date": "2026-09-22"
+        }
+      }
+    },
+    "melenchon": {
+      "declaration": {
+        "date": "2026-05-03",
+        "source": {
+          "titre": "LCP – Présidentielle : Jean-Luc Mélenchon officialise sa candidature pour 2027",
+          "url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851",
+          "date": "2026-05-03"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature annoncée par Jean-Luc Mélenchon au journal de 20 h de TF1, sans primaire ni vote interne. Soutenu par le NPA-l'Anticapitaliste.",
+        "source": {
+          "titre": "Wikipédia – Candidatures à l'élection présidentielle française de 2027",
+          "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-22"
+        }
+      },
+      "precedentes": [
+        {
+          "annee": 2022,
+          "resultat": "21,95 % au 1er tour (3e)",
+          "source": {
+            "titre": "Wikipédia – Jean-Luc Mélenchon",
+            "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+            "date": "2026-09-22"
+          }
+        },
+        {
+          "annee": 2017,
+          "resultat": "19,58 % au 1er tour (4e)",
+          "source": {
+            "titre": "Wikipédia – Jean-Luc Mélenchon",
+            "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+            "date": "2026-09-22"
+          }
+        },
+        {
+          "annee": 2012,
+          "resultat": "11,10 % au 1er tour (4e)",
+          "source": {
+            "titre": "Wikipédia – Jean-Luc Mélenchon",
+            "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+            "date": "2026-09-22"
+          }
+        }
+      ],
+      "chiffrage": {
+        "publie": null,
+        "detail": "Un chiffrage de « L'Avenir en commun » avait été présenté en 2022 pour l'édition 2022 du programme. Aucun chiffrage global de l'édition 2025, en cours de réactualisation au 22/09/2026, n'a été trouvé.",
+        "url": null,
+        "source": {
+          "titre": "Mélenchon 2027 – Comment a été conçu le programme",
+          "url": "https://melenchon2027.fr/comment-a-ete-concu-le-programme/",
+          "date": "2026-09-22"
+        }
+      }
+    },
+    "faure": {
+      "declaration": {
+        "date": "2026-08-30",
+        "source": {
+          "titre": "franceinfo",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/le-chef-du-parti-socialiste-olivier-faure-confirme-sa-candidature-a-la-primaire-de-son-camp-en-vue-de-l-election-presidentielle_8169896.html",
+          "date": "2026-08-30"
+        }
+      },
+      "designation": {
+        "mode": "primaire_fermee",
+        "detail": "Candidat·e validé·e à la primaire « Choisir 2027 » du PS, de Place publique et de la GRS (choisir2027.fr), ouverte aux adhérents à jour de cotisation et aux inscrits au « pôle social-démocrate » (15 €, 10 € tarif réduit). 1er tour les 9-10 octobre 2026, 2d tour les 16-17 octobre 2026. Olivier Faure a confirmé sa candidature à la primaire le 30 août 2026.",
+        "source": {
+          "titre": "Wikipédia – Primaire présidentielle socialiste française de 2026",
+          "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+          "date": "2026-09-22"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "glucksmann": {
+      "declaration": {
+        "date": "2026-08-23",
+        "source": {
+          "titre": "franceinfo",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/le-cofondateur-de-place-publique-raphael-glucksmann-officialise-sa-candidature-a-l-election-presidentielle-pour-relever-la-france_8158841.html",
+          "date": "2026-08-23"
+        }
+      },
+      "designation": {
+        "mode": "primaire_fermee",
+        "detail": "Candidat·e validé·e à la primaire « Choisir 2027 » du PS, de Place publique et de la GRS (choisir2027.fr), ouverte aux adhérents à jour de cotisation et aux inscrits au « pôle social-démocrate » (15 €, 10 € tarif réduit). 1er tour les 9-10 octobre 2026, 2d tour les 16-17 octobre 2026. Raphaël Glucksmann a officialisé le 23 août 2026 sa candidature à la présidentielle, en passant par cette primaire.",
+        "source": {
+          "titre": "Wikipédia – Primaire présidentielle socialiste française de 2026",
+          "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+          "date": "2026-09-22"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "guedj": {
+      "declaration": {
+        "date": "2026-08-23",
+        "source": {
+          "titre": "Wikipédia – Primaire présidentielle socialiste française de 2026",
+          "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+          "date": "2026-09-22"
+        }
+      },
+      "designation": {
+        "mode": "primaire_fermee",
+        "detail": "Candidat·e validé·e à la primaire « Choisir 2027 » du PS, de Place publique et de la GRS (choisir2027.fr), ouverte aux adhérents à jour de cotisation et aux inscrits au « pôle social-démocrate » (15 €, 10 € tarif réduit). 1er tour les 9-10 octobre 2026, 2d tour les 16-17 octobre 2026. Jérôme Guedj avait annoncé le 5 février 2026 sa candidature à la présidentielle, puis a rejoint la primaire (23 août 2026, selon Wikipédia).",
+        "source": {
+          "titre": "Wikipédia – Primaire présidentielle socialiste française de 2026",
+          "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+          "date": "2026-09-22"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": false,
+        "detail": "Au 22/09/2026, le site de campagne présente sept priorités, sans chiffrage global du programme. Son livre paru le 27/08/2026 n'a pas été consulté.",
+        "url": "https://www.jeromeguedj2027.fr/",
+        "source": {
+          "titre": "Site de campagne de Jérôme Guedj",
+          "url": "https://www.jeromeguedj2027.fr/",
+          "date": "2026-09-22"
+        }
+      }
+    },
+    "royal": {
+      "declaration": {
+        "date": "2026-07-10",
+        "source": {
+          "titre": "Brut – Présidentielle 2027 : Ségolène Royal annonce sa participation à la primaire",
+          "url": "https://www.brut.media/fr/articles/france/politique/presidentielle-2027-segolene-royal-annonce-sa-participation-a-la-primaire-de-l-espace-socialiste",
+          "date": "2026-07-10"
+        }
+      },
+      "designation": {
+        "mode": "primaire_fermee",
+        "detail": "Candidat·e validé·e à la primaire « Choisir 2027 » du PS, de Place publique et de la GRS (choisir2027.fr), ouverte aux adhérents à jour de cotisation et aux inscrits au « pôle social-démocrate » (15 €, 10 € tarif réduit). 1er tour les 9-10 octobre 2026, 2d tour les 16-17 octobre 2026. Ségolène Royal a annoncé sa participation le 10 juillet 2026.",
+        "source": {
+          "titre": "Wikipédia – Primaire présidentielle socialiste française de 2026",
+          "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+          "date": "2026-09-22"
+        }
+      },
+      "precedentes": [
+        {
+          "annee": 2007,
+          "resultat": "25,87 % au 1er tour, 46,94 % au 2d tour face à Nicolas Sarkozy (battue)",
+          "source": {
+            "titre": "Wikipédia – Ségolène Royal",
+            "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+            "date": "2026-09-22"
+          }
+        }
+      ],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "maurel": {
+      "declaration": {
+        "date": "2026-09-04",
+        "source": {
+          "titre": "franceinfo",
+          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-04-septembre-2026_8167499.html",
+          "date": "2026-09-04"
+        }
+      },
+      "designation": {
+        "mode": "primaire_fermee",
+        "detail": "Candidat·e validé·e à la primaire « Choisir 2027 » du PS, de Place publique et de la GRS (choisir2027.fr), ouverte aux adhérents à jour de cotisation et aux inscrits au « pôle social-démocrate » (15 €, 10 € tarif réduit). 1er tour les 9-10 octobre 2026, 2d tour les 16-17 octobre 2026. Emmanuel Maurel (GRS) a annoncé sa candidature le 4 septembre 2026.",
+        "source": {
+          "titre": "Wikipédia – Primaire présidentielle socialiste française de 2026",
+          "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+          "date": "2026-09-22"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": false,
+        "detail": "Le programme détaillé publié sur le site du candidat (page non datée) ne comporte pas de chiffrage global ; il chiffre une mesure isolée (grand emprunt pour un plan d'investissement de 300 milliards d'euros).",
+        "url": "https://emmanuel-maurel.fr/programme/",
+        "source": {
+          "titre": "Programme d'Emmanuel Maurel",
+          "url": "https://emmanuel-maurel.fr/programme/",
+          "date": "2026-09-22"
+        }
+      }
+    },
+    "roussel": {
+      "declaration": {
+        "date": "2026-09-06",
+        "source": {
+          "titre": "LCP – Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
+          "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+          "date": "2026-09-06"
+        }
+      },
+      "designation": {
+        "mode": "vote_militants",
+        "detail": "Investi par un vote des adhérents du PCF (72 %). Ne participe à aucune primaire.",
+        "source": {
+          "titre": "LCP – Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
+          "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+          "date": "2026-09-06"
+        }
+      },
+      "precedentes": [
+        {
+          "annee": 2022,
+          "resultat": "2,28 % au 1er tour (8e)",
+          "source": {
+            "titre": "Wikipédia – Fabien Roussel",
+            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+            "date": "2026-09-22"
+          }
+        }
+      ],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "ruffin": {
+      "declaration": {
+        "date": "2026-01-26",
+        "source": {
+          "titre": "Wikipédia – François Ruffin",
+          "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+          "date": "2026-09-22"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidat déclaré le 26 janvier 2026 à la primaire de la gauche unitaire ; depuis l'abandon de cette primaire à l'été 2026, il maintient sa candidature hors primaire.",
+        "source": {
+          "titre": "Orange / AFP – Présidentielle : François Ruffin, l'ex-insoumis qui a du mal à « socialiser »",
+          "url": "https://actu.orange.fr/politique/presidentielle-francois-ruffin-l-ex-insoumis-qui-a-du-mal-a-socialiser-CNT000002rVfmk.html",
+          "date": "2026-09-16"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "cazeneuve": {
+      "declaration": {
+        "date": "2026-07-16",
+        "source": {
+          "titre": "Le Monde – Bernard Cazeneuve se déclare candidat dans un entretien au Parisien et décline la primaire socialiste",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/16/presidentielle-2027-bernard-cazeneuve-se-declare-candidat-dans-un-entretien-au-parisien-et-decline-la-primaire-socialiste_6723827_823448.html",
+          "date": "2026-07-16"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature présentée par Bernard Cazeneuve lui-même (La Convention), après sa « Lettre aux Français » ; il décline la primaire socialiste. LCP et Public Sénat le classent encore parmi les prétendants.",
+        "source": {
+          "titre": "Le Monde – Bernard Cazeneuve se déclare candidat dans un entretien au Parisien et décline la primaire socialiste",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/16/presidentielle-2027-bernard-cazeneuve-se-declare-candidat-dans-un-entretien-au-parisien-et-decline-la-primaire-socialiste_6723827_823448.html",
+          "date": "2026-07-16"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "bouamrane": {
+      "declaration": {
+        "date": "2026-06-09",
+        "source": {
+          "titre": "Wikipédia – Candidatures à l'élection présidentielle française de 2027",
+          "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-22"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature annoncée par Karim Bouamrane lui-même (France Inter, selon Wikipédia). Il refuse de participer à la primaire socialiste, qu'il juge « fermée ».",
+        "source": {
+          "titre": "CNews – Karim Bouamrane ne participera pas à la primaire socialiste",
+          "url": "https://www.cnews.fr/france/2026-08-26/presidentielle-2027-karim-bouamrane-ne-participera-pas-la-primaire-socialiste",
+          "date": "2026-08-26"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "hollande": {
+      "declaration": {
+        "date": null,
+        "source": null
+      },
+      "designation": {
+        "mode": null,
+        "detail": "Non déclaré au 22/09/2026. Refuse la primaire socialiste et situe un éventuel « moment de vérité » en décembre 2026.",
+        "source": {
+          "titre": "France 24 / AFP – Hollande continue de décliner la primaire et table sur un « moment de vérité » en décembre",
+          "url": "https://www.france24.com/fr/info-en-continu/20260828-hollande-continue-de-d%C3%A9cliner-la-primaire-et-table-sur-un-moment-de-v%C3%A9rit%C3%A9-en-d%C3%A9cembre",
+          "date": "2026-08-28"
+        }
+      },
+      "precedentes": [
+        {
+          "annee": 2012,
+          "resultat": "28,63 % au 1er tour, 51,64 % au 2d tour face à Nicolas Sarkozy (élu)",
+          "source": {
+            "titre": "Wikipédia – Élection présidentielle française de 2012",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+            "date": "2026-09-22"
+          }
+        }
+      ],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "arthaud": {
+      "declaration": {
+        "date": "2025-12-08",
+        "source": {
+          "titre": "franceinfo",
+          "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html",
+          "date": "2025-12-08"
+        }
+      },
+      "designation": {
+        "mode": "instance_parti",
+        "detail": "Le 55e congrès de Lutte ouvrière (6-7 décembre 2025) a décidé qu'elle serait candidate au nom du parti.",
+        "source": {
+          "titre": "Lutte de classe – Le 55e congrès de Lutte ouvrière",
+          "url": "https://lutte-ouvriere.org/mensuel/article/55e-congres-lutte-ouvriere-189173.html",
+          "date": "2025-12-14"
+        }
+      },
+      "precedentes": [
+        {
+          "annee": 2022,
+          "resultat": "0,56 % au 1er tour (12e)",
+          "source": {
+            "titre": "Wikipédia – Nathalie Arthaud",
+            "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+            "date": "2026-09-22"
+          }
+        },
+        {
+          "annee": 2017,
+          "resultat": "0,64 % au 1er tour (10e)",
+          "source": {
+            "titre": "Wikipédia – Nathalie Arthaud",
+            "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+            "date": "2026-09-22"
+          }
+        },
+        {
+          "annee": 2012,
+          "resultat": "0,56 % au 1er tour (9e)",
+          "source": {
+            "titre": "Wikipédia – Nathalie Arthaud",
+            "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+            "date": "2026-09-22"
+          }
+        }
+      ],
+      "chiffrage": {
+        "publie": null,
+        "detail": "Lutte ouvrière ne présente pas de programme de gouvernement mais une liste de revendications (brochure de campagne de juin 2026).",
+        "url": null,
+        "source": {
+          "titre": "Lutte ouvrière – Brochure de campagne été 2026",
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+          "date": "2026-06"
+        }
+      }
+    },
+    "kazib": {
+      "declaration": {
+        "date": "2026-06-01",
+        "source": {
+          "titre": "Wikipédia – Candidatures à l'élection présidentielle française de 2027",
+          "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-22"
+        }
+      },
+      "designation": {
+        "mode": null,
+        "detail": "Candidature portée par Révolution permanente ; le processus interne de désignation n'est pas précisé par les sources consultées.",
+        "source": {
+          "titre": "Révolution permanente – Anasse Kazib 2027 : 500 parrainages pour que la classe ouvrière s'invite dans la présidentielle",
+          "url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-500-parrainages-pour-que-la-classe-ouvriere-s-invite-dans-la-presidentielle",
+          "date": "2026-06-19"
+        }
+      },
+      "precedentes": [
+        {
+          "annee": 2022,
+          "resultat": "non qualifié (160 parrainages)",
+          "source": {
+            "titre": "Wikipédia – Anasse Kazib",
+            "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib",
+            "date": "2026-09-22"
+          }
+        }
+      ],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "labib": {
+      "declaration": {
+        "date": "2026-06-17",
+        "source": {
+          "titre": "NPA-Révolutionnaires – Sur RTL : Selma Labib officiellement candidate pour le NPA-Révolutionnaires",
+          "url": "https://npa-revolutionnaires.org/sur-rtl-presidentielle-2027-selma-labib-officiellement-candidate-pour-le-npa-revolutionnaires/",
+          "date": "2026-06-18"
+        }
+      },
+      "designation": {
+        "mode": null,
+        "detail": "Candidature annoncée par le NPA-Révolutionnaires, dont elle est porte-parole ; le processus interne de désignation n'est pas précisé par les sources consultées.",
+        "source": {
+          "titre": "NPA-Révolutionnaires – Sur RTL : Selma Labib officiellement candidate pour le NPA-Révolutionnaires",
+          "url": "https://npa-revolutionnaires.org/sur-rtl-presidentielle-2027-selma-labib-officiellement-candidate-pour-le-npa-revolutionnaires/",
+          "date": "2026-06-18"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "tondelier": {
+      "declaration": {
+        "date": "2025-10-22",
+        "source": {
+          "titre": "Wikipédia – Marine Tondelier",
+          "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+          "date": "2026-09-22"
+        }
+      },
+      "designation": {
+        "mode": "vote_militants",
+        "detail": "Désignée le 8 décembre 2025 par un vote des adhérents des Écologistes (86 %, 5 341 voix), alors pour la primaire de la gauche unitaire. Après l'abandon de celle-ci, candidature maintenue par le conseil fédéral ; un référendum interne (10-13 décembre 2026) doit trancher entre candidature autonome et retrait au profit d'un autre candidat.",
+        "source": {
+          "titre": "Wikipédia – Primaire de la gauche unitaire de 2026",
+          "url": "https://fr.wikipedia.org/wiki/Primaire_de_la_gauche_unitaire_de_2026",
+          "date": "2026-09-22"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "batho": {
+      "declaration": {
+        "date": "2025-11-25",
+        "source": {
+          "titre": "France 24 / AFP – L'ex-ministre Delphine Batho candidate à la présidentielle",
+          "url": "https://www.france24.com/fr/info-en-continu/20251125-l-ex-ministre-delphine-batho-candidate-%C3%A0-la-pr%C3%A9sidentielle-pour-conjurer-la-rikikisation-de-l-%C3%A9cologie",
+          "date": "2025-11-25"
+        }
+      },
+      "designation": {
+        "mode": "instance_parti",
+        "detail": "Investie par Génération écologie lors de sa 15e convention nationale (6-7 juin 2026, Châtillon), convention d'investiture pour la présidentielle. Modalités et résultat du vote non précisés.",
+        "source": {
+          "titre": "Génération écologie – 15e convention nationale",
+          "url": "https://www.generationecologie.fr/agenda/15e-convention-nationale-de-generation-ecologie/",
+          "date": "2026-09-22"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": "Pas de programme publié au 22/09/2026 ; la résolution d'investiture appelle à « construire le programme de gouvernement ».",
+        "url": null,
+        "source": {
+          "titre": "Site de campagne de Delphine Batho",
+          "url": "https://www.delphinebatho.fr/",
+          "date": "2026-09-22"
+        }
+      }
+    },
+    "massard": {
+      "declaration": {
+        "date": "2026-04-02",
+        "source": {
+          "titre": "Le Télégramme – La Pontivyenne Lydie Massard candidate à la primaire de la gauche",
+          "url": "https://www.letelegramme.fr/morbihan/pontivy-56300/la-pontivyenne-lydie-massard-candidate-a-la-primaire-de-la-gauche-pour-la-prochaine-presidentielle-7017809.php",
+          "date": "2026-04-02"
+        }
+      },
+      "designation": {
+        "mode": null,
+        "detail": "Candidate (Union démocratique bretonne) à la primaire de la gauche unitaire, abandonnée à l'été 2026. Wikipédia indique une candidature « mise en suspens » (mention non sourcée) ; maintien non confirmé.",
+        "source": {
+          "titre": "Wikipédia – Lydie Massard",
+          "url": "https://fr.wikipedia.org/wiki/Lydie_Massard",
+          "date": "2026-09-22"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    }
+  },
+  "a_verifier": [
+    "philippe, attal, retailleau, lisnard, bertrand, le-pen, zemmour, dupont-aignan, philippot, asselineau, lassalle, lalanne, branco, durif, mathieu, villepin, le-maire : aucun chiffrage global publié identifié au 22 septembre 2026 (chiffrage laissé à null).",
+    "attal : la page programme du site de campagne ne contient pas de chiffrage global, mais le programme complet n'a pas été identifié ; publie laissé à null.",
+    "lisnard : date de déclaration retenue 31 mars 2026 (« Je suis candidat », départ de LR). Sa biographie indique une annonce de candidature le 21 janvier 2026, et Wikipédia une « volonté d'être candidat » exprimée le 17 janvier 2025 : à trancher.",
+    "bertrand : Wikipédia (page Candidatures 2027) date l'annonce de sa candidature au 3 février 2024 (entretien à Ouest-France) ; retenu ici le 27 août 2026 (« sera » candidat), déclaration officielle annoncée pour fin 2026.",
+    "bertrand : candidat déclaré pour 2022 puis candidat au congrès LR de 2021 (22,36 %, éliminé) ; non compté dans « precedentes » car il ne s'agit pas de l'élection présidentielle elle-même.",
+    "le-maire : candidat à la primaire de la droite et du centre 2016 (2,38 %) ; non compté dans « precedentes » (primaire, pas l'élection présidentielle).",
+    "asselineau : date de déclaration pour 2027 non établie (UPR confirme la candidature le 7 juillet 2026 ; Wikipédia mentionne une intention exprimée le 31 août 2023).",
+    "asselineau 2012 : le chiffre de 18 parrainages provient du Monde cité par Wikipédia ; le Conseil constitutionnel ne publiait pas alors les parrainages des non-qualifiés.",
+    "villepin 2012 : nombre de parrainages non connu (non publié en 2012).",
+    "philippot 2022 : 1 parrainage validé figure dans la liste du Conseil constitutionnel alors qu'il s'était retiré avant la clôture.",
+    "durif : date de déclaration 23 août 2026 selon Wikipédia (article 20 Minutes du 26 août 2026). Résultat 2017 déduit de son absence de la liste complète des parrainages validés publiée par le Conseil constitutionnel.",
+    "lalanne : franceinfo (19 août 2026) le dit « officiellement candidat » ; Wikipédia date l'annonce au 21 août 2026.",
+    "mlekuz : date exacte de déclaration inconnue (« début 2026 » selon Wikipédia).",
+    "mikolajczak : date de déclaration et date/résultats du vote interne d'Équinoxe inconnus.",
+    "egger, asselineau : mode de désignation interne non connu (mode = null).",
+    "le-pen : mode « auto » retenu faute de procédure interne mentionnée par la source ; à confirmer (éventuelle investiture par une instance du RN).",
+    "cazeneuve : Le Monde (16/07/2026) rapporte une déclaration de candidature dans Le Parisien, mais LCP et Public Sénat le classent encore parmi les prétendants.",
+    "ruffin : date de déclaration retenue = 26/01/2026 (candidature à la primaire de la gauche unitaire, Wikipédia) ; Wikipédia « Candidatures 2027 » retient le meeting du 01/04/2025, présenté ailleurs comme un prélude.",
+    "guedj : date de candidature à la primaire (23/08/2026) tirée de Wikipédia ; annonce initiale de candidature présidentielle le 05/02/2026.",
+    "roussel : date retenue = investiture par le vote des adhérents (06/09/2026) ; une annonce antérieure n'a pas été recherchée.",
+    "kazib : date de déclaration 01/06/2026 (Wikipédia) ; l'article de Révolution permanente est daté du 19/06/2026 selon la page.",
+    "kazib, labib, massard, hollande : mode de désignation inconnu (null).",
+    "melenchon : le chiffrage de 2022 existe ; vérifier si un chiffrage de l'édition 2025/2027 de L'Avenir en commun est publié.",
+    "tondelier : le programme des Écologistes (juillet 2026) et le dossier « Budget 2027 » comportent des montants ; chiffrage global non vérifié.",
+    "chiffrage null pour la plupart des candidats : livres-programmes (Faure, Guedj, Glucksmann) et Lettre de Cazeneuve non consultés."
+  ]
+}

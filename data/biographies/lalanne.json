@@ -1,0 +1,72 @@
+{
+  "id": "lalanne",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lalanne_2021_%28cropped%29.jpg/500px-Lalanne_2021_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lalanne_2021_(cropped).jpg",
+    "auteur": "Thomas Bresson",
+    "licence": "CC BY 4.0",
+    "annee": "2021",
+    "officielle": false,
+    "legende": "Francis Lalanne en juillet 2021"
+  },
+  "presentation": {
+    "texte": "Francis Lalanne est un chanteur, auteur-compositeur-interprète et acteur, connu pour la chanson « On se retrouvera » (1986). Candidat à plusieurs élections depuis 2007, d'abord avec des formations écologistes, il a conduit la liste « France libre » aux européennes de 2024 avec l'humoriste Dieudonné. Il a annoncé en août 2026 sa candidature à la présidentielle de 2027, soutenue par le mouvement citoyen France Libre.",
+    "sources": [
+      { "titre": "Wikipédia – Francis Lalanne", "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne", "date": "2026-09-22" },
+      { "titre": "franceinfo – Présidentielle 2027 : le chanteur Francis Lalanne annonce être candidat", "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-chanteur-francis-lalanne-officiellement-candidat-premier-meeting-vendredi-a-paris_8153588.html", "date": "2026-08-19" }
+    ]
+  },
+  "naissance": {
+    "date": "1958-08-08",
+    "lieu": "Bayonne (Pyrénées-Atlantiques)",
+    "source": { "titre": "Wikipédia – Francis Lalanne", "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "2026", "texte": "Candidat déclaré à l'élection présidentielle de 2027, avec le soutien du mouvement citoyen France Libre et de Dieudonné.", "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-chanteur-francis-lalanne-officiellement-candidat-premier-meeting-vendredi-a-paris_8153588.html", "date": "2026-08-19" } },
+    { "periode": "2026", "texte": "Municipales à Lyon : le tribunal administratif rejette, le 26 février 2026, son recours contre le refus d'enregistrer sa liste dans le 5e arrondissement, motivé par son inéligibilité.", "source": { "titre": "Tribunal administratif de Lyon – Élections municipales à Lyon : le tribunal rejette le recours contre le refus de la préfète d'enregistrer la liste de Francis Lalanne", "url": "https://lyon.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/elections-municipales-a-lyon-le-tribunal-rejette-le-recours-contre-le-refus-de-la-prefete-d-enregistrer-la-liste-de-francis-lalanne", "date": "2026-02-27" } },
+    { "periode": "Avril 2025 - octobre 2026", "texte": "Déclaré inéligible pour dix-huit mois par le Conseil d'État, juge de l'élection européenne, le 17 avril 2025, pour n'avoir pas déposé de compte de campagne en tant que tête de liste « France libre ».", "source": { "titre": "Tribunal administratif de Lyon (rappel de la décision du Conseil d'État du 17 avril 2025)", "url": "https://lyon.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/elections-municipales-a-lyon-le-tribunal-rejette-le-recours-contre-le-refus-de-la-prefete-d-enregistrer-la-liste-de-francis-lalanne", "date": "2026-02-27" } },
+    { "periode": "2024", "texte": "Suppléant de Dieudonné aux législatives anticipées dans la 1re circonscription de la Guadeloupe, sous l'étiquette « France Libre » : 1,03 %.", "source": { "titre": "Wikipédia – Francis Lalanne", "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne", "date": "2026-09-22" } },
+    { "periode": "2024", "texte": "Tête de liste « France libre » aux élections européennes, liste commune avec Dieudonné.", "source": { "titre": "Wikipédia – Francis Lalanne", "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne", "date": "2026-09-22" } },
+    { "periode": "2022", "texte": "Candidat aux législatives dans la 3e circonscription de la Charente : 2,12 %.", "source": { "titre": "Wikipédia – Francis Lalanne", "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne", "date": "2026-09-22" } },
+    { "periode": "2019", "texte": "Tête de la liste « Alliance jaune » aux élections européennes : 0,53 %.", "source": { "titre": "Wikipédia – Francis Lalanne", "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne", "date": "2026-09-22" } },
+    { "periode": "2009", "texte": "Tête de liste de l'Alliance écologiste indépendante aux européennes dans la circonscription Sud-Est : 3,7 %.", "source": { "titre": "Wikipédia – Francis Lalanne", "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne", "date": "2026-09-22" } },
+    { "periode": "2007", "texte": "Candidat du Mouvement écologiste indépendant aux législatives dans la 2e circonscription du Bas-Rhin : 3,5 %.", "source": { "titre": "Wikipédia – Francis Lalanne", "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "Depuis 1979", "texte": "Auteur-compositeur-interprète : premier album « Rentre chez toi » (1979), succès « On se retrouvera » (1986).", "source": { "titre": "Wikipédia – Francis Lalanne", "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne", "date": "2026-09-22" } },
+    { "periode": "1996", "texte": "Voix française de Quasimodo dans « Le Bossu de Notre-Dame » (Disney).", "source": { "titre": "Wikipédia – Francis Lalanne", "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne", "date": "2026-09-22" } },
+    { "periode": "1997-2003", "texte": "Gérant puis propriétaire de l'entreprise de figurines Starlux (Périgueux), jusqu'à sa liquidation.", "source": { "titre": "Wikipédia – Francis Lalanne", "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne", "date": "2026-09-22" } },
+    { "periode": "2004-2013", "texte": "Président du club de football de l'AS Fresnoy-le-Grand (Aisne).", "source": { "titre": "Wikipédia – Francis Lalanne", "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne", "date": "2026-09-22" } }
+  ],
+  "affaires": [
+    {
+      "titre": "Vol et dégradation au préjudice de son ex-compagne",
+      "texte": "Francis Lalanne était poursuivi devant le tribunal correctionnel d'Aix-en-Provence pour le vol du téléphone de son ex-compagne (29 janvier 2023) et une dégradation (11 février 2023). Absent à l'audience, il a été reconnu coupable et condamné à 120 jours-amende de 10 euros.",
+      "etat": "condamnation_non_definitive",
+      "etat_detail": "Condamnation en première instance rapportée par La Provence le 7 mars 2025 ; aucune information trouvée sur un éventuel recours. Francis Lalanne reste présumé innocent tant que la décision n'est pas définitive.",
+      "date_etat": "2025-03-07",
+      "sources": [
+        { "titre": "La Provence – Le chanteur Francis Lalanne condamné pour vol et dégradation par le tribunal correctionnel d'Aix", "url": "https://www.laprovence.com/article/faits-divers-justice/41223274105986/a-aix-le-chanteur-francis-lalanne-condamne-pour-vol-et-degradation-a-aix-en-provence", "date": "2025-03-07" }
+      ]
+    },
+    {
+      "titre": "Enquête pour provocation à la commission d'atteintes aux intérêts fondamentaux de la Nation",
+      "texte": "Le parquet de Paris avait ouvert en janvier 2021 une enquête pour « provocation à la commission d'atteintes aux intérêts fondamentaux de la Nation » après une tribune de Francis Lalanne appelant à « mettre l'État hors d'état de nuire » et à la destitution du président de la République.",
+      "etat": "classement",
+      "etat_detail": "Enquête classée sans suite par le parquet de Paris (annonce du 1er avril 2021).",
+      "date_etat": "2021-04-01",
+      "sources": [
+        { "titre": "HuffPost (avec AFP) – L'enquête contre Francis Lalanne pour avoir appelé à « mettre l'État hors d'état de nuire » classée sans suite", "url": "https://www.huffingtonpost.fr/entry/lenquete-contre-francis-lalanne-pour-avoir-appele-a-mettre-letat-hors-detat-de-nuire-classee-sans-suite_fr_6065eca7c5b696686f6f369f", "date": "2021-04-01" }
+      ]
+    }
+  ],
+  "a_verifier": [
+    "Inéligibilité : prononcée le 17 avril 2025 pour 18 mois « à compter de cette date » (TA de Lyon), donc jusqu'au 17 octobre 2026 ; Francis Lalanne redevient éligible avant la présidentielle d'avril 2027, sauf autre décision non trouvée. Le lien direct vers la décision du Conseil d'État n'a pas été ouvert.",
+    "Procès pour « abandon de famille » (pension alimentaire non versée) annoncé pour le 2 octobre 2025 devant le tribunal correctionnel (La Provence, 7 mars 2025) : issue non trouvée. Non publié.",
+    "Février 2023 : La Dépêche (reprenant Le Parisien, 21/02/2023) évoque une composition pénale (800 euros d'amende, interdiction de paraître au domicile de son ex-compagne) pour harcèlement moral, alors que La Provence (7/03/2025) écrit que les plaintes pour harcèlement avaient été classées sans suite. Sources contradictoires : non publié.",
+    "Plainte d'un journaliste et d'un cadreur de l'émission Quotidien pour des coups (juin 2021) et plainte d'une contrôleuse SNCF pour menaces (septembre 2021) : suites judiciaires non trouvées. Non publiées.",
+    "Score de la liste « France libre » aux européennes de 2024 : 0,02 % selon Wikipédia, 0,04 % selon CNews (19/08/2026). Non publié ; à vérifier sur le site du ministère de l'Intérieur.",
+    "Wikipédia situe la liste municipale de 2026 dans le 8e arrondissement de Lyon ; le communiqué du tribunal administratif mentionne le 5e arrondissement (retenu)."
+  ]
+}

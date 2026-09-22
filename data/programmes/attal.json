@@ -70,6 +70,12 @@
     },
     {
       "theme": "travail",
+      "texte": "Équivalent d'un 13e mois pour les classes moyennes : hausse ciblée de 250 euros nets par mois au salaire médian (2 200 euros), financée par des baisses de charges.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Dans Le Télégramme, Gabriel Attal veut un « choc de salaires »", "url": "https://attalpresident.fr/actualites/dans-le-telegramme-gabriel-attal-veut-un-choc-de-salaires-et-instaurer-le-droit-au-brut", "date": "2026-07-22" }
+    },
+    {
+      "theme": "travail",
       "texte": "Créer un livret d'épargne sur le modèle du Livret A pour financer des places en crèche et former 200 000 professionnels de la petite enfance d'ici 2030.",
       "nature": "programme",
       "source": { "titre": "attalpresident.fr — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "date": "2026-09-22" }
@@ -219,6 +225,30 @@
       "source": { "titre": "attalpresident.fr — BFM TV : Gabriel Attal veut changer de modèle", "url": "https://attalpresident.fr/actualites/bfm-tv-gabriel-attal-veut-changer-de-modele-pour-redonner-de-la-puissance-a-la-france", "date": "2026-09-06" }
     },
     {
+      "theme": "institutions",
+      "texte": "Inscrire dans la Constitution un « principe de rapidité » : délai maximal de deux mois pour répondre aux porteurs de projets.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Dans le JDD, la plus grande réforme institutionnelle depuis 1958", "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958", "date": "2026-08-02" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Réformer les nominations aux hautes fonctions de l'État, avec un système inspiré du « spoils system » américain.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Dans le JDD, la plus grande réforme institutionnelle depuis 1958", "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958", "date": "2026-08-02" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Supprimer le juge de l'application des peines et les remises automatiques de peine ; réécrire entièrement le Code de procédure pénale.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Dans le JDD, la plus grande réforme institutionnelle depuis 1958", "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958", "date": "2026-08-02" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Construire de nouvelles prisons classées opérations d'intérêt national.",
+      "nature": "programme",
+      "source": { "titre": "attalpresident.fr — Dans le JDD, la plus grande réforme institutionnelle depuis 1958", "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958", "date": "2026-08-02" }
+    },
+    {
       "theme": "ecologie",
       "texte": "Faire passer le rythme de réduction des émissions de 1,8 % à 5 % par an sur 2025-2030.",
       "nature": "programme",
@@ -245,9 +275,10 @@
     { "titre": "LCP — Que proposent les candidats sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751", "type": "article", "date": "2026-09-16" }
   ],
   "a_verifier": [
-    "« 13e mois pour tous », nouveau Code du travail, coopération avec l'Algérie : titre CNews du 30/04/2026 (https://www.cnews.fr/france/2026-04-30/quotas-dimmigration-13e-mois-pour-tous-nouveau-code-du-travail-cooperation-avec) — page en 403, contenu non vérifié.",
-    "Réforme institutionnelle (entretien JDD, août 2026) : décentralisation, principe constitutionnel de « rapidité » (réponse de l'administration sous 2 mois, silence valant accord), plan de départs volontaires de 100 000 agents — lus seulement dans le Journal du Net ; article JDD en 403.",
-    "Sécurité/justice : alourdissement des peines pour crimes et délits violents, priorité au narcotrafic — aucune source primaire ou média ouverte ne l'a confirmé.",
+    "La formule « 13e mois pour tous » (titre CNews du 30/04/2026, page en 403) n'est pas confirmée telle quelle ; seul l'« équivalent 13e mois pour les classes moyennes » est publié. Coopération avec l'Algérie : non vérifiée.",
+    "Réforme institutionnelle (JDD, 02/08/2026, relayé sur attalpresident.fr) : restent non confirmés sur cette page le silence de l'administration valant accord et le plan de départs volontaires de 100 000 agents. Également cités sans détail : réforme constitutionnelle contre la délinquance des mineurs, réorganisation territoriale pour « déparisianiser la France », référendums locaux facilités.",
+    "Sécurité/justice : priorité au narcotrafic et alourdissement général des peines toujours sans source ouverte de 2026. L'entretien Europe 1 du 26/11/2025 (suppression du JAP, comparution immédiate des mineurs) date d'avant la candidature.",
+    "Santé : aucune mesure 2027 trouvée au 22/09/2026 ; les annonces trouvées (32 Md€ pour la santé, franchise de 5 € pour les rendez-vous non honorés) datent de son passage à Matignon en 2024.",
     "Formation à l'IA : candidats.json indique « 20 millions d'actifs en cinq ans » (post X du candidat) ; la page de campagne dit « 20 millions de salariés d'ici à 2030 » — formulation retenue.",
     "Interdiction des réseaux sociaux aux moins de 15 ans « par référendum » : mentionné dans le résumé de la page France Info du site de campagne, non confirmé mot pour mot.",
     "Agriculture (Metz-Magny, 11/09/2026) : orientations générales (revenu, jeunes agriculteurs, PAC) sans mesure précise."

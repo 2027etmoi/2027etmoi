@@ -1,0 +1,42 @@
+{
+  "id": "durif",
+  "mise_a_jour": "2026-09-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sylvain_Durif%2C_sur_une_aire_d%27autoroute%2C_en_2013.png/500px-Sylvain_Durif%2C_sur_une_aire_d%27autoroute%2C_en_2013.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Sylvain_Durif,_sur_une_aire_d%27autoroute,_en_2013.png",
+    "auteur": "chatzefratz",
+    "licence": "CC BY 3.0",
+    "annee": "2013",
+    "officielle": false,
+    "legende": "Sylvain Durif en 2013"
+  },
+  "presentation": {
+    "texte": "Sylvain Durif est un vidéaste originaire de l'Ain, connu depuis 2012 pour ses apparitions médiatiques à Bugarach (Aude), où il se présentait comme le « Christ cosmique » ; RTL le décrit comme un « vidéaste complotiste ». Candidat aux municipales de 2014 à Arques, il avait annoncé une candidature à la présidentielle de 2017 restée sans suite. Il a annoncé en août 2026 sa candidature pour 2027, sans parti politique.",
+    "sources": [
+      { "titre": "RTL – Le vidéaste complotiste Sylvain Durif se déclare candidat à l'élection de 2027", "url": "https://www.rtl.fr/actu/politique/christ-cosmique-grand-monarque-et-bientot-president-de-la-republique-le-videaste-complotiste-sylvain-durif-se-declare-candidat-a-l-election-de-2027-7900664715", "date": "2026-08-25" },
+      { "titre": "20 Minutes – Présidentielle 2027 : qui est Sylvain Durif ?", "url": "https://www.20minutes.fr/politique/4241053-20260826-presidentielle-2027-sylvain-durif-christ-cosmique-veut-presenter", "date": "2026-08-26" },
+      { "titre": "Wikipédia – Sylvain Durif", "url": "https://fr.wikipedia.org/wiki/Sylvain_Durif", "date": "2026-09-22" }
+    ]
+  },
+  "naissance": {
+    "date": "1969-08-23",
+    "lieu": "Nantua (Ain)",
+    "source": { "titre": "Wikipédia – Sylvain Durif", "url": "https://fr.wikipedia.org/wiki/Sylvain_Durif", "date": "2026-09-22" }
+  },
+  "parcours_politique": [
+    { "periode": "2026", "texte": "Annonce sa candidature à l'élection présidentielle de 2027 dans une vidéo publiée le 23 août 2026 ; doit réunir 500 parrainages.", "source": { "titre": "RTL", "url": "https://www.rtl.fr/actu/politique/christ-cosmique-grand-monarque-et-bientot-president-de-la-republique-le-videaste-complotiste-sylvain-durif-se-declare-candidat-a-l-election-de-2027-7900664715", "date": "2026-08-25" } },
+    { "periode": "2016-2017", "texte": "Annonce une candidature à l'élection présidentielle de 2017, restée au stade de l'annonce.", "source": { "titre": "20 Minutes", "url": "https://www.20minutes.fr/politique/4241053-20260826-presidentielle-2027-sylvain-durif-christ-cosmique-veut-presenter", "date": "2026-08-26" } },
+    { "periode": "2014", "texte": "Candidat aux élections municipales à Arques (Aude) : 7 voix (5 %), non élu.", "source": { "titre": "20 Minutes", "url": "https://www.20minutes.fr/politique/4241053-20260826-presidentielle-2027-sylvain-durif-christ-cosmique-veut-presenter", "date": "2026-08-26" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "Depuis 2004", "texte": "Fondateur de la société Elvita, déclarée dans l'édition de logiciels applicatifs.", "source": { "titre": "Wikipédia – Sylvain Durif", "url": "https://fr.wikipedia.org/wiki/Sylvain_Durif", "date": "2026-09-22" } },
+    { "periode": "Depuis 2012", "texte": "Vidéaste sur internet ; vend des messages vidéo personnalisés sur des plateformes en ligne.", "source": { "titre": "Wikipédia – Sylvain Durif", "url": "https://fr.wikipedia.org/wiki/Sylvain_Durif", "date": "2026-09-22" } }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Parti : aucun parti ni mouvement politique n'est cité par RTL (25/08/2026) ni par 20 Minutes (26/08/2026). Dans sa vidéo, il se présente comme « président de la gouvernance pacifique planétaire et cosmique Elvita » (Elvita est le nom de sa société). « Sans parti » paraît la mention la plus exacte.",
+    "Date de naissance : 23 août 1969 d'après l'infobox Wikipédia (données Wikidata) ; aucune source de presse ouverte consultée ne la donne.",
+    "Wikipédia date sa candidature municipale à Arques de 2013 ; la presse (20 Minutes, RTL) et le ministère de l'Intérieur indiquent les municipales de 2014 (retenu).",
+    "Photo : capture de 2013 publiée sur Commons sous CC BY 3.0 par l'utilisateur chatzefratz ; vignette 500 px vérifiée (HTTP 200)."
+  ]
+}

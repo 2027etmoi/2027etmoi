@@ -90,7 +90,7 @@ function bioSections(b, p) {
     const body = b.affaires.length
       ? b.affaires.map((a) => `<div class="card affaire">
           <h3>${esc(a.titre)}</h3>
-          <span class="badge ${/condamnation/.test(a.etat) ? "empeche" : /relaxe|non_lieu|classement|instruction_close/.test(a.etat) ? "renonce" : "pressenti"}">${esc(ETATS_AFFAIRE[a.etat] || a.etat)}</span>
+          <span class="badge ${/condamnation/.test(a.etat) ? "empeche" : /relaxe|non_lieu|classement/.test(a.etat) ? "renonce" : "pressenti"}">${esc(ETATS_AFFAIRE[a.etat] || a.etat)}</span>
           <p>${esc(a.texte)}</p>
           ${a.etat_detail ? `<p class="notice">${esc(a.etat_detail)}${a.date_etat ? ` (état au ${esc(formatDate(a.date_etat))})` : ""}</p>` : ""}
           ${(a.sources || []).map((s) => sourceHtml(s)).join("")}
@@ -105,6 +105,29 @@ function bioSections(b, p) {
       { count: p.ressources.length });
   }
   return html;
+}
+
+// Temps de parole TV et radio par mois (relevés Arcom)
+function paroleSection(tp, id) {
+  const pm = tp?.candidats?.[id]?.par_mois;
+  if (!pm) return "";
+  const mois = (tp.mois || Object.keys(pm)).filter((m) => pm[m]).sort();
+  if (!mois.length) return "";
+  const max = Math.max(...mois.map((m) => pm[m].total || 0), 1);
+  const rows = mois.map((m) => `<tr>
+      <td>${esc(formatMois(m))}</td>
+      <td class="num"><strong>${esc(formatDuree(pm[m].total))}</strong></td>
+      <td class="num">${pm[m].tv == null ? "—" : esc(formatDuree(pm[m].tv))}</td>
+      <td class="num">${pm[m].radio == null ? "—" : esc(formatDuree(pm[m].radio))}</td>
+      <td class="bar-cell"><div class="bar" style="width:${((pm[m].total || 0) / max) * 100}%"></div></td>
+    </tr>`).join("");
+  return fold("Temps de parole à la télévision et à la radio", `<div class="table-wrap"><table class="poll-table">
+      <thead><tr><th>Mois</th><th class="num">Total</th><th class="num">TV</th><th class="num">Radio</th><th class="bar-cell"><span class="visually-hidden">Graphique</span></th></tr></thead>
+      <tbody>${rows}</tbody></table></div>
+      ${sourceHtml(tp.source)}
+      <p class="notice">${esc(tp.mesure || "")} Relevés publiés par l'Arcom environ trois mois après la diffusion. Il s'agit d'une règle de décompte, pas d'une mesure d'audience ; la presse écrite, le web et les réseaux sociaux ne sont pas mesurés.</p>
+      ${(tp.limites || []).length ? `<ul class="notice">${tp.limites.map((l) => `<li>${esc(l)}</li>`).join("")}</ul>` : ""}`,
+    { count: mois.length });
 }
 
 // Ouvre le bloc visé par une ancre (#t-retraites…) et ses parents
@@ -132,7 +155,7 @@ async function init() {
   }
 
   document.title = `${c.nom} — 2027 et moi`;
-  const [p, b, sondages] = await Promise.all([loadProgramme(c.id), loadBiographie(c.id), loadSondages()]);
+  const [p, b, sondages, tp] = await Promise.all([loadProgramme(c.id), loadBiographie(c.id), loadSondages(), loadTempsParole()]);
   const m = computeMoyennes(sondages)[c.id];
 
   const head = `<header class="site-header cand-header" style="padding-top:16px">
@@ -152,7 +175,7 @@ async function init() {
     </header>`;
 
   $("loading").remove();
-  main.insertAdjacentHTML("beforeend", head + programmeSections(c, p) + bioSections(b, p));
+  main.insertAdjacentHTML("beforeend", head + programmeSections(c, p) + paroleSection(tp, c.id) + bioSections(b, p));
 
   main.addEventListener("click", (e) => {
     const btn = e.target.closest("[data-toggle-all]");

@@ -13,38 +13,139 @@
   "presentation": {
     "texte": "Dominique de Villepin est un diplomate et homme politique français. Il a été secrétaire général de l'Élysée, ministre des Affaires étrangères, ministre de l'Intérieur puis Premier ministre de 2005 à 2007 sous la présidence de Jacques Chirac. Il a fondé en 2025 le parti La France humaniste.",
     "sources": [
-      { "titre": "Dominique de Villepin — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin", "date": "2026-09-22" }
+      {
+        "titre": "Dominique de Villepin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+        "date": "2026-09-22"
+      }
     ]
   },
   "naissance": {
     "date": "1953-11-14",
     "lieu": "Rabat (Maroc)",
-    "source": { "titre": "Dominique de Villepin — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin", "date": "2026-09-22" }
+    "source": {
+      "titre": "Dominique de Villepin — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-22"
+    }
   },
   "parcours_politique": [
-    { "periode": "2025-", "texte": "Fondateur du parti La France humaniste.", "source": { "titre": "Dominique de Villepin — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin", "date": "2026-09-22" } },
-    { "periode": "2010", "texte": "Fondateur du mouvement République solidaire (19 juin 2010).", "source": { "titre": "Dominique de Villepin — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin", "date": "2026-09-22" } },
-    { "periode": "2005-2007", "texte": "Premier ministre (31 mai 2005 - 17 mai 2007).", "source": { "titre": "Dominique de Villepin — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin", "date": "2026-09-22" } },
-    { "periode": "2004-2005", "texte": "Ministre de l'Intérieur, de la Sécurité intérieure et des Libertés locales.", "source": { "titre": "Dominique de Villepin — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin", "date": "2026-09-22" } },
-    { "periode": "2002-2004", "texte": "Ministre des Affaires étrangères.", "source": { "titre": "Dominique de Villepin — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin", "date": "2026-09-22" } },
-    { "periode": "1995-2002", "texte": "Secrétaire général de la présidence de la République.", "source": { "titre": "Dominique de Villepin — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin", "date": "2026-09-22" } },
-    { "periode": "1993", "texte": "Nommé directeur de cabinet d'Alain Juppé, ministre des Affaires étrangères.", "source": { "titre": "Dominique de Villepin — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin", "date": "2026-09-22" } }
+    {
+      "periode": "2025-",
+      "texte": "Fondateur du parti La France humaniste.",
+      "source": {
+        "titre": "Dominique de Villepin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2010",
+      "texte": "Fondateur du mouvement République solidaire (19 juin 2010).",
+      "source": {
+        "titre": "Dominique de Villepin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2005-2007",
+      "texte": "Premier ministre (31 mai 2005 - 17 mai 2007).",
+      "source": {
+        "titre": "Dominique de Villepin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2004-2005",
+      "texte": "Ministre de l'Intérieur, de la Sécurité intérieure et des Libertés locales.",
+      "source": {
+        "titre": "Dominique de Villepin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2002-2004",
+      "texte": "Ministre des Affaires étrangères.",
+      "source": {
+        "titre": "Dominique de Villepin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1995-2002",
+      "texte": "Secrétaire général de la présidence de la République.",
+      "source": {
+        "titre": "Dominique de Villepin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1993",
+      "texte": "Nommé directeur de cabinet d'Alain Juppé, ministre des Affaires étrangères.",
+      "source": {
+        "titre": "Dominique de Villepin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+        "date": "2026-09-22"
+      }
+    }
   ],
   "parcours_professionnel": [
-    { "periode": "1975-1980", "texte": "Diplômé de l'Institut d'études politiques de Paris (1975) et de l'École nationale d'administration (promotion Voltaire, 1980) ; licences de lettres et de droit.", "source": { "titre": "Dominique de Villepin — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin", "date": "2026-09-22" } },
-    { "periode": "1980-1993", "texte": "Diplomate : direction des affaires africaines, ambassade de France à Washington (1984), ambassade à New Delhi (1989).", "source": { "titre": "Dominique de Villepin — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin", "date": "2026-09-22" } },
-    { "periode": "2008-2015", "texte": "Avocat au barreau de Paris.", "source": { "titre": "Dominique de Villepin — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin", "date": "2026-09-22" } }
+    {
+      "periode": "1975-1980",
+      "texte": "Diplômé de l'Institut d'études politiques de Paris (1975) et de l'École nationale d'administration (promotion Voltaire, 1980) ; licences de lettres et de droit.",
+      "source": {
+        "titre": "Dominique de Villepin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1980-1993",
+      "texte": "Diplomate : direction des affaires africaines, ambassade de France à Washington (1984), ambassade à New Delhi (1989).",
+      "source": {
+        "titre": "Dominique de Villepin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2008-2015",
+      "texte": "Avocat au barreau de Paris.",
+      "source": {
+        "titre": "Dominique de Villepin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+        "date": "2026-09-22"
+      }
+    }
   ],
   "affaires": [
     {
       "titre": "Affaire des statuettes reçues au ministère des Affaires étrangères",
-      "texte": "Le parquet national financier a ouvert le 19 mai 2026 une enquête préliminaire pour recel de détournement de fonds publics et toutes infractions connexes, portant sur les conditions dans lesquelles une statuette et un buste de Napoléon auraient été offerts à Dominique de Villepin lorsqu'il était ministre des Affaires étrangères (2002-2004). Le lobbyiste Robert Bourgi a déclaré avoir servi d'intermédiaire. Dominique de Villepin a reconnu une « erreur » et a restitué les objets au ministère fin avril 2026.",
+      "texte": "Le parquet national financier a ouvert le 19 mai 2026 une enquête préliminaire pour recel de détournement de fonds publics et toutes infractions connexes, portant sur les conditions dans lesquelles une statuette et un buste de Napoléon auraient été offerts à Dominique de Villepin lorsqu'il était ministre des Affaires étrangères (2002-2004). Le lobbyiste Robert Bourgi a déclaré avoir servi d'intermédiaire. Dominique de Villepin a reconnu une « erreur » et a restitué les objets au ministère fin avril 2026. Il a été entendu en audition libre par le parquet national financier à la mi-juillet 2026.",
       "etat": "enquete",
-      "etat_detail": "Enquête préliminaire du parquet national financier ouverte le 19 mai 2026. Aucune poursuite engagée à cette date ; Dominique de Villepin bénéficie de la présomption d'innocence.",
-      "date_etat": "2026-05-19",
+      "etat_detail": "Enquête préliminaire du parquet national financier ouverte le 19 mai 2026 ; Dominique de Villepin a été entendu en audition libre à la mi-juillet 2026. Aucune poursuite engagée à cette date ; il bénéficie de la présomption d'innocence.",
+      "date_etat": "2026-07-27",
       "sources": [
-        { "titre": "Dominique de Villepin visé par une enquête du parquet financier dans l'affaire des statuettes (France 24)", "url": "https://www.france24.com/fr/france/20260520-dominique-de-villepin-vis%C3%A9-par-une-enqu%C3%AAte-du-parquet-financier-dans-l-affaire-des-statuettes", "date": "2026-05-20" },
-        { "titre": "Statuettes reçues au Quai d'Orsay par Dominique de Villepin : une enquête ouverte pour recel de détournement de fonds publics (franceinfo)", "url": "https://www.franceinfo.fr/faits-divers/statuettes-recues-au-quai-d-orsay-par-dominique-de-villepin-une-enquete-ouverte-pour-recel-de-detournement-de-fonds-publics_8016425.html", "date": "2026-05-20" }
+        {
+          "titre": "Dominique de Villepin visé par une enquête du parquet financier dans l'affaire des statuettes (France 24)",
+          "url": "https://www.france24.com/fr/france/20260520-dominique-de-villepin-vis%C3%A9-par-une-enqu%C3%AAte-du-parquet-financier-dans-l-affaire-des-statuettes",
+          "date": "2026-05-20"
+        },
+        {
+          "titre": "Statuettes reçues au Quai d'Orsay par Dominique de Villepin : une enquête ouverte pour recel de détournement de fonds publics (franceinfo)",
+          "url": "https://www.franceinfo.fr/faits-divers/statuettes-recues-au-quai-d-orsay-par-dominique-de-villepin-une-enquete-ouverte-pour-recel-de-detournement-de-fonds-publics_8016425.html",
+          "date": "2026-05-20"
+        },
+        {
+          "titre": "Affaire des statuettes : Dominique de Villepin a été entendu en audition libre mi-juillet (franceinfo)",
+          "url": "https://www.franceinfo.fr/politique/affaire-des-statuettes-dominique-de-villepin-a-ete-entendu-en-audition-libre-mi-juillet_8124329.html",
+          "date": "2026-07-27"
+        }
       ]
     },
     {
@@ -54,14 +155,21 @@
       "etat_detail": "Relaxe confirmée en appel le 14 septembre 2011.",
       "date_etat": "2011-09-14",
       "sources": [
-        { "titre": "La relaxe de Dominique de Villepin confirmée dans l'affaire Clearstream (France 24)", "url": "https://www.france24.com/fr/20110914-cour-appel-relaxe-dominique-villepin-affaire-clearstream-justice-france-politique", "date": "2011-09-14" },
-        { "titre": "Affaire Clearstream 2 — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Affaire_Clearstream_2", "date": "2026-09-22" }
+        {
+          "titre": "La relaxe de Dominique de Villepin confirmée dans l'affaire Clearstream (France 24)",
+          "url": "https://www.france24.com/fr/20110914-cour-appel-relaxe-dominique-villepin-affaire-clearstream-justice-france-politique",
+          "date": "2011-09-14"
+        },
+        {
+          "titre": "Affaire Clearstream 2 — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Affaire_Clearstream_2",
+          "date": "2026-09-22"
+        }
       ]
     }
   ],
   "a_verifier": [
     "Photo : portrait officiel de 2005 (Licence Ouverte, source info.gouv.fr). Alternative plus récente mais non officielle : File:Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg (Georges Seguin, CC BY-SA 3.0, 2010). Aucune photo libre postérieure à 2010 trouvée. Vignette 500px (400px refusée par Wikimedia), vérifiée HTTP 200.",
-    "Statuettes : le JDD indique que Dominique de Villepin aurait été entendu en audition libre par le PNF à la mi-juillet 2026 (article non consultable, HTTP 403) — à confirmer avant publication.",
-    "Clearstream : confirmer par une source de presse l'absence de pourvoi en cassation du parquet général contre l'arrêt du 14 septembre 2011 (Wikipédia n'en mentionne aucun), pour qualifier la relaxe de définitive."
+    "Clearstream : recherche du 22/09/2026. Aucune source de presse ouverte n'indique explicitement que le parquet général a renoncé à se pourvoir en cassation contre l'arrêt du 14 septembre 2011 (France 24 et Europe 1 de septembre 2011 évoquent seulement cette possibilité ; franceinfo et Europe 1 du 27/02/2013, sur le rejet des pourvois de Lahoud et Gergorin, rappellent la relaxe sans en préciser le caractère définitif). État « relaxe » maintenu, sans le qualifier de définitif."
   ]
 }

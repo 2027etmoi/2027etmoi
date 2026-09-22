@@ -153,6 +153,18 @@
       "source": { "titre": "edouardphilippe.fr — Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "date": "2026-09-22" }
     },
     {
+      "theme": "securite",
+      "texte": "Renforcer l'autorité du garde des Sceaux sur le parquet, notamment par la possibilité d'adresser des instructions individuelles aux procureurs.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Créer une « fiche S financière » : profil bancaire spécifique pour les personnes condamnées pour narcotrafic.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "date": "2026-09-22" }
+    },
+    {
       "theme": "immigration",
       "texte": "Dénoncer l'accord franco-algérien de 1968.",
       "nature": "programme",
@@ -190,7 +202,13 @@
     },
     {
       "theme": "international",
-      "texte": "Grand plan munitions pour dépasser l'objectif actuel de 100 000 obus par an.",
+      "texte": "Grand plan munitions pour dépasser l'objectif actuel de 100 000 obus par an et atteindre l'échelle des 700 000 produits par l'Allemagne.",
+      "nature": "programme",
+      "source": { "titre": "edouardphilippe.fr — Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Renforcer la flotte navale, notamment en doublant le nombre de navires aux Antilles pour lutter contre le narcotrafic.",
       "nature": "programme",
       "source": { "titre": "edouardphilippe.fr — Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "date": "2026-09-22" }
     },
@@ -269,8 +287,9 @@
   ],
   "a_verifier": [
     "Retraites : selon LCP (16/09/2026), il est hostile à l'abandon de l'âge légal et reste associé à « la retraite à 67 ans » (entretien Challenges 2021), mais n'a pas dévoilé les paramètres de sa réforme — pas de mesure publiable.",
-    "Défense : la page « France plus sûre » mentionne, selon un premier résumé, 700 000 munitions par an et le doublement des navires aux Antilles — chiffres non confirmés mot pour mot.",
-    "Justice : renforcer l'autorité du garde des Sceaux sur le parquet (instructions individuelles), « fiche S financière », établissements de réinsertion et de soin — figurent sur le site, non retenus faute de place ; à intégrer si besoin.",
+    "Justice : établissements de réinsertion et de soin (page « France plus sûre ») non retenus faute de précision.",
+    "Santé : les quatre pages « priorités » (consultées le 22/09/2026) ne contiennent qu'une orientation, « stabiliser les dépenses de santé en dépensant mieux, en misant sur la prévention et les transformations technologiques » (France plus prospère) : pas de mesure précise publiable. Aucune proposition santé de 2026 trouvée dans la presse ouverte (résultats Public Sénat et Europe 1 datant de 2017-2020, quand il était Premier ministre).",
+    "Institutions : hors règle d'or budgétaire (déjà publiée), les pages « priorités » ne contiennent aucune mesure institutionnelle (Parlement, référendum, mandat, décentralisation) au 22/09/2026.",
     "La page https://www.edouardphilippe.fr/programme renvoie une erreur 404 au 22/09/2026.",
     "Les pages « priorités » ne sont pas datées : date de consultation (2026-09-22) utilisée."
   ]

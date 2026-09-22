@@ -1,0 +1,122 @@
+{
+  "id": "lalanne",
+  "mise_a_jour": "2026-09-22",
+  "programme": {
+    "titre": "« Le Projet 2027 » – site officiel de campagne Dieudo Lalanne 2027",
+    "url": "https://dieudolalanne2027.com/programme/",
+    "etat": "partiel",
+    "note": "Au 22/09/2026, le site officiel de campagne publie neuf axes (souveraineté, paix, liberté, démocratie, impôts, services publics, sécurité, terroir, international) déclinés en propositions courtes, sans document-programme détaillé ni chiffrage."
+  },
+  "reperes": [
+    {
+      "texte": "Chanteur, auteur-compositeur-interprète ; connu pour la chanson « On se retrouvera » (1986).",
+      "source": { "titre": "Wikipédia – Francis Lalanne", "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Tête de liste « France libre » aux élections européennes de 2024, liste commune avec l'humoriste Dieudonné.",
+      "source": { "titre": "Wikipédia – Francis Lalanne", "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne", "date": "2026-09-22" }
+    },
+    {
+      "texte": "Déclaré inéligible pour dix-huit mois par le Conseil d'État le 17 avril 2025, faute d'avoir déposé son compte de campagne des européennes de 2024.",
+      "source": { "titre": "franceinfo (avec AFP) – Francis Lalanne, chanteur et ex-candidat aux européennes, déclaré inéligible pendant dix-huit mois", "url": "https://www.francetvinfo.fr/politique/francis-lalanne-chanteur-et-ex-candidat-aux-europeennes-declare-ineligible-pendant-18-mois_7196604.html", "date": "2025-04-18" }
+    },
+    {
+      "texte": "Candidature à la présidentielle annoncée par communiqué le 18 août 2026, « soutenue par le mouvement citoyen France Libre » et par Dieudonné.",
+      "source": { "titre": "franceinfo – Présidentielle 2027 : le chanteur Francis Lalanne annonce être candidat", "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-chanteur-francis-lalanne-officiellement-candidat-premier-meeting-vendredi-a-paris_8153588.html", "date": "2026-08-19" }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "international",
+      "texte": "Sortie de l'Union européenne (« Frexit organisé ») pour retrouver la maîtrise des lois et des frontières.",
+      "nature": "programme",
+      "source": { "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 1 Souveraineté", "url": "https://dieudolalanne2027.com/programme/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Sortie de l'OTAN.",
+      "nature": "programme",
+      "source": { "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axes 1 et 2", "url": "https://dieudolalanne2027.com/programme/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Retour au franc et reprise en main de la Banque de France.",
+      "nature": "programme",
+      "source": { "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 1 Souveraineté", "url": "https://dieudolalanne2027.com/programme/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Retrait des troupes françaises intervenant à l'étranger sur des territoires en guerre ; fin des subventions aux pays en guerre.",
+      "nature": "programme",
+      "source": { "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 2 Paix", "url": "https://dieudolalanne2027.com/programme/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Fin du passe et des obligations médicales ; interdiction constitutionnelle de toute discrimination fondée sur le statut médical.",
+      "nature": "programme",
+      "source": { "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 3 Liberté", "url": "https://dieudolalanne2027.com/programme/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Inscription dans la Constitution du référendum d'initiative citoyenne (RIC) en toutes matières ; création d'une assemblée constituante.",
+      "nature": "programme",
+      "source": { "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 4 Démocratie", "url": "https://dieudolalanne2027.com/programme/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Réunions du Conseil des ministres filmées par des caméras.",
+      "nature": "programme",
+      "source": { "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 4 Démocratie", "url": "https://dieudolalanne2027.com/programme/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Alignement du salaire de tous les élus sur le salaire moyen des Français ; réduction du salaire des hauts fonctionnaires.",
+      "nature": "programme",
+      "source": { "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 6", "url": "https://dieudolalanne2027.com/programme/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Baisse des impôts, en particulier des taxes sur les carburants ; baisse des charges pour les TPE, PME et artisans.",
+      "nature": "programme",
+      "source": { "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 5 Stop Impôts", "url": "https://dieudolalanne2027.com/programme/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Gratuité des transports publics.",
+      "nature": "programme",
+      "source": { "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 5 Stop Impôts", "url": "https://dieudolalanne2027.com/programme/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Nationalisation des entreprises « à vocation sociale » ; récupération du patrimoine national cédé à des entreprises privées.",
+      "nature": "programme",
+      "source": { "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 6", "url": "https://dieudolalanne2027.com/programme/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Caméras aux enregistrements consultables par huissier dans les salles d'audience, les bureaux de déposition et sur les policiers en intervention.",
+      "nature": "programme",
+      "source": { "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 7 Sécurité", "url": "https://dieudolalanne2027.com/programme/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Hausse des effectifs dédiés à la lutte contre la pédocriminalité et les trafics.",
+      "nature": "programme",
+      "source": { "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 7 Sécurité", "url": "https://dieudolalanne2027.com/programme/", "date": "2026-09-22" }
+    },
+    {
+      "theme": "international",
+      "texte": "Rapprochement avec la Russie « via les BRICS » et redéveloppement de la francophonie.",
+      "nature": "programme",
+      "source": { "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 9 International", "url": "https://dieudolalanne2027.com/programme/", "date": "2026-09-22" }
+    }
+  ],
+  "ressources": [
+    { "titre": "Site officiel de campagne (Dieudo Lalanne 2027)", "url": "https://dieudolalanne2027.com/", "type": "site", "date": "2026-09-22" },
+    { "titre": "CNews – Présidentielle 2027 : Francis Lalanne se porte officiellement candidat", "url": "https://www.cnews.fr/france/2026-08-19/presidentielle-2027-francis-lalanne-se-porte-officiellement-candidat-1906812", "type": "article", "date": "2026-08-19" }
+  ],
+  "a_verifier": [
+    "Annonce, lors du meeting du 21 août 2026 au théâtre Galabru, de son intention de nommer Dieudonné Premier ministre : rapportée par Le Point (article non ouvert, accès refusé) et reprise par Wikipédia. Non publiée.",
+    "Axes du programme formulés en termes généraux (« refonte de la justice », « refonte de la vie agricole », « blocage des lobbys », « abrogation des lois liberticides ») : non retenus comme mesures faute de contenu précis."
+  ]
+}

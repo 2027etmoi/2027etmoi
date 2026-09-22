@@ -1,0 +1,122 @@
+{
+  "id": "massard",
+  "mise_a_jour": "2026-09-22",
+  "presentation": {
+    "texte": "Lydie Massard est une femme politique bretonne, membre et co-porte-parole de l'Union démocratique bretonne (UDB). Députée européenne de 2023 à 2024 au sein du groupe Verts/ALE, elle est ensuite redevenue cuisinière dans un lycée. Elle s'est portée candidate à la primaire de la gauche en avril 2026 en défendant une « République fédérale, sociale et écologique ».",
+    "sources": [
+      {
+        "titre": "Wikipédia – Lydie Massard",
+        "url": "https://fr.wikipedia.org/wiki/Lydie_Massard",
+        "date": "2026-09-22"
+      },
+      {
+        "titre": "UDB – Lydie Massard : candidate aux primaires de la gauche",
+        "url": "https://www.udb.bzh/non-classifiee/lydie-massard-candidate-aux-primaires-de-la-gauche/",
+        "date": "2026-04-07"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1978-08-24",
+    "lieu": "Saint-Brieuc (Côtes-d'Armor)",
+    "source": {
+      "titre": "Wikipédia – Lydie Massard",
+      "url": "https://fr.wikipedia.org/wiki/Lydie_Massard",
+      "date": "2026-09-22"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Candidate à la primaire de la gauche en vue de la présidentielle de 2027.",
+      "source": {
+        "titre": "UDB – Lydie Massard : candidate aux primaires de la gauche",
+        "url": "https://www.udb.bzh/non-classifiee/lydie-massard-candidate-aux-primaires-de-la-gauche/",
+        "date": "2026-04-07"
+      }
+    },
+    {
+      "periode": "Depuis 2026",
+      "texte": "Conseillère municipale de Pontivy (Morbihan).",
+      "source": {
+        "titre": "Wikipédia – Lydie Massard",
+        "url": "https://fr.wikipedia.org/wiki/Lydie_Massard",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "Depuis 2025",
+      "texte": "Membre du bureau de l'Alliance libre européenne (ALE), parti européen dont l'UDB est membre.",
+      "source": {
+        "titre": "UDB – Lydie Massard (UDB) élue vice-présidente de l'Alliance libre européenne",
+        "url": "https://www.udb.bzh/non-classifiee/communiques/ludb-se-felicite-de-lelection-de-lydie-massard-au-bureau-de-lalliance-libre-europeenne/",
+        "date": "2025-05-16"
+      }
+    },
+    {
+      "periode": "2023-2024",
+      "texte": "Députée européenne (groupe Verts/ALE), en remplacement de Yannick Jadot élu sénateur.",
+      "source": {
+        "titre": "UDB – Lydie Massard, porte-parole de l'UDB, est députée européenne !",
+        "url": "https://www.udb.bzh/non-classifiee/communiques/lydie-massard-porte-parole-de-ludb-est-deputee-europeenne/",
+        "date": "2023-09-24"
+      }
+    },
+    {
+      "periode": "2022-2024",
+      "texte": "Co-porte-parole de la fédération Régions et peuples solidaires.",
+      "source": {
+        "titre": "Wikipédia – Lydie Massard",
+        "url": "https://fr.wikipedia.org/wiki/Lydie_Massard",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2022",
+      "texte": "Candidate UDB aux législatives dans la 3e circonscription du Morbihan : 1,92 %.",
+      "source": {
+        "titre": "Wikipédia – Lydie Massard",
+        "url": "https://fr.wikipedia.org/wiki/Lydie_Massard",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2021",
+      "texte": "Candidate aux départementales dans le canton de Pontivy (binôme UDB) : 12,54 %.",
+      "source": {
+        "titre": "Wikipédia – Lydie Massard",
+        "url": "https://fr.wikipedia.org/wiki/Lydie_Massard",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2019-2023, puis depuis 2025",
+      "texte": "Porte-parole de l'Union démocratique bretonne, à laquelle elle a adhéré en 2015.",
+      "source": {
+        "titre": "Wikipédia – Lydie Massard",
+        "url": "https://fr.wikipedia.org/wiki/Lydie_Massard",
+        "date": "2026-09-22"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "Depuis 2007 (hors mandat européen)",
+      "texte": "Cuisinière dans un lycée professionnel de Pontivy.",
+      "source": {
+        "titre": "Wikipédia – Lydie Massard (d'après Ouest-France)",
+        "url": "https://fr.wikipedia.org/wiki/Lydie_Massard",
+        "date": "2026-09-22"
+      }
+    }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Lieu de naissance : Saint-Brieuc selon le texte et l'infobox de Wikipédia, mais la page est classée dans la catégorie « Naissance à Loudéac ». À confirmer.",
+    "Alliance libre européenne : le titre du communiqué UDB parle de « vice-présidente », le texte d'une élection « au sein du bureau ». Formulation prudente retenue.",
+    "Licence de la photo : portrait officiel du Parlement européen (source europarl.europa.eu/mepphoto/249285.jpg), publié sur Commons sous le modèle « European Union Government » (réutilisation autorisée avec mention de la source), et non sous licence Creative Commons. Vignette 500 px vérifiée (HTTP 200).",
+    "Études (licence à Rennes-II, 1999) et emplois de bibliothécaire (1999-2001) : sourcés sur Wikipédia par une page « Copains d'avant », non retenus.",
+    "Maintien de la candidature hors primaire après l'abandon de la primaire unitaire : non confirmé par une source ouverte.",
+    "Photo retirée : portrait du Parlement européen (https://commons.wikimedia.org/wiki/File:Member_of_the_European_Parliament_for_France_Lydie_Massard.jpg), licence « European Union Government » non retenue, par cohérence avec les autres fiches (modèle proposé à la suppression sur Commons le 19/09/2026)."
+  ]
+}

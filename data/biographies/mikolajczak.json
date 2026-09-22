@@ -1,0 +1,29 @@
+{
+  "id": "mikolajczak",
+  "mise_a_jour": "2026-09-22",
+  "presentation": {
+    "texte": "Antoine Mikolajczak est un ingénieur de 28 ans, originaire de Paillart (Oise), qui a travaillé dans les énergies renouvelables auprès des collectivités. Membre d'Équinoxe, jeune parti fondé en 2021, il a été désigné candidat à la présidentielle de 2027 par un vote des adhérents au jugement majoritaire et cherche à réunir les 500 parrainages.",
+    "sources": [
+      { "titre": "Parti Équinoxe – Qui est Antoine Mikolajczak ?", "url": "https://parti-equinoxe.fr/qui-est-antoine-mikolajczak/", "date": "2026-09-22" },
+      { "titre": "JHM – Sous la bannière d'Équinoxe, Antoine Mikolajczak brigue la présidence de la République", "url": "https://jhm.fr/sous-la-banniere-dequinoxe-antoine-mikolajczak-brigue-la-presidence-de-la-republique/", "date": "2026-07-11" },
+      { "titre": "Le Parisien – Antoine Mikolajczak et Équinoxe face au défi des 500 parrainages", "url": "https://www.leparisien.fr/oise-60/monsieur-tout-le-monde-candidat-a-la-presidentielle-2027-antoine-mikolajczak-et-equinoxe-face-au-defi-des-500-parrainages-12-08-2026-CN5YEZHLCJGF7CSTOWAQUMI4PY.php", "date": "2026-08-12" }
+    ]
+  },
+  "parcours_politique": [
+    { "periode": "Depuis 2026", "texte": "Candidat d'Équinoxe à l'élection présidentielle de 2027, désigné par les adhérents ; campagne lancée le 27 juin 2026 à Saint-Père-sur-Loire (Loiret).", "source": { "titre": "Parti Équinoxe – Retour sur le lancement de campagne", "url": "https://parti-equinoxe.fr/retour-sur-le-lancement-de-campagne-dequinoxe/", "date": "2026-07-02" } },
+    { "periode": "2026", "texte": "Engagé pour Équinoxe dans les élections municipales de 2026 (commune non précisée par le parti).", "source": { "titre": "Parti Équinoxe – Qui est Antoine Mikolajczak ?", "url": "https://parti-equinoxe.fr/qui-est-antoine-mikolajczak/", "date": "2026-09-22" } },
+    { "periode": "Depuis 2024", "texte": "Militant d'Équinoxe depuis les européennes de 2024 : organisateur d'actions de terrain, puis responsable du groupe local du 5e arrondissement de Paris.", "source": { "titre": "Parti Équinoxe – Qui est Antoine Mikolajczak ?", "url": "https://parti-equinoxe.fr/qui-est-antoine-mikolajczak/", "date": "2026-09-22" } }
+  ],
+  "parcours_professionnel": [
+    { "periode": "Formation", "texte": "Ingénieur diplômé de l'ICAM de Lille.", "source": { "titre": "JHM", "url": "https://jhm.fr/sous-la-banniere-dequinoxe-antoine-mikolajczak-brigue-la-presidence-de-la-republique/", "date": "2026-07-11" } },
+    { "periode": "Avant 2026", "texte": "Pendant cinq ans, montage de projets locaux d'énergies renouvelables avec des élus, des agriculteurs et des habitants.", "source": { "titre": "Parti Équinoxe – Qui est Antoine Mikolajczak ?", "url": "https://parti-equinoxe.fr/qui-est-antoine-mikolajczak/", "date": "2026-09-22" } }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Âge : 27 ans selon le tract de campagne (juillet 2026) et Le Parisien (12/08/2026) ; 28 ans selon le site d'Équinoxe consulté le 22/09/2026. Par déduction, il serait né entre le 13 août et le 22 septembre 1998 ; date exacte non publiée.",
+    "Date de désignation par le vote des adhérents : non trouvée. Premier élément daté : lancement de campagne le 27 juin 2026.",
+    "Parcours municipal 2026 : le site du parti évoque « le défi des municipales » sans préciser la commune ni le résultat ; à confirmer.",
+    "Dates exactes de l'activité professionnelle (« cinq années » selon le parti) non publiées.",
+    "Aucune photo libre sur Wikimedia Commons."
+  ]
+}

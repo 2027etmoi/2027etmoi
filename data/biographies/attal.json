@@ -13,33 +13,129 @@
   "presentation": {
     "texte": "Gabriel Attal est un homme politique français, député des Hauts-de-Seine, président du groupe Ensemble pour la République à l'Assemblée nationale et secrétaire général de Renaissance. Il a été Premier ministre de janvier à septembre 2024. Il a officialisé sa candidature à l'élection présidentielle de 2027 le 22 mai 2026.",
     "sources": [
-      { "titre": "Gabriel Attal — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal", "date": "2026-09-22" }
+      {
+        "titre": "Gabriel Attal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+        "date": "2026-09-22"
+      }
     ]
   },
   "naissance": {
     "date": "1989-03-16",
     "lieu": "Clamart (Hauts-de-Seine)",
-    "source": { "titre": "Gabriel Attal — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal", "date": "2026-09-22" }
+    "source": {
+      "titre": "Gabriel Attal — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "date": "2026-09-22"
+    }
   },
   "parcours_politique": [
-    { "periode": "2026", "texte": "Annonce sa candidature à l'élection présidentielle de 2027 le 22 mai 2026 à Mur-de-Barrez (Aveyron).", "source": { "titre": "Gabriel Attal — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal", "date": "2026-09-22" } },
-    { "periode": "2024-", "texte": "Secrétaire général de Renaissance (élu le 8 décembre 2024) et président du groupe Ensemble pour la République à l'Assemblée nationale (élu le 13 juillet 2024).", "source": { "titre": "Gabriel Attal — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal", "date": "2026-09-22" } },
-    { "periode": "2024", "texte": "Premier ministre (9 janvier - 5 septembre 2024).", "source": { "titre": "Gabriel Attal — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal", "date": "2026-09-22" } },
-    { "periode": "2023-2024", "texte": "Ministre de l'Éducation nationale et de la Jeunesse.", "source": { "titre": "Gabriel Attal — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal", "date": "2026-09-22" } },
-    { "periode": "2022-2023", "texte": "Ministre délégué chargé des Comptes publics.", "source": { "titre": "Gabriel Attal — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal", "date": "2026-09-22" } },
-    { "periode": "2020-2022", "texte": "Secrétaire d'État auprès du Premier ministre, porte-parole du gouvernement.", "source": { "titre": "Gabriel Attal — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal", "date": "2026-09-22" } },
-    { "periode": "2018-2020", "texte": "Secrétaire d'État auprès du ministre de l'Éducation nationale.", "source": { "titre": "Gabriel Attal — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal", "date": "2026-09-22" } },
-    { "periode": "2017-", "texte": "Député de la 10e circonscription des Hauts-de-Seine (2017-2018, 2022-2023, depuis 2024), mandat interrompu par ses fonctions gouvernementales.", "source": { "titre": "Gabriel Attal — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal", "date": "2026-09-22" } },
-    { "periode": "2014-", "texte": "Conseiller municipal de Vanves.", "source": { "titre": "Gabriel Attal — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal", "date": "2026-09-22" } }
+    {
+      "periode": "2026",
+      "texte": "Annonce sa candidature à l'élection présidentielle de 2027 le 22 mai 2026 à Mur-de-Barrez (Aveyron).",
+      "source": {
+        "titre": "Gabriel Attal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2024-",
+      "texte": "Secrétaire général de Renaissance (élu le 8 décembre 2024) et président du groupe Ensemble pour la République à l'Assemblée nationale (élu le 13 juillet 2024).",
+      "source": {
+        "titre": "Gabriel Attal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2024",
+      "texte": "Premier ministre (9 janvier - 5 septembre 2024).",
+      "source": {
+        "titre": "Gabriel Attal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2023-2024",
+      "texte": "Ministre de l'Éducation nationale et de la Jeunesse.",
+      "source": {
+        "titre": "Gabriel Attal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2022-2023",
+      "texte": "Ministre délégué chargé des Comptes publics.",
+      "source": {
+        "titre": "Gabriel Attal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2020-2022",
+      "texte": "Secrétaire d'État auprès du Premier ministre, porte-parole du gouvernement.",
+      "source": {
+        "titre": "Gabriel Attal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2018-2020",
+      "texte": "Secrétaire d'État auprès du ministre de l'Éducation nationale.",
+      "source": {
+        "titre": "Gabriel Attal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2017-",
+      "texte": "Député de la 10e circonscription des Hauts-de-Seine (2017-2018, 2022-2023, depuis 2024), mandat interrompu par ses fonctions gouvernementales.",
+      "source": {
+        "titre": "Gabriel Attal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2014-",
+      "texte": "Conseiller municipal de Vanves.",
+      "source": {
+        "titre": "Gabriel Attal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+        "date": "2026-09-22"
+      }
+    }
   ],
   "parcours_professionnel": [
-    { "periode": "2007-2013", "texte": "Études à l'Institut d'études politiques de Paris (master d'affaires publiques) ; études de droit à l'université Paris-Panthéon-Assas.", "source": { "titre": "Gabriel Attal — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal", "date": "2026-09-22" } },
-    { "periode": "2012-2017", "texte": "Conseiller au cabinet de Marisol Touraine, ministre des Affaires sociales et de la Santé.", "source": { "titre": "Gabriel Attal — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal", "date": "2026-09-22" } }
+    {
+      "periode": "2007-2013",
+      "texte": "Études à l'Institut d'études politiques de Paris (master d'affaires publiques) ; études de droit à l'université Paris-Panthéon-Assas.",
+      "source": {
+        "titre": "Gabriel Attal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2012-2017",
+      "texte": "Conseiller au cabinet de Marisol Touraine, ministre des Affaires sociales et de la Santé.",
+      "source": {
+        "titre": "Gabriel Attal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+        "date": "2026-09-22"
+      }
+    }
   ],
   "affaires": [],
   "a_verifier": [
     "Photo : vignette 500px utilisée (la taille 400px est refusée par Wikimedia), vérifiée HTTP 200. Pas de portrait officiel libre trouvé sur Commons.",
-    "Plainte déposée devant la commission des requêtes de la CJR par six militants indépendantistes kanak (dont Christian Tein) visant notamment Gabriel Attal pour « actes arbitraires attentatoires à la liberté individuelle » et « abus d'autorité » (arrestations et transferts de juin 2024). Simple plainte : aucune suite procédurale connue, non publiée. Voir franceinfo : https://www.franceinfo.fr/france/nouvelle-caledonie/emeutes-en-nouvelle-caledonie-six-militants-kanak-reclament-l-ouverture-d-une-enquete-contre-gabriel-attal-gerald-darmanin-eric-dupond-moretti-et-sebastien-lecornu_8184782.html (non ouvert).",
-    "Une recherche mentionne une plainte devant la CJR classée par la commission des requêtes le 17 avril 2023 : objet et source non vérifiés."
+    "Plainte déposée devant la commission des requêtes de la CJR par six militants indépendantistes kanak (dont Christian Tein) visant notamment Gabriel Attal pour « actes arbitraires attentatoires à la liberté individuelle » et « abus d'autorité » (arrestations et transferts de juin 2024). Simple plainte : aucune suite procédurale connue, non publiée. Voir franceinfo : https://www.franceinfo.fr/france/nouvelle-caledonie/emeutes-en-nouvelle-caledonie-six-militants-kanak-reclament-l-ouverture-d-une-enquete-contre-gabriel-attal-gerald-darmanin-eric-dupond-moretti-et-sebastien-lecornu_8184782.html (non ouvert). Lot 3 (22/09/2026) : recherche franceinfo/Outre-mer La 1ère/Public Sénat : aucune décision de la commission des requêtes trouvée. Toujours non publiée.",
+    "Une recherche mentionne une plainte devant la CJR classée par la commission des requêtes le 17 avril 2023 : objet et source non vérifiés. Lot 3 (22/09/2026) : aucune trace de cette plainte ni de son classement dans franceinfo, Public Sénat, LCP, Europe 1, France 24 ou ICI. Non confirmable ; non publiée."
   ]
 }

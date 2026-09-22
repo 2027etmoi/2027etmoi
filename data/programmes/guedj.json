@@ -33,6 +33,12 @@
       "source": { "titre": "Capital (via Yahoo Actualités), d'après BFMTV", "url": "https://fr.finance.yahoo.com/actualites/veux-sortir-l%C3%A2ge-l%C3%A9gal-j%C3%A9r%C3%B4me-144747223.html", "date": "2026-09-12" }
     },
     {
+      "theme": "travail",
+      "texte": "Augmentation du SMIC à 1 700 euros.",
+      "nature": "presse",
+      "source": { "titre": "AFP (via Orange Actualités)", "url": "https://actu.orange.fr/politique/primaire-a-gauche-guedj-veut-repousser-les-frontieres-du-ps-au-risque-de-l-isolement-CNT000002rWRmr.html", "date": "2026-09-17" }
+    },
+    {
       "theme": "retraites",
       "texte": "Départ en retraite fondé davantage sur le nombre d'annuités cotisées et la prise en compte de la pénibilité, plutôt que sur l'âge légal.",
       "nature": "declaration",
@@ -43,6 +49,18 @@
       "texte": "Abaissement de l'âge de départ sans décote, actuellement fixé à 67 ans.",
       "nature": "declaration",
       "source": { "titre": "Capital (via Yahoo Actualités), d'après BFMTV", "url": "https://fr.finance.yahoo.com/actualites/veux-sortir-l%C3%A2ge-l%C3%A9gal-j%C3%A9r%C3%B4me-144747223.html", "date": "2026-09-12" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Révision des taux de CSG pour les pensions les plus élevées et désindexation partielle des retraites selon leur niveau.",
+      "nature": "presse",
+      "source": { "titre": "AFP (via Orange Actualités)", "url": "https://actu.orange.fr/politique/primaire-a-gauche-guedj-veut-repousser-les-frontieres-du-ps-au-risque-de-l-isolement-CNT000002rWRmr.html", "date": "2026-09-17" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Création d'une Sécurité sociale unique, réduisant fortement la part des mutuelles et assurances privées.",
+      "nature": "presse",
+      "source": { "titre": "AFP (via Orange Actualités)", "url": "https://actu.orange.fr/politique/primaire-a-gauche-guedj-veut-repousser-les-frontieres-du-ps-au-risque-de-l-isolement-CNT000002rWRmr.html", "date": "2026-09-17" }
     },
     {
       "theme": "education",
@@ -90,9 +108,10 @@
     { "titre": "France 24 : ce qu'il faut savoir sur la primaire (dates, débats)", "url": "https://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal", "type": "article", "date": "2026-09-16" }
   ],
   "a_verifier": [
-    "« Gel » de la réforme des retraites plutôt qu'abrogation : lu seulement dans des résumés de recherche, non vérifié dans une source ouverte.",
+    "« Gel » de la réforme des retraites plutôt qu'abrogation : non confirmé (recherche du 22/09/2026). Les sources trouvées parlent de la « suspension » votée au Parlement en 2025 (propos de député), pas d'un engagement de campagne ; la dépêche AFP du 17/09/2026 lui prête la fin de l'âge légal au profit de la durée de cotisation, avec un « bouclier » pour les métiers pénibles et les carrières féminines interrompues.",
     "Priorités du site sans formulation précise (non retenues comme mesures) : moyens de l'hôpital public, médecins dans les territoires, hausse des bas salaires, réindustrialisation, rénovation des logements, transports du quotidien, meilleure rémunération des enseignants.",
     "Lettre du candidat : imposition progressive des grandes fortunes, moyens de la police et de la justice, lutte contre le dumping fiscal et social — orientations sans détail.",
-    "Articles non ouverts (accès bloqué) : Le Monde (05/02/2026), La Tribune Dimanche (23/08/2026), France Inter (05/02/2026) ; propositions du livre évoquées par Le Point (éducation, retraites, immigration) non consultées."
+    "Articles non ouverts (accès bloqué) : Le Monde (05/02/2026), La Tribune Dimanche (23/08/2026), France Inter (05/02/2026) ; propositions du livre évoquées par Le Point (éducation, retraites, immigration) non consultées.",
+    "Tribune dans L'Opinion (août 2026) : n'écarterait pas une sous-indexation des pensions si l'effort vise aussi héritages, niches sociales et géants de l'IA (rapporté par un résumé de recherche, article non ouvert)."
   ]
 }

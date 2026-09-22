@@ -13,40 +13,161 @@
   "presentation": {
     "texte": "Édouard Philippe est un homme politique français, maire du Havre et président du parti Horizons. Il a été Premier ministre de mai 2017 à juillet 2020 sous la présidence d'Emmanuel Macron. Il est candidat déclaré à l'élection présidentielle de 2027 depuis septembre 2024.",
     "sources": [
-      { "titre": "Édouard Philippe — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" }
+      {
+        "titre": "Édouard Philippe — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+        "date": "2026-09-22"
+      }
     ]
   },
   "naissance": {
     "date": "1970-11-28",
     "lieu": "Rouen (Seine-Maritime)",
-    "source": { "titre": "Édouard Philippe — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" }
+    "source": {
+      "titre": "Édouard Philippe — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+      "date": "2026-09-22"
+    }
   },
   "parcours_politique": [
-    { "periode": "2026", "texte": "Lance le 5 juillet 2026 sa campagne pour l'élection présidentielle de 2027, candidature annoncée en septembre 2024.", "source": { "titre": "Édouard Philippe — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" } },
-    { "periode": "2021-", "texte": "Président du parti Horizons, fondé le 9 octobre 2021.", "source": { "titre": "Édouard Philippe — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" } },
-    { "periode": "2020-", "texte": "Maire du Havre (réélu en 2026) et président de la communauté urbaine Le Havre Seine Métropole.", "source": { "titre": "Édouard Philippe — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" } },
-    { "periode": "2017-2020", "texte": "Premier ministre (15 mai 2017 - 3 juillet 2020).", "source": { "titre": "Édouard Philippe — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" } },
-    { "periode": "2012-2017", "texte": "Député de la 7e circonscription de la Seine-Maritime.", "source": { "titre": "Édouard Philippe — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" } },
-    { "periode": "2010-2017", "texte": "Maire du Havre et président de la communauté de l'agglomération havraise.", "source": { "titre": "Édouard Philippe — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" } },
-    { "periode": "2008-2012", "texte": "Conseiller général de la Seine-Maritime (canton du Havre-5).", "source": { "titre": "Édouard Philippe — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" } },
-    { "periode": "2004-2008", "texte": "Conseiller régional de Haute-Normandie.", "source": { "titre": "Édouard Philippe — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" } }
+    {
+      "periode": "2026",
+      "texte": "Lance le 5 juillet 2026 sa campagne pour l'élection présidentielle de 2027, candidature annoncée en septembre 2024.",
+      "source": {
+        "titre": "Édouard Philippe — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2021-",
+      "texte": "Président du parti Horizons, fondé le 9 octobre 2021.",
+      "source": {
+        "titre": "Édouard Philippe — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2020-",
+      "texte": "Maire du Havre (réélu en 2026) et président de la communauté urbaine Le Havre Seine Métropole.",
+      "source": {
+        "titre": "Édouard Philippe — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2017-2020",
+      "texte": "Premier ministre (15 mai 2017 - 3 juillet 2020).",
+      "source": {
+        "titre": "Édouard Philippe — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2012-2017",
+      "texte": "Député de la 7e circonscription de la Seine-Maritime.",
+      "source": {
+        "titre": "Édouard Philippe — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2010-2017",
+      "texte": "Maire du Havre et président de la communauté de l'agglomération havraise.",
+      "source": {
+        "titre": "Édouard Philippe — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2008-2012",
+      "texte": "Conseiller général de la Seine-Maritime (canton du Havre-5).",
+      "source": {
+        "titre": "Édouard Philippe — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2004-2008",
+      "texte": "Conseiller régional de Haute-Normandie.",
+      "source": {
+        "titre": "Édouard Philippe — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+        "date": "2026-09-22"
+      }
+    }
   ],
   "parcours_professionnel": [
-    { "periode": "1992-1997", "texte": "Diplômé de l'Institut d'études politiques de Paris (1992) et de l'École nationale d'administration (promotion Marc-Bloch, 1997).", "source": { "titre": "Édouard Philippe — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" } },
-    { "periode": "1997", "texte": "Membre du Conseil d'État, spécialisé en droit des marchés publics.", "source": { "titre": "Édouard Philippe — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" } },
-    { "periode": "2004-2007", "texte": "Avocat au cabinet Debevoise & Plimpton.", "source": { "titre": "Édouard Philippe — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" } },
-    { "periode": "2007-2010", "texte": "Directeur des affaires publiques d'Areva.", "source": { "titre": "Édouard Philippe — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" } },
-    { "periode": "2020", "texte": "Membre du conseil d'administration d'Atos à partir d'octobre 2020.", "source": { "titre": "Édouard Philippe — Wikipédia", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe", "date": "2026-09-22" } }
+    {
+      "periode": "1992-1997",
+      "texte": "Diplômé de l'Institut d'études politiques de Paris (1992) et de l'École nationale d'administration (promotion Marc-Bloch, 1997).",
+      "source": {
+        "titre": "Édouard Philippe — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "1997",
+      "texte": "Membre du Conseil d'État, spécialisé en droit des marchés publics.",
+      "source": {
+        "titre": "Édouard Philippe — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2004-2007",
+      "texte": "Avocat au cabinet Debevoise & Plimpton.",
+      "source": {
+        "titre": "Édouard Philippe — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2007-2010",
+      "texte": "Directeur des affaires publiques d'Areva.",
+      "source": {
+        "titre": "Édouard Philippe — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+        "date": "2026-09-22"
+      }
+    },
+    {
+      "periode": "2020",
+      "texte": "Membre du conseil d'administration d'Atos à partir d'octobre 2020.",
+      "source": {
+        "titre": "Édouard Philippe — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+        "date": "2026-09-22"
+      }
+    }
   ],
   "affaires": [
     {
       "titre": "Soupçons de détournement de fonds publics au Havre (Cité numérique)",
       "texte": "À la suite du signalement d'un lanceur d'alerte en septembre 2023, le parquet national financier a ouvert une enquête préliminaire et fait procéder à des perquisitions à la mairie du Havre en avril 2024. Après une plainte avec constitution de partie civile déposée en juin 2025, un juge d'instruction a été désigné le 19 mai 2026 pour enquêter sur des faits présumés de détournement de fonds publics, favoritisme, prise illégale d'intérêts et concussion. Édouard Philippe conteste les accusations.",
       "etat": "enquete",
-      "etat_detail": "Information judiciaire confiée à un juge d'instruction (mai 2026). Édouard Philippe n'est pas mis en examen à cette date et bénéficie de la présomption d'innocence.",
-      "date_etat": "2026-05-19",
+      "etat_detail": "Information judiciaire confiée à un juge d'instruction du pôle financier (mai 2026), toujours en cours en juillet 2026. Aucune mise en examen ni aucun statut de témoin assisté d'Édouard Philippe n'a été rapporté par les sources consultées ; il bénéficie de la présomption d'innocence.",
+      "date_etat": "2026-07-18",
       "sources": [
-        { "titre": "Soupçons de détournements de fonds au Havre : pourquoi Édouard Philippe est visé par une enquête du parquet national financier (France 3 Normandie, avec AFP)", "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/un-juge-d-instruction-du-parquet-national-financier-va-enqueter-sur-edouard-philippe-candidat-a-la-presidentielle-2027-3353566.html", "date": "2026-05-19" }
+        {
+          "titre": "Soupçons de détournements de fonds au Havre : pourquoi Édouard Philippe est visé par une enquête du parquet national financier (France 3 Normandie, avec AFP)",
+          "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/un-juge-d-instruction-du-parquet-national-financier-va-enqueter-sur-edouard-philippe-candidat-a-la-presidentielle-2027-3353566.html",
+          "date": "2026-05-19"
+        },
+        {
+          "titre": "Suspicions de détournements de fonds publics au Havre : la requête d'Édouard Philippe rejetée, le tribunal maintient le statut de la lanceuse d'alerte (France 3 Normandie)",
+          "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/suspicions-de-detournements-de-fonds-publics-au-havre-la-requete-d-edouard-philippe-rejetee-le-tribunal-maintient-le-statut-de-la-lanceuse-d-alerte-3388540.html",
+          "date": "2026-07-18"
+        }
       ]
     },
     {
@@ -56,14 +177,18 @@
       "etat_detail": "Non-lieu prononcé par la commission d'instruction de la Cour de justice de la République le 7 juillet 2025.",
       "date_etat": "2025-07-07",
       "sources": [
-        { "titre": "Gestion du Covid-19 : un non-lieu général pour les anciens ministres Édouard Philippe, Agnès Buzyn et Olivier Véran (ici)", "url": "https://www.ici.fr/infos/faits-divers-justice/gestion-du-covid-19-un-non-lieu-general-pour-les-anciens-ministres-edouard-philippe-agnes-buzyn-et-olivier-veran-9557050", "date": "2025-07-07" }
+        {
+          "titre": "Gestion du Covid-19 : un non-lieu général pour les anciens ministres Édouard Philippe, Agnès Buzyn et Olivier Véran (ici)",
+          "url": "https://www.ici.fr/infos/faits-divers-justice/gestion-du-covid-19-un-non-lieu-general-pour-les-anciens-ministres-edouard-philippe-agnes-buzyn-et-olivier-veran-9557050",
+          "date": "2025-07-07"
+        }
       ]
     }
   ],
   "a_verifier": [
     "Photo : la vignette 400px est refusée par Wikimedia (HTTP 400, tailles non standard) ; vignette 500px utilisée, vérifiée HTTP 200.",
     "Pas de portrait officiel (Matignon ou autre) trouvé sur Commons.",
-    "Affaire du Havre : vérifier s'il y a eu des actes (audition, mise en examen, témoin assisté) après le 19 mai 2026.",
-    "Covid-19 : vérifier l'absence de pourvoi contre l'arrêt de non-lieu du 7 juillet 2025."
+    "Affaire du Havre : recherche du 22/09/2026. Seul fait postérieur au 19 mai trouvé : le 15 juillet 2026, le tribunal administratif de Paris a rejeté le recours de la communauté urbaine Le Havre Seine Métropole (présidée par Édouard Philippe) contre la reconnaissance du statut de lanceuse d'alerte (France 3 Normandie, 18/07/2026). Contentieux administratif, non ajouté comme affaire. Aucune audition, mise en examen ou statut de témoin assisté trouvé : à resurveiller.",
+    "Covid-19 : l'article franceinfo du 7 juillet 2025 sur le non-lieu ne mentionne ni pourvoi ni caractère définitif ; aucun article sur un pourvoi du procureur général trouvé (recherche du 22/09/2026). État publié « non_lieu » maintenu ; caractère définitif non confirmé explicitement par la presse."
   ]
 }
