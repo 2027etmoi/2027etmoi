@@ -18,7 +18,7 @@ function qLimites() {
       <li><strong>Chaque position est sourcée</strong> : propos du candidat ou programme de campagne. Sans source, la position est « non connue » et la question n'est pas comptée pour ce candidat — elle n'est jamais déduite de son parti.</li>
       <li><strong>La proximité</strong> est calculée question par question (écart entre votre réponse et la position du candidat), sur les seules questions où vous avez un avis et où sa position est connue. Les questions marquées « importante » comptent double.</li>
       <li><strong>En dessous de ${Q_MIN} questions comparables</strong>, aucun pourcentage n'est affiché : ce serait trop peu pour être parlant.</li>
-      <li><strong>Les 24 questions</strong> ont été choisies pour couvrir les 12 thèmes de façon équilibrée ; leur liste et les règles sont publiques (<a href="https://github.com/PhilippeBout/2027etmoi/blob/main/docs/questions-cles.md" target="_blank" rel="noopener">méthode</a>).</li>
+      <li><strong>Les 24 questions</strong> ont été choisies pour couvrir les 12 thèmes de façon équilibrée ; leur liste et les règles sont publiques (<a href="https://github.com/2027etmoi/2027etmoi/blob/main/docs/questions-cles.md" target="_blank" rel="noopener">méthode</a>).</li>
     </ul>
   </details>`;
 }

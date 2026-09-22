@@ -16,7 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 AUJ = date.today()
-UA = "Mozilla/5.0 (compatible; 2027etmoi-veille/1.0; +https://github.com/PhilippeBout/2027etmoi)"
+UA = "Mozilla/5.0 (compatible; 2027etmoi-veille/1.0; +https://github.com/2027etmoi/2027etmoi)"
 
 SEUIL_STATUT = 30      # jours depuis la dernière vérification d'un statut (champ verifie_le)
 SEUIL_SONDAGES = 21    # jours : dernier sondage trop ancien

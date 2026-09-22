@@ -624,3 +624,19 @@ button.cta { border: 0; font: inherit; font-weight: 600; cursor: pointer; }
 .qpos { margin-top: 8px; }
 .qpos > strong { font-size: 13px; color: var(--muted); }
 .quiz-answers .chip[data-answer="2"][aria-pressed="true"] { font-weight: 600; }
+
+/* Accueil : chiffres clés et répartition par parti */
+.kpis { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 10px; margin-bottom: 14px; }
+.kpi { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); padding: 12px 14px; }
+.kpi-n { display: block; font-family: var(--font-title); font-size: 32px; font-weight: 700; color: var(--accent); line-height: 1.1; }
+.kpi-l { font-size: 13px; color: var(--muted); }
+.cand-group .fold-count { margin-left: auto; }
+.partis { margin-top: 12px; }
+.partis > summary { display: flex; align-items: center; gap: 10px; }
+.partis > summary h3 { margin: 0; font-size: 16px; }
+.partis > summary::after { content: ""; margin-left: auto; width: 8px; height: 8px; border-right: 2px solid var(--muted); border-bottom: 2px solid var(--muted); transform: rotate(45deg); }
+.partis[open] > summary::after { transform: rotate(-135deg); }
+.partis-list { list-style: none; padding: 0; margin: 12px 0 0; columns: 3; column-gap: 24px; }
+.partis-list li { display: flex; justify-content: space-between; gap: 10px; padding: 4px 0; border-bottom: 1px solid #f1eee8; break-inside: avoid; font-size: 14px; }
+@media (max-width: 900px) { .kpis { grid-template-columns: repeat(3, minmax(0, 1fr)); } .partis-list { columns: 2; } }
+@media (max-width: 760px) { .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); } .partis-list { columns: 1; } }

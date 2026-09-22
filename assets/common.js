@@ -234,7 +234,7 @@ initHeaderTips();
   const foot = document.querySelector(".site-footer .footer-grid > div");
   if (!meta || !foot) return;
   const d = meta.donnees && meta.donnees > meta.publication ? meta.donnees : meta.publication;
-  foot.insertAdjacentHTML("beforeend", `<p class="maj">Dernière mise à jour : <strong>${esc(formatDate(d))}</strong> · <a href="https://github.com/PhilippeBout/2027etmoi/commits/main" target="_blank" rel="noopener">historique des modifications</a></p>`);
+  foot.insertAdjacentHTML("beforeend", `<p class="maj">Dernière mise à jour : <strong>${esc(formatDate(d))}</strong> · <a href="https://github.com/2027etmoi/2027etmoi/commits/main" target="_blank" rel="noopener">historique des modifications</a></p>`);
 })();
 
 // Menu mobile et lien d'évitement (accessibilité), communs à toutes les pages

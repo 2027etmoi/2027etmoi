@@ -200,13 +200,27 @@ groupes = []
 for b, label in BLOCS.items():
     membres = sorted((c for c in en_lice if c["bloc"] == b), key=lambda c: c["id"])
     if membres:
-        groupes.append(f'<div class="cand-group"><h3><span class="dot {b}"></span>{esc(label)}</h3><ul class="cand-links">'
+        groupes.append(f'<div class="cand-group"><h3><span class="dot {b}"></span>{esc(label)} <span class="fold-count">{len(membres)}</span></h3><ul class="cand-links">'
                        + "".join(f'<li><a href="/candidats/{c["id"]}.html">{esc(c["nom"])}</a> <span class="party">{esc(c["parti"])}</span></li>' for c in membres)
                        + "</ul></div>")
 accueil = ROOT / "index.html"
 if accueil.exists():
     s_acc = accueil.read_text(encoding="utf-8")
-    bloc = f'<!--CANDIDATS-->\n      <div class="cand-groups">{"".join(groupes)}</div>\n      <!--/CANDIDATS-->'
+    # Chiffres clés et répartition par parti
+    from collections import Counter
+    par_statut = Counter(c["statut"] for c in en_lice)
+    par_parti = Counter(c["parti"] for c in en_lice)
+    chiffres = (f'<div class="kpis">'
+                f'<div class="kpi"><span class="kpi-n">{len(en_lice)}</span><span class="kpi-l">candidatures recensées</span></div>'
+                f'<div class="kpi"><span class="kpi-n">{par_statut["declare"]}</span><span class="kpi-l">déclarées</span></div>'
+                f'<div class="kpi"><span class="kpi-n">{par_statut["primaire"]}</span><span class="kpi-l">en primaire</span></div>'
+                f'<div class="kpi"><span class="kpi-n">{par_statut["pressenti"]}</span><span class="kpi-l">pressenties</span></div>'
+                f'<div class="kpi"><span class="kpi-n">{len(par_parti)}</span><span class="kpi-l">partis ou mouvements</span></div></div>')
+    partis = ('<details class="card partis"><summary><h3>Répartition par parti ou mouvement</h3></summary><ul class="partis-list">'
+              + "".join(f'<li><span>{esc(pt)}</span><strong>{n}</strong></li>' for pt, n in sorted(par_parti.items(), key=lambda x: (-x[1], x[0])))
+              + '</ul><p class="notice">Candidatures déclarées, en primaire ou pressenties, telles que recensées sur ce site. '
+              'Plusieurs candidats d\'un même parti peuvent s\'affronter dans une primaire ; la liste officielle sera arrêtée par le Conseil constitutionnel vers la mi-mars 2027.</p></details>')
+    bloc = f'<!--CANDIDATS-->\n      {chiffres}\n      <div class="cand-groups">{"".join(groupes)}</div>\n      {partis}\n      <!--/CANDIDATS-->'
     accueil.write_text(re.sub(r"<!--CANDIDATS-->.*?<!--/CANDIDATS-->", lambda _: bloc, s_acc, flags=re.S), encoding="utf-8")
 
 # --- 4. sitemap.xml et robots.txt
