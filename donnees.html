@@ -44,16 +44,16 @@
       <table id="table" class="data-table">
         <thead>
           <tr>
-            <th scope="col"><button data-sort="nom">Candidat</button></th>
-            <th scope="col"><button data-sort="declaration">Déclaration</button></th>
-            <th scope="col"><button data-sort="designation">Désignation</button></th>
-            <th scope="col">Présidentielles passées</th>
-            <th scope="col"><button data-sort="programme">Programme</button></th>
-            <th scope="col"><button data-sort="themes" title="Thèmes couverts par un document officiel du candidat">Thèmes couverts</button></th>
-            <th scope="col"><button data-sort="chiffrage">Chiffrage</button></th>
-            <th scope="col"><button data-sort="sondage">Sondages</button></th>
-            <th scope="col"><button data-sort="parole" title="Temps de parole à la télévision et à la radio, dernier mois publié par l'Arcom">Temps de parole</button></th>
-            <th scope="col">Évaluations externes</th>
+            <th scope="col" data-tip-quoi="Personnalité, parti ou mouvement, famille politique et statut de candidature (déclaré, en primaire, pressenti)." data-tip-calcul="Tri par nom de famille." data-tip-source="Statut sourcé et daté sur la page d&#x27;accueil et la fiche candidat."><button data-sort="nom">Candidat</button></th>
+            <th scope="col" data-tip-quoi="Date de l&#x27;annonce publique de candidature à la présidentielle 2027 (ou à la primaire de son camp)." data-tip-source="Presse reconnue ou site officiel, cité dans chaque case."><button data-sort="declaration">Déclaration</button></th>
+            <th scope="col" data-tip-quoi="Comment la candidature a été décidée : auto-déclaration, vote des adhérents, instance du parti ou primaire." data-tip-source="Presse reconnue ou site du parti, cité dans chaque case."><button data-sort="designation">Désignation</button></th>
+            <th scope="col" data-tip-quoi="Candidatures aux présidentielles précédentes, avec le score au 1er tour, ou le nombre de parrainages si la candidature n&#x27;a pas été validée." data-tip-source="Conseil constitutionnel, ministère de l&#x27;Intérieur ou Wikipédia, cités dans chaque case.">Présidentielles passées</th>
+            <th scope="col" data-tip-quoi="État du programme publié par le candidat : complet, partiel ou pas de programme." data-tip-calcul="Appréciation factuelle de ce qui est en ligne (document d&#x27;ensemble ou mesures éparses), avec lien vers le document." data-tip-source="Site de campagne ou du parti ; méthode dans docs/methode-sources.md."><button data-sort="programme">Programme</button></th>
+            <th scope="col" data-tip-quoi="Nombre de thèmes, sur 12, pour lesquels au moins une mesure provient d&#x27;un document officiel du candidat. Chaque carré est un thème (survolez-le pour son nom)." data-tip-calcul="Calculé à partir des fiches programme ; les mesures connues seulement par la presse ne comptent pas. Ce n&#x27;est pas une mesure de qualité." data-tip-source="Fiches programme du site, chaque mesure étant sourcée."><button data-sort="themes" title="Thèmes couverts par un document officiel du candidat">Thèmes couverts</button></th>
+            <th scope="col" data-tip-quoi="Le candidat a-t-il publié un chiffrage global de son programme (coût et financement) ?" data-tip-calcul="Publié, non publié ou non connu. Ne juge pas le réalisme des chiffres." data-tip-source="Document du candidat ou presse, cité dans chaque case."><button data-sort="chiffrage">Chiffrage</button></th>
+            <th scope="col" data-tip-quoi="Moyenne des intentions de vote au 1er tour dans les sondages récents (fenêtre indiquée sur la page Sondages)." data-tip-calcul="Pour chaque sondage, moyenne des scores sur les hypothèses où la personnalité est testée ; puis moyenne entre sondages, pour qu&#x27;un institut ne pèse pas plus qu&#x27;un autre." data-tip-source="Notices des instituts déposées à la Commission des sondages ; détail sur la page Sondages."><button data-sort="sondage">Sondages</button></th>
+            <th scope="col" data-tip-quoi="Temps de parole à la télévision et à la radio pour le dernier mois publié par l&#x27;Arcom (environ trois mois de décalage)." data-tip-calcul="Somme de toutes les chaînes, radios et types d&#x27;émission relevés. Les durées de moins d&#x27;une minute ne sont pas publiées : les totaux sont des minimums. Pas une mesure d&#x27;audience." data-tip-source="Arcom, relevés des temps de parole hors périodes électorales."><button data-sort="parole" title="Temps de parole à la télévision et à la radio, dernier mois publié par l'Arcom">Temps de parole</button></th>
+            <th scope="col" data-tip-quoi="Études d&#x27;institutions ayant évalué plusieurs candidats avec une même méthode, avec lien vers l&#x27;étude." data-tip-calcul="Nous ne reprenons pas leur verdict ; l&#x27;orientation de chaque institution est indiquée sous le tableau." data-tip-source="Publications des institutions ; méthode dans docs/methode-candidatures.md.">Évaluations externes</th>
           </tr>
         </thead>
         <tbody id="rows"></tbody>

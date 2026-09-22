@@ -198,3 +198,32 @@ function dernierTempsParole(tp, id) {
   const mois = (tp.mois || Object.keys(pm)).filter((m) => pm[m]).sort().pop();
   return mois ? { mois, ...pm[mois] } : null;
 }
+
+// Infobulles d'en-tête : <th data-tip-quoi="…" data-tip-calcul="…" data-tip-source="…">
+// ajoute une icône « ? » accessible (survol et clavier) avec l'explication.
+function initHeaderTips() {
+  document.querySelectorAll("th[data-tip-quoi]").forEach((th, i) => {
+    const id = `tip-${i}`;
+    const part = (label, text) => (text ? `<span class="tip-row"><strong>${label}</strong> ${esc(text)}</span>` : "");
+    th.insertAdjacentHTML("beforeend", `<span class="info" tabindex="0" role="button" aria-label="Explication de la colonne" aria-describedby="${id}">?</span>
+      <span class="tip" role="tooltip" id="${id}">${part("De quoi s'agit-il ?", th.dataset.tipQuoi)}${part("Calcul :", th.dataset.tipCalcul)}${part("Source :", th.dataset.tipSource)}</span>`);
+  });
+  const place = (icon) => {
+    const tip = icon.nextElementSibling;
+    tip.classList.add("open");
+    const r = icon.getBoundingClientRect();
+    const w = tip.offsetWidth;
+    tip.style.left = `${Math.max(12, Math.min(r.left - 12, window.innerWidth - w - 12))}px`;
+    tip.style.top = `${r.bottom + 8}px`;
+  };
+  const hide = (icon) => icon.nextElementSibling.classList.remove("open");
+  document.querySelectorAll(".info").forEach((icon) => {
+    icon.addEventListener("mouseenter", () => place(icon));
+    icon.addEventListener("mouseleave", () => hide(icon));
+    icon.addEventListener("focus", () => place(icon));
+    icon.addEventListener("blur", () => hide(icon));
+    icon.addEventListener("click", (e) => { e.stopPropagation(); place(icon); });
+  });
+  window.addEventListener("scroll", () => document.querySelectorAll(".tip.open").forEach((t) => t.classList.remove("open")), { passive: true });
+}
+initHeaderTips();

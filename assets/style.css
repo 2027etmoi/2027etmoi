@@ -449,3 +449,28 @@ details > summary::-webkit-details-marker { display: none; }
 @media (max-width: 760px) {
   .trust-grid, .footer-grid { grid-template-columns: 1fr; }
 }
+
+/* Encart « Méthode et limites » (Données) en pleine largeur */
+.notes.method { max-width: none; }
+@media (min-width: 900px) {
+  .method ul { columns: 2; column-gap: 40px; }
+  .method li { break-inside: avoid; }
+}
+
+/* Infobulles d'en-tête de colonne (positionnées par JS, en position fixe) */
+.info {
+  display: inline-flex; align-items: center; justify-content: center; margin-left: 5px;
+  width: 16px; height: 16px; border-radius: 50%; font-size: 11px; font-weight: 700;
+  background: var(--pastel-blue); color: var(--accent); cursor: help; vertical-align: 1px;
+}
+.info:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.tip {
+  display: none; position: fixed; z-index: 50; width: 300px; max-width: calc(100vw - 24px);
+  padding: 10px 12px; border-radius: 10px; text-align: left;
+  background: #fff; border: 1px solid var(--border); box-shadow: 0 8px 24px rgba(31, 42, 68, .14);
+  font-size: 13px; font-weight: 400; line-height: 1.45; color: var(--text); white-space: normal;
+}
+.tip.open { display: block; }
+.tip-row { display: block; }
+.tip-row + .tip-row { margin-top: 6px; }
+.tip-row strong { color: var(--accent); font-weight: 600; }

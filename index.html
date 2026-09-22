@@ -42,12 +42,12 @@
       <table id="table">
         <thead>
           <tr>
-            <th scope="col"><button data-sort="nom">Candidat</button></th>
-            <th scope="col"><button data-sort="bloc">Famille</button></th>
-            <th scope="col"><button data-sort="statut">Statut</button></th>
-            <th scope="col"><button data-sort="sondage" title="Moyenne des sondages récents">Sondages</button></th>
-            <th scope="col">Propositions phares</th>
-            <th scope="col">Liens</th>
+            <th scope="col" data-tip-quoi="Personnalité et parti ou mouvement. Le nom mène à la fiche détaillée." data-tip-calcul="Tri par nom de famille." data-tip-source="Voir la fiche candidat."><button data-sort="nom">Candidat</button></th>
+            <th scope="col" data-tip-quoi="Famille politique, pour se repérer." data-tip-calcul="Classement indicatif en six familles ; « Autres » en cas de doute." data-tip-source="Positionnement du parti tel que décrit par la presse et les partis eux-mêmes."><button data-sort="bloc">Famille</button></th>
+            <th scope="col" data-tip-quoi="Déclaré, en primaire, pressenti ou pas candidat, avec une précision." data-tip-calcul="La liste officielle ne sera arrêtée par le Conseil constitutionnel que vers la mi-mars 2027." data-tip-source="Presse reconnue ou site officiel, cité et daté dans chaque case."><button data-sort="statut">Statut</button></th>
+            <th scope="col" data-tip-quoi="Moyenne des intentions de vote au 1er tour dans les sondages récents (fenêtre indiquée sur la page Sondages)." data-tip-calcul="Pour chaque sondage, moyenne des scores sur les hypothèses où la personnalité est testée ; puis moyenne entre sondages, pour qu&#x27;un institut ne pèse pas plus qu&#x27;un autre." data-tip-source="Notices des instituts déposées à la Commission des sondages ; détail sur la page Sondages."><button data-sort="sondage" title="Moyenne des sondages récents">Sondages</button></th>
+            <th scope="col" data-tip-quoi="Jusqu&#x27;à quatre mesures du candidat, sur des thèmes différents." data-tip-calcul="Choisies automatiquement parmi les mesures vérifiées de la fiche programme, en privilégiant celles issues d&#x27;un document officiel. L&#x27;ensemble est sur la fiche candidat." data-tip-source="Chaque mesure est sourcée sur la fiche candidat.">Propositions phares</th>
+            <th scope="col" data-tip-quoi="Site de campagne, parti, programme, réseaux sociaux et Wikipédia." data-tip-source="Liens vérifiés (pages ouvertes).">Liens</th>
           </tr>
         </thead>
         <tbody id="rows"></tbody>
