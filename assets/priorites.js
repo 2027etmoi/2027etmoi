@@ -1,4 +1,4 @@
-// « Mes priorités » : profil facultatif, importance des thèmes, propositions anonymes
+// « Mes priorités » : importance des thèmes, propositions anonymes
 // avec réponses nuancées, puis résultats détaillés et partageables.
 // Tout se passe dans le navigateur : rien n'est enregistré ni envoyé.
 
@@ -16,30 +16,9 @@ const DUREES = {
   approfondi: { label: "Approfondi", detail: "deux propositions par candidat sur les thèmes essentiels, une sur les thèmes importants", essentiel: 2, important: 1 },
 };
 
-// Suggestions de thèmes selon la situation : uniquement des liens directs et affichés.
-const PROFILS = {
-  situation: {
-    label: "Votre situation",
-    options: {
-      etudiant: ["Étudiant·e", ["education", "logement", "travail"]],
-      salarie: ["Salarié·e", ["travail", "retraites"]],
-      independant: ["Indépendant·e ou chef·fe d'entreprise", ["economie", "travail"]],
-      fonctionnaire: ["Agent·e public", ["travail", "territoires"]],
-      emploi: ["En recherche d'emploi", ["travail", "economie"]],
-      retraite: ["Retraité·e", ["retraites", "sante"]],
-    },
-  },
-  famille: { label: "Famille", options: { parent: ["Parent d'enfant(s) scolarisé(s)", ["education"]] } },
-  logement: {
-    label: "Logement",
-    options: { locataire: ["Locataire", ["logement"]], proprietaire: ["Propriétaire", ["logement", "economie"]] },
-  },
-  lieu: { label: "Lieu de vie", options: { rural: ["Commune rurale", ["territoires", "sante"]], urbain: ["Ville", ["logement"]] } },
-};
-
 let candidats = {};   // id -> candidat
 let programmes = {};  // id -> fiche programme (avec au moins une mesure)
-const st = { profil: {}, importance: {}, duree: "rapide", tirage: [], reponses: {}, etape: 0 };
+const st = { importance: {}, duree: "rapide", tirage: [], reponses: {}, etape: 0 };
 
 // --- utilitaires
 
@@ -112,63 +91,37 @@ function limitesHtml(open = false) {
       <li><strong>Les propositions sont anonymes et mélangées</strong>, pour juger le fond plutôt que l'étiquette. Les auteurs apparaissent à la fin.</li>
       <li><strong>Le même nombre de propositions par candidat</strong> et par thème, tirées au hasard parmi les mesures vérifiées du site, en privilégiant les documents officiels. Deux essais présentent donc des mesures différentes.</li>
       <li><strong>Tous les programmes ne sont pas aussi détaillés.</strong> Un candidat sans mesure sourcée sur un thème n'y apparaît pas : cela ne veut pas dire qu'il n'a pas d'avis.</li>
-      <li><strong>Le profil sert seulement à suggérer des thèmes</strong> directement liés à votre situation ; vous restez libre de tout modifier.</li>
       <li><strong>Rien n'est enregistré ni envoyé.</strong> Le lien de partage contient vos réponses dans l'adresse elle-même.</li>
     </ul>
   </details>`;
 }
 
-// --- étape 1 : profil et importance des thèmes
-
-function suggestions() {
-  const s = new Set();
-  for (const [grp, key] of Object.entries(st.profil)) (PROFILS[grp]?.options[key]?.[1] || []).forEach((t) => s.add(t));
-  return s;
-}
+// --- étape 1 : importance des thèmes et durée
 
 function renderPreparation() {
-  const sugg = suggestions();
   const nb = Object.fromEntries(Object.keys(THEMES).map((t) => [t, new Set()]));
   for (const [id, p] of Object.entries(programmes)) for (const m of p.mesures || []) nb[m.theme]?.add(id);
   const choisis = themesChoisis();
 
   app().innerHTML = `${limitesHtml()}
     <section class="section card quiz">
-      <h2>1. Votre situation <span class="notice">(facultatif)</span></h2>
-      <p class="notice">Elle sert seulement à suggérer des thèmes qui vous concernent directement.</p>
-      ${Object.entries(PROFILS).map(([grp, g]) => `<fieldset class="chips profil"><legend>${esc(g.label)}</legend>
-        ${Object.entries(g.options).map(([k, [label]]) => `<button type="button" class="chip" data-grp="${grp}" data-key="${k}" aria-pressed="${st.profil[grp] === k}">${esc(label)}</button>`).join("")}
-      </fieldset>`).join("")}
-    </section>
-
-    <section class="section card quiz">
-      <h2>2. Quelle importance donnez-vous à chaque thème ?</h2>
-      <p class="notice">Les thèmes « essentiels » comptent double dans les résultats. ${sugg.size ? "Les thèmes suggérés par votre profil sont signalés ; à vous de décider." : ""}</p>
+      <h2>1. Quelle importance donnez-vous à chaque thème ?</h2>
+      <p class="notice">Les thèmes « essentiels » comptent double dans les résultats.</p>
       <div class="imp-list">${Object.entries(THEMES).map(([t, label]) => `<div class="imp-row th-${t}">
-          <span class="imp-label">${esc(label)}${sugg.has(t) ? ' <span class="sugg">suggéré</span>' : ""}<span class="poll-n">${nb[t].size} candidats avec des propositions sourcées</span></span>
+          <span class="imp-label">${esc(label)}<span class="poll-n">${nb[t].size} candidats avec des propositions sourcées</span></span>
           <span class="imp-choices">${Object.entries(IMPORTANCE).map(([v, l]) =>
             `<button type="button" class="chip" data-theme="${t}" data-imp="${v}" aria-pressed="${(st.importance[t] || 0) === +v}">${l}</button>`).join("")}</span>
         </div>`).join("")}</div>
     </section>
 
     <section class="section card quiz">
-      <h2>3. Durée</h2>
+      <h2>2. Durée</h2>
       <div class="chips">${Object.entries(DUREES).map(([k, d]) =>
         `<button type="button" class="chip" data-duree="${k}" aria-pressed="${st.duree === k}"><strong>${d.label}</strong>&nbsp;: ${esc(d.detail)}</button>`).join("")}</div>
       <p class="quiz-nav"><span class="notice">${choisis.length ? `${choisis.length} thème${choisis.length > 1 ? "s" : ""} retenu${choisis.length > 1 ? "s" : ""}.` : "Choisissez au moins un thème « important » ou « essentiel »."}</span>
         <button type="button" class="cta" id="go" ${tirer().length ? "" : "disabled"}>Commencer</button></p>
     </section>`;
 
-  app().querySelectorAll("[data-grp]").forEach((b) => b.addEventListener("click", () => {
-    const { grp, key } = b.dataset;
-    if (st.profil[grp] === key) delete st.profil[grp];
-    else {
-      st.profil[grp] = key;
-      // pré-coche en « important » les thèmes suggérés encore non choisis
-      PROFILS[grp].options[key][1].forEach((t) => { if (!st.importance[t]) st.importance[t] = 1; });
-    }
-    renderPreparation();
-  }));
   app().querySelectorAll("[data-imp]").forEach((b) => b.addEventListener("click", () => {
     st.importance[b.dataset.theme] = +b.dataset.imp;
     renderPreparation();

@@ -498,8 +498,6 @@ button.cta { border: 0; font: inherit; font-weight: 600; cursor: pointer; }
 .answer-tag.non { background: var(--st-empeche-bg); color: var(--st-empeche-fg); }
 
 /* Mes priorités v2 */
-.profil { margin: 10px 0; }
-.profil legend { min-width: 120px; }
 .imp-list { display: grid; gap: 6px; margin-top: 10px; }
 .imp-row {
   display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 16px;
@@ -510,7 +508,6 @@ button.cta { border: 0; font: inherit; font-weight: 600; cursor: pointer; }
 .imp-choices { display: flex; flex-wrap: wrap; gap: 6px; }
 .imp-choices .chip { font-size: 13px; padding: 4px 10px; }
 .imp-choices .chip[data-imp="2"][aria-pressed="true"] { background: var(--tint); border-color: #b9b1a3; font-weight: 600; }
-.sugg { font-size: 11px; font-weight: 600; background: var(--pastel-butter); color: #7d5400; border-radius: 4px; padding: 1px 6px; margin-left: 4px; }
 .progress { height: 6px; border-radius: 999px; background: #ece8e1; overflow: hidden; margin-bottom: 14px; }
 .progress span { display: block; height: 100%; background: linear-gradient(90deg, #a9c1e8, #c7b8ec); transition: width .2s; }
 .quiz-answers .chip[data-answer="2"][aria-pressed="true"], .quiz-answers .chip[data-answer="1"][aria-pressed="true"] { background: var(--st-declare-bg); border-color: var(--st-declare-fg); }
