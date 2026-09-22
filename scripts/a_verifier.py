@@ -24,7 +24,7 @@ for kind, label in (("biographies", "Biographies et affaires judiciaires"), ("pr
     sections.append(f"\n## {label}\n" + ("\n".join(lines) if lines else "\nRien à vérifier.\n"))
 
 for fname, label in (("candidatures.json", "Données de candidature"), ("evaluations.json", "Évaluations externes"),
-                     ("temps-parole.json", "Temps de parole (Arcom)")):
+                     ("temps-parole.json", "Temps de parole (Arcom)"), ("questions.json", "Questions clés")):
     f = ROOT / "data" / fname
     items = json.loads(f.read_text(encoding="utf-8")).get("a_verifier") or [] if f.exists() else []
     total += len(items)

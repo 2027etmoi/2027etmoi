@@ -205,6 +205,23 @@ if ev:
         if not str(e.get("url", "")).startswith("http"):
             err(w, "URL manquante")
 
+# --- questions clés
+qf = load(DATA / "questions.json") if (DATA / "questions.json").exists() else None
+if qf:
+    qids = {x["id"] for x in qf.get("questions", [])}
+    for cid, pos in (qf.get("positions") or {}).items():
+        if cid not in ids:
+            err(f"questions/{cid}", "id absent de candidats.json")
+        for qid, x in pos.items():
+            w = f"questions/{cid}/{qid}"
+            if qid not in qids:
+                err(w, "question inconnue")
+            if x.get("position") not in {"pour", "plutot_pour", "nuance", "plutot_contre", "contre"}:
+                err(w, f"position invalide {x.get('position')!r}")
+            if not x.get("resume"):
+                err(w, "résumé vide")
+            check_source(w, x.get("source"), allow_wikipedia=False)
+
 # --- couverture
 manque_prog = sorted(en_lice - set(progs))
 manque_bio = sorted(en_lice - set(bios))

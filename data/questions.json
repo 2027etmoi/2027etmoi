@@ -1,0 +1,2050 @@
+{
+  "mise_a_jour": "2026-09-22",
+  "echelle": [
+    "pour",
+    "plutot_pour",
+    "nuance",
+    "plutot_contre",
+    "contre",
+    "non_connu"
+  ],
+  "questions": [
+    {
+      "id": "q01",
+      "theme": "economie",
+      "texte": "Faut-il rétablir un impôt sur la fortune (ISF) ?"
+    },
+    {
+      "id": "q02",
+      "theme": "economie",
+      "texte": "Faut-il baisser les impôts de production et les cotisations des entreprises ?"
+    },
+    {
+      "id": "q03",
+      "theme": "travail",
+      "texte": "Faut-il augmenter le SMIC au-delà de sa revalorisation automatique ?"
+    },
+    {
+      "id": "q04",
+      "theme": "travail",
+      "texte": "Faut-il exonérer les heures supplémentaires de cotisations sociales ?"
+    },
+    {
+      "id": "q05",
+      "theme": "retraites",
+      "texte": "Faut-il ramener l'âge légal de départ à la retraite à 62 ans ou moins ?"
+    },
+    {
+      "id": "q06",
+      "theme": "retraites",
+      "texte": "Faut-il introduire une part de retraite par capitalisation ?"
+    },
+    {
+      "id": "q07",
+      "theme": "sante",
+      "texte": "Faut-il réguler l'installation des médecins pour lutter contre les déserts médicaux ?"
+    },
+    {
+      "id": "q08",
+      "theme": "sante",
+      "texte": "Faut-il conserver la loi de 2026 créant un droit à l'aide à mourir ?",
+      "contexte": {
+        "texte": "Loi définitivement adoptée par le Parlement le 15 juillet 2026 ; recours annoncés devant le Conseil constitutionnel.",
+        "source": {
+          "titre": "LCP",
+          "url": "https://lcp.fr/actualites/aide-a-mourir-l-assemblee-a-definitivement-adopte-la-loi-instaurant-ce-nouveau-droit",
+          "date": "2026-07-15"
+        }
+      }
+    },
+    {
+      "id": "q09",
+      "theme": "education",
+      "texte": "Faut-il rendre l'uniforme obligatoire à l'école ?"
+    },
+    {
+      "id": "q10",
+      "theme": "education",
+      "texte": "Faut-il supprimer Parcoursup ?"
+    },
+    {
+      "id": "q11",
+      "theme": "ecologie",
+      "texte": "Faut-il construire de nouveaux réacteurs nucléaires ?"
+    },
+    {
+      "id": "q12",
+      "theme": "ecologie",
+      "texte": "Faut-il maintenir la fin de la vente des voitures thermiques neuves en 2035 ?"
+    },
+    {
+      "id": "q13",
+      "theme": "immigration",
+      "texte": "Faut-il fixer un plafond ou des quotas annuels d'immigration légale ?"
+    },
+    {
+      "id": "q14",
+      "theme": "immigration",
+      "texte": "Faut-il faciliter la régularisation des travailleurs sans papiers dans les métiers en tension ?"
+    },
+    {
+      "id": "q15",
+      "theme": "securite",
+      "texte": "Faut-il rétablir des peines minimales obligatoires (« peines planchers ») ?"
+    },
+    {
+      "id": "q16",
+      "theme": "securite",
+      "texte": "Faut-il légaliser le cannabis ?"
+    },
+    {
+      "id": "q17",
+      "theme": "international",
+      "texte": "Faut-il poursuivre l'aide militaire à l'Ukraine ?"
+    },
+    {
+      "id": "q18",
+      "theme": "international",
+      "texte": "Faut-il que la loi française puisse primer sur le droit européen ?"
+    },
+    {
+      "id": "q19",
+      "theme": "institutions",
+      "texte": "Faut-il instaurer le référendum d'initiative citoyenne (RIC) ?"
+    },
+    {
+      "id": "q20",
+      "theme": "institutions",
+      "texte": "Faut-il élire les députés à la proportionnelle ?"
+    },
+    {
+      "id": "q21",
+      "theme": "logement",
+      "texte": "Faut-il généraliser l'encadrement des loyers dans les zones tendues ?"
+    },
+    {
+      "id": "q22",
+      "theme": "logement",
+      "texte": "Faut-il supprimer ou assouplir l'obligation de 25 % de logements sociaux (loi SRU) ?"
+    },
+    {
+      "id": "q23",
+      "theme": "territoires",
+      "texte": "Faut-il revenir sur l'objectif « zéro artificialisation nette » (ZAN) ?"
+    },
+    {
+      "id": "q24",
+      "theme": "territoires",
+      "texte": "Faut-il garantir des prix planchers pour les produits agricoles ?"
+    }
+  ],
+  "positions": {
+    "melenchon": {
+      "q01": {
+        "position": "pour",
+        "resume": "Propose de rétablir et renforcer l'ISF, avec un volet climatique visant les gros pollueurs.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 6, p. 52-53 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q03": {
+        "position": "pour",
+        "resume": "Propose de porter immédiatement le SMIC à 1 600 euros net par mois.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 8, p. 68-69 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q05": {
+        "position": "pour",
+        "resume": "Veut revenir « le plus vite possible » à la retraite à 60 ans pour 40 années de cotisation.",
+        "source": {
+          "titre": "LCP, « Présidentielle : que proposent les candidats à l'Élysée sur les retraites ? »",
+          "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
+          "date": "2026-09-16"
+        }
+      },
+      "q07": {
+        "position": "pour",
+        "resume": "Le programme prévoit de « réguler l'installation des médecins » et de recruter des médecins publics.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 15, p. 112-113 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q08": {
+        "position": "pour",
+        "resume": "Propose d'inscrire dans la Constitution le droit de mourir dans la dignité, « y compris avec assistance ».",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 4, p. 34-35 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q09": {
+        "position": "contre",
+        "resume": "Le programme prévoit de « suspendre l'expérimentation de l'uniforme ».",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 5, p. 42-43 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q10": {
+        "position": "pour",
+        "resume": "Propose de supprimer Parcoursup et d'ouvrir à tous les bacheliers la formation de leur choix.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 5, p. 46-47 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q11": {
+        "position": "contre",
+        "resume": "Propose de sortir du nucléaire et d'abandonner les projets d'EPR.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 13, p. 98-99 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q14": {
+        "position": "pour",
+        "resume": "Propose de régulariser les travailleurs, étudiants et parents d'enfants scolarisés sans papiers.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 16, p. 124-125 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q15": {
+        "position": "contre",
+        "resume": "Rejette les peines automatiques, qu'il assimile aux « peines planchers » de la droite et du RN.",
+        "source": {
+          "titre": "Blog de Jean-Luc Mélenchon, « Est-ce que ça va mieux en l'expliquant ? »",
+          "url": "https://melenchon.fr/2024/11/16/est-ce-que-ca-va-mieux-en-lexpliquant/",
+          "date": "2024-11-16"
+        }
+      },
+      "q16": {
+        "position": "pour",
+        "resume": "Propose de légaliser le cannabis récréatif, encadré par un monopole d'État.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 15, p. 112-113 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q18": {
+        "position": "plutot_pour",
+        "resume": "Prévoit de désobéir aux règles européennes jugées incompatibles avec son programme, en parallèle d'une renégociation des traités.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 17, p. 130-131 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q19": {
+        "position": "pour",
+        "resume": "Propose un RIC permettant de révoquer des élus, proposer ou abroger une loi et modifier la Constitution.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 1, p. 24-25 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q20": {
+        "position": "pour",
+        "resume": "Propose d'élire l'Assemblée nationale au scrutin proportionnel.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 1, p. 22-23 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q21": {
+        "position": "pour",
+        "resume": "Propose d'encadrer les loyers sur tout le territoire, à la baisse dans les grandes villes.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 7, p. 60-61 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q22": {
+        "position": "contre",
+        "resume": "Propose de relever le quota de logements sociaux de la loi SRU à 30 % et d'aggraver les sanctions.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 7, p. 60-61 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q23": {
+        "position": "contre",
+        "resume": "Propose de mettre en œuvre le « zéro artificialisation nette » des sols dès 2027 dans l'Hexagone.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 13, p. 102-103 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      },
+      "q24": {
+        "position": "pour",
+        "resume": "Propose des prix planchers pour les agriculteurs et l'interdiction des ventes à perte.",
+        "source": {
+          "titre": "L'Avenir en commun 2025, chap. 13, p. 100-101 (PDF, copie archivée)",
+          "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+          "date": "2025-01"
+        }
+      }
+    },
+    "roussel": {
+      "q01": {
+        "position": "pour",
+        "resume": "Propose le rétablissement de l'impôt de solidarité sur la fortune.",
+        "source": {
+          "titre": "PCF, discours de Fabien Roussel à la Fête de l'Humanité 2026",
+          "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
+          "date": "2026-09-15"
+        }
+      },
+      "q03": {
+        "position": "pour",
+        "resume": "Propose de porter le SMIC à 1 700 euros net, avec une hausse de 5 % de tous les salaires.",
+        "source": {
+          "titre": "PCF, discours de Fabien Roussel à l'université d'été 2026",
+          "url": "https://www.pcf.fr/ue_26_discours_fr",
+          "date": "2026-08-26"
+        }
+      },
+      "q05": {
+        "position": "pour",
+        "resume": "Soutenait en 2024 l'abrogation de la réforme (retour à 62 ans) et l'objectif de la retraite à 60 ans.",
+        "source": {
+          "titre": "franceinfo, « La retraite à 60 ans est \"un objectif\" partagé par toutes les composantes du Nouveau Front populaire, assure Fabien Roussel »",
+          "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/la-retraite-a-60-ans-est-un-objectif-partage-par-toutes-les-composantes-du-nouveau-front-populaire-assure-fabien-roussel_6613203.html",
+          "date": "2024-06-19"
+        }
+      },
+      "q08": {
+        "position": "plutot_pour",
+        "resume": "Se disait en 2022 « plutôt favorable » à l'euthanasie, en souhaitant le consensus le plus large.",
+        "source": {
+          "titre": "franceinfo, « Fabien Roussel se dit \"favorable\" à l'euthanasie, mais veut \"travailler au consensus le plus large\" »",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/fabien-roussel-se-dit-favorable-a-l-euthanasie-mais-veut-travailler-au-consensus-le-plus-large_5024106.html",
+          "date": "2022-03-18"
+        }
+      },
+      "q11": {
+        "position": "pour",
+        "resume": "Propose la construction de 20 EPR, contre 14 prévus par le gouvernement, et la prolongation des réacteurs existants.",
+        "source": {
+          "titre": "PCF, « Énergie nucléaire : une filière durable pour le XXIe siècle », discours de Fabien Roussel",
+          "url": "https://www.pcf.fr/soiree_nucleaire_discours",
+          "date": "2025-06-24"
+        }
+      },
+      "q24": {
+        "position": "pour",
+        "resume": "Demande que l'État intervienne pour « garantir des prix planchers et des revenus dignes » aux agriculteurs.",
+        "source": {
+          "titre": "PCF, « C'est de courage politique dont ont besoin nos agriculteurs ! (Fabien Roussel) »",
+          "url": "https://www.pcf.fr/actualite_c_est_de_courage_politique_dont_ont_besoin_nos_agriculteurs_fabien_roussel",
+          "date": "2024-01-20"
+        }
+      }
+    },
+    "ruffin": {
+      "q01": {
+        "position": "pour",
+        "resume": "Demande le retour de l'impôt de solidarité sur la fortune, avec la taxe Zucman et une taxation des grands héritages.",
+        "source": {
+          "titre": "franceinfo, « Justice fiscale : \"Aujourd'hui, c'est un combat fiscal entre la démocratie et l'oligarchie\" »",
+          "url": "https://www.franceinfo.fr/politique/justice-fiscale-aujourd-hui-c-est-un-combat-fiscal-entre-la-democratie-et-l-oligarchie-affirme-francois-ruffin-depute-debout-de-la-somme_7524913.html",
+          "date": "2025-10-01"
+        }
+      },
+      "q03": {
+        "position": "pour",
+        "resume": "Reprend la mesure du SMIC à 1 600 euros du Nouveau Front populaire.",
+        "source": {
+          "titre": "Cahier de campagne « Pour un statut des travailleuses et travailleurs essentiels »",
+          "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+          "date": "2026-04-13"
+        }
+      },
+      "q05": {
+        "position": "pour",
+        "resume": "Reprend la retraite à 60 ans du programme du Nouveau Front populaire.",
+        "source": {
+          "titre": "Cahier de campagne « Pour un statut des travailleuses et travailleurs essentiels »",
+          "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+          "date": "2026-04-13"
+        }
+      },
+      "q08": {
+        "position": "pour",
+        "resume": "Juge « équilibré » le texte créant l'aide à mourir, en demandant des garde-fous contre les pressions économiques.",
+        "source": {
+          "titre": "franceinfo, « Fin de vie : le texte adopté à l'Assemblée nationale est \"équilibré\", salue François Ruffin »",
+          "url": "https://www.franceinfo.fr/societe/euthanasie/fin-de-vie-le-texte-adopte-a-l-assemblee-nationale-est-equilibre-salue-francois-ruffin_7830914.html",
+          "date": "2026-02-26"
+        }
+      },
+      "q11": {
+        "position": "pour",
+        "resume": "Propose de poursuivre la construction de six EPR2 et de décider de huit autres selon les coûts proposés par EDF.",
+        "source": {
+          "titre": "Cahier de campagne « Pour un travaillisme écologique »",
+          "url": "https://nouspresident.fr/travaillisme-ecologique/",
+          "date": "2026-09-09"
+        }
+      },
+      "q19": {
+        "position": "pour",
+        "resume": "Propose d'instaurer « enfin » le référendum d'initiative citoyenne.",
+        "source": {
+          "titre": "Cahier de campagne « Pour un travaillisme écologique »",
+          "url": "https://nouspresident.fr/travaillisme-ecologique/",
+          "date": "2026-09-09"
+        }
+      },
+      "q21": {
+        "position": "pour",
+        "resume": "Place l'encadrement des loyers parmi ses priorités, avec l'indexation des salaires sur l'inflation.",
+        "source": {
+          "titre": "franceinfo, « Présidentielle 2027, sommet Choose France... Le \"8h30 franceinfo\" de François Ruffin »",
+          "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/presidentielle-2027-sommet-choose-france-le-8h30-franceinfo-de-francois-ruffin_8013230.html",
+          "date": "2026-06-02"
+        }
+      },
+      "q24": {
+        "position": "pour",
+        "resume": "Propose des prix minimums garantis par filière, fixés à partir des coûts de production.",
+        "source": {
+          "titre": "Cahier de campagne « Pour un travaillisme écologique »",
+          "url": "https://nouspresident.fr/travaillisme-ecologique/",
+          "date": "2026-09-09"
+        }
+      }
+    },
+    "arthaud": {
+      "q03": {
+        "position": "pour",
+        "resume": "Revendique un salaire d'au moins 2 200 euros net par mois.",
+        "source": {
+          "titre": "Brochure de campagne « Nathalie Arthaud – Présidentielle 2027 » (PDF)",
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+          "date": "2026-06"
+        }
+      },
+      "q13": {
+        "position": "contre",
+        "resume": "Revendique la liberté de circulation et d'installation pour chaque être humain et rejette « l'Europe-forteresse ».",
+        "source": {
+          "titre": "Brochure de campagne « Nathalie Arthaud – Présidentielle 2027 » (PDF)",
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+          "date": "2026-06"
+        }
+      },
+      "q14": {
+        "position": "pour",
+        "resume": "Revendique la régularisation de tous les sans-papiers.",
+        "source": {
+          "titre": "Brochure de campagne « Nathalie Arthaud – Présidentielle 2027 » (PDF)",
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+          "date": "2026-06"
+        }
+      }
+    },
+    "kazib": {
+      "q03": {
+        "position": "pour",
+        "resume": "Propose un SMIC à 2 000 euros net et une hausse des salaires de 500 euros.",
+        "source": {
+          "titre": "Anasse 2027, « Notre programme »",
+          "url": "https://anasse2027.fr/programme",
+          "date": "2026-09-22"
+        }
+      },
+      "q05": {
+        "position": "pour",
+        "resume": "Propose la retraite à 60 ans, et à 55 ans pour les métiers pénibles, sans condition d'annuités.",
+        "source": {
+          "titre": "Anasse 2027, « Notre programme »",
+          "url": "https://anasse2027.fr/programme",
+          "date": "2026-09-22"
+        }
+      },
+      "q13": {
+        "position": "contre",
+        "resume": "Revendique la liberté de circulation et d'installation.",
+        "source": {
+          "titre": "Anasse 2027, « Notre programme »",
+          "url": "https://anasse2027.fr/programme",
+          "date": "2026-09-22"
+        }
+      },
+      "q14": {
+        "position": "pour",
+        "resume": "Propose la régularisation de tous les sans-papiers.",
+        "source": {
+          "titre": "Anasse 2027, « Notre programme »",
+          "url": "https://anasse2027.fr/programme",
+          "date": "2026-09-22"
+        }
+      },
+      "q21": {
+        "position": "pour",
+        "resume": "Propose le plafonnement et le gel des loyers.",
+        "source": {
+          "titre": "Anasse 2027, « Notre programme »",
+          "url": "https://anasse2027.fr/programme",
+          "date": "2026-09-22"
+        }
+      }
+    },
+    "labib": {
+      "q03": {
+        "position": "pour",
+        "resume": "Revendique une hausse de 400 euros des salaires et qu'aucun revenu ne soit inférieur à 2 000 euros net.",
+        "source": {
+          "titre": "NPA-R, intervention de Selma Labib à la Fête de l'Humanité 2026",
+          "url": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+          "date": "2026-09-12"
+        }
+      },
+      "q13": {
+        "position": "contre",
+        "resume": "Revendique la liberté de circulation et d'installation.",
+        "source": {
+          "titre": "NPA-R, intervention de Selma Labib à la Fête de l'Humanité 2026",
+          "url": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+          "date": "2026-09-12"
+        }
+      },
+      "q14": {
+        "position": "pour",
+        "resume": "Revendique la régularisation de tous les sans-papiers.",
+        "source": {
+          "titre": "NPA-R, intervention de Selma Labib à la Fête de l'Humanité 2026",
+          "url": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+          "date": "2026-09-12"
+        }
+      }
+    },
+    "faure": {
+      "q01": {
+        "position": "plutot_pour",
+        "resume": "Propose le retour de l'ISF supprimé en 2017 comme alternative si la taxe Zucman n'est pas votée au budget 2026.",
+        "source": {
+          "titre": "Europe 1 – Budget 2026 : Olivier Faure demande des alternatives à Sébastien Lecornu si la taxe Zucman n'est pas votée",
+          "url": "https://www.europe1.fr/politique/budget-2026-olivier-faure-demande-des-alternatives-a-sebastien-lecornu-si-la-taxe-zucman-nest-pas-votee-869567",
+          "date": "2025-10-31"
+        }
+      },
+      "q03": {
+        "position": "pour",
+        "resume": "Propose de porter le SMIC à 1 700 euros net.",
+        "source": {
+          "titre": "AFP (via Orange Actualités), d'après un entretien au Nouvel Obs",
+          "url": "https://actu.orange.fr/politique/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions-CNT000002rW0aW.html",
+          "date": "2026-09-16"
+        }
+      },
+      "q05": {
+        "position": "pour",
+        "resume": "Propose de revenir à un âge de départ à la retraite à 62 ans.",
+        "source": {
+          "titre": "AFP (via Orange Actualités), d'après un entretien au Nouvel Obs",
+          "url": "https://actu.orange.fr/politique/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions-CNT000002rW0aW.html",
+          "date": "2026-09-16"
+        }
+      },
+      "q08": {
+        "position": "pour",
+        "resume": "A voté pour la proposition de loi relative au droit à l'aide à mourir en deuxième lecture à l'Assemblée nationale.",
+        "source": {
+          "titre": "Assemblée nationale – Scrutin public n°5729 (aide à mourir, deuxième lecture)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5729",
+          "date": "2026-02-25"
+        }
+      },
+      "q14": {
+        "position": "pour",
+        "resume": "Propose une régularisation des travailleurs sans papiers ; le chiffre de 500 000 régularisations « ne (le) choque pas ».",
+        "source": {
+          "titre": "AFP (via Orange Actualités), d'après un entretien au Nouvel Obs",
+          "url": "https://actu.orange.fr/politique/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions-CNT000002rW0aW.html",
+          "date": "2026-09-16"
+        }
+      }
+    },
+    "glucksmann": {
+      "q05": {
+        "position": "nuance",
+        "resume": "S'engage à abroger la réforme de 2023 sans fixer d'âge légal ; propose un départ plus tôt pour les métiers pénibles et plus tard pour d'autres.",
+        "source": {
+          "titre": "LCP – Présidentielle : que proposent les candidats à l'Élysée sur les retraites ?",
+          "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
+          "date": "2026-09-16"
+        }
+      },
+      "q11": {
+        "position": "pour",
+        "resume": "Favorable à la construction de nouveaux réacteurs EPR, point de désaccord avec les écologistes.",
+        "source": {
+          "titre": "France 24 (AFP) – Présidentielle : Glucksmann promet « la révolution écologique » dès sa victoire",
+          "url": "https://www.france24.com/fr/info-en-continu/20260825-pr%C3%A9sidentielle-glucksmann-promet-la-r%C3%A9volution-%C3%A9cologique-d%C3%A8s-sa-victoire",
+          "date": "2026-08-25"
+        }
+      },
+      "q17": {
+        "position": "pour",
+        "resume": "Défend le maintien de l'aide à l'Ukraine : « Si vous coupez l'aide à l'Ukraine, vous aurez la guerre dans les pays baltes ou en Pologne. »",
+        "source": {
+          "titre": "France 3 Grand Est (franceinfo) – À la foire de Châlons, Raphaël Glucksmann en campagne contre le RN",
+          "url": "https://france3-regions.franceinfo.fr/grand-est/marne/chalons-en-champagne/ce-sont-des-patriotes-de-pacotille-a-la-foire-de-chalons-raphael-glucksmann-en-campagne-contre-le-rn-3412121.html",
+          "date": "2026-09-05"
+        }
+      },
+      "q20": {
+        "position": "pour",
+        "resume": "Cosigne une tribune de 70 élus réclamant la proportionnelle aux prochaines élections législatives.",
+        "source": {
+          "titre": "franceinfo – 70 élus dont François Hollande, Élisabeth Borne et Raphaël Glucksmann réclament la proportionnelle",
+          "url": "https://www.franceinfo.fr/elections/legislatives/elections-legislatives-soixante-dix-elus-dont-francois-hollande-elisabeth-borne-et-raphael-glucksmann-reclament-la-proportionnelle_7792037.html",
+          "date": "2026-02-08"
+        }
+      }
+    },
+    "guedj": {
+      "q03": {
+        "position": "pour",
+        "resume": "Propose d'augmenter le SMIC à 1 700 euros.",
+        "source": {
+          "titre": "AFP (via Orange Actualités) – Primaire à gauche : Guedj veut repousser les frontières du PS",
+          "url": "https://actu.orange.fr/politique/primaire-a-gauche-guedj-veut-repousser-les-frontieres-du-ps-au-risque-de-l-isolement-CNT000002rWRmr.html",
+          "date": "2026-09-17"
+        }
+      },
+      "q05": {
+        "position": "nuance",
+        "resume": "Veut « sortir de l'âge légal » : départ fondé sur les annuités, la pénibilité et un âge du taux plein abaissé sous 67 ans.",
+        "source": {
+          "titre": "Capital (via Yahoo Actualités), d'après BFMTV – « Je veux sortir de l'âge légal »",
+          "url": "https://fr.finance.yahoo.com/actualites/veux-sortir-l%C3%A2ge-l%C3%A9gal-j%C3%A9r%C3%B4me-144747223.html",
+          "date": "2026-09-12"
+        }
+      },
+      "q08": {
+        "position": "pour",
+        "resume": "A voté pour la proposition de loi relative au droit à l'aide à mourir en deuxième lecture à l'Assemblée nationale.",
+        "source": {
+          "titre": "Assemblée nationale – Scrutin public n°5729 (aide à mourir, deuxième lecture)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5729",
+          "date": "2026-02-25"
+        }
+      }
+    },
+    "royal": {
+      "q01": {
+        "position": "pour",
+        "resume": "Réclame le retour de l'impôt de solidarité sur la fortune (ISF).",
+        "source": {
+          "titre": "franceinfo – Ségolène Royal peut-elle créer la surprise à la primaire socialiste ?",
+          "url": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/on-la-prend-tres-au-serieux-segolene-royal-peut-elle-creer-la-surprise-a-la-primaire-socialiste-vingt-ans-apres-son-echec-a-la-presidentielle_8184773.html",
+          "date": "2026-09-11"
+        }
+      }
+    },
+    "maurel": {
+      "q01": {
+        "position": "pour",
+        "resume": "Propose de rétablir l'ISF et de porter le prélèvement forfaitaire unique à 40 %.",
+        "source": {
+          "titre": "Programme d'Emmanuel Maurel",
+          "url": "https://emmanuel-maurel.fr/programme/",
+          "date": "2026-09"
+        }
+      },
+      "q03": {
+        "position": "pour",
+        "resume": "Propose un SMIC à 1 700 euros net dès la prochaine législature.",
+        "source": {
+          "titre": "Programme d'Emmanuel Maurel",
+          "url": "https://emmanuel-maurel.fr/programme/",
+          "date": "2026-09"
+        }
+      },
+      "q05": {
+        "position": "pour",
+        "resume": "Après la suspension de la réforme, propose de « consolider le droit à la retraite à 62 ans ».",
+        "source": {
+          "titre": "Programme d'Emmanuel Maurel",
+          "url": "https://emmanuel-maurel.fr/programme/",
+          "date": "2026-09"
+        }
+      },
+      "q08": {
+        "position": "pour",
+        "resume": "A voté pour la proposition de loi relative au droit à l'aide à mourir en deuxième lecture à l'Assemblée nationale.",
+        "source": {
+          "titre": "Assemblée nationale – Scrutin public n°5729 (aide à mourir, deuxième lecture)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5729",
+          "date": "2026-02-25"
+        }
+      },
+      "q11": {
+        "position": "pour",
+        "resume": "Veut de l'électricité décarbonée « via de nouvelles capacités nucléaires, hydroélectriques et renouvelables ».",
+        "source": {
+          "titre": "Programme d'Emmanuel Maurel",
+          "url": "https://emmanuel-maurel.fr/programme/",
+          "date": "2026-09"
+        }
+      },
+      "q14": {
+        "position": "pour",
+        "resume": "Propose que la France régularise les travailleurs sans papiers.",
+        "source": {
+          "titre": "Programme d'Emmanuel Maurel",
+          "url": "https://emmanuel-maurel.fr/programme/",
+          "date": "2026-09"
+        }
+      },
+      "q17": {
+        "position": "pour",
+        "resume": "Soutient « sans réserve » les politiques européennes contre l'agression russe, « notamment sur le plan de l'aide militaire ».",
+        "source": {
+          "titre": "Programme d'Emmanuel Maurel",
+          "url": "https://emmanuel-maurel.fr/programme/",
+          "date": "2026-09"
+        }
+      },
+      "q19": {
+        "position": "plutot_pour",
+        "resume": "Propose une journée annuelle référendaire dont une partie des questions serait d'initiative citoyenne ; ne parle pas de RIC.",
+        "source": {
+          "titre": "Programme d'Emmanuel Maurel",
+          "url": "https://emmanuel-maurel.fr/programme/",
+          "date": "2026-09"
+        }
+      },
+      "q21": {
+        "position": "pour",
+        "resume": "Propose de généraliser l'encadrement des loyers et des prix du foncier.",
+        "source": {
+          "titre": "Programme d'Emmanuel Maurel",
+          "url": "https://emmanuel-maurel.fr/programme/",
+          "date": "2026-09"
+        }
+      }
+    },
+    "tondelier": {
+      "q01": {
+        "position": "pour",
+        "resume": "Le programme des Écologistes prévoit la création d'un « ISF climatique ».",
+        "source": {
+          "titre": "France 24 (AFP) – 2027 : les Écologistes veulent instaurer la « Première République écologique et citoyenne »",
+          "url": "https://www.france24.com/fr/info-en-continu/20260713-2027-les-ecologistes-veulent-instaurer-la-premi%C3%A8re-r%C3%A9publique-%C3%A9cologique-et-citoyenne",
+          "date": "2026-07-13"
+        }
+      },
+      "q03": {
+        "position": "pour",
+        "resume": "Propose un SMIC à 2 000 euros brut.",
+        "source": {
+          "titre": "France 24 – Premier débat de la présidentielle 2027 : les principales propositions des candidats",
+          "url": "https://www.france24.com/fr/france/20260827-premier-d%C3%A9bat-de-la-pr%C3%A9sidentielle-2027-les-principales-propositions-des-candidats",
+          "date": "2026-08-27"
+        }
+      },
+      "q05": {
+        "position": "pour",
+        "resume": "Retraite à 62 ans, et à 60 ans pour les carrières commencées avant 20 ans ou les métiers pénibles.",
+        "source": {
+          "titre": "LCP – Présidentielle : que proposent les candidats à l'Élysée sur les retraites ?",
+          "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
+          "date": "2026-09-16"
+        }
+      },
+      "q08": {
+        "position": "pour",
+        "resume": "A salué l'adoption du droit à l'aide à mourir par les députés : « c'est enfin une bonne nouvelle ».",
+        "source": {
+          "titre": "franceinfo – Droit à l'aide à mourir : « Je suis très émue, c'est enfin une bonne nouvelle », réagit Marine Tondelier",
+          "url": "https://www.franceinfo.fr/replay-radio/19h20-politique/droit-a-l-aide-a-mourir-je-suis-tres-emue-c-est-enfin-une-bonne-nouvelle-reagit-marine-tondelier_7259172.html",
+          "date": "2025-05-27"
+        }
+      },
+      "q11": {
+        "position": "contre",
+        "resume": "Le programme des Écologistes prévoit la sortie du nucléaire.",
+        "source": {
+          "titre": "6Médias / L'Express (via Orange Actualités) – Canicules et incendies : que proposent les partis face au défi climatique ?",
+          "url": "https://actu.orange.fr/politique/canicules-et-incendies-que-proposent-les-partis-face-au-defi-climatique-magic-CNT000002rrQux.html",
+          "date": "2026-08-21"
+        }
+      },
+      "q14": {
+        "position": "pour",
+        "resume": "Propose la régularisation des travailleurs sans papiers, parmi ses 21 priorités pour la gauche.",
+        "source": {
+          "titre": "France 24 (AFP) – Présidentielle : Tondelier propose un socle programmatique aux autres partis de gauche",
+          "url": "https://www.france24.com/fr/info-en-continu/20260417-pr%C3%A9sidentielle-tondelier-propose-un-socle-programmatique-aux-autres-partis-de-gauche",
+          "date": "2026-04-17"
+        }
+      },
+      "q16": {
+        "position": "pour",
+        "resume": "Plaide pour la légalisation du cannabis, estimant que la répression « ne fonctionne pas ».",
+        "source": {
+          "titre": "franceinfo – Le « 8h30 franceinfo » de Marine Tondelier (déficit public, trafic de drogue, CETA)",
+          "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/deficit-public-lutte-contre-le-trafic-de-drogue-et-accord-du-ceta-le-8h30-franceinfo-de-marine-tondelier_6418306.html",
+          "date": "2024-03-26"
+        }
+      }
+    },
+    "cazeneuve": {
+      "q02": {
+        "position": "plutot_pour",
+        "resume": "Propose une baisse des impôts de production, financée par une réduction des aides fiscales ; rien sur les cotisations patronales.",
+        "source": {
+          "titre": "Synthèse de la Lettre aux Français de Bernard Cazeneuve, proposition 18",
+          "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+          "date": "2026-07-15"
+        }
+      },
+      "q11": {
+        "position": "plutot_pour",
+        "resume": "Assume la filière électronucléaire et propose de planifier le renouvellement du parc.",
+        "source": {
+          "titre": "Synthèse de la Lettre aux Français de Bernard Cazeneuve, proposition 19",
+          "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+          "date": "2026-07-15"
+        }
+      },
+      "q20": {
+        "position": "plutot_pour",
+        "resume": "Propose d'introduire une dose de proportionnelle aux élections législatives.",
+        "source": {
+          "titre": "Synthèse de la Lettre aux Français de Bernard Cazeneuve, proposition 12",
+          "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+          "date": "2026-07-15"
+        }
+      }
+    },
+    "bouamrane": {
+      "q05": {
+        "position": "plutot_contre",
+        "resume": "Demande d'« arrêter de parler de retour à 62 ans pour tous » et privilégie la prise en compte de la pénibilité.",
+        "source": {
+          "titre": "Sud Radio – « Arrêtons de sacraliser la loose ! » affirme Karim Bouamrane",
+          "url": "https://www.sudradio.fr/linvite-politique/ps-arretons-de-sacraliser-la-loose-affirme-karim-bouamrane",
+          "date": "2025-03-20"
+        }
+      }
+    },
+    "hollande": {
+      "q02": {
+        "position": "plutot_pour",
+        "resume": "Propose de réduire les impôts de production en diminuant les aides aux entreprises.",
+        "source": {
+          "titre": "France 24 (AFP) – Présidentielle : Hollande fait ses propositions pour séduire jusqu'au centre",
+          "url": "https://www.france24.com/fr/info-en-continu/20260903-pr%C3%A9sidentielle-hollande-fait-ses-propositions-pour-s%C3%A9duire-jusqu-au-centre",
+          "date": "2026-09-03"
+        }
+      },
+      "q05": {
+        "position": "plutot_contre",
+        "resume": "Ne propose pas le retour à 62 ans : âge légal maintenu à 63 ans, avec allongement progressif de la durée de cotisation.",
+        "source": {
+          "titre": "LCP – Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat",
+          "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+          "date": "2026-08-27"
+        }
+      },
+      "q06": {
+        "position": "plutot_pour",
+        "resume": "Propose d'« ajouter une part de capitalisation » contrôlée par les partenaires sociaux, sans toucher aux recettes de la répartition.",
+        "source": {
+          "titre": "LCP – Présidentielle : que proposent les candidats à l'Élysée sur les retraites ?",
+          "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
+          "date": "2026-09-16"
+        }
+      },
+      "q17": {
+        "position": "pour",
+        "resume": "Estime qu'il faut apporter à l'Ukraine « non seulement un soutien moral, mais aussi un soutien militaire ».",
+        "source": {
+          "titre": "franceinfo – Guerre en Ukraine : « Pour arrêter le conflit, il faut montrer que Kiev ne recule pas », déclare François Hollande",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-assurement-pour-arreter-le-conflit-il-faut-montrer-que-kiev-ne-recule-pas-declare-francois-hollande_7154613.html",
+          "date": "2025-03-27"
+        }
+      },
+      "q20": {
+        "position": "pour",
+        "resume": "Cosignataire d'une tribune de 70 élus réclamant la proportionnelle aux prochaines élections législatives.",
+        "source": {
+          "titre": "franceinfo – Élections législatives : 70 élus dont François Hollande, Élisabeth Borne et Raphaël Glucksmann réclament la proportionnelle",
+          "url": "https://www.franceinfo.fr/elections/legislatives/elections-legislatives-soixante-dix-elus-dont-francois-hollande-elisabeth-borne-et-raphael-glucksmann-reclament-la-proportionnelle_7792037.html",
+          "date": "2026-02-08"
+        }
+      }
+    },
+    "philippe": {
+      "q02": {
+        "position": "pour",
+        "resume": "Propose 50 milliards d'euros de baisses d'impôts de production, compensées par 50 milliards d'aides publiques jugées improductives en moins.",
+        "source": {
+          "titre": "edouardphilippe.fr — Pour une France plus prospère",
+          "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+          "date": "2026-09-22"
+        }
+      },
+      "q06": {
+        "position": "pour",
+        "resume": "Propose de créer un pilier de capitalisation représentant 10 à 15 % des pensions d'ici quinze ans.",
+        "source": {
+          "titre": "edouardphilippe.fr — Pour une France plus prospère",
+          "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+          "date": "2026-09-22"
+        }
+      },
+      "q08": {
+        "position": "pour",
+        "resume": "Favorable à la loi sur l'aide à mourir ; ne reviendrait pas dessus, bien qu'une majorité de ses députés ait voté contre.",
+        "source": {
+          "titre": "Europe 1 — Fin de vie : une réforme appelée à s'imposer durablement malgré les oppositions politiques",
+          "url": "https://www.europe1.fr/politique/fin-de-vie-une-reforme-appelee-a-simposer-durablement-malgre-les-oppositions-politiques-963783",
+          "date": "2026-07-01"
+        }
+      },
+      "q09": {
+        "position": "nuance",
+        "resume": "Propose de laisser aux chefs d'établissement la liberté d'imposer l'uniforme, sans obligation nationale.",
+        "source": {
+          "titre": "edouardphilippe.fr — Pour une France plus attentive à ses enfants",
+          "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+          "date": "2026-09-22"
+        }
+      },
+      "q11": {
+        "position": "plutot_pour",
+        "resume": "Propose de « relancer le nucléaire » avec les renouvelables et l'électrification, sans préciser un nombre de nouveaux réacteurs.",
+        "source": {
+          "titre": "edouardphilippe.fr — Pour une France plus conquérante",
+          "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+          "date": "2026-09-22"
+        }
+      },
+      "q13": {
+        "position": "pour",
+        "resume": "Propose des quotas migratoires pour choisir l'immigration économique et restreindre l'immigration familiale.",
+        "source": {
+          "titre": "edouardphilippe.fr — Pour une France plus sûre",
+          "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+          "date": "2026-09-22"
+        }
+      },
+      "q15": {
+        "position": "pour",
+        "resume": "Propose des peines planchers pour les infractions les plus graves, et des courtes peines dès la première infraction.",
+        "source": {
+          "titre": "edouardphilippe.fr — Pour une France plus sûre",
+          "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+          "date": "2026-09-22"
+        }
+      },
+      "q17": {
+        "position": "pour",
+        "resume": "À Kiev, s'engage à « rester aux côtés de l'Ukraine » jusqu'à la paix et soutient son entrée dans l'OTAN.",
+        "source": {
+          "titre": "Europe 1 — Candidat à la prochaine présidentielle, Édouard Philippe a rencontré Volodymyr Zelensky à Kiev",
+          "url": "https://www.europe1.fr/international/candidat-a-la-prochaine-presidentielle-edouard-philippe-a-rencontre-volodymyr-zelensky-a-kiev-ce-mardi-938750",
+          "date": "2026-05-26"
+        }
+      },
+      "q20": {
+        "position": "contre",
+        "resume": "Se dit défavorable à la proportionnelle, qui perpétuerait selon lui l'absence de majorité et distendrait le lien entre électeur et député.",
+        "source": {
+          "titre": "France 24 (AFP) — Édouard Philippe « défavorable » à la proportionnelle",
+          "url": "https://www.france24.com/fr/info-en-continu/20250522-edouard-philippe-d%C3%A9favorable-%C3%A0-la-proportionnelle-qui-conduirait-%C3%A0-une-absence-de-majorit%C3%A9",
+          "date": "2025-05-22"
+        }
+      }
+    },
+    "attal": {
+      "q05": {
+        "position": "nuance",
+        "resume": "Propose de supprimer l'âge légal de départ et de fonder la retraite sur la durée de cotisation, sans fixer d'âge.",
+        "source": {
+          "titre": "attalpresident.fr — Travail & salaires",
+          "url": "https://attalpresident.fr/programme/travail-salaires",
+          "date": "2026-09-22"
+        }
+      },
+      "q06": {
+        "position": "pour",
+        "resume": "Propose d'introduire la retraite par capitalisation, avec 50 % de l'intéressement et de la participation fléchés vers des plans d'épargne retraite.",
+        "source": {
+          "titre": "attalpresident.fr — Gabriel Attal veut faire de la France la 1re puissance d'IA d'Europe (Les Échos)",
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-appelle-a-une-rupture-economique-dans-les-echos",
+          "date": "2026-06-17"
+        }
+      },
+      "q08": {
+        "position": "pour",
+        "resume": "Défend la proposition de loi sur l'aide à mourir avec Line Renaud, au nom de la « liberté de choix » des malades.",
+        "source": {
+          "titre": "franceinfo — Aide à mourir : Bruno Retailleau s'oppose au texte, Line Renaud et Gabriel Attal le défendent",
+          "url": "https://www.franceinfo.fr/societe/euthanasie/aide-a-mourir-bruno-retailleau-s-oppose-au-texte-line-renaud-et-gabriel-attal-le-defendent_7240641.html",
+          "date": "2025-05-11"
+        }
+      },
+      "q11": {
+        "position": "pour",
+        "resume": "Premier ministre en 2024, il souhaitait la mise en chantier de 14 nouveaux réacteurs ; aucune position de campagne 2026 trouvée.",
+        "source": {
+          "titre": "Public Sénat — Législatives anticipées : que proposent les trois blocs sur l'écologie ?",
+          "url": "https://www.publicsenat.fr/actualites/politique/legislatives-anticipees-que-proposent-les-trois-blocs-sur-lecologie",
+          "date": "2024-06-20"
+        }
+      },
+      "q13": {
+        "position": "pour",
+        "resume": "Propose des quotas limitatifs par secteur et par origine, votés tous les deux ans par le Parlement.",
+        "source": {
+          "titre": "attalpresident.fr — BFM TV : Gabriel Attal veut changer de modèle",
+          "url": "https://attalpresident.fr/actualites/bfm-tv-gabriel-attal-veut-changer-de-modele-pour-redonner-de-la-puissance-a-la-france",
+          "date": "2026-09-06"
+        }
+      },
+      "q17": {
+        "position": "pour",
+        "resume": "Propose d'utiliser les avoirs russes gelés en Europe pour financer un soutien supplémentaire à l'Ukraine.",
+        "source": {
+          "titre": "attalpresident.fr — BFM TV : Gabriel Attal veut changer de modèle",
+          "url": "https://attalpresident.fr/actualites/bfm-tv-gabriel-attal-veut-changer-de-modele-pour-redonner-de-la-puissance-a-la-france",
+          "date": "2026-09-06"
+        }
+      }
+    },
+    "villepin": {
+      "q01": {
+        "position": "plutot_pour",
+        "resume": "Propose un « impôt unique sur le patrimoine » incluant toutes les sources de fortune, et une imposition renforcée des successions.",
+        "source": {
+          "titre": "La France humaniste — Big Bang : la règle républicaine",
+          "url": "https://www.lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html",
+          "date": "2026-08-28"
+        }
+      },
+      "q17": {
+        "position": "pour",
+        "resume": "Juge « totalement irresponsable » la proposition de couper l'aide à l'Ukraine et appelle à « marquer nos lignes rouges » face à la Russie.",
+        "source": {
+          "titre": "franceinfo — Présidentielle : « Il faut marquer nos lignes rouges » face à Vladimir Poutine, défend Dominique de Villepin",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-jerome-guedj-juge-que-le-ps-est-alle-vite-en-besogne-en-suspendant-philippe-brun-de-la-primaire_8201483.html",
+          "date": "2026-09-20"
+        }
+      },
+      "q24": {
+        "position": "pour",
+        "resume": "Propose de « garantir la rémunération et des prix planchers » aux agriculteurs, à volume d'aides constant.",
+        "source": {
+          "titre": "La France humaniste — Souveraineté agricole et alimentaire",
+          "url": "https://www.lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html",
+          "date": "2026-02-25"
+        }
+      }
+    },
+    "le-maire": {
+      "q05": {
+        "position": "contre",
+        "resume": "Propose de reporter l'âge de départ à 65 ans : « il faut que nous travaillions tous plus longtemps ».",
+        "source": {
+          "titre": "franceinfo — « Je parie sur des Français plus responsables que les parlementaires » : Bruno Le Maire dévoile ses propositions pour 2027",
+          "url": "https://www.franceinfo.fr/politique/bruno-le-maire/je-parie-sur-des-francais-plus-responsables-que-les-parlementaires-bruno-le-maire-devoile-ses-propositions-pour-2027_8180048.html",
+          "date": "2026-09-06"
+        }
+      },
+      "q06": {
+        "position": "pour",
+        "resume": "Propose de développer la retraite par capitalisation, « pour qu'ils aient une meilleure retraite ».",
+        "source": {
+          "titre": "franceinfo — « Je parie sur des Français plus responsables que les parlementaires » : Bruno Le Maire dévoile ses propositions pour 2027",
+          "url": "https://www.franceinfo.fr/politique/bruno-le-maire/je-parie-sur-des-francais-plus-responsables-que-les-parlementaires-bruno-le-maire-devoile-ses-propositions-pour-2027_8180048.html",
+          "date": "2026-09-06"
+        }
+      }
+    },
+    "retailleau": {
+      "q02": {
+        "position": "pour",
+        "resume": "Propose près de 15 milliards de baisse de la fiscalité de production (suppression C3S, CVAE) et 25 milliards d’allègements du coût du travail.",
+        "source": {
+          "titre": "Retailleau 2027 — Réduire de 60 % le handicap fiscal de nos entreprises",
+          "url": "https://www.avecretailleau.fr/projet/mesure/reduire-de-60-le-handicap-fiscal-de-nos-entreprises-par",
+          "date": "2026-09-11"
+        }
+      },
+      "q04": {
+        "position": "pour",
+        "resume": "Propose un seuil « zéro cotisation » : au-delà de 1 623 heures par an, plus de cotisations salariales ni patronales, hors CSG et CRDS.",
+        "source": {
+          "titre": "Retailleau 2027 — Exonérer totalement les heures supplémentaires de cotisations sociales",
+          "url": "https://www.avecretailleau.fr/projet/mesure/rapprocher-le-brut-du-net-avec-le-seuil-zero-cotisation",
+          "date": "2026-09-11"
+        }
+      },
+      "q05": {
+        "position": "contre",
+        "resume": "Propose de reculer l'âge légal « après 64 ans » et de le lier à l'espérance de vie en bonne santé.",
+        "source": {
+          "titre": "LCP — Présidentielle : que proposent les candidats à l'Élysée sur les retraites ?",
+          "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
+          "date": "2026-09-16"
+        }
+      },
+      "q06": {
+        "position": "plutot_pour",
+        "resume": "Propose un étage de retraite par épargne, individuel, complémentaire et volontaire, avec un compte d'épargne retraite pour chaque actif.",
+        "source": {
+          "titre": "Retailleau 2027 — Financer nos entreprises avec l'épargne",
+          "url": "https://www.avecretailleau.fr/projet/mesure/financer-les-entreprises-avec-l-epargne-et-preparer-la",
+          "date": "2026-09-11"
+        }
+      },
+      "q08": {
+        "position": "contre",
+        "resume": "Se dit opposé au suicide assisté et à l'euthanasie ; défend le développement des soins palliatifs.",
+        "source": {
+          "titre": "franceinfo — Aide à mourir : Bruno Retailleau s'oppose à la proposition de loi",
+          "url": "https://www.franceinfo.fr/societe/euthanasie/aide-a-mourir-bruno-retailleau-s-oppose-au-texte-line-renaud-et-gabriel-attal-le-defendent_7240641.html",
+          "date": "2025-05-11"
+        }
+      },
+      "q09": {
+        "position": "pour",
+        "resume": "Cosignataire d'une proposition de loi sénatoriale rendant l'uniforme obligatoire à l'école.",
+        "source": {
+          "titre": "Public Sénat — Uniformes obligatoires à l'école : une proposition de loi déposée au Sénat",
+          "url": "https://www.publicsenat.fr/actualites/politique/uniformes-obligatoires-a-l-ecole-une-proposition-de-loi-deposee-au-senat-231733",
+          "date": "2023-01-05"
+        }
+      },
+      "q11": {
+        "position": "pour",
+        "resume": "Propose de confirmer la commande de huit EPR2 supplémentaires en début de mandat si les six premiers avancent de façon satisfaisante.",
+        "source": {
+          "titre": "Retailleau 2027 — Construire les EPR2 dans les coûts et délais prévus",
+          "url": "https://www.avecretailleau.fr/projet/mesure/construire-les-epr2-dans-les-couts-et-delais-prevus",
+          "date": "2026-09-22"
+        }
+      },
+      "q13": {
+        "position": "pour",
+        "resume": "Propose que la loi fixe des quotas de visas et de titres de séjour.",
+        "source": {
+          "titre": "Retailleau 2027 — Faire fixer par la loi des quotas migratoires",
+          "url": "https://www.avecretailleau.fr/projet/mesure/faire-fixer-par-la-loi-des-quotas-migratoires",
+          "date": "2026-09-22"
+        }
+      },
+      "q14": {
+        "position": "contre",
+        "resume": "Ministre, a durci par circulaire les régularisations, y compris par le travail : « il faut ne pas régulariser à tour de bras ».",
+        "source": {
+          "titre": "franceinfo — Que contient la nouvelle circulaire sur les régularisations présentée par Bruno Retailleau ?",
+          "url": "https://www.franceinfo.fr/societe/immigration/que-contient-la-nouvelle-circulaire-sur-les-regularisations-de-personnes-sans-papiers-presentee-par-le-ministre-de-l-interieur-bruno-retailleau_7034276.html",
+          "date": "2025-01-24"
+        }
+      },
+      "q15": {
+        "position": "pour",
+        "resume": "Propose des peines minimales, notamment pour les agressions contre policiers, gendarmes et pompiers : « le juge ne doit pas avoir le choix ».",
+        "source": {
+          "titre": "Europe 1 — Objectif Élysée 2027 : s'il est élu, Bruno Retailleau souhaite instaurer des « peines minimales »",
+          "url": "https://www.europe1.fr/politique/objectif-elysee-2027-sil-est-elu-bruno-retailleau-souhaite-instaurer-des-peines-minimales-1064336",
+          "date": "2026-09-08"
+        }
+      },
+      "q16": {
+        "position": "contre",
+        "resume": "Se dit « totalement contre » la légalisation du cannabis, estimant qu'elle « ne marche pas ».",
+        "source": {
+          "titre": "Europe 1 — Légalisation du cannabis : « Ça ne marche pas », estime Bruno Retailleau",
+          "url": "https://www.europe1.fr/politique/legalisation-du-cannabis-ca-ne-marche-pas-estime-bruno-retailleau-396031",
+          "date": "2025-02-18"
+        }
+      },
+      "q17": {
+        "position": "pour",
+        "resume": "Appelait à fournir à l'Ukraine « une aide avec des armes » ainsi qu'une aide humanitaire.",
+        "source": {
+          "titre": "Public Sénat — « Il faut que la France s'affirme aux côtés du peuple ukrainien » : Bruno Retailleau",
+          "url": "https://www.publicsenat.fr/actualites/non-classe/il-faut-que-la-france-s-affirme-aux-cotes-du-peuple-ukrainien-bruno-retailleau",
+          "date": "2022-03-23"
+        }
+      },
+      "q18": {
+        "position": "pour",
+        "resume": "Propose d'écarter le droit européen contraire à la Constitution ou excédant les compétences de l'Union, et une clause de sauvegarde nationale.",
+        "source": {
+          "titre": "Retailleau 2027 — Écarter le droit européen lorsqu'il excède ses compétences",
+          "url": "https://www.avecretailleau.fr/projet/mesure/investir-toutes-les-autorites-publiques-francaises-du",
+          "date": "2026-09-22"
+        }
+      },
+      "q20": {
+        "position": "contre",
+        "resume": "Ministre de l'Intérieur, a refusé de porter la réforme instaurant la proportionnelle aux législatives, à laquelle il se dit opposé.",
+        "source": {
+          "titre": "Public Sénat — Hostile à la proportionnelle, Bruno Retailleau n'écarte pas une démission du gouvernement",
+          "url": "https://www.publicsenat.fr/actualites/politique/hostile-a-la-proportionnelle-bruno-retailleau-necarte-pas-une-demission-du-gouvernement",
+          "date": "2025-06-02"
+        }
+      },
+      "q21": {
+        "position": "contre",
+        "resume": "Propose de supprimer l'encadrement des loyers issu de la loi ELAN, le loyer étant fixé librement à la signature du bail.",
+        "source": {
+          "titre": "Retailleau 2027 — Supprimer l'encadrement des loyers",
+          "url": "https://www.avecretailleau.fr/projet/mesure/supprimer-l-encadrement-des-loyers",
+          "date": "2026-09-12"
+        }
+      },
+      "q23": {
+        "position": "pour",
+        "resume": "Propose d'abroger le ZAN et de fixer la sobriété foncière par contrats territoriaux entre préfet et intercommunalités.",
+        "source": {
+          "titre": "Retailleau 2027 — Abroger le ZAN",
+          "url": "https://www.avecretailleau.fr/projet/mesure/abroger-le-zan",
+          "date": "2026-09-22"
+        }
+      }
+    },
+    "lisnard": {
+      "q02": {
+        "position": "pour",
+        "resume": "Propose 40 milliards d'euros de baisse des impôts de production, à commencer par la C3S, et une baisse des cotisations.",
+        "source": {
+          "titre": "Nouvelle Énergie — Que ferait David Lisnard des 200 milliards d'économies annoncés ?",
+          "url": "https://www.unenouvelleenergie.fr/questions/que-ferait-david-lisnard-des-200-milliards-d-economies/",
+          "date": "2026-08-31"
+        }
+      },
+      "q05": {
+        "position": "contre",
+        "resume": "Programme jugeant « impératif » un âge légal de 65 ans ; refuse tout retour sur la réforme de 2023.",
+        "source": {
+          "titre": "Nouvelle Énergie — Réussir une nouvelle ambition française",
+          "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+          "date": "2026-09-22"
+        }
+      },
+      "q06": {
+        "position": "pour",
+        "resume": "Propose une retraite par capitalisation obligatoire et collective, négociée par branche, en complément de la répartition.",
+        "source": {
+          "titre": "Nouvelle Énergie — David Lisnard est-il favorable à la retraite par capitalisation ?",
+          "url": "https://www.unenouvelleenergie.fr/questions/david-lisnard-est-il-favorable-a-la-retraite-par-capitalisation/",
+          "date": "2026-08-31"
+        }
+      },
+      "q07": {
+        "position": "contre",
+        "resume": "« Je suis contre la régulation » : estime que les contraintes poussent les médecins à partir ; préfère un conventionnement différencié.",
+        "source": {
+          "titre": "Nouvelle Énergie — Comment David Lisnard compte-t-il lutter contre les déserts médicaux ?",
+          "url": "https://www.unenouvelleenergie.fr/questions/comment-david-lisnard-compte-t-il-lutter-contre-les-deserts-medicaux/",
+          "date": "2026-08-31"
+        }
+      },
+      "q08": {
+        "position": "contre",
+        "resume": "« Je ne suis pas favorable à une telle loi » ; défend la loi Claeys-Leonetti et le développement des soins palliatifs.",
+        "source": {
+          "titre": "Nouvelle Énergie (entretien au Point) — David Lisnard : « Je peux trouver Dieu dans une forêt… »",
+          "url": "https://www.unenouvelleenergie.fr/david-lisnard-je-peux-trouver-dieu-dans-une-foret-une-montagne-ou-dans-la-beaute-dun-opera-de-mozart/",
+          "date": "2025-01-16"
+        }
+      },
+      "q10": {
+        "position": "pour",
+        "resume": "Propose de supprimer Parcoursup, dans le cadre d'un doublement du nombre d'étudiants en médecine d'ici 2030.",
+        "source": {
+          "titre": "Nouvelle Énergie — Programme : Santé",
+          "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+          "date": "2026-09-22"
+        }
+      },
+      "q11": {
+        "position": "pour",
+        "resume": "Propose une première série de six EPR, des mini-réacteurs et la prolongation des centrales jusqu'à 60 ans.",
+        "source": {
+          "titre": "Nouvelle Énergie — Quel candidat veut construire de nouveaux réacteurs nucléaires ?",
+          "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-construire-de-nouveaux-reacteurs-nucleaires/",
+          "date": "2026-08-18"
+        }
+      },
+      "q13": {
+        "position": "pour",
+        "resume": "Programme : « des quotas d'immigration doivent désormais être instaurés » ; vise aussi une division par huit des titres de séjour.",
+        "source": {
+          "titre": "Nouvelle Énergie — Réussir une nouvelle ambition française",
+          "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+          "date": "2026-09-22"
+        }
+      },
+      "q14": {
+        "position": "contre",
+        "resume": "Propose de supprimer toute possibilité d'être régularisé après une entrée clandestine.",
+        "source": {
+          "titre": "Nouvelle Énergie — Réussir une nouvelle ambition française",
+          "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+          "date": "2026-09-22"
+        }
+      },
+      "q15": {
+        "position": "pour",
+        "resume": "Propose de rétablir les peines planchers pour les récidivistes et de supprimer les réductions de peine automatiques.",
+        "source": {
+          "titre": "Nouvelle Énergie — Programme : Sécurité",
+          "url": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+          "date": "2026-09-22"
+        }
+      },
+      "q18": {
+        "position": "plutot_pour",
+        "resume": "Propose d'inscrire dans la Constitution la primauté du droit national en matière migratoire face à la CJUE et à la CEDH.",
+        "source": {
+          "titre": "Nouvelle Énergie — Programme : Immigration",
+          "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+          "date": "2026-09-22"
+        }
+      },
+      "q22": {
+        "position": "pour",
+        "resume": "Propose de supprimer l'article 55 de la loi SRU imposant aux communes un quota de logements sociaux.",
+        "source": {
+          "titre": "Nouvelle Énergie — Réussir une nouvelle ambition française",
+          "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+          "date": "2026-09-22"
+        }
+      },
+      "q23": {
+        "position": "plutot_pour",
+        "resume": "Juge l'approche du ZAN « inapplicable » pour les communes, sans proposer explicitement son abrogation.",
+        "source": {
+          "titre": "Nouvelle Énergie — Quel candidat défend une écologie pragmatique et non punitive ?",
+          "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-defend-une-ecologie-pragmatique-et-non-punitive/",
+          "date": "2026-08-22"
+        }
+      }
+    },
+    "bertrand": {
+      "q02": {
+        "position": "pour",
+        "resume": "Proposait 35 milliards d'euros de baisse des impôts de production sur cinq ans.",
+        "source": {
+          "titre": "franceinfo — Impôts, retraites, nucléaire, international... Ce qu'il faut retenir de l'interview de Xavier Bertrand",
+          "url": "https://www.franceinfo.fr/politique/xavier-bertrand/impots-retraites-nucleaire-international-ce-qu-il-faut-retenir-de-l-interview-de-xavier-bertrand-sur-franceinfo_4794399.html",
+          "date": "2021-10-04"
+        }
+      },
+      "q05": {
+        "position": "plutot_contre",
+        "resume": "Favorable à travailler plus longtemps, « mais pas tout le monde » : départ possible avec 43 ans de cotisations pour les carrières longues.",
+        "source": {
+          "titre": "ICI — Retraites : Xavier Bertrand « favorable à ce qu'on travaille plus longtemps, mais pas tout le monde »",
+          "url": "https://www.ici.fr/infos/economie-social/retraites-xavier-bertrand-favorable-a-ce-qu-on-travaille-plus-longtemps-mais-pas-tout-le-monde-2194129",
+          "date": "2023-02-17"
+        }
+      },
+      "q06": {
+        "position": "pour",
+        "resume": "Annonce parmi les grandes lignes de son projet la « défense de la retraite par capitalisation ».",
+        "source": {
+          "titre": "LCP — Présidentielle : Xavier Bertrand indique « tester ses idées » et envisager de concourir en tant que « candidat indépendant »",
+          "url": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en",
+          "date": "2026-08-03"
+        }
+      },
+      "q11": {
+        "position": "pour",
+        "resume": "Proposait de lancer « immédiatement » de nouveaux EPR dans le cadre d'un nouveau programme nucléaire.",
+        "source": {
+          "titre": "France 24 — Présidentielle 2022 : Xavier Bertrand pour la relance du nucléaire",
+          "url": "https://www.france24.com/fr/info-en-continu/20210727-pr%C3%A9sidentielle-2022-xavier-bertrand-pour-la-relance-du-nucl%C3%A9aire",
+          "date": "2021-07-27"
+        }
+      },
+      "q13": {
+        "position": "pour",
+        "resume": "Proposait de réviser la Constitution par référendum pour que le Parlement fixe chaque année des quotas d'immigration.",
+        "source": {
+          "titre": "France 24 — Bertrand veut « reprendre le contrôle » de l'immigration",
+          "url": "https://www.france24.com/fr/info-en-continu/20211104-bertrand-veut-reprendre-le-contr%C3%B4le-de-l-immigration",
+          "date": "2021-11-04"
+        }
+      },
+      "q14": {
+        "position": "plutot_contre",
+        "resume": "Proposait de mettre fin au système actuel de régularisation, sans viser spécifiquement les métiers en tension.",
+        "source": {
+          "titre": "France 24 — Bertrand veut « reprendre le contrôle » de l'immigration",
+          "url": "https://www.france24.com/fr/info-en-continu/20211104-bertrand-veut-reprendre-le-contr%C3%B4le-de-l-immigration",
+          "date": "2021-11-04"
+        }
+      }
+    },
+    "le-pen": {
+      "q01": {
+        "position": "plutot_pour",
+        "resume": "Propose un « impôt sur la fortune financière » qui exclut la résidence principale et les biens professionnels, à la place de l'IFI.",
+        "source": {
+          "titre": "Europe 1 – Marine Le Pen plaide pour un « impôt sur la fortune financière »",
+          "url": "https://www.europe1.fr/politique/avoir-une-tres-grosse-fortune-nest-pas-un-totem-dimmunite-marine-le-pen-plaide-pour-linstauration-dun-impot-sur-la-fortune-financiere-772801",
+          "date": "2025-09-16"
+        }
+      },
+      "q03": {
+        "position": "plutot_contre",
+        "resume": "Préfère une hausse volontaire des salaires de 10 %, exonérée de cotisations patronales, à une hausse du SMIC jugée difficile pour certaines entreprises.",
+        "source": {
+          "titre": "LCP – Salaires : la proposition de loi du RN recalée par l'Assemblée",
+          "url": "https://lcp.fr/actualites/salaires-la-proposition-de-loi-du-rassemblement-national-recalee-par-l-assemblee-160427",
+          "date": "2023-01-12"
+        }
+      },
+      "q05": {
+        "position": "pour",
+        "resume": "Âge légal ramené à 62 ans, voire 60 ans pour qui a commencé avant 20 ans, avec 40 à 42 années de cotisation.",
+        "source": {
+          "titre": "LCP – Présidentielle : que proposent les candidats sur les retraites ?",
+          "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
+          "date": "2026-09-16"
+        }
+      },
+      "q06": {
+        "position": "plutot_pour",
+        "resume": "Favorable à une retraite complémentaire par capitalisation volontaire « pour ceux qui peuvent », la protection des pensions restant prioritaire.",
+        "source": {
+          "titre": "Europe 1 – Retraites : Marine Le Pen pour une part de capitalisation « volontaire »",
+          "url": "https://www.europe1.fr/economie/retraites-marine-le-pen-pour-une-part-de-capitalisation-volontaire-953651",
+          "date": "2026-06-14"
+        }
+      },
+      "q08": {
+        "position": "contre",
+        "resume": "A voté contre la loi sur l'aide à mourir, à laquelle elle se dit personnellement opposée ; ne s'est pas engagée à l'abroger.",
+        "source": {
+          "titre": "franceinfo – Présidentielle 2027 : les candidats hostiles à la loi sur la fin de vie vont-ils promettre de l'abroger ?",
+          "url": "https://www.franceinfo.fr/societe/euthanasie/presidentielle-2027-les-candidats-hostiles-a-la-loi-sur-la-fin-de-vie-vont-ils-promettre-de-l-abroger_8108582.html",
+          "date": "2026-07-17"
+        }
+      },
+      "q09": {
+        "position": "pour",
+        "resume": "Uniforme obligatoire en primaire et au collège, choisi par chaque établissement (programme présidentiel 2022).",
+        "source": {
+          "titre": "Europe 1 – Présidentielle : que propose Marine Le Pen pour l'Éducation nationale ?",
+          "url": "https://www.europe1.fr/politique/presidentielle-que-propose-marine-le-pen-pour-leducation-nationale-4106299",
+          "date": "2022-04-18"
+        }
+      },
+      "q11": {
+        "position": "pour",
+        "resume": "Plan de construction de nouveaux réacteurs EPR et EPR2 et de petits réacteurs modulaires, avec prolongation du parc existant (programme 2022).",
+        "source": {
+          "titre": "Public Sénat – Énergie : plein pot sur le nucléaire et haro sur les éoliennes pour Marine Le Pen",
+          "url": "https://www.publicsenat.fr/actualites/politique/energies-plein-pot-sur-le-nucleaire-et-haro-sur-les-eoliennes-pour-marine-le-pen",
+          "date": "2022-03-14"
+        }
+      },
+      "q12": {
+        "position": "contre",
+        "resume": "A salué le vote des députés contre l'interdiction de la vente de voitures thermiques neuves en 2035, qualifiée de « mesure de non-sens ».",
+        "source": {
+          "titre": "franceinfo – Vrai ou faux : l'Assemblée peut-elle empêcher l'interdiction des voitures thermiques neuves en 2035 ?",
+          "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-l-assemblee-nationale-peut-elle-empecher-l-interdiction-de-la-vente-de-voitures-thermiques-neuves-en-2035_7084167.html",
+          "date": "2025-02-19"
+        }
+      },
+      "q14": {
+        "position": "contre",
+        "resume": "Opposée au titre de séjour « métiers en tension », qu'elle juge être un « appel d'air » à l'immigration clandestine.",
+        "source": {
+          "titre": "franceinfo – Titre de séjour « métiers en tension » : un « appel d'air », selon Marine Le Pen",
+          "url": "https://www.franceinfo.fr/societe/immigration/video-projet-de-loi-immigration-creer-un-titre-de-sejour-metiers-en-tension-revient-a-creer-un-appel-d-air-selon-marine-le-pen_5634023.html",
+          "date": "2023-02-01"
+        }
+      },
+      "q17": {
+        "position": "nuance",
+        "resume": "Estime que la France ne peut plus financer l'Ukraine au niveau actuel, mais peut continuer à former ses soldats et à fournir du matériel.",
+        "source": {
+          "titre": "franceinfo – Marine Le Pen estime que la France ne peut plus aider l'Ukraine autant qu'actuellement",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/face-a-l-etat-des-finances-publiques-marine-le-pen-estime-que-la-france-ne-peut-plus-aider-l-ukraine-autant-qu-actuellement_8197058.html",
+          "date": "2026-09-17"
+        }
+      },
+      "q18": {
+        "position": "pour",
+        "resume": "Propose une révision constitutionnelle mettant fin à la primauté du droit européen sur le droit national.",
+        "source": {
+          "titre": "France 24 (AFP) – En révisant la Constitution par référendum, le RN au pouvoir ouvrirait une crise majeure",
+          "url": "https://www.france24.com/fr/info-en-continu/20260905-en-r%C3%A9visant-la-constitution-par-r%C3%A9f%C3%A9rendum-le-rn-au-pouvoir-ouvrirait-une-crise-majeure",
+          "date": "2026-09-05"
+        }
+      },
+      "q19": {
+        "position": "pour",
+        "resume": "Propose un référendum d'initiative citoyenne déclenché par 500 000 électeurs pour abroger ou proposer une loi (programme 2022).",
+        "source": {
+          "titre": "Public Sénat – Marine Le Pen détaille sa « révolution référendaire »",
+          "url": "https://www.publicsenat.fr/actualites/politique/marine-le-pen-detaille-sa-revolution-referendaire-202358",
+          "date": "2022-04-12"
+        }
+      },
+      "q20": {
+        "position": "pour",
+        "resume": "Défend la proportionnelle aux législatives, de préférence avec prime majoritaire ; la proportionnelle intégrale de 1986 serait un « moindre mal ».",
+        "source": {
+          "titre": "franceinfo – La proportionnelle intégrale serait un « moindre mal », assure Marine Le Pen",
+          "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/un-scrutin-a-la-proportionnelle-integrale-pour-les-elections-legislatives-comme-en-1986-serait-un-moindre-mal-assure-marine-le-pen_7219947.html",
+          "date": "2025-04-30"
+        }
+      },
+      "q22": {
+        "position": "pour",
+        "resume": "Propose d'abroger la loi SRU, qui impose aux communes un quota minimal de logements sociaux.",
+        "source": {
+          "titre": "Lettre ouverte de Marine Le Pen aux professionnels de l'immobilier (rassemblementnational.fr)",
+          "url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier",
+          "date": "2026-09-21"
+        }
+      },
+      "q23": {
+        "position": "pour",
+        "resume": "Propose de supprimer l'objectif « zéro artificialisation nette » (ZAN).",
+        "source": {
+          "titre": "Lettre ouverte de Marine Le Pen aux professionnels de l'immobilier (rassemblementnational.fr)",
+          "url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier",
+          "date": "2026-09-21"
+        }
+      },
+      "q24": {
+        "position": "plutot_pour",
+        "resume": "Favorable à un prix garanti, qui ne peut selon elle réussir qu'avec la fin des surtranspositions de normes et des accords de libre-échange.",
+        "source": {
+          "titre": "Public Sénat – Prix planchers : « Si on ne supprime pas la surtransposition des normes, le prix garanti sera un échec »",
+          "url": "https://www.publicsenat.fr/actualites/politique/prix-planchers-dans-lagriculture-un-prix-garanti-ne-peut-fonctionner-que-si-on-nimpose-pas-la-multiplication-des-normes-estime-marine-le-pen",
+          "date": "2024-02-28"
+        }
+      }
+    },
+    "zemmour": {
+      "q02": {
+        "position": "pour",
+        "resume": "Baisse de 30 milliards d'euros des impôts de production des entreprises (programme présidentiel 2022).",
+        "source": {
+          "titre": "Public Sénat – Présidentielle 2022 : Éric Zemmour détaille son programme",
+          "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+          "date": "2022-03-23"
+        }
+      },
+      "q04": {
+        "position": "pour",
+        "resume": "Exonération d'impôt et de charges sociales des heures supplémentaires, au nom du « travailler plus pour gagner plus » (programme 2022).",
+        "source": {
+          "titre": "Public Sénat – Présidentielle 2022 : Éric Zemmour détaille son programme",
+          "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+          "date": "2022-03-23"
+        }
+      },
+      "q05": {
+        "position": "contre",
+        "resume": "Âge légal de départ porté à 64 ans (programme présidentiel 2022).",
+        "source": {
+          "titre": "Public Sénat – Présidentielle 2022 : Éric Zemmour détaille son programme",
+          "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+          "date": "2022-03-23"
+        }
+      },
+      "q08": {
+        "position": "contre",
+        "resume": "Opposé à la loi sur l'aide à mourir, il promet de l'abroger s'il est élu.",
+        "source": {
+          "titre": "franceinfo – Présidentielle 2027 : les candidats hostiles à la loi sur la fin de vie vont-ils promettre de l'abroger ?",
+          "url": "https://www.franceinfo.fr/societe/euthanasie/presidentielle-2027-les-candidats-hostiles-a-la-loi-sur-la-fin-de-vie-vont-ils-promettre-de-l-abroger_8108582.html",
+          "date": "2026-07-17"
+        }
+      },
+      "q11": {
+        "position": "pour",
+        "resume": "Construction de six réacteurs EPR d'ici 2035 et de quatorze d'ici 2045.",
+        "source": {
+          "titre": "Europe 1 – Éric Zemmour appelle à un « vote du sursaut » lors de son discours de rentrée",
+          "url": "https://www.europe1.fr/politique/presidentielle-2027-eric-zemmour-appelle-a-un-vote-du-sursaut-lors-de-son-discours-de-rentree-1075178",
+          "date": "2026-09-13"
+        }
+      },
+      "q18": {
+        "position": "pour",
+        "resume": "Inscrire la supériorité des nouvelles lois nationales sur les textes internationaux et européens (programme présidentiel 2022).",
+        "source": {
+          "titre": "Public Sénat – Présidentielle 2022 : Éric Zemmour détaille son programme",
+          "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+          "date": "2022-03-23"
+        }
+      }
+    },
+    "dupont-aignan": {
+      "q04": {
+        "position": "plutot_pour",
+        "resume": "Propose la défiscalisation des heures supplémentaires ; l'exonération de cotisations sociales n'est pas précisée.",
+        "source": {
+          "titre": "Europe 1 – Nicolas Dupont-Aignan promet de « décoloniser la France » en sortant de l'UE",
+          "url": "https://www.europe1.fr/politique/presidentielle-2027-nicolas-dupont-aignan-promet-de-decoloniser-la-france-en-sortant-de-lue-1089125",
+          "date": "2026-09-19"
+        }
+      },
+      "q05": {
+        "position": "plutot_pour",
+        "resume": "Âge de départ fixé à 62 ans et neuf mois.",
+        "source": {
+          "titre": "Europe 1 – Nicolas Dupont-Aignan promet de « décoloniser la France » en sortant de l'UE",
+          "url": "https://www.europe1.fr/politique/presidentielle-2027-nicolas-dupont-aignan-promet-de-decoloniser-la-france-en-sortant-de-lue-1089125",
+          "date": "2026-09-19"
+        }
+      },
+      "q06": {
+        "position": "pour",
+        "resume": "Propose de créer un « minimum retraite par capitalisation ».",
+        "source": {
+          "titre": "Europe 1 – Nicolas Dupont-Aignan promet de « décoloniser la France » en sortant de l'UE",
+          "url": "https://www.europe1.fr/politique/presidentielle-2027-nicolas-dupont-aignan-promet-de-decoloniser-la-france-en-sortant-de-lue-1089125",
+          "date": "2026-09-19"
+        }
+      },
+      "q17": {
+        "position": "contre",
+        "resume": "Propose l'arrêt de l'aide à l'Ukraine.",
+        "source": {
+          "titre": "franceinfo – « Je serai le seul candidat qui propose de sortir de l'Union européenne », dit Nicolas Dupont-Aignan",
+          "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html",
+          "date": "2026-09-19"
+        }
+      },
+      "q18": {
+        "position": "pour",
+        "resume": "Propose de sortir de l'Union européenne pour récupérer la maîtrise des frontières et des lois.",
+        "source": {
+          "titre": "franceinfo – « Je serai le seul candidat qui propose de sortir de l'Union européenne », dit Nicolas Dupont-Aignan",
+          "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html",
+          "date": "2026-09-19"
+        }
+      },
+      "q19": {
+        "position": "pour",
+        "resume": "Propose le référendum d'initiative citoyenne pour « contourner le gouvernement des juges ».",
+        "source": {
+          "titre": "Europe 1 – Nicolas Dupont-Aignan promet de « décoloniser la France » en sortant de l'UE",
+          "url": "https://www.europe1.fr/politique/presidentielle-2027-nicolas-dupont-aignan-promet-de-decoloniser-la-france-en-sortant-de-lue-1089125",
+          "date": "2026-09-19"
+        }
+      },
+      "q20": {
+        "position": "contre",
+        "resume": "Juge que la proportionnelle institutionnaliserait « l'émiettement politique et l'immobilisme ».",
+        "source": {
+          "titre": "Europe 1 – « La proportionnelle est mensongère par rapport à la démocratie », assure Nicolas Dupont-Aignan",
+          "url": "https://www.europe1.fr/politique/la-proportionnelle-est-mensongere-par-rapport-la-democratie-assure-nicolas-dupont-aignan-235458",
+          "date": "2024-12-16"
+        }
+      }
+    },
+    "philippot": {
+      "q05": {
+        "position": "plutot_pour",
+        "resume": "Propose de baisser l'âge de départ à la retraite « si les Français le désirent », sans âge précisé.",
+        "source": {
+          "titre": "Les Patriotes, Grandes orientations 2026-2027, « Modèle social et services publics »",
+          "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+          "date": "2026-09"
+        }
+      },
+      "q11": {
+        "position": "pour",
+        "resume": "Plan d'investissement massif dans le nucléaire de nouvelle génération et l'hydroélectricité.",
+        "source": {
+          "titre": "Les Patriotes, Grandes orientations 2026-2027, « Écologie et protection animale »",
+          "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+          "date": "2026-09"
+        }
+      },
+      "q12": {
+        "position": "contre",
+        "resume": "Propose de préserver la vente de voitures thermiques neuves au-delà de 2035.",
+        "source": {
+          "titre": "Les Patriotes, Grandes orientations 2026-2027, « Énergie »",
+          "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+          "date": "2026-09"
+        }
+      },
+      "q15": {
+        "position": "pour",
+        "resume": "Propose de réinstaurer les peines planchers et de réformer les réductions automatiques de peine.",
+        "source": {
+          "titre": "Les Patriotes, Grandes orientations 2026-2027, « Sécurité, justice »",
+          "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+          "date": "2026-09"
+        }
+      },
+      "q17": {
+        "position": "contre",
+        "resume": "Propose l'arrêt des financements de la guerre en Ukraine.",
+        "source": {
+          "titre": "Les Patriotes, Grandes orientations 2026-2027, « Coût de l'Europe »",
+          "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+          "date": "2026-09"
+        }
+      },
+      "q18": {
+        "position": "pour",
+        "resume": "Propose la sortie de l'Union européenne et le retrait des normes européennes du droit français.",
+        "source": {
+          "titre": "Les Patriotes, Grandes orientations 2026-2027, « Le Frexit en 10 questions »",
+          "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+          "date": "2026-09"
+        }
+      },
+      "q19": {
+        "position": "pour",
+        "resume": "Référendum d'initiative citoyenne sur tout sujet, inscrit dans la Constitution.",
+        "source": {
+          "titre": "Les Patriotes, Grandes orientations 2026-2027, « Démocratie, institutions, corruption »",
+          "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+          "date": "2026-09"
+        }
+      },
+      "q24": {
+        "position": "pour",
+        "resume": "Propose de rétablir des prix planchers agricoles, avec possibilité de quotas ou barrières tarifaires.",
+        "source": {
+          "titre": "Les Patriotes, Grandes orientations 2026-2027, « Agriculture »",
+          "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+          "date": "2026-09"
+        }
+      }
+    },
+    "asselineau": {
+      "q17": {
+        "position": "contre",
+        "resume": "Propose la sortie de l'OTAN pour refuser « l'engrenage belliciste et le coût financier du soutien à l'Ukraine ».",
+        "source": {
+          "titre": "UPR – François Asselineau invité sur GP-TV",
+          "url": "https://upr.fr/actualites/francois-asselineau-invite-de-nicolas-stoquer-sur-gp-tv-13-07-2026",
+          "date": "2026-07-13"
+        }
+      },
+      "q18": {
+        "position": "pour",
+        "resume": "Propose de sortir de l'Union européenne pour « restituer au peuple français sa souveraineté législative ».",
+        "source": {
+          "titre": "UPR – François Asselineau invité sur GP-TV",
+          "url": "https://upr.fr/actualites/francois-asselineau-invite-de-nicolas-stoquer-sur-gp-tv-13-07-2026",
+          "date": "2026-07-13"
+        }
+      },
+      "q19": {
+        "position": "pour",
+        "resume": "Le référendum d'initiative citoyenne figure parmi les fondamentaux de son parti, l'UPR.",
+        "source": {
+          "titre": "UPR – Nos fondamentaux (page consultée)",
+          "url": "https://upr.fr/nos-fondamentaux",
+          "date": "2026-09-22"
+        }
+      }
+    },
+    "lassalle": {},
+    "mlekuz": {},
+    "egger": {
+      "q19": {
+        "position": "pour",
+        "resume": "Propose une initiative citoyenne constituante : une révision de la Constitution signée par 700 000 électeurs en 18 mois est soumise à référendum.",
+        "source": {
+          "titre": "Solution démocratique – Parrainage 2027",
+          "url": "https://solutiondemocratique.fr/parrainage2027/",
+          "date": "2026-09-08"
+        }
+      }
+    },
+    "mathieu": {
+      "q19": {
+        "position": "pour",
+        "resume": "Parmi ses trois priorités : conventions citoyennes sur les sujets clivants et mise en place du référendum d'initiative citoyenne.",
+        "source": {
+          "titre": "info-chalon.com – Présidentielle 2027 : le Saône-et-Loirien Benoît Mathieu se lance à la conquête des 500 parrainages",
+          "url": "https://www.info-chalon.com/articles/2026/06/02/110842/presidentielle-2027-le-saone-et-loirien-benoit-mathieu-se-lance-a-la-conquete-des-500-parrainages/",
+          "date": "2026-06-02"
+        }
+      }
+    },
+    "lalanne": {
+      "q02": {
+        "position": "plutot_pour",
+        "resume": "Propose une baisse des charges pour les TPE, PME et artisans ; pas de mesure annoncée pour les autres entreprises.",
+        "source": {
+          "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 5 Stop Impôts",
+          "url": "https://dieudolalanne2027.com/programme/",
+          "date": "2026-09-22"
+        }
+      },
+      "q19": {
+        "position": "pour",
+        "resume": "Propose d'inscrire dans la Constitution le référendum d'initiative citoyenne en toutes matières.",
+        "source": {
+          "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 4 Démocratie",
+          "url": "https://dieudolalanne2027.com/programme/",
+          "date": "2026-09-22"
+        }
+      },
+      "q18": {
+        "position": "pour",
+        "resume": "Propose une sortie de l'Union européenne (« Frexit organisé ») pour retrouver la maîtrise des lois et des frontières.",
+        "source": {
+          "titre": "Dieudo Lalanne 2027, « Le Projet 2027 », axe 1 Souveraineté",
+          "url": "https://dieudolalanne2027.com/programme/",
+          "date": "2026-09-22"
+        }
+      }
+    },
+    "branco": {
+      "q01": {
+        "position": "pour",
+        "resume": "Propose le rétablissement de l'ISF, avec un mécanisme de précompte sur les droits de succession.",
+        "source": {
+          "titre": "Les Ruches, « La Voie », réforme 04 L'Économie",
+          "url": "https://ruches.org/le-projet",
+          "date": "2026-09-22"
+        }
+      },
+      "q02": {
+        "position": "plutot_pour",
+        "resume": "Propose une réduction des cotisations sociales sur les salaires, financée par une TVA sociale, et la suppression de plusieurs cotisations et impôts à faible rendement.",
+        "source": {
+          "titre": "Les Ruches, « La Voie », réforme 04 L'Économie",
+          "url": "https://ruches.org/le-projet",
+          "date": "2026-09-22"
+        }
+      },
+      "q03": {
+        "position": "plutot_pour",
+        "resume": "Propose un SMIC déconcentré, avec un seuil minimal national relevé à 1 500 euros net.",
+        "source": {
+          "titre": "Les Ruches, « La Voie », réforme 04 L'Économie",
+          "url": "https://ruches.org/le-projet",
+          "date": "2026-09-22"
+        }
+      },
+      "q07": {
+        "position": "pour",
+        "resume": "Propose des obligations d'exercice en zones sous-dotées, une régulation de l'installation et un corps de médecins généralistes d'État.",
+        "source": {
+          "titre": "Les Ruches, « La Voie », réforme 07 La Santé",
+          "url": "https://ruches.org/le-projet",
+          "date": "2026-09-22"
+        }
+      },
+      "q10": {
+        "position": "pour",
+        "resume": "Propose la fin de Parcoursup.",
+        "source": {
+          "titre": "Les Ruches, « La Voie », réforme 06 L'Instruction",
+          "url": "https://ruches.org/le-projet",
+          "date": "2026-09-22"
+        }
+      },
+      "q11": {
+        "position": "pour",
+        "resume": "Propose la construction de 14 réacteurs EPR 2 et le développement d'une filière de réacteurs à neutrons rapides.",
+        "source": {
+          "titre": "Les Ruches, « La Voie », réforme 12 L'Énergie, l'Écologie et les Logements",
+          "url": "https://ruches.org/le-projet",
+          "date": "2026-09-22"
+        }
+      },
+      "q16": {
+        "position": "plutot_pour",
+        "resume": "Propose des monopoles d'État de distribution de toute drogue ; soumet aussi à référendum une dépénalisation de l'usage, en alternative à une ligne répressive.",
+        "source": {
+          "titre": "Les Ruches, « La Voie », réforme 07 La Santé et normes 03 Société",
+          "url": "https://ruches.org/le-projet",
+          "date": "2026-09-22"
+        }
+      },
+      "q17": {
+        "position": "contre",
+        "resume": "Propose l'arrêt des livraisons d'armes à l'Ukraine.",
+        "source": {
+          "titre": "Les Ruches, « La Voie », réforme 03 L'Extérieur et la Défense",
+          "url": "https://ruches.org/le-projet",
+          "date": "2026-09-22"
+        }
+      },
+      "q19": {
+        "position": "pour",
+        "resume": "Propose, par référendum, la création d'un RIC en toutes matières et du mandat révocable.",
+        "source": {
+          "titre": "Les Ruches, « La Voie », normes 02 Démocratie",
+          "url": "https://ruches.org/le-projet",
+          "date": "2026-09-22"
+        }
+      },
+      "q23": {
+        "position": "contre",
+        "resume": "Propose un plan d'arrêt et de reconversion des sols artificialisés qui durcit les objectifs ZAN.",
+        "source": {
+          "titre": "Les Ruches, « La Voie », réforme 12 L'Énergie, l'Écologie et les Logements",
+          "url": "https://ruches.org/le-projet",
+          "date": "2026-09-22"
+        }
+      },
+      "q24": {
+        "position": "pour",
+        "resume": "Propose le rétablissement de prix planchers garantis et de prix minimum d'entrée.",
+        "source": {
+          "titre": "Les Ruches, « La Voie », réforme 10 L'Agriculture, le Vivant et la Mer",
+          "url": "https://ruches.org/le-projet",
+          "date": "2026-09-22"
+        }
+      }
+    },
+    "durif": {},
+    "mikolajczak": {}
+  },
+  "a_verifier": [
+    "Dates au format AAAA-MM : le programme L'Avenir en commun 2025 (daté 2025-01, jour non connu) et la brochure LO (2026-06) ; la page programme de Kazib n'est pas datée (date de consultation 2026-09-22).",
+    "Mélenchon, programme : lu dans la copie Wayback du PDF (l'URL officielle redirige) ; programme annoncé « en cours de réactualisation » après la consultation de mai-juin 2026. Pagination = pages imprimées du livret.",
+    "Mélenchon q15 : source de 2024 (blog), antérieure à 2025 ; rien de plus récent trouvé qui la contredise.",
+    "Mélenchon q18 : « désobéir aux règles européennes » interprété comme plutot_pour à la primauté du droit national ; interprétation à relire.",
+    "Mélenchon q17 : sources explicites sur les livraisons d'armes datant de 2022 (France 24, 01/03/2022 : « regrette » la fourniture d'armes par l'UE) ; propos récents (blog 09/03/2025, France 2 18/06/2026 sur les frappes en profondeur) sans position explicite sur l'aide militaire. Omis.",
+    "Mélenchon q12 : un résultat de recherche attribue à LFI (comparateur de programmes, élections européennes) le renoncement à la fin des thermiques en 2035 ; non vérifié et pas le programme présidentiel. Omis.",
+    "Roussel q05 : source de juin 2024 (retour à 62 ans puis objectif 60 ans) ; LCP (16/09/2026) indique qu'il n'a pas encore dévoilé son programme retraites pour 2027.",
+    "Roussel q08 (2022-03-18) et q24 (2024-01-20) : sources antérieures à 2025, retenues faute de source plus récente contraire.",
+    "Roussel q11 : la lettre aux énergéticiens (09/2026) parle seulement de « doubler » la production décarbonée ; le chiffre de 20 EPR vient du discours du 24/06/2025.",
+    "Roussel q17 : université d'été 2026 (« solutions politiques et diplomatiques plutôt que les armes et l'escalade militaire ») sans position explicite sur l'aide militaire à l'Ukraine. Omis.",
+    "Roussel q20 : France 24 (22/05/2025) : la proportionnelle n'est « pas la priorité », projet Bayrou jugé « un peu vague » ; pas de position pour ou contre. Omis.",
+    "Roussel q16 : des résultats de recherche le disent opposé à la légalisation ou favorable à un « grand débat » (campagne 2022), mais aucune source ouverte n'a été trouvée avec sa citation. Omis.",
+    "Ruffin q14 : propos contradictoires rapportés (défense des droits des travailleurs sans papiers ; critiques de l'immigration de travail) ; source non ouverte. Omis.",
+    "Arthaud, Kazib, Labib q13 : la revendication de « liberté de circulation et d'installation » est lue comme un rejet des quotas d'immigration ; lecture à relire.",
+    "Arthaud q05 : retraite à 60 ans avec 37,5 annuités trouvée seulement dans des sources LO anciennes et non datées ; absente de la brochure 2026. Omis.",
+    "Kazib q17 et Labib q17 : « Pas un euro pour la guerre » est un mot d'ordre antimilitariste général, pas une position explicite sur l'aide à l'Ukraine. Omis.",
+    "q08 (faure, guedj, maurel) : position établie par leur vote nominatif au scrutin n°5729 du 25/02/2026 (deuxième lecture), vérifié dans la liste officielle de l'Assemblée ; leur vote lors de l'adoption définitive du 15/07/2026 n'a pas été vérifié. La loi étant désormais adoptée, la formulation de la question (« légaliser ») mérite peut-être d'être revue.",
+    "faure q01 : source d'octobre 2025 (contexte budgétaire), retour de l'ISF présenté comme alternative à la taxe Zucman, d'où « plutot_pour » ; pas de source de campagne 2026 trouvée.",
+    "glucksmann q05 : « nuance » car il promet l'abrogation de la réforme de 2023 (qui ramènerait l'âge à 62 ans) mais refuse de fixer un âge légal et évoque des départs plus tardifs pour certains (Public Sénat, 24/08/2026). Il faudrait peut-être le reclasser en « plutot_pour ».",
+    "glucksmann q17 : citation tirée de France 3 Grand Est (franceinfo, domaine france3-regions.franceinfo.fr).",
+    "guedj q13 : son site de campagne veut « une immigration planifiée par le Parlement, alignée sur les besoins de notre économie » (et « en fonction de nos capacités d'accueil » selon l'AFP, 17/09/2026). Il ne parle ni de plafond ni de quotas, donc la question a été omise ; à trancher éditorialement.",
+    "guedj q14 : la « préférence travail » de son site vise d'abord à améliorer l'attractivité des métiers en tension ; pas de position sur la régularisation, donc question omise.",
+    "maurel q19 : la « journée annuelle référendaire » avec une partie de questions d'initiative citoyenne n'est pas explicitement un RIC, d'où « plutot_pour ».",
+    "maurel q11 : « nouvelles capacités nucléaires » interprété comme de nouveaux réacteurs ; le programme ne dit pas « réacteurs ».",
+    "maurel : le programme sur emmanuel-maurel.fr n'est pas daté (consulté le 22/09/2026). Sur franceinfo le 04/09/2026, il veut sortir des traités européens, ce qui ne répond pas directement à la question q18 : non retenu.",
+    "royal : très peu de positions sourcées. Elle refuse de se prononcer sur les retraites tant que la question de l'ISF n'est pas posée (LCP, 16/09/2026), donc q05 est omise. Ses positions sur l'Ukraine et le nucléaire datent de 2014 et 2022, sans source 2025-2026 : non retenues.",
+    "faure q16 (cannabis) : favorable à une expérimentation et à un débat, mais les sources trouvées sont anciennes (antérieures à 2025) et n'ont pas été ouvertes : non retenu.",
+    "faure q20 (proportionnelle) : en mai 2025, après Matignon, il n'avait « aucune conclusion définitive » (franceinfo) : non retenu.",
+    "guedj q17 : la vidéo du débat LCI du 07/09/2026 (Ukraine) est citée sur son site mais n'a pas été consultée : non retenu.",
+    "batho : aucune position sourcée trouvée sur les 24 questions (site sans programme, entretiens centrés sur l'écologie et la protection de l'enfance). Un communiqué de Génération écologie du 24/02/2026 appelle à renforcer l'aide militaire à l'Ukraine, mais il est signé par le porte-parole Quentin Guillemain, pas par la candidate : non retenu (https://www.generationecologie.fr/2026/02/24/soutien-indefectible-a-la-resistance-de-lukraine/).",
+    "massard : aucune position sourcée trouvée sur les 24 questions (communiqués UDB sur le fédéralisme, l'eau et le logement seulement).",
+    "tondelier q19/q20 : les pages programme des Écologistes (lesecologistes.fr, section « La République partout et pour tou.te.s ») mentionneraient la proportionnelle et le RIC, mais le site renvoie une erreur 403, donc non vérifié. À contrôler, et à confirmer comme programme de campagne de la candidate.",
+    "tondelier q16 : la source date de mars 2024 et reformule sa position sans la citer ; aucune source plus récente ne la contredit. À actualiser si possible.",
+    "tondelier q17 : en février 2025, elle a regretté que la France dépense plus en gaz russe qu'en aide militaire à l'Ukraine, sans appel explicite à la poursuivre ; non retenu.",
+    "hollande q05 : 63 ans, c'est le maintien au seuil de 2028 et un refus explicite du retour à 62 ans ; classé plutot_contre selon l'exemple « 63 ans » de la règle 4 (position partielle). Le sens (plutot_pour ou plutot_contre) est à valider.",
+    "hollande q01 : il rejette la taxe Zucman mais propose de « mettre à contribution » les patrimoines de plus de 10 millions d'euros et les grosses successions, sans parler d'ISF (France 24, 03/09/2026) ; non retenu.",
+    "hollande q08 : il est député, mais son vote sur l'aide à mourir n'a pas été trouvé dans les articles consultés. Le scrutin est sur assemblee-nationale.fr.",
+    "hollande q17 : la source date de mars 2025 ; il n'est pas encore candidat déclaré (il annoncera sa décision en décembre 2026).",
+    "cazeneuve q05 : il fait de la durée de cotisation le levier « plutôt qu'un nouveau recul de l'âge légal », sans position sur le retour à 62 ans ; non retenu.",
+    "cazeneuve q04 : sa « règle d'or sociale » impose de compenser à l'euro près toute exonération, heures supplémentaires comprises, sans se prononcer sur l'exonération elle-même ; non retenu.",
+    "cazeneuve q24 : il promet des « prix dignes pour les producteurs », sans parler de prix planchers garantis ; non retenu.",
+    "cazeneuve q11 : il promet de « planifier le renouvellement du parc », ce qui implique de nouveaux réacteurs sans le dire ; classé plutot_pour.",
+    "bouamrane q01 : il propose un fonds souverain pour le logement financé par l'impôt sur la fortune immobilière (IFI, qui existe déjà), sans parler de rétablir l'ISF ; non retenu.",
+    "bouamrane q05 : la source date de mars 2025, avant sa candidature.",
+    "Philippe q05 : non retenu. Il a plaidé pour 65 à 67 ans (franceinfo 2021-2022) et dit en mars 2025 « il va falloir que l'on travaille plus » (Europe 1, 18/03/2025), mais selon LCP (16/09/2026) et franceinfo (08/09/2026) il n'a pas dévoilé les paramètres de sa réforme, promise « avant la fin septembre ». À revoir après cette annonce.",
+    "Philippe q11 : « relançant le nucléaire » (page France plus conquérante), sans mention explicite de nouveaux réacteurs, d'où plutot_pour.",
+    "Philippe q15 : peines planchers limitées aux « infractions les plus graves » ; classé pour (principe explicite). Pourrait être classé plutot_pour selon la lecture de l'échelle.",
+    "Philippe q20 : en 2017-2018, Premier ministre, il défendait une « dose de proportionnelle » (10 à 25 %). Position de mai 2025 (contre la proportionnelle défendue par Bayrou) retenue car plus récente.",
+    "Philippe q08 : source Europe 1 (01/07/2026) qui reformule sa position ; pas de citation directe du candidat trouvée.",
+    "Philippe q01 : le programme prévoit un moratoire fiscal (« aucun nouvel impôt » pendant le quinquennat), mais aucune déclaration directe sur l'ISF ou la taxe Zucman trouvée ; non retenu pour ne pas déduire.",
+    "Attal q11 : seule source trouvée date de juin 2024 (Premier ministre, législatives anticipées) ; rien de plus récent ne la contredit. Aucune mention du nucléaire sur la page « Dette écologique » du site de campagne.",
+    "Attal q05 : supprimer l'âge légal au profit de la durée de cotisation, classé nuance (ne répond ni oui ni non à « 62 ans ou moins »).",
+    "Attal q09 : il avait lancé l'expérimentation de la « tenue unique » (2023-2024) et envisagé une généralisation en 2026 (France 24, 07/03/2025, sans citation) ; en 2023, il voulait laisser chaque établissement décider (Europe 1). Aucune position de campagne 2026 ; non retenu.",
+    "Attal q04 : le programme propose de supprimer le plafond de 220 heures supplémentaires, sans parler de leur exonération de cotisations ; non retenu.",
+    "Attal q02 : le programme prévoit de réduire les charges salariales (pour les salariés), pas les cotisations patronales ni les impôts de production ; non retenu.",
+    "Attal q20 : selon LCP (2025), son groupe EPR (Pierre Cazeneuve) ne jugeait pas la proportionnelle prioritaire ; position de groupe, pas du candidat ; non retenu.",
+    "Attal q01 : un député de son groupe aurait rejeté la taxe Zucman en 2025 (France 24, 28/10/2025, vu seulement en résultat de recherche) ; pas de propos direct d'Attal trouvé ; non retenu.",
+    "Attal q15 : sa loi sur la justice des mineurs (2025) ne crée pas de peines planchers ; non retenu.",
+    "Villepin q01 : « impôt unique sur le patrimoine », qui n'est pas le rétablissement de l'ISF à l'identique, d'où plutot_pour. Villepin n'a pas déclaré sa candidature au 22/09/2026 ; ses tribunes sont signées de son nom sur lafrancehumaniste.fr.",
+    "Villepin q02 : bascule de plus de 200 Md€ de cotisations non contributives vers la CSG (Big Bang, 28/08/2026). La répartition entre cotisations patronales et salariales n'est pas précisée ; non retenu.",
+    "Villepin q23 : écrit « nos sols, nous devons les protéger de l'artificialisation » (Pourquoi je suis écogaulliste, 28/06/2026), sans se prononcer sur l'objectif ZAN ; non retenu.",
+    "Villepin q05 : l'abrogation des 64 ans n'est lue que sur des sites non reconnus (voir data/programmes/villepin.json) ; il renvoie la réforme à une conférence sociale, à une convention citoyenne et à un référendum ; non retenu.",
+    "Le Maire : pas de fichier data/programmes/le-maire.json. Candidature non déclarée (décision annoncée « en octobre », LCP). Le manifeste de 60 pages (23/08/2026) n'a pas été consulté en direct ; les autres thèmes (immigration, nucléaire, Ukraine, Europe à six) ne sont résumés dans la presse qu'en termes généraux.",
+    "bertrand : aucun programme publié au 22/09/2026 ; q02, q11, q13, q14 reposent sur sa campagne de 2021 (présidentielle 2022) et q05 sur une déclaration de 2023. Aucune source récente ne les contredit, mais à confirmer quand il publiera ses propositions.",
+    "bertrand q06 : formule « défense de la retraite par capitalisation » rapportée par LCP/AFP (et Le Figaro repris sur nousfrance.fr, 2026-08-04), sans détail sur le dispositif.",
+    "bertrand q14 : « mettre fin au système actuel de régularisation » (2021) ne vise pas explicitement les métiers en tension ; classé plutot_contre.",
+    "bertrand q20 : une synthèse de recherche lui prête une opposition à la proportionnelle (Europe 1, 2024), mais l'article ouvert ne la lui attribue pas directement : omis.",
+    "retailleau q06 : étage de capitalisation volontaire et complémentaire, classé plutot_pour (et non pour) à cause de son caractère facultatif.",
+    "retailleau q09 : seule source trouvée = cosignature d'une proposition de loi sénatoriale (janvier 2023) ; le projet 2027 ne mentionne pas l'uniforme.",
+    "retailleau q14 : source ministérielle (circulaire de janvier 2025) et non programme de campagne ; le chapitre immigration du site est « à venir ».",
+    "retailleau q17 : source de mars 2022 ; aucune déclaration de campagne 2026 trouvée sur l'aide militaire à l'Ukraine.",
+    "retailleau q01 : LR (qu'il préside) a demandé en octobre 2025 « ni taxe Zucman, ni recyclage de l'ISF » (France 24, 2025-10-01), mais c'est un document du parti, pas une déclaration de sa part : omis.",
+    "retailleau q19 : propose d'abaisser le seuil du RIP à un vingtième des électeurs et d'élargir le référendum, sans se prononcer sur le RIC : omis.",
+    "lisnard q05 : la page « Quel âge de départ… » (2026-08-31) dit qu'il « ne fait pas de l'âge sa réponse », alors que la page programme parle d'un âge légal de 65 ans ; les deux excluent un retour à 62 ans.",
+    "lisnard q23 : critique le ZAN (« inapplicable », « usine à gaz ») sans demander explicitement son abrogation ; classé plutot_pour, à confirmer.",
+    "lisnard q13 : la page programme « Réussir une nouvelle ambition française » n'est pas datée (date = consultation).",
+    "lisnard q17 : parle de reconstruction de l'Ukraine et d'un dialogue avec la Russie après la guerre (entretien du 2026-06-29), sans position sur l'aide militaire : omis.",
+    "Philippot : le livret des Patriotes n'est daté que du mois (« 2026-09 ») ; date au jour inconnue.",
+    "Philippot q05 : le livret propose de « baisser l'âge de départ » sous condition (« si les Français le désirent ») : classé plutot_pour, sans âge cible.",
+    "Philippot q08 : le livret refuse « toute politique d'incitation à l'euthanasie » des personnes handicapées ; position générale sur l'aide à mourir non établie, question omise.",
+    "Philippot q14 : le livret veut « mettre fin à l'immigration de travail » ; rien d'explicite sur la régularisation, question omise.",
+    "q18 (Dupont-Aignan, Philippot, Asselineau) : la position découle de leur proposition de sortie de l'UE, et non d'une primauté du droit français au sein de l'UE ; à confirmer sur la formulation.",
+    "Dupont-Aignan q04 : Europe 1 parle de « défiscalisation » des heures supplémentaires, sans mention des cotisations sociales : classé plutot_pour.",
+    "Dupont-Aignan q05 : 62 ans et neuf mois, soit un âge supérieur au seuil de 62 ans de la question : classé plutot_pour, comme l'exemple « 63 ans ».",
+    "Zemmour q02, q04, q05, q18 : sources de 2022 (programme présidentiel 2022) ; aucun programme 2027 publié au 22/09/2026. À revoir à sa publication, en particulier l'âge de 64 ans.",
+    "Zemmour q13 : parle d'« immigration zéro » puis d'« immigration négative » (Europe 1, 13/09/2026) ; ce n'est pas un plafond ou des quotas au sens de la question, question omise.",
+    "Le Pen q09, q11, q19 : sources de 2022 (programme présidentiel 2022), non contredites par une source récente trouvée ; à confirmer dans le programme 2027.",
+    "Le Pen q17 : distingue l'aide financière (« financièrement, nous ne pouvons plus ») de la formation et du matériel, qu'elle propose de poursuivre : classé nuance.",
+    "Le Pen q15 : peines planchers attribuées au groupe RN (propositions de loi) et à son programme 2022 dans des articles de synthèse (LCP, 22/03/2022) sans formulation explicite d'elle : question omise.",
+    "Le Pen q16 : opposition au cannabis trouvée seulement dans des sources anciennes ou des propos de cadres du FN : question omise.",
+    "Le Pen q07 : sur les déserts médicaux, elle évoque l'aménagement du territoire et des incitations, sans se prononcer sur la régulation : question omise.",
+    "Le Pen q02 : baisse des impôts de production attribuée au RN dans des articles de synthèse, sans propos directs d'elle trouvés (franceinfo, 08/07/2026, évoque une baisse de l'impôt sur les sociétés) : question omise.",
+    "Le Pen q03 : source de janvier 2023 ; position récente sur le SMIC non trouvée.",
+    "Dupont-Aignan q11 : défend EDF et le nucléaire existant, sans proposition explicite de nouveaux réacteurs trouvée : question omise.",
+    "Lassalle : candidature non officialisée au 22/09/2026, aucune position 2026 sourcée sur les 24 questions.",
+    "branco q16 : la norme 03 « Société » soumet à un référendum de l'assemblée constituante deux options (dépénalisation de l'usage de toute drogue avec monopole d'État, ou justice d'exception contre le narcotrafic) ; la réforme 07 prévoit des monopoles d'État de distribution de « toute autre forme de drogue ». Le cannabis n'est pas nommé. Position retenue : plutot_pour, à relire.",
+    "branco q20 : une note des normes 02 (Démocratie) évoque, parmi trois options pour la constituante, une chambre basse élue en partie à la proportionnelle (200 députés sur 314). Option non arrêtée, non retenue.",
+    "branco q18 : référendum sur la sortie de l'UE, de l'euro, du Conseil de l'Europe et/ou de Schengen ; ne répond pas directement à la question de la primauté de la loi française. Non retenu.",
+    "branco q14 : « critères objectivables d'intégration » et « obligations de service à la nation » dans le cadre des régularisations ; ni les métiers en tension ni l'élargissement ne sont mentionnés. Non retenu.",
+    "branco q05 : retraites alignées, taux fixés selon l'espérance de vie par catégorie ; aucun âge légal mentionné. Non retenu.",
+    "branco q03 : SMIC « déconcentré » avec seuil national à 1 500 € net ; classé plutot_pour à cause de la déconcentration.",
+    "Programme ruches.org non daté : date de consultation (22/09/2026) retenue, comme dans data/programmes/branco.json.",
+    "lalanne q17 : le programme prévoit la « fin des subventions allouées à des pays en guerre pour soutenir un pays contre un autre » et le retrait des troupes françaises des territoires en guerre ; l'Ukraine et l'aide militaire ne sont pas nommées. Non retenu. Le positionnement pro-russe est relevé seulement par des agrégateurs (quizz-du-berger.com), non admis.",
+    "lalanne q18 : « Frexit » pour « retrouver la maîtrise de nos lois » ; la sortie de l'UE ne répond pas directement à la question de la primauté. Non retenu.",
+    "mikolajczak q11 et q17 : le site d'Équinoxe publie des positions du parti (« nouveau nucléaire », article du 17/09/2026 ; « soutien maximal à l'Ukraine », article du 31/03/2026, co-décidé par 68 adhérents), sans les attribuer au candidat ni les présenter comme son programme de campagne, annoncé mais pas encore publié. Non retenu (règle 1). Des agrégateurs (candidator.fr, objectif2027.fr, etc.) lui attribuent aussi des positions (70 % de nucléaire, dose de proportionnelle, soutien militaire à l'Ukraine) sans source primaire : non retenu.",
+    "mikolajczak q19 : le tract de campagne mentionne « développer la démocratie directe et les conventions citoyennes », sans nommer le RIC. Non retenu.",
+    "mathieu q19 : s'appuie sur info-chalon.com (02/06/2026), qui cite ses trois priorités ; confirmé par The Vox (30/03/2026). La page de Solution démocratique (parti de Clara Egger, candidate concurrente) consacrée à son programme n'est pas utilisée. RMC et Le Monde non ouverts.",
+    "mlekuz : le programme et la FAQ de Trajectoire refusent explicitement de se prononcer sur les sujets sociaux et économiques avant la constituante ; aucune position sur les 24 questions. Le RIC n'apparaît pas dans son programme.",
+    "egger : candidature limitée par choix à la démocratie directe et à la décentralisation ; seule la q19 est documentée. Le RIC proposé est limité à la révision de la Constitution (initiative constituante et référendum obligatoire).",
+    "durif : aucun programme ni aucune mesure identifiés au 22/09/2026 ; les sites durif2027.com et sylvaindurif2027.fr ne sont pas officiels.",
+    "q18 maurel : volonté de sortir des traités européens évoquée ; à sourcer précisément avant de publier (règle : proposition explicite de sortie = pour)."
+  ]
+}

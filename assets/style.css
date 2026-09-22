@@ -616,3 +616,11 @@ button.cta { border: 0; font: inherit; font-weight: 600; cursor: pointer; }
   .menu-links { order: 3; }
   .site-nav a.brand[aria-current="page"] { box-shadow: none; padding-left: 0; }
 }
+
+/* Mes priorités : onglets et questions clés */
+.mode-tabs { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0 20px; }
+.mode-tabs .chip { padding: 8px 16px; }
+.imp-toggle { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); margin-left: 8px; cursor: pointer; }
+.qpos { margin-top: 8px; }
+.qpos > strong { font-size: 13px; color: var(--muted); }
+.quiz-answers .chip[data-answer="2"][aria-pressed="true"] { font-weight: 600; }

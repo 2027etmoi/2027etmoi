@@ -1,6 +1,6 @@
 # Points à vérifier (généré)
 
-Généré le 2026-09-22 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 355 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
+Généré le 2026-09-22 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 466 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
 
 ## Biographies et affaires judiciaires
 
@@ -583,4 +583,118 @@ Généré le 2026-09-22 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Bruno Le Maire est classé « Renaissance » par l'Arcom (« Ex-Renaissance » dans candidats.json) : rattaché par le nom, sans homonyme dans les fichiers.
 - [ ] Le fichier personnalités de février 2026 porte une date Last-Modified du 2026-09-09, bien après les autres fichiers de ce mois : il a pu être remplacé (révision non signalée sur la page).
 - [ ] Mars 2026, Reconquête : la somme des personnalités (90,9 min) dépasse le total du parti dans le fichier des partis (90,0 min), incohérence mineure entre les deux fichiers de l'Arcom.
+
+## Questions clés (`data/questions.json`)
+
+- [ ] Dates au format AAAA-MM : le programme L'Avenir en commun 2025 (daté 2025-01, jour non connu) et la brochure LO (2026-06) ; la page programme de Kazib n'est pas datée (date de consultation 2026-09-22).
+- [ ] Mélenchon, programme : lu dans la copie Wayback du PDF (l'URL officielle redirige) ; programme annoncé « en cours de réactualisation » après la consultation de mai-juin 2026. Pagination = pages imprimées du livret.
+- [ ] Mélenchon q15 : source de 2024 (blog), antérieure à 2025 ; rien de plus récent trouvé qui la contredise.
+- [ ] Mélenchon q18 : « désobéir aux règles européennes » interprété comme plutot_pour à la primauté du droit national ; interprétation à relire.
+- [ ] Mélenchon q17 : sources explicites sur les livraisons d'armes datant de 2022 (France 24, 01/03/2022 : « regrette » la fourniture d'armes par l'UE) ; propos récents (blog 09/03/2025, France 2 18/06/2026 sur les frappes en profondeur) sans position explicite sur l'aide militaire. Omis.
+- [ ] Mélenchon q12 : un résultat de recherche attribue à LFI (comparateur de programmes, élections européennes) le renoncement à la fin des thermiques en 2035 ; non vérifié et pas le programme présidentiel. Omis.
+- [ ] Roussel q05 : source de juin 2024 (retour à 62 ans puis objectif 60 ans) ; LCP (16/09/2026) indique qu'il n'a pas encore dévoilé son programme retraites pour 2027.
+- [ ] Roussel q08 (2022-03-18) et q24 (2024-01-20) : sources antérieures à 2025, retenues faute de source plus récente contraire.
+- [ ] Roussel q11 : la lettre aux énergéticiens (09/2026) parle seulement de « doubler » la production décarbonée ; le chiffre de 20 EPR vient du discours du 24/06/2025.
+- [ ] Roussel q17 : université d'été 2026 (« solutions politiques et diplomatiques plutôt que les armes et l'escalade militaire ») sans position explicite sur l'aide militaire à l'Ukraine. Omis.
+- [ ] Roussel q20 : France 24 (22/05/2025) : la proportionnelle n'est « pas la priorité », projet Bayrou jugé « un peu vague » ; pas de position pour ou contre. Omis.
+- [ ] Roussel q16 : des résultats de recherche le disent opposé à la légalisation ou favorable à un « grand débat » (campagne 2022), mais aucune source ouverte n'a été trouvée avec sa citation. Omis.
+- [ ] Ruffin q14 : propos contradictoires rapportés (défense des droits des travailleurs sans papiers ; critiques de l'immigration de travail) ; source non ouverte. Omis.
+- [ ] Arthaud, Kazib, Labib q13 : la revendication de « liberté de circulation et d'installation » est lue comme un rejet des quotas d'immigration ; lecture à relire.
+- [ ] Arthaud q05 : retraite à 60 ans avec 37,5 annuités trouvée seulement dans des sources LO anciennes et non datées ; absente de la brochure 2026. Omis.
+- [ ] Kazib q17 et Labib q17 : « Pas un euro pour la guerre » est un mot d'ordre antimilitariste général, pas une position explicite sur l'aide à l'Ukraine. Omis.
+- [ ] q08 (faure, guedj, maurel) : position établie par leur vote nominatif au scrutin n°5729 du 25/02/2026 (deuxième lecture), vérifié dans la liste officielle de l'Assemblée ; leur vote lors de l'adoption définitive du 15/07/2026 n'a pas été vérifié. La loi étant désormais adoptée, la formulation de la question (« légaliser ») mérite peut-être d'être revue.
+- [ ] faure q01 : source d'octobre 2025 (contexte budgétaire), retour de l'ISF présenté comme alternative à la taxe Zucman, d'où « plutot_pour » ; pas de source de campagne 2026 trouvée.
+- [ ] glucksmann q05 : « nuance » car il promet l'abrogation de la réforme de 2023 (qui ramènerait l'âge à 62 ans) mais refuse de fixer un âge légal et évoque des départs plus tardifs pour certains (Public Sénat, 24/08/2026). Il faudrait peut-être le reclasser en « plutot_pour ».
+- [ ] glucksmann q17 : citation tirée de France 3 Grand Est (franceinfo, domaine france3-regions.franceinfo.fr).
+- [ ] guedj q13 : son site de campagne veut « une immigration planifiée par le Parlement, alignée sur les besoins de notre économie » (et « en fonction de nos capacités d'accueil » selon l'AFP, 17/09/2026). Il ne parle ni de plafond ni de quotas, donc la question a été omise ; à trancher éditorialement.
+- [ ] guedj q14 : la « préférence travail » de son site vise d'abord à améliorer l'attractivité des métiers en tension ; pas de position sur la régularisation, donc question omise.
+- [ ] maurel q19 : la « journée annuelle référendaire » avec une partie de questions d'initiative citoyenne n'est pas explicitement un RIC, d'où « plutot_pour ».
+- [ ] maurel q11 : « nouvelles capacités nucléaires » interprété comme de nouveaux réacteurs ; le programme ne dit pas « réacteurs ».
+- [ ] maurel : le programme sur emmanuel-maurel.fr n'est pas daté (consulté le 22/09/2026). Sur franceinfo le 04/09/2026, il veut sortir des traités européens, ce qui ne répond pas directement à la question q18 : non retenu.
+- [ ] royal : très peu de positions sourcées. Elle refuse de se prononcer sur les retraites tant que la question de l'ISF n'est pas posée (LCP, 16/09/2026), donc q05 est omise. Ses positions sur l'Ukraine et le nucléaire datent de 2014 et 2022, sans source 2025-2026 : non retenues.
+- [ ] faure q16 (cannabis) : favorable à une expérimentation et à un débat, mais les sources trouvées sont anciennes (antérieures à 2025) et n'ont pas été ouvertes : non retenu.
+- [ ] faure q20 (proportionnelle) : en mai 2025, après Matignon, il n'avait « aucune conclusion définitive » (franceinfo) : non retenu.
+- [ ] guedj q17 : la vidéo du débat LCI du 07/09/2026 (Ukraine) est citée sur son site mais n'a pas été consultée : non retenu.
+- [ ] batho : aucune position sourcée trouvée sur les 24 questions (site sans programme, entretiens centrés sur l'écologie et la protection de l'enfance). Un communiqué de Génération écologie du 24/02/2026 appelle à renforcer l'aide militaire à l'Ukraine, mais il est signé par le porte-parole Quentin Guillemain, pas par la candidate : non retenu (https://www.generationecologie.fr/2026/02/24/soutien-indefectible-a-la-resistance-de-lukraine/).
+- [ ] massard : aucune position sourcée trouvée sur les 24 questions (communiqués UDB sur le fédéralisme, l'eau et le logement seulement).
+- [ ] tondelier q19/q20 : les pages programme des Écologistes (lesecologistes.fr, section « La République partout et pour tou.te.s ») mentionneraient la proportionnelle et le RIC, mais le site renvoie une erreur 403, donc non vérifié. À contrôler, et à confirmer comme programme de campagne de la candidate.
+- [ ] tondelier q16 : la source date de mars 2024 et reformule sa position sans la citer ; aucune source plus récente ne la contredit. À actualiser si possible.
+- [ ] tondelier q17 : en février 2025, elle a regretté que la France dépense plus en gaz russe qu'en aide militaire à l'Ukraine, sans appel explicite à la poursuivre ; non retenu.
+- [ ] hollande q05 : 63 ans, c'est le maintien au seuil de 2028 et un refus explicite du retour à 62 ans ; classé plutot_contre selon l'exemple « 63 ans » de la règle 4 (position partielle). Le sens (plutot_pour ou plutot_contre) est à valider.
+- [ ] hollande q01 : il rejette la taxe Zucman mais propose de « mettre à contribution » les patrimoines de plus de 10 millions d'euros et les grosses successions, sans parler d'ISF (France 24, 03/09/2026) ; non retenu.
+- [ ] hollande q08 : il est député, mais son vote sur l'aide à mourir n'a pas été trouvé dans les articles consultés. Le scrutin est sur assemblee-nationale.fr.
+- [ ] hollande q17 : la source date de mars 2025 ; il n'est pas encore candidat déclaré (il annoncera sa décision en décembre 2026).
+- [ ] cazeneuve q05 : il fait de la durée de cotisation le levier « plutôt qu'un nouveau recul de l'âge légal », sans position sur le retour à 62 ans ; non retenu.
+- [ ] cazeneuve q04 : sa « règle d'or sociale » impose de compenser à l'euro près toute exonération, heures supplémentaires comprises, sans se prononcer sur l'exonération elle-même ; non retenu.
+- [ ] cazeneuve q24 : il promet des « prix dignes pour les producteurs », sans parler de prix planchers garantis ; non retenu.
+- [ ] cazeneuve q11 : il promet de « planifier le renouvellement du parc », ce qui implique de nouveaux réacteurs sans le dire ; classé plutot_pour.
+- [ ] bouamrane q01 : il propose un fonds souverain pour le logement financé par l'impôt sur la fortune immobilière (IFI, qui existe déjà), sans parler de rétablir l'ISF ; non retenu.
+- [ ] bouamrane q05 : la source date de mars 2025, avant sa candidature.
+- [ ] Philippe q05 : non retenu. Il a plaidé pour 65 à 67 ans (franceinfo 2021-2022) et dit en mars 2025 « il va falloir que l'on travaille plus » (Europe 1, 18/03/2025), mais selon LCP (16/09/2026) et franceinfo (08/09/2026) il n'a pas dévoilé les paramètres de sa réforme, promise « avant la fin septembre ». À revoir après cette annonce.
+- [ ] Philippe q11 : « relançant le nucléaire » (page France plus conquérante), sans mention explicite de nouveaux réacteurs, d'où plutot_pour.
+- [ ] Philippe q15 : peines planchers limitées aux « infractions les plus graves » ; classé pour (principe explicite). Pourrait être classé plutot_pour selon la lecture de l'échelle.
+- [ ] Philippe q20 : en 2017-2018, Premier ministre, il défendait une « dose de proportionnelle » (10 à 25 %). Position de mai 2025 (contre la proportionnelle défendue par Bayrou) retenue car plus récente.
+- [ ] Philippe q08 : source Europe 1 (01/07/2026) qui reformule sa position ; pas de citation directe du candidat trouvée.
+- [ ] Philippe q01 : le programme prévoit un moratoire fiscal (« aucun nouvel impôt » pendant le quinquennat), mais aucune déclaration directe sur l'ISF ou la taxe Zucman trouvée ; non retenu pour ne pas déduire.
+- [ ] Attal q11 : seule source trouvée date de juin 2024 (Premier ministre, législatives anticipées) ; rien de plus récent ne la contredit. Aucune mention du nucléaire sur la page « Dette écologique » du site de campagne.
+- [ ] Attal q05 : supprimer l'âge légal au profit de la durée de cotisation, classé nuance (ne répond ni oui ni non à « 62 ans ou moins »).
+- [ ] Attal q09 : il avait lancé l'expérimentation de la « tenue unique » (2023-2024) et envisagé une généralisation en 2026 (France 24, 07/03/2025, sans citation) ; en 2023, il voulait laisser chaque établissement décider (Europe 1). Aucune position de campagne 2026 ; non retenu.
+- [ ] Attal q04 : le programme propose de supprimer le plafond de 220 heures supplémentaires, sans parler de leur exonération de cotisations ; non retenu.
+- [ ] Attal q02 : le programme prévoit de réduire les charges salariales (pour les salariés), pas les cotisations patronales ni les impôts de production ; non retenu.
+- [ ] Attal q20 : selon LCP (2025), son groupe EPR (Pierre Cazeneuve) ne jugeait pas la proportionnelle prioritaire ; position de groupe, pas du candidat ; non retenu.
+- [ ] Attal q01 : un député de son groupe aurait rejeté la taxe Zucman en 2025 (France 24, 28/10/2025, vu seulement en résultat de recherche) ; pas de propos direct d'Attal trouvé ; non retenu.
+- [ ] Attal q15 : sa loi sur la justice des mineurs (2025) ne crée pas de peines planchers ; non retenu.
+- [ ] Villepin q01 : « impôt unique sur le patrimoine », qui n'est pas le rétablissement de l'ISF à l'identique, d'où plutot_pour. Villepin n'a pas déclaré sa candidature au 22/09/2026 ; ses tribunes sont signées de son nom sur lafrancehumaniste.fr.
+- [ ] Villepin q02 : bascule de plus de 200 Md€ de cotisations non contributives vers la CSG (Big Bang, 28/08/2026). La répartition entre cotisations patronales et salariales n'est pas précisée ; non retenu.
+- [ ] Villepin q23 : écrit « nos sols, nous devons les protéger de l'artificialisation » (Pourquoi je suis écogaulliste, 28/06/2026), sans se prononcer sur l'objectif ZAN ; non retenu.
+- [ ] Villepin q05 : l'abrogation des 64 ans n'est lue que sur des sites non reconnus (voir data/programmes/villepin.json) ; il renvoie la réforme à une conférence sociale, à une convention citoyenne et à un référendum ; non retenu.
+- [ ] Le Maire : pas de fichier data/programmes/le-maire.json. Candidature non déclarée (décision annoncée « en octobre », LCP). Le manifeste de 60 pages (23/08/2026) n'a pas été consulté en direct ; les autres thèmes (immigration, nucléaire, Ukraine, Europe à six) ne sont résumés dans la presse qu'en termes généraux.
+- [ ] bertrand : aucun programme publié au 22/09/2026 ; q02, q11, q13, q14 reposent sur sa campagne de 2021 (présidentielle 2022) et q05 sur une déclaration de 2023. Aucune source récente ne les contredit, mais à confirmer quand il publiera ses propositions.
+- [ ] bertrand q06 : formule « défense de la retraite par capitalisation » rapportée par LCP/AFP (et Le Figaro repris sur nousfrance.fr, 2026-08-04), sans détail sur le dispositif.
+- [ ] bertrand q14 : « mettre fin au système actuel de régularisation » (2021) ne vise pas explicitement les métiers en tension ; classé plutot_contre.
+- [ ] bertrand q20 : une synthèse de recherche lui prête une opposition à la proportionnelle (Europe 1, 2024), mais l'article ouvert ne la lui attribue pas directement : omis.
+- [ ] retailleau q06 : étage de capitalisation volontaire et complémentaire, classé plutot_pour (et non pour) à cause de son caractère facultatif.
+- [ ] retailleau q09 : seule source trouvée = cosignature d'une proposition de loi sénatoriale (janvier 2023) ; le projet 2027 ne mentionne pas l'uniforme.
+- [ ] retailleau q14 : source ministérielle (circulaire de janvier 2025) et non programme de campagne ; le chapitre immigration du site est « à venir ».
+- [ ] retailleau q17 : source de mars 2022 ; aucune déclaration de campagne 2026 trouvée sur l'aide militaire à l'Ukraine.
+- [ ] retailleau q01 : LR (qu'il préside) a demandé en octobre 2025 « ni taxe Zucman, ni recyclage de l'ISF » (France 24, 2025-10-01), mais c'est un document du parti, pas une déclaration de sa part : omis.
+- [ ] retailleau q19 : propose d'abaisser le seuil du RIP à un vingtième des électeurs et d'élargir le référendum, sans se prononcer sur le RIC : omis.
+- [ ] lisnard q05 : la page « Quel âge de départ… » (2026-08-31) dit qu'il « ne fait pas de l'âge sa réponse », alors que la page programme parle d'un âge légal de 65 ans ; les deux excluent un retour à 62 ans.
+- [ ] lisnard q23 : critique le ZAN (« inapplicable », « usine à gaz ») sans demander explicitement son abrogation ; classé plutot_pour, à confirmer.
+- [ ] lisnard q13 : la page programme « Réussir une nouvelle ambition française » n'est pas datée (date = consultation).
+- [ ] lisnard q17 : parle de reconstruction de l'Ukraine et d'un dialogue avec la Russie après la guerre (entretien du 2026-06-29), sans position sur l'aide militaire : omis.
+- [ ] Philippot : le livret des Patriotes n'est daté que du mois (« 2026-09 ») ; date au jour inconnue.
+- [ ] Philippot q05 : le livret propose de « baisser l'âge de départ » sous condition (« si les Français le désirent ») : classé plutot_pour, sans âge cible.
+- [ ] Philippot q08 : le livret refuse « toute politique d'incitation à l'euthanasie » des personnes handicapées ; position générale sur l'aide à mourir non établie, question omise.
+- [ ] Philippot q14 : le livret veut « mettre fin à l'immigration de travail » ; rien d'explicite sur la régularisation, question omise.
+- [ ] q18 (Dupont-Aignan, Philippot, Asselineau) : la position découle de leur proposition de sortie de l'UE, et non d'une primauté du droit français au sein de l'UE ; à confirmer sur la formulation.
+- [ ] Dupont-Aignan q04 : Europe 1 parle de « défiscalisation » des heures supplémentaires, sans mention des cotisations sociales : classé plutot_pour.
+- [ ] Dupont-Aignan q05 : 62 ans et neuf mois, soit un âge supérieur au seuil de 62 ans de la question : classé plutot_pour, comme l'exemple « 63 ans ».
+- [ ] Zemmour q02, q04, q05, q18 : sources de 2022 (programme présidentiel 2022) ; aucun programme 2027 publié au 22/09/2026. À revoir à sa publication, en particulier l'âge de 64 ans.
+- [ ] Zemmour q13 : parle d'« immigration zéro » puis d'« immigration négative » (Europe 1, 13/09/2026) ; ce n'est pas un plafond ou des quotas au sens de la question, question omise.
+- [ ] Le Pen q09, q11, q19 : sources de 2022 (programme présidentiel 2022), non contredites par une source récente trouvée ; à confirmer dans le programme 2027.
+- [ ] Le Pen q17 : distingue l'aide financière (« financièrement, nous ne pouvons plus ») de la formation et du matériel, qu'elle propose de poursuivre : classé nuance.
+- [ ] Le Pen q15 : peines planchers attribuées au groupe RN (propositions de loi) et à son programme 2022 dans des articles de synthèse (LCP, 22/03/2022) sans formulation explicite d'elle : question omise.
+- [ ] Le Pen q16 : opposition au cannabis trouvée seulement dans des sources anciennes ou des propos de cadres du FN : question omise.
+- [ ] Le Pen q07 : sur les déserts médicaux, elle évoque l'aménagement du territoire et des incitations, sans se prononcer sur la régulation : question omise.
+- [ ] Le Pen q02 : baisse des impôts de production attribuée au RN dans des articles de synthèse, sans propos directs d'elle trouvés (franceinfo, 08/07/2026, évoque une baisse de l'impôt sur les sociétés) : question omise.
+- [ ] Le Pen q03 : source de janvier 2023 ; position récente sur le SMIC non trouvée.
+- [ ] Dupont-Aignan q11 : défend EDF et le nucléaire existant, sans proposition explicite de nouveaux réacteurs trouvée : question omise.
+- [ ] Lassalle : candidature non officialisée au 22/09/2026, aucune position 2026 sourcée sur les 24 questions.
+- [ ] branco q16 : la norme 03 « Société » soumet à un référendum de l'assemblée constituante deux options (dépénalisation de l'usage de toute drogue avec monopole d'État, ou justice d'exception contre le narcotrafic) ; la réforme 07 prévoit des monopoles d'État de distribution de « toute autre forme de drogue ». Le cannabis n'est pas nommé. Position retenue : plutot_pour, à relire.
+- [ ] branco q20 : une note des normes 02 (Démocratie) évoque, parmi trois options pour la constituante, une chambre basse élue en partie à la proportionnelle (200 députés sur 314). Option non arrêtée, non retenue.
+- [ ] branco q18 : référendum sur la sortie de l'UE, de l'euro, du Conseil de l'Europe et/ou de Schengen ; ne répond pas directement à la question de la primauté de la loi française. Non retenu.
+- [ ] branco q14 : « critères objectivables d'intégration » et « obligations de service à la nation » dans le cadre des régularisations ; ni les métiers en tension ni l'élargissement ne sont mentionnés. Non retenu.
+- [ ] branco q05 : retraites alignées, taux fixés selon l'espérance de vie par catégorie ; aucun âge légal mentionné. Non retenu.
+- [ ] branco q03 : SMIC « déconcentré » avec seuil national à 1 500 € net ; classé plutot_pour à cause de la déconcentration.
+- [ ] Programme ruches.org non daté : date de consultation (22/09/2026) retenue, comme dans data/programmes/branco.json.
+- [ ] lalanne q17 : le programme prévoit la « fin des subventions allouées à des pays en guerre pour soutenir un pays contre un autre » et le retrait des troupes françaises des territoires en guerre ; l'Ukraine et l'aide militaire ne sont pas nommées. Non retenu. Le positionnement pro-russe est relevé seulement par des agrégateurs (quizz-du-berger.com), non admis.
+- [ ] lalanne q18 : « Frexit » pour « retrouver la maîtrise de nos lois » ; la sortie de l'UE ne répond pas directement à la question de la primauté. Non retenu.
+- [ ] mikolajczak q11 et q17 : le site d'Équinoxe publie des positions du parti (« nouveau nucléaire », article du 17/09/2026 ; « soutien maximal à l'Ukraine », article du 31/03/2026, co-décidé par 68 adhérents), sans les attribuer au candidat ni les présenter comme son programme de campagne, annoncé mais pas encore publié. Non retenu (règle 1). Des agrégateurs (candidator.fr, objectif2027.fr, etc.) lui attribuent aussi des positions (70 % de nucléaire, dose de proportionnelle, soutien militaire à l'Ukraine) sans source primaire : non retenu.
+- [ ] mikolajczak q19 : le tract de campagne mentionne « développer la démocratie directe et les conventions citoyennes », sans nommer le RIC. Non retenu.
+- [ ] mathieu q19 : s'appuie sur info-chalon.com (02/06/2026), qui cite ses trois priorités ; confirmé par The Vox (30/03/2026). La page de Solution démocratique (parti de Clara Egger, candidate concurrente) consacrée à son programme n'est pas utilisée. RMC et Le Monde non ouverts.
+- [ ] mlekuz : le programme et la FAQ de Trajectoire refusent explicitement de se prononcer sur les sujets sociaux et économiques avant la constituante ; aucune position sur les 24 questions. Le RIC n'apparaît pas dans son programme.
+- [ ] egger : candidature limitée par choix à la démocratie directe et à la décentralisation ; seule la q19 est documentée. Le RIC proposé est limité à la révision de la Constitution (initiative constituante et référendum obligatoire).
+- [ ] durif : aucun programme ni aucune mesure identifiés au 22/09/2026 ; les sites durif2027.com et sylvaindurif2027.fr ne sont pas officiels.
+- [ ] q18 maurel : volonté de sortir des traités européens évoquée ; à sourcer précisément avant de publier (règle : proposition explicite de sortie = pour).
 

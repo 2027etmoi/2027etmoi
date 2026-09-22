@@ -1,6 +1,6 @@
-# Questions clés — proposition à valider
+# Questions clés
 
-Liste de travail pour le mode « Questions clés » de la page « Mes priorités ». **Rien n'est publié tant que la liste n'est pas validée.**
+Questions du mode « Questions clés » de la page « Mes priorités ». Liste validée le 22 septembre 2026.
 
 ## Règles de choix et de rédaction
 
@@ -10,7 +10,7 @@ Liste de travail pour le mode « Questions clés » de la page « Mes priorités
 4. **Des positions sourcées.** Pour chaque candidat, on indique « pour », « contre », « nuancé » ou « non connu », avec une source ouverte et datée. Une position déduite n'est jamais publiée ; « non connu » est la réponse par défaut.
 5. **La transparence.** Cette liste et ses révisions sont publiques.
 
-## Liste proposée (24 questions)
+## Liste (24 questions)
 
 | # | Thème | Question | Pourquoi elle est retenue |
 |---|---|---|---|
@@ -21,7 +21,7 @@ Liste de travail pour le mode « Questions clés » de la page « Mes priorités
 | 5 | Retraites | Faut-il ramener l'âge légal de départ à 62 ans ou moins ? | Abrogation de la réforme de 2023 demandée à gauche et par le RN ; maintien ou report ailleurs. |
 | 6 | Retraites | Faut-il introduire une part de retraite par capitalisation ? | Proposé au centre et à droite, rejeté à gauche. |
 | 7 | Santé | Faut-il réguler l'installation des médecins pour lutter contre les déserts médicaux ? | Clivage transpartisan (régulation ou incitation). |
-| 8 | Santé | Faut-il légaliser l'aide active à mourir ? | Débat de société traversant les camps. |
+| 8 | Santé | Faut-il conserver la loi de 2026 créant un droit à l'aide à mourir ? | Débat de société traversant les camps. Reformulée le 22/09/2026 : la loi a été adoptée le 15/07/2026 (recours annoncés devant le Conseil constitutionnel). Un soutien exprimé à la légalisation vaut « pour ». |
 | 9 | Éducation | Faut-il rendre l'uniforme obligatoire à l'école ? | Proposé à droite ; contesté à gauche. |
 | 10 | Éducation | Faut-il supprimer Parcoursup ? | Proposé par une partie de la gauche. |
 | 11 | Écologie | Faut-il construire de nouveaux réacteurs nucléaires ? | Clivage net : relance du nucléaire ou sortie. |
@@ -46,6 +46,31 @@ Répartition indicative des « oui » :
 
 Cette répartition sert seulement à vérifier l'équilibre. Elle n'est pas affichée sur le site, et elle sera corrigée d'après les positions réelles une fois sourcées.
 
-## Échelle des positions (`data/questions.json`, format à venir)
+## Échelle des positions
 
 `pour` · `plutot_pour` · `nuance` · `plutot_contre` · `contre` · `non_connu`, chacune avec une source ouverte et datée, et une courte citation ou reformulation de la position.
+
+## Statut
+
+Liste **validée le 22 septembre 2026**. Les questions sont dans `data/questions.json`. Les positions sont recherchées par lots dans `data/questions-lots/<lot>.json`, puis fusionnées dans `data/questions.json`.
+
+## Règles de recherche des positions
+
+Format d'une position :
+
+```json
+{ "q01": { "position": "pour", "resume": "Propose de rétablir l'ISF avec un volet climatique.", "source": { "titre": "…", "url": "…", "date": "2026-…" } } }
+```
+
+1. **Les sources admises sont les propos du candidat lui-même ou son programme de campagne officiel** : site de campagne, programme, discours, entretien rapporté par une presse reconnue. Le programme d'un parti ne compte que s'il est explicitement le programme de campagne du candidat.
+2. **On ne déduit jamais une position de l'étiquette politique.** Sans source, la valeur est `non_connu`, et la question est simplement omise du fichier.
+3. **On part des mesures déjà vérifiées** de `data/programmes/<id>.json` : quand une mesure répond directement à la question, sa source peut être reprise.
+4. **L'échelle :**
+   - `pour` / `contre` : position explicite, sans condition ;
+   - `plutot_pour` / `plutot_contre` : position conditionnelle ou partielle (par exemple « 63 ans » pour la question « 62 ans ou moins ») ;
+   - `nuance` : position mixte, ou qui ne se range dans aucun des deux camps.
+5. **Le résumé** reformule la position en 25 mots au plus, sans adjectif évaluatif.
+6. **Datation** : on privilégie les sources de 2025-2026. Une position plus ancienne n'est retenue que si rien de plus récent ne la contredit, et la date de la source le montre.
+7. **Contradiction** : si deux sources récentes se contredisent, la position vaut `nuance`, et le résumé mentionne l'évolution avec la source la plus récente. Les deux sources vont dans `a_verifier`.
+8. **Question 18 (primauté du droit français).** Une proposition explicite de sortie de l'Union européenne vaut `pour` : elle met fin à l'application du droit européen. Le résumé dit exactement ce qui est proposé. Proposer un référendum sur la sortie n'est pas une position : la valeur reste `non_connu`.
+9. **Question 5 (62 ans ou moins).** Un âge légal de 62 ans et quelques mois vaut `plutot_pour`. Le maintien à 63 ans ou plus vaut `plutot_contre` ou `contre`. La suppression de l'âge légal au profit de la seule durée de cotisation vaut `nuance`.
