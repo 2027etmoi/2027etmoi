@@ -44,6 +44,7 @@ const THEMES = {
   institutions: "Institutions et démocratie",
   logement: "Logement",
   territoires: "Agriculture, ruralité et services publics locaux",
+  societe: "Société et libertés",
 };
 
 const NATURES = {

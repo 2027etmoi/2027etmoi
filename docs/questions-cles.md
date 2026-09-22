@@ -46,6 +46,28 @@ Répartition indicative des « oui » :
 
 Cette répartition sert seulement à vérifier l'équilibre. Elle n'est pas affichée sur le site, et elle sera corrigée d'après les positions réelles une fois sourcées.
 
+## Questions de société (ajoutées et validées le 22 septembre 2026)
+
+Elles portent sur des sujets **encore débattus**. Ceux qui sont déjà tranchés en droit sont formulés sur ce qui reste en débat : l'IVG est constitutionnalisée depuis 2024, le mariage pour tous existe depuis 2013, la Palestine a été reconnue par la France en 2025.
+
+| # | Thème | Question | Pourquoi elle est retenue |
+|---|---|---|---|
+| 25 | Société | Faut-il revenir sur l'ouverture du mariage et de l'adoption aux couples de même sexe ? | Remis en cause par une partie de la droite nationaliste, défendu ailleurs. |
+| 26 | Société | Faut-il allonger le délai légal de l'IVG au-delà de 14 semaines ? | Proposé à gauche, refusé ailleurs. |
+| 27 | Société | Faut-il autoriser la gestation pour autrui (GPA) en France ? | Clivage transversal. |
+| 28 | Société | Faut-il interdire le port du voile islamique dans l'espace public ? | Proposé par le RN, rejeté ailleurs. |
+| 29 | Société | Faut-il supprimer le droit du sol ? | Proposé à droite et par le RN, rejeté à gauche. |
+| 30 | Société | Faut-il accorder le droit de vote aux étrangers non européens aux élections locales ? | Proposé à gauche, rejeté à droite. |
+| 31 | Société | Faut-il abaisser le droit de vote à 16 ans ? | Proposé par une partie de la gauche. |
+| 32 | Société | Faut-il rétablir un service militaire ou national obligatoire ? | Plutôt proposé à droite, débattu au centre. |
+| 33 | Société | Faut-il interdire les réseaux sociaux aux moins de 15 ans ? | Transversal. |
+| 34 | International | Faut-il suspendre l'accord d'association entre l'Union européenne et Israël ? | Proposé à gauche, rejeté à droite et au centre. |
+| 35 | International | Faut-il sortir du commandement intégré de l'OTAN ? | Proposé à la fois par LFI et le RN. |
+
+Équilibre indicatif des « oui » : 4 plutôt associés à la gauche (26, 30, 31, 34), 4 plutôt associés à la droite (25, 28, 29, 32), 3 transversaux (27, 33, 35).
+
+Le nombre de questions passe à 35. Le parcours rapide retient une question par thème, soit 13 avec « Société et libertés ».
+
 ## Échelle des positions
 
 `pour` · `plutot_pour` · `nuance` · `plutot_contre` · `contre` · `non_connu`, chacune avec une source ouverte et datée, et une courte citation ou reformulation de la position.
@@ -74,3 +96,9 @@ Format d'une position :
 7. **Contradiction** : si deux sources récentes se contredisent, la position vaut `nuance`, et le résumé mentionne l'évolution avec la source la plus récente. Les deux sources vont dans `a_verifier`.
 8. **Question 18 (primauté du droit français).** Une proposition explicite de sortie de l'Union européenne vaut `pour` : elle met fin à l'application du droit européen. Le résumé dit exactement ce qui est proposé. Proposer un référendum sur la sortie n'est pas une position : la valeur reste `non_connu`.
 9. **Question 5 (62 ans ou moins).** Un âge légal de 62 ans et quelques mois vaut `plutot_pour`. Le maintien à 63 ans ou plus vaut `plutot_contre` ou `contre`. La suppression de l'âge légal au profit de la seule durée de cotisation vaut `nuance`.
+
+## Parcours rapide
+
+Le parcours rapide retient **une question par thème**, choisie automatiquement par le site (`assets/rapide.js`). C'est celle qui compte le plus de positions sourcées à la fois « pour » (pour ou plutôt pour) et « contre » (contre ou plutôt contre), c'est-à-dire la plus clivante. À égalité, on prend celle qui a le plus de positions connues. Le choix évolue donc avec les données, sans intervention éditoriale.
+
+L'importance donnée à chaque thème pondère sa question : essentiel ×2, important ×1, secondaire ×0,5. Aucun pourcentage n'est affiché en dessous de 4 questions comparables. Dans le parcours approfondi, le seuil est de 5.

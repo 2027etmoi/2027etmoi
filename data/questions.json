@@ -108,6 +108,16 @@
       "texte": "Faut-il que la loi française puisse primer sur le droit européen ?"
     },
     {
+      "id": "q34",
+      "theme": "international",
+      "texte": "Faut-il suspendre l'accord d'association entre l'Union européenne et Israël ?"
+    },
+    {
+      "id": "q35",
+      "theme": "international",
+      "texte": "Faut-il sortir du commandement intégré de l'OTAN ?"
+    },
+    {
       "id": "q19",
       "theme": "institutions",
       "texte": "Faut-il instaurer le référendum d'initiative citoyenne (RIC) ?"
@@ -136,6 +146,51 @@
       "id": "q24",
       "theme": "territoires",
       "texte": "Faut-il garantir des prix planchers pour les produits agricoles ?"
+    },
+    {
+      "id": "q25",
+      "theme": "societe",
+      "texte": "Faut-il revenir sur l'ouverture du mariage et de l'adoption aux couples de même sexe ?"
+    },
+    {
+      "id": "q26",
+      "theme": "societe",
+      "texte": "Faut-il allonger le délai légal de l'IVG au-delà de 14 semaines ?"
+    },
+    {
+      "id": "q27",
+      "theme": "societe",
+      "texte": "Faut-il autoriser la gestation pour autrui (GPA) en France ?"
+    },
+    {
+      "id": "q28",
+      "theme": "societe",
+      "texte": "Faut-il interdire le port du voile islamique dans l'espace public ?"
+    },
+    {
+      "id": "q29",
+      "theme": "societe",
+      "texte": "Faut-il supprimer le droit du sol ?"
+    },
+    {
+      "id": "q30",
+      "theme": "societe",
+      "texte": "Faut-il accorder le droit de vote aux étrangers non européens aux élections locales ?"
+    },
+    {
+      "id": "q31",
+      "theme": "societe",
+      "texte": "Faut-il abaisser le droit de vote à 16 ans ?"
+    },
+    {
+      "id": "q32",
+      "theme": "societe",
+      "texte": "Faut-il rétablir un service militaire ou national obligatoire ?"
+    },
+    {
+      "id": "q33",
+      "theme": "societe",
+      "texte": "Faut-il interdire les réseaux sociaux aux moins de 15 ans ?"
     }
   ],
   "positions": {

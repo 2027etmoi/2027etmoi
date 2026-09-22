@@ -52,6 +52,7 @@ Un fichier par candidat : `data/programmes/<id>.json`. L'`id` est celui de `data
 | `institutions` | Institutions et démocratie |
 | `logement` | Logement |
 | `territoires` | Agriculture, ruralité et services publics locaux |
+| `societe` | Société et libertés (mœurs, laïcité, nationalité, citoyenneté, numérique) |
 
 ## Nature de la source (`nature`)
 

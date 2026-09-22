@@ -32,7 +32,8 @@ THEMES = {"economie": "Économie, fiscalité et finances publiques", "travail": 
           "ecologie": "Écologie, climat et énergie", "immigration": "Immigration et intégration",
           "securite": "Sécurité et justice", "international": "Europe, international et défense",
           "institutions": "Institutions et démocratie", "logement": "Logement",
-          "territoires": "Agriculture, ruralité et services publics locaux"}
+          "territoires": "Agriculture, ruralité et services publics locaux",
+          "societe": "Société et libertés"}
 
 # Pages principales : titre et description optimisés pour la recherche
 PAGES = {

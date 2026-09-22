@@ -15,7 +15,7 @@ DATA = ROOT / "data"
 BLOCS = {"gauche", "ecolo", "centre", "droite", "extdroite", "autre"}
 STATUTS = {"declare", "primaire", "pressenti", "empeche", "renonce"}
 THEMES = {"economie", "travail", "retraites", "sante", "education", "ecologie", "immigration",
-          "securite", "international", "institutions", "logement", "territoires"}
+          "securite", "international", "institutions", "logement", "territoires", "societe"}
 NATURES = {"programme", "declaration", "presse"}
 ETATS_PROG = {"complet", "partiel", "aucun"}
 ETATS_AFFAIRE = {"enquete", "mise_en_examen", "renvoi_proces", "condamnation_non_definitive",

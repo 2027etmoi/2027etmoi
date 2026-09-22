@@ -640,3 +640,15 @@ button.cta { border: 0; font: inherit; font-weight: 600; cursor: pointer; }
 .partis-list li { display: flex; justify-content: space-between; gap: 10px; padding: 4px 0; border-bottom: 1px solid #f1eee8; break-inside: avoid; font-size: 14px; }
 @media (max-width: 900px) { .kpis { grid-template-columns: repeat(3, minmax(0, 1fr)); } .partis-list { columns: 2; } }
 @media (max-width: 760px) { .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); } .partis-list { columns: 1; } }
+
+/* Mes priorités : parcours rapide et étapes */
+.rq + .rq { margin-top: 10px; }
+.rq { border-left: 4px solid var(--tint); }
+.rq-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px; }
+.rq-head .quiz-theme { margin: 0; font-size: 16px; }
+.rq p { margin: 6px 0 10px; font-size: 16px; }
+.etapes-parcours { list-style: none; display: flex; flex-wrap: wrap; gap: 8px; padding: 0; margin: 0 0 16px; }
+.etapes-parcours li { padding: 6px 14px; border-radius: 999px; background: #f1eee8; color: var(--muted); font-size: 14px; cursor: pointer; }
+.etapes-parcours li.actif { background: var(--pastel-blue); color: var(--text); font-weight: 600; }
+.qpos .dot { display: inline-block; vertical-align: 1px; }
+[id="t-societe"], .th-societe { --tint: var(--pastel-lavender); }

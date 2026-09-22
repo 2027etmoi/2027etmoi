@@ -1,4 +1,4 @@
-// « Mes priorités », mode Questions clés : l'utilisateur répond à 24 questions,
+// « Mes priorités », parcours approfondi : l'utilisateur répond aux questions clés,
 // puis compare ses réponses aux positions sourcées des candidats (data/questions.json).
 // Tout se passe dans le navigateur : rien n'est enregistré ni envoyé.
 
@@ -18,7 +18,7 @@ function qLimites() {
       <li><strong>Chaque position est sourcée</strong> : propos du candidat ou programme de campagne. Sans source, la position est « non connue » et la question n'est pas comptée pour ce candidat — elle n'est jamais déduite de son parti.</li>
       <li><strong>La proximité</strong> est calculée question par question (écart entre votre réponse et la position du candidat), sur les seules questions où vous avez un avis et où sa position est connue. Les questions marquées « importante » comptent double.</li>
       <li><strong>En dessous de ${Q_MIN} questions comparables</strong>, aucun pourcentage n'est affiché : ce serait trop peu pour être parlant.</li>
-      <li><strong>Les 24 questions</strong> ont été choisies pour couvrir les 12 thèmes de façon équilibrée ; leur liste et les règles sont publiques (<a href="https://github.com/2027etmoi/2027etmoi/blob/main/docs/questions-cles.md" target="_blank" rel="noopener">méthode</a>).</li>
+      <li><strong>Les ${qs.data.questions.length} questions</strong> ont été choisies pour couvrir tous les thèmes de façon équilibrée ; leur liste et les règles sont publiques (<a href="https://github.com/2027etmoi/2027etmoi/blob/main/docs/questions-cles.md" target="_blank" rel="noopener">méthode</a>).</li>
     </ul>
   </details>`;
 }
@@ -89,7 +89,7 @@ function qRenderResultats() {
         <tbody>${lignes.map((l) => `<tr>
           <td><span class="bloc"><span class="dot ${esc(qs.cands[l.id].bloc)}"></span><a class="name" href="${candidatUrl(l.id)}">${esc(qs.cands[l.id].nom)}</a></span></td>
           <td class="num">${l.n >= Q_MIN ? `<strong>${Math.round(l.pct)} %</strong>` : `<span class="props-empty">Trop peu de positions connues</span>`}</td>
-          <td class="num">${l.n} <span class="poll-n">(${l.connues} positions connues sur 24)</span></td>
+          <td class="num">${l.n} <span class="poll-n">(${l.connues} positions connues sur ${qs.data.questions.length})</span></td>
           <td class="bar-cell">${l.n >= Q_MIN ? `<div class="bar" style="width:${l.pct}%"></div>` : ""}</td>
         </tr>`).join("")}</tbody>
       </table></div>
@@ -113,11 +113,22 @@ function qRenderResultats() {
         </details>`;
       }).join("")}
     </section>
-    <p class="quiz-nav"><button type="button" class="chip" id="qback">Modifier mes réponses</button></p>
+    <p class="quiz-nav"><button type="button" class="chip" id="qback">Modifier mes réponses</button>
+      <button type="button" class="cta" id="qetape2">Étape 2 : réagir à des propositions concrètes sur vos thèmes importants</button></p>
     ${qLimites()}`;
   qapp().querySelectorAll("[data-toggle]").forEach((b) => b.addEventListener("click", () =>
     qapp().querySelectorAll("details.theme-block").forEach((d) => { d.open = b.dataset.toggle === "open"; })));
   $("qback").addEventListener("click", () => { qRenderQuestions(); window.scrollTo({ top: $("qapp").offsetTop - 80 }); });
+  $("qetape2").addEventListener("click", () => {
+    // Thèmes des questions « importantes » → essentiels ; thèmes répondus → importants
+    for (const q of qs.data.questions) {
+      if (qs.imp[q.id]) st.importance[q.theme] = 2;
+      else if (qs.rep[q.id] && qs.rep[q.id] !== "0" && !st.importance[q.theme]) st.importance[q.theme] = 1;
+    }
+    renderPreparation();
+    allerEtape("app");
+    window.scrollTo({ top: $("approfondi").offsetTop - 80 });
+  });
 }
 
 (async () => {
@@ -126,15 +137,21 @@ function qRenderResultats() {
   qs.cands = Object.fromEntries((cands.candidats || []).filter((c) => EN_LICE.includes(c.statut)).map((c) => [c.id, c]));
   const nbPos = Object.values(d?.positions || {}).reduce((n, p) => n + Object.keys(p).length, 0);
   if (!d || !nbPos) {
-    qapp().innerHTML = `<p class="notice">Les positions des candidats sur les questions clés sont en cours de recherche. En attendant, essayez le mode « Propositions des programmes ».</p>`;
+    qapp().innerHTML = `<p class="notice">Les positions des candidats sur les questions clés sont en cours de recherche. En attendant, passez à l'étape 2.</p>`;
     return;
   }
   qRenderQuestions();
 })();
 
-// Onglets entre les deux modes
+// Parcours : onglets Rapide / Approfondi, et étapes du parcours approfondi
+function allerEtape(id) {
+  $("qapp").hidden = id !== "qapp";
+  $("app").hidden = id !== "app";
+  document.querySelectorAll("#etapes li").forEach((li) => li.classList.toggle("actif", li.dataset.etape === id));
+}
+document.querySelectorAll("#etapes li").forEach((li) => li.addEventListener("click", () => allerEtape(li.dataset.etape)));
 document.querySelectorAll("[data-mode]").forEach((b) => b.addEventListener("click", () => {
   document.querySelectorAll("[data-mode]").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
-  $("qapp").hidden = b.dataset.mode !== "questions";
-  $("app").hidden = b.dataset.mode !== "propositions";
+  $("rapp").hidden = b.dataset.mode !== "rapide";
+  $("approfondi").hidden = b.dataset.mode !== "approfondi";
 }));
