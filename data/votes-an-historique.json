@@ -1,0 +1,2399 @@
+{
+  "mise_a_jour": "2026-09-23",
+  "sources": [
+    {
+      "titre": "Assemblée nationale — données ouvertes, scrutins des 14e, 15e et 16e législatures",
+      "url": "https://data.assemblee-nationale.fr/travaux-parlementaires/votes",
+      "licence": "Licence Ouverte / Open Licence (Etalab)"
+    },
+    {
+      "titre": "Assemblée nationale — données ouvertes, historique des députés (acteurs, mandats, organes)",
+      "url": "https://data.assemblee-nationale.fr/acteurs/historique-des-deputes",
+      "licence": "Licence Ouverte / Open Licence (Etalab)"
+    },
+    {
+      "titre": "Assemblée nationale — analyses des scrutins publics de la 13e législature (archives)",
+      "url": "https://www.assemblee-nationale.fr/13/scrutins/table-2011-2012.asp",
+      "licence": "Site officiel de l'Assemblée nationale"
+    },
+    {
+      "titre": "Assemblée nationale — analyses des scrutins publics de la 12e législature (archives)",
+      "url": "https://www.assemblee-nationale.fr/12/scrutins/table-2006-2007.asp",
+      "licence": "Site officiel de l'Assemblée nationale"
+    },
+    {
+      "titre": "Assemblée nationale — fiches des députés, anciens mandats et fonctions",
+      "url": "https://www.assemblee-nationale.fr/dyn/deputes",
+      "licence": "Site officiel de l'Assemblée nationale"
+    }
+  ],
+  "mandats": {
+    "melenchon": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Bouches-du-Rhône, 4e circonscription) — 15e législature",
+        "debut": "2017-06-21",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jean-Luc Mélenchon",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA2150",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "faure": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Seine-et-Marne, 11e circonscription) — 17e législature",
+        "debut": "2024-07-01",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Olivier Faure",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA609332",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Seine-et-Marne, 11e circonscription) — 16e législature",
+        "debut": "2022-06-22",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Olivier Faure",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA609332",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Seine-et-Marne, 11e circonscription) — 15e législature",
+        "debut": "2017-06-21",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Olivier Faure",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA609332",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Seine-et-Marne, 11e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2017-06-20",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Olivier Faure",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA609332",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "glucksmann": [],
+    "guedj": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 6e circonscription) — 17e législature",
+        "debut": "2024-07-08",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jérôme Guedj",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1567",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 6e circonscription) — 16e législature",
+        "debut": "2022-06-22",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jérôme Guedj",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1567",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 6e circonscription) — 14e législature",
+        "debut": "2012-07-22",
+        "fin": "2014-05-02",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jérôme Guedj",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1567",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 6e circonscription) — 13e législature",
+        "debut": "2012-06-17",
+        "fin": "2012-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jérôme Guedj",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1567",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "royal": [
+      {
+        "chambre": "AN",
+        "detail": "Députée (Deux-Sèvres, 2e circonscription) — 12e législature",
+        "debut": "2002-06-19",
+        "fin": "2007-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Ségolène Royal",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA2650",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée — 11e législature",
+        "debut": "1997-06-01",
+        "fin": "1997-07-04",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de Ségolène Royal",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA2650/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée — 10e législature",
+        "debut": "1993-04-02",
+        "fin": "1997-04-21",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de Ségolène Royal",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA2650/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée — 9e législature",
+        "debut": "1988-06-13",
+        "fin": "1992-05-02",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de Ségolène Royal",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA2650/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "maurel": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Val-d'Oise, 3e circonscription) — 17e législature",
+        "debut": "2024-07-08",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Emmanuel Maurel",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA842271",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "roussel": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Nord, 20e circonscription) — 16e législature",
+        "debut": "2022-06-22",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Fabien Roussel",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA720692",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Nord, 20e circonscription) — 15e législature",
+        "debut": "2017-06-21",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Fabien Roussel",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA720692",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "ruffin": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Somme, 1re circonscription) — 17e législature",
+        "debut": "2024-07-08",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de François Ruffin",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA722142",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Somme, 1re circonscription) — 16e législature",
+        "debut": "2022-06-22",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de François Ruffin",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA722142",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Somme, 1re circonscription) — 15e législature",
+        "debut": "2017-06-21",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de François Ruffin",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA722142",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "cazeneuve": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Manche, 4e circonscription) — 14e législature",
+        "debut": "2017-06-16",
+        "fin": "2017-06-20",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Bernard Cazeneuve",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA785",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Manche, 4e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2012-07-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Bernard Cazeneuve",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA785",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Manche, 5e circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2012-06-16",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Bernard Cazeneuve",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA785",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député — 11e législature",
+        "debut": "1997-06-01",
+        "fin": "2002-06-18",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de Bernard Cazeneuve",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA785/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "bouamrane": [],
+    "hollande": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Corrèze, 1re circonscription) — 17e législature",
+        "debut": "2024-07-08",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de François Hollande",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1654",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Corrèze, 1re circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2012-05-14",
+        "source": {
+          "titre": "Assemblée nationale — fiche de François Hollande",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1654",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Corrèze, 1re circonscription) — 12e législature",
+        "debut": "2002-06-19",
+        "fin": "2007-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de François Hollande",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1654",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député — 11e législature",
+        "debut": "1997-06-01",
+        "fin": "2002-06-18",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de François Hollande",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1654/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député — 9e législature",
+        "debut": "1988-06-13",
+        "fin": "1993-04-01",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de François Hollande",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1654/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "arthaud": [],
+    "kazib": [],
+    "labib": [],
+    "tondelier": [],
+    "batho": [
+      {
+        "chambre": "AN",
+        "detail": "Députée (Deux-Sèvres, 2e circonscription) — 17e législature",
+        "debut": "2024-07-08",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Delphine Batho",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Deux-Sèvres, 2e circonscription) — 16e législature",
+        "debut": "2022-06-22",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Delphine Batho",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Deux-Sèvres, 2e circonscription) — 15e législature",
+        "debut": "2017-06-21",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Delphine Batho",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Deux-Sèvres, 2e circonscription) — 14e législature",
+        "debut": "2013-08-03",
+        "fin": "2017-06-20",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Delphine Batho",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Deux-Sèvres, 2e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2012-07-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Delphine Batho",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Deux-Sèvres, 2e circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2012-06-16",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Delphine Batho",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "vallaud": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Landes, 3e circonscription) — 17e législature",
+        "debut": "2024-07-08",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Boris Vallaud",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA719930",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Landes, 3e circonscription) — 16e législature",
+        "debut": "2022-06-22",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Boris Vallaud",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA719930",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Landes, 3e circonscription) — 15e législature",
+        "debut": "2017-06-21",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Boris Vallaud",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA719930",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "autain": [
+      {
+        "chambre": "AN",
+        "detail": "Députée (Seine-Saint-Denis, 11e circonscription) — 17e législature",
+        "debut": "2024-07-01",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Clémentine Autain",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA588884",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Seine-Saint-Denis, 11e circonscription) — 16e législature",
+        "debut": "2022-06-22",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Clémentine Autain",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA588884",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Seine-Saint-Denis, 11e circonscription) — 15e législature",
+        "debut": "2017-06-21",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Clémentine Autain",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA588884",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "castets": [],
+    "poutou": [],
+    "philippe": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Seine-Maritime, 7e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2017-06-15",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Édouard Philippe",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA345619",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Seine-Maritime, 7e circonscription) — 13e législature",
+        "debut": "2012-03-23",
+        "fin": "2012-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Édouard Philippe",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA345619",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "attal": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Hauts-de-Seine, 10e circonscription) — 17e législature",
+        "debut": "2024-07-08",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Gabriel Attal",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA722190",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Hauts-de-Seine, 10e circonscription) — 16e législature",
+        "debut": "2022-06-22",
+        "fin": "2022-07-22",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Gabriel Attal",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA722190",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Hauts-de-Seine, 10e circonscription) — 15e législature",
+        "debut": "2017-06-21",
+        "fin": "2018-11-16",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Gabriel Attal",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA722190",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "villepin": [],
+    "le-maire": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Eure, 1re circonscription) — 15e législature",
+        "debut": "2017-06-21",
+        "fin": "2017-07-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Bruno Le Maire",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA331481",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Eure, 1re circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2017-06-17",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Bruno Le Maire",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA331481",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Eure, 1re circonscription) — 13e législature",
+        "debut": "2012-06-17",
+        "fin": "2012-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Bruno Le Maire",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA331481",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Eure, 1re circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2009-01-13",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Bruno Le Maire",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA331481",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "darmanin": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Nord, 10e circonscription) — 17e législature",
+        "debut": "2024-07-08",
+        "fin": "2025-01-23",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Gérald Darmanin",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA607846",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Nord, 10e circonscription) — 16e législature",
+        "debut": "2022-06-22",
+        "fin": "2022-07-22",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Gérald Darmanin",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA607846",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Nord, 10e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2016-01-27",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Gérald Darmanin",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA607846",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "bayrou": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Pyrénées-Atlantiques, 2e circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2012-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de François Bayrou",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA410",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Pyrénées-Atlantiques, 2e circonscription) — 12e législature",
+        "debut": "2002-06-19",
+        "fin": "2007-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de François Bayrou",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA410",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député — 11e législature",
+        "debut": "1997-06-01",
+        "fin": "1999-12-21",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de François Bayrou",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA410/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député — 10e législature",
+        "debut": "1993-04-02",
+        "fin": "1993-05-01",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de François Bayrou",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA410/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député — 9e législature",
+        "debut": "1988-06-13",
+        "fin": "1993-04-01",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de François Bayrou",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA410/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député — 8e législature",
+        "debut": "1986-04-02",
+        "fin": "1988-05-14",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de François Bayrou",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA410/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "retailleau": [],
+    "lisnard": [],
+    "bertrand": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Aisne, 2e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2016-01-12",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Xavier Bertrand",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267080",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Aisne, 2e circonscription) — 13e législature",
+        "debut": "2012-06-17",
+        "fin": "2012-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Xavier Bertrand",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267080",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Aisne, 2e circonscription) — 13e législature",
+        "debut": "2009-02-15",
+        "fin": "2010-12-15",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Xavier Bertrand",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267080",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Aisne, 2e circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2007-07-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Xavier Bertrand",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267080",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député — 12e législature",
+        "debut": "2002-06-19",
+        "fin": "2004-04-30",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de Xavier Bertrand",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267080/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "wauquiez": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Haute-Loire, 1re circonscription) — 17e législature",
+        "debut": "2024-07-08",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Laurent Wauquiez",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267285",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Haute-Loire, 1re circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2017-06-20",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Laurent Wauquiez",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267285",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Haute-Loire, 1re circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2007-07-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Laurent Wauquiez",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267285",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Haute-Loire, 1re circonscription) — 12e législature",
+        "debut": "2004-07-05",
+        "fin": "2007-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Laurent Wauquiez",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267285",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "barnier": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Paris, 2e circonscription) — 17e législature",
+        "debut": "2025-09-29",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Michel Barnier",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA368",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député — 10e législature",
+        "debut": "1993-04-02",
+        "fin": "1993-05-01",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de Michel Barnier",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA368/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député — 9e législature",
+        "debut": "1988-06-06",
+        "fin": "1993-04-01",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de Michel Barnier",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA368/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député — 8e législature",
+        "debut": "1986-04-02",
+        "fin": "1988-05-14",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de Michel Barnier",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA368/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député — 7e législature",
+        "debut": "1981-07-02",
+        "fin": "1986-04-01",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de Michel Barnier",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA368/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député — 6e législature",
+        "debut": "1978-04-03",
+        "fin": "1981-05-22",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de Michel Barnier",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA368/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "le-pen": [
+      {
+        "chambre": "AN",
+        "detail": "Députée (Pas-de-Calais, 11e circonscription) — 17e législature",
+        "debut": "2024-07-01",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Marine Le Pen",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA720614",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Pas-de-Calais, 11e circonscription) — 16e législature",
+        "debut": "2022-06-22",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Marine Le Pen",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA720614",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Pas-de-Calais, 11e circonscription) — 15e législature",
+        "debut": "2017-06-21",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Marine Le Pen",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA720614",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "bardella": [],
+    "zemmour": [],
+    "knafo": [],
+    "marechal": [
+      {
+        "chambre": "AN",
+        "detail": "Députée (Vaucluse, 3e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2017-06-20",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Marion Maréchal-Le Pen",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA609709",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "dupont-aignan": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 8e circonscription) — 16e législature",
+        "debut": "2022-06-22",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Nicolas Dupont-Aignan",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1206",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 8e circonscription) — 15e législature",
+        "debut": "2017-06-21",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Nicolas Dupont-Aignan",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1206",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 8e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2017-06-20",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Nicolas Dupont-Aignan",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1206",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 8e circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2012-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Nicolas Dupont-Aignan",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1206",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 8e circonscription) — 12e législature",
+        "debut": "2002-06-19",
+        "fin": "2007-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Nicolas Dupont-Aignan",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1206",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député — 11e législature",
+        "debut": "1997-06-01",
+        "fin": "2002-06-18",
+        "source": {
+          "titre": "Assemblée nationale — anciens mandats de Nicolas Dupont-Aignan",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1206/fonctions?archive=oui",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "philippot": [],
+    "asselineau": [],
+    "lassalle": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Pyrénées-Atlantiques, 4e circonscription) — 15e législature",
+        "debut": "2017-06-21",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jean Lassalle",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1838",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Pyrénées-Atlantiques, 4e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2017-06-20",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jean Lassalle",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1838",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Pyrénées-Atlantiques, 4e circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2012-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jean Lassalle",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1838",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Pyrénées-Atlantiques, 4e circonscription) — 12e législature",
+        "debut": "2002-06-19",
+        "fin": "2007-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jean Lassalle",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1838",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "mlekuz": [],
+    "egger": [],
+    "mathieu": [],
+    "lalanne": [],
+    "branco": [],
+    "durif": [],
+    "mikolajczak": [],
+    "massard": [],
+    "lucas-lundy": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Yvelines, 8e circonscription) — 17e législature",
+        "debut": "2024-07-08",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Benjamin Lucas-Lundy",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA795636",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Yvelines, 8e circonscription) — 16e législature",
+        "debut": "2022-06-22",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Benjamin Lucas-Lundy",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA795636",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "brun": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Eure, 4e circonscription) — 17e législature",
+        "debut": "2024-07-08",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Philippe Brun",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA793624",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Eure, 4e circonscription) — 16e législature",
+        "debut": "2022-06-22",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Philippe Brun",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA793624",
+          "date": "2026-09-23"
+        }
+      }
+    ]
+  },
+  "scrutins": [
+    {
+      "id": "an-16-3966",
+      "chambre": "AN",
+      "date": "2024-05-28",
+      "titre": "L'ensemble du projet de loi d'orientation pour la souveraineté alimentaire et agricole et le renouvellement des générations en agriculture (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3966",
+      "questions": [],
+      "votes": {
+        "autain": "contre",
+        "batho": "contre",
+        "brun": "contre",
+        "dupont-aignan": "contre",
+        "faure": "contre",
+        "guedj": "contre",
+        "le-pen": "contre",
+        "lucas-lundy": "contre",
+        "roussel": "abstention",
+        "ruffin": "contre",
+        "vallaud": "contre"
+      }
+    },
+    {
+      "id": "an-16-3461",
+      "chambre": "AN",
+      "date": "2024-03-12",
+      "titre": "La déclaration du Gouvernement relative au débat sur l'accord de sécurité franco-ukrainien et la situation en Ukraine (application de l'article 50-1 de la Constitution).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3461",
+      "questions": [
+        "q17"
+      ],
+      "votes": {
+        "autain": "contre",
+        "batho": "pour",
+        "brun": "pour",
+        "dupont-aignan": "contre",
+        "faure": "pour",
+        "guedj": "pour",
+        "le-pen": "abstention",
+        "lucas-lundy": "pour",
+        "roussel": "contre",
+        "ruffin": "contre",
+        "vallaud": "pour"
+      }
+    },
+    {
+      "id": "an-16-3289",
+      "chambre": "AN",
+      "date": "2024-01-30",
+      "titre": "L’ensemble du projet de loi constitutionnelle relatif à la liberté de recourir à l’interruption volontaire de grossesse (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3289",
+      "questions": [],
+      "votes": {
+        "autain": "pour",
+        "batho": "pour",
+        "brun": "pour",
+        "dupont-aignan": "abstention",
+        "faure": "pour",
+        "guedj": "pour",
+        "le-pen": "pour",
+        "lucas-lundy": "pour",
+        "roussel": "pour",
+        "ruffin": "pour",
+        "vallaud": "pour"
+      }
+    },
+    {
+      "id": "an-16-3213",
+      "chambre": "AN",
+      "date": "2023-12-19",
+      "titre": "L'ensemble du projet de loi pour contrôler l'immigration, améliorer l'intégration (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3213",
+      "questions": [],
+      "votes": {
+        "autain": "contre",
+        "batho": "contre",
+        "brun": "contre",
+        "dupont-aignan": "abstention",
+        "faure": "contre",
+        "guedj": "contre",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "roussel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre"
+      }
+    },
+    {
+      "id": "an-16-1778",
+      "chambre": "AN",
+      "date": "2023-06-07",
+      "titre": "L’ensemble du projet de loi relatif à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1778",
+      "questions": [],
+      "votes": {
+        "autain": "absent",
+        "batho": "abstention",
+        "brun": "abstention",
+        "dupont-aignan": "pour",
+        "faure": "abstention",
+        "guedj": "abstention",
+        "le-pen": "pour",
+        "lucas-lundy": "abstention",
+        "roussel": "contre",
+        "ruffin": "contre",
+        "vallaud": "abstention"
+      }
+    },
+    {
+      "id": "an-16-1533",
+      "chambre": "AN",
+      "date": "2023-05-16",
+      "titre": "L'ensemble du projet de loi relatif à l'accélération des procédures liées à la construction de nouvelles installations nucléaires à proximité de sites nucléaires existants et au fonctionnement des installations existantes (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1533",
+      "questions": [
+        "q11"
+      ],
+      "votes": {
+        "autain": "contre",
+        "batho": "contre",
+        "brun": "abstention",
+        "dupont-aignan": "pour",
+        "faure": "abstention",
+        "guedj": "abstention",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "roussel": "pour",
+        "ruffin": "contre",
+        "vallaud": "abstention"
+      }
+    },
+    {
+      "id": "an-16-1241",
+      "chambre": "AN",
+      "date": "2023-03-20",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par Mme Marine Le Pen et 87 membres de l'Assemblée.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1241",
+      "questions": [
+        "q05"
+      ],
+      "votes": {
+        "autain": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "dupont-aignan": "pour",
+        "faure": "absent",
+        "guedj": "absent",
+        "le-pen": "pour",
+        "lucas-lundy": "absent",
+        "roussel": "absent",
+        "ruffin": "absent",
+        "vallaud": "absent"
+      }
+    },
+    {
+      "id": "an-16-1240",
+      "chambre": "AN",
+      "date": "2023-03-20",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par M. Bertrand Pancher et 90 membres de l'Assemblée.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1240",
+      "questions": [
+        "q05"
+      ],
+      "votes": {
+        "autain": "pour",
+        "batho": "pour",
+        "brun": "pour",
+        "dupont-aignan": "pour",
+        "faure": "pour",
+        "guedj": "pour",
+        "le-pen": "pour",
+        "lucas-lundy": "pour",
+        "roussel": "pour",
+        "ruffin": "pour",
+        "vallaud": "pour"
+      }
+    },
+    {
+      "id": "an-16-1108",
+      "chambre": "AN",
+      "date": "2023-03-02",
+      "titre": "L'ensemble de la proposition de loi visant à instaurer une majorité numérique et à lutter contre la haine en ligne (première lecture).",
+      "type": "ordinaire",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1108",
+      "questions": [
+        "q33"
+      ],
+      "votes": {
+        "autain": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "dupont-aignan": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "le-pen": "absent",
+        "lucas-lundy": "absent",
+        "roussel": "absent",
+        "ruffin": "absent",
+        "vallaud": "absent"
+      }
+    },
+    {
+      "id": "an-16-823",
+      "chambre": "AN",
+      "date": "2023-01-10",
+      "titre": "L'ensemble du projet de loi relatif à l'accélération de la production d'énergies renouvelables (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/823",
+      "questions": [],
+      "votes": {
+        "autain": "absent",
+        "batho": "abstention",
+        "brun": "pour",
+        "dupont-aignan": "contre",
+        "faure": "pour",
+        "guedj": "pour",
+        "le-pen": "contre",
+        "lucas-lundy": "abstention",
+        "roussel": "absent",
+        "ruffin": "contre",
+        "vallaud": "pour"
+      }
+    },
+    {
+      "id": "an-16-652",
+      "chambre": "AN",
+      "date": "2022-11-30",
+      "titre": "La proposition de résolution affirmant le soutien de l'Assemblée nationale à l'Ukraine et condamnant la guerre menée par la Fédération de Russie (art. 34-1 de la Constitution).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/652",
+      "questions": [
+        "q17"
+      ],
+      "votes": {
+        "autain": "abstention",
+        "batho": "absent",
+        "brun": "pour",
+        "dupont-aignan": "absent",
+        "faure": "pour",
+        "guedj": "pour",
+        "le-pen": "abstention",
+        "lucas-lundy": "pour",
+        "roussel": "pour",
+        "ruffin": "absent",
+        "vallaud": "pour"
+      }
+    },
+    {
+      "id": "an-15-4414",
+      "chambre": "AN",
+      "date": "2022-02-23",
+      "titre": "L'ensemble de la proposition de loi visant à renforcer le droit à l'avortement (lecture définitive).",
+      "type": "ordinaire",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4414",
+      "questions": [],
+      "votes": {
+        "autain": "pour",
+        "batho": "pour",
+        "dupont-aignan": "contre",
+        "faure": "absent",
+        "lassalle": "absent",
+        "le-pen": "absent",
+        "melenchon": "absent",
+        "roussel": "absent",
+        "ruffin": "absent",
+        "vallaud": "pour"
+      }
+    },
+    {
+      "id": "an-15-3943",
+      "chambre": "AN",
+      "date": "2021-07-22",
+      "titre": "L'ensemble du projet de loi relatif à la gestion de la crise sanitaire (première lecture).",
+      "type": "ordinaire",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3943",
+      "questions": [],
+      "votes": {
+        "autain": "absent",
+        "batho": "abstention",
+        "dupont-aignan": "contre",
+        "faure": "absent",
+        "lassalle": "contre",
+        "le-pen": "contre",
+        "melenchon": "contre",
+        "roussel": "absent",
+        "ruffin": "contre",
+        "vallaud": "absent"
+      }
+    },
+    {
+      "id": "an-15-3738",
+      "chambre": "AN",
+      "date": "2021-05-04",
+      "titre": "L'ensemble du projet de loi portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3738",
+      "questions": [],
+      "votes": {
+        "autain": "contre",
+        "batho": "contre",
+        "dupont-aignan": "abstention",
+        "faure": "contre",
+        "lassalle": "absent",
+        "le-pen": "abstention",
+        "melenchon": "contre",
+        "roussel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre"
+      }
+    },
+    {
+      "id": "an-15-3421",
+      "chambre": "AN",
+      "date": "2021-02-16",
+      "titre": "L'ensemble du projet de loi confortant le respect des principes de la République (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3421",
+      "questions": [],
+      "votes": {
+        "autain": "contre",
+        "batho": "abstention",
+        "dupont-aignan": "contre",
+        "faure": "abstention",
+        "lassalle": "contre",
+        "le-pen": "abstention",
+        "melenchon": "contre",
+        "roussel": "abstention",
+        "ruffin": "contre",
+        "vallaud": "abstention"
+      }
+    },
+    {
+      "id": "an-15-3254",
+      "chambre": "AN",
+      "date": "2020-11-24",
+      "titre": "L'ensemble de la proposition de loi relative à la sécurité globale (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3254",
+      "questions": [],
+      "votes": {
+        "autain": "contre",
+        "batho": "contre",
+        "dupont-aignan": "abstention",
+        "faure": "contre",
+        "lassalle": "contre",
+        "le-pen": "pour",
+        "melenchon": "contre",
+        "roussel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre"
+      }
+    },
+    {
+      "id": "an-15-2706",
+      "chambre": "AN",
+      "date": "2020-03-03",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par M. Damien Abad et 80 membres de l'Assemblée.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2706",
+      "questions": [],
+      "votes": {
+        "autain": "pour",
+        "batho": "pour",
+        "dupont-aignan": "pour",
+        "faure": "absent",
+        "lassalle": "pour",
+        "le-pen": "absent",
+        "melenchon": "pour",
+        "roussel": "absent",
+        "ruffin": "pour",
+        "vallaud": "absent"
+      }
+    },
+    {
+      "id": "an-15-2146",
+      "chambre": "AN",
+      "date": "2019-10-15",
+      "titre": "L'ensemble du projet de loi relatif à la bioéthique (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2146",
+      "questions": [],
+      "votes": {
+        "autain": "pour",
+        "batho": "pour",
+        "dupont-aignan": "contre",
+        "faure": "pour",
+        "lassalle": "contre",
+        "le-pen": "contre",
+        "melenchon": "pour",
+        "roussel": "pour",
+        "ruffin": "absent",
+        "vallaud": "pour"
+      }
+    },
+    {
+      "id": "an-15-2065",
+      "chambre": "AN",
+      "date": "2019-09-11",
+      "titre": "L'ensemble du projet de loi relatif à l'énergie et au climat (texte de la commission mixte paritaire).",
+      "type": "ordinaire",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2065",
+      "questions": [],
+      "votes": {
+        "autain": "absent",
+        "batho": "absent",
+        "dupont-aignan": "absent",
+        "faure": "absent",
+        "lassalle": "absent",
+        "le-pen": "absent",
+        "melenchon": "absent",
+        "roussel": "absent",
+        "ruffin": "contre",
+        "vallaud": "abstention"
+      }
+    },
+    {
+      "id": "an-15-2059",
+      "chambre": "AN",
+      "date": "2019-07-23",
+      "titre": "L'ensemble du projet de loi autorisant la ratification de l'accord économique et commercial global entre l'Union européenne et ses États membres, d'une part, et le Canada, d'autre part, et de l'accord de partenariat stratégique entre l'Union européenne et ses États membres, d'une part, et le Canada, d'autre part (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2059",
+      "questions": [],
+      "votes": {
+        "autain": "contre",
+        "batho": "contre",
+        "dupont-aignan": "contre",
+        "faure": "contre",
+        "lassalle": "contre",
+        "le-pen": "contre",
+        "melenchon": "contre",
+        "roussel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre"
+      }
+    },
+    {
+      "id": "an-15-578",
+      "chambre": "AN",
+      "date": "2018-04-22",
+      "titre": "L'ensemble du projet de loi pour une immigration maîtrisée, un droit d'asile effectif et une intégration réussie (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/578",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "batho": "contre",
+        "dupont-aignan": "contre",
+        "faure": "contre",
+        "lassalle": "absent",
+        "le-pen": "contre",
+        "melenchon": "contre",
+        "roussel": "absent",
+        "ruffin": "contre",
+        "vallaud": "contre"
+      }
+    },
+    {
+      "id": "an-15-351",
+      "chambre": "AN",
+      "date": "2017-12-19",
+      "titre": "L'ensemble du projet de loi relatif à l'orientation et à la réussite des étudiants (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/351",
+      "questions": [
+        "q10"
+      ],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "batho": "contre",
+        "dupont-aignan": "abstention",
+        "faure": "contre",
+        "lassalle": "contre",
+        "le-pen": "absent",
+        "melenchon": "contre",
+        "roussel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre"
+      }
+    },
+    {
+      "id": "an-15-49",
+      "chambre": "AN",
+      "date": "2017-07-13",
+      "titre": "L'ensemble du projet de loi d'habilitation à prendre par ordonnances les mesures pour le renforcement du dialogue social (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/49",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "batho": "contre",
+        "dupont-aignan": "absent",
+        "faure": "contre",
+        "lassalle": "absent",
+        "le-maire": "absent",
+        "le-pen": "contre",
+        "melenchon": "contre",
+        "roussel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre"
+      }
+    },
+    {
+      "id": "an-15-1",
+      "chambre": "AN",
+      "date": "2017-07-04",
+      "titre": "La declaration de politique generale du Gouvernement de M. Edouard Philippe (application de l'article 49, alinea premier, de la Constitution).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "batho": "abstention",
+        "dupont-aignan": "contre",
+        "faure": "abstention",
+        "lassalle": "abstention",
+        "le-maire": "non_votant",
+        "le-pen": "contre",
+        "melenchon": "contre",
+        "roussel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre"
+      }
+    },
+    {
+      "id": "an-14-1270",
+      "chambre": "AN",
+      "date": "2016-05-12",
+      "titre": "La motion de censure déposée par MM. Christian Jacob, Philippe Vigier et 190 membres de l'Assemblée, en application de l'article 49, alinéa 3, de la Constitution.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/14/scrutins/1270",
+      "questions": [],
+      "votes": {
+        "batho": "absent",
+        "dupont-aignan": "pour",
+        "faure": "absent",
+        "lassalle": "pour",
+        "le-maire": "pour",
+        "marechal": "pour",
+        "philippe": "pour",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-14-1237",
+      "chambre": "AN",
+      "date": "2016-02-10",
+      "titre": "L'ensemble du projet de loi constitutionnelle de protection de la Nation (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/14/scrutins/1237",
+      "questions": [],
+      "votes": {
+        "batho": "abstention",
+        "dupont-aignan": "pour",
+        "faure": "abstention",
+        "lassalle": "contre",
+        "le-maire": "pour",
+        "marechal": "contre",
+        "philippe": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-14-1109",
+      "chambre": "AN",
+      "date": "2015-05-05",
+      "titre": "L'ensemble du projet de loi relatif au renseignement (première lecture)",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/14/scrutins/1109",
+      "questions": [],
+      "votes": {
+        "batho": "pour",
+        "bertrand": "pour",
+        "darmanin": "pour",
+        "dupont-aignan": "contre",
+        "faure": "pour",
+        "lassalle": "contre",
+        "le-maire": "pour",
+        "marechal": "contre",
+        "philippe": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-14-1106",
+      "chambre": "AN",
+      "date": "2015-04-14",
+      "titre": "L'ensemble du projet de loi de modernisation de notre système de santé (première lecture)",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/14/scrutins/1106",
+      "questions": [],
+      "votes": {
+        "batho": "pour",
+        "bertrand": "contre",
+        "darmanin": "contre",
+        "dupont-aignan": "contre",
+        "faure": "pour",
+        "lassalle": "contre",
+        "le-maire": "contre",
+        "marechal": "contre",
+        "philippe": "contre",
+        "wauquiez": "contre"
+      }
+    },
+    {
+      "id": "an-14-1070",
+      "chambre": "AN",
+      "date": "2015-03-17",
+      "titre": "L'ensemble de la proposition de loi créant de nouveaux droits en faveur des malades et des personnes en fin de vie (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/14/scrutins/1070",
+      "questions": [],
+      "votes": {
+        "batho": "pour",
+        "bertrand": "pour",
+        "darmanin": "contre",
+        "dupont-aignan": "absent",
+        "faure": "pour",
+        "lassalle": "pour",
+        "le-maire": "pour",
+        "marechal": "absent",
+        "philippe": "pour",
+        "wauquiez": "abstention"
+      }
+    },
+    {
+      "id": "an-14-1044",
+      "chambre": "AN",
+      "date": "2015-02-19",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par M. Christian Jacob, M. Philippe Vigier et 109 membres de l'Assemblée.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/14/scrutins/1044",
+      "questions": [],
+      "votes": {
+        "batho": "absent",
+        "bertrand": "pour",
+        "darmanin": "pour",
+        "dupont-aignan": "pour",
+        "faure": "absent",
+        "lassalle": "pour",
+        "le-maire": "pour",
+        "marechal": "pour",
+        "philippe": "pour",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-14-994",
+      "chambre": "AN",
+      "date": "2014-12-16",
+      "titre": "L'ensemble du projet de loi relatif à la réforme de l'asile (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/14/scrutins/994",
+      "questions": [],
+      "votes": {
+        "batho": "pour",
+        "bertrand": "contre",
+        "darmanin": "contre",
+        "dupont-aignan": "contre",
+        "faure": "pour",
+        "lassalle": "pour",
+        "le-maire": "contre",
+        "marechal": "contre",
+        "philippe": "contre",
+        "wauquiez": "contre"
+      }
+    },
+    {
+      "id": "an-14-914",
+      "chambre": "AN",
+      "date": "2014-10-14",
+      "titre": "L'ensemble du projet de loi relatif à la transition énergétique pour la croissance verte (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/14/scrutins/914",
+      "questions": [],
+      "votes": {
+        "batho": "abstention",
+        "bertrand": "contre",
+        "darmanin": "contre",
+        "dupont-aignan": "contre",
+        "faure": "pour",
+        "lassalle": "abstention",
+        "le-maire": "contre",
+        "marechal": "abstention",
+        "philippe": "contre",
+        "wauquiez": "contre"
+      }
+    },
+    {
+      "id": "an-14-647",
+      "chambre": "AN",
+      "date": "2013-10-15",
+      "titre": "L'ensemble du projet de loi garantissant l'avenir et la justice du système de retraites.",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/14/scrutins/647",
+      "questions": [],
+      "votes": {
+        "batho": "pour",
+        "bertrand": "contre",
+        "darmanin": "contre",
+        "dupont-aignan": "contre",
+        "faure": "pour",
+        "guedj": "abstention",
+        "lassalle": "contre",
+        "le-maire": "contre",
+        "marechal": "contre",
+        "philippe": "contre",
+        "wauquiez": "contre"
+      }
+    },
+    {
+      "id": "an-14-511",
+      "chambre": "AN",
+      "date": "2013-04-23",
+      "titre": "L'ensemble du projet de loi ouvrant le mariage aux couples de personnes de même sexe (2e lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/14/scrutins/511",
+      "questions": [
+        "q25"
+      ],
+      "votes": {
+        "bertrand": "contre",
+        "darmanin": "contre",
+        "dupont-aignan": "contre",
+        "faure": "pour",
+        "guedj": "pour",
+        "lassalle": "contre",
+        "le-maire": "abstention",
+        "marechal": "contre",
+        "philippe": "abstention",
+        "wauquiez": "contre"
+      }
+    },
+    {
+      "id": "an-14-259",
+      "chambre": "AN",
+      "date": "2013-02-12",
+      "titre": "L'ensemble du projet de loi ouvrant le mariage aux couples de personnes de même sexe.",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/14/scrutins/259",
+      "questions": [
+        "q25"
+      ],
+      "votes": {
+        "bertrand": "contre",
+        "darmanin": "contre",
+        "dupont-aignan": "contre",
+        "faure": "pour",
+        "guedj": "pour",
+        "lassalle": "contre",
+        "le-maire": "abstention",
+        "marechal": "contre",
+        "philippe": "abstention",
+        "wauquiez": "contre"
+      }
+    },
+    {
+      "id": "an-14-1",
+      "chambre": "AN",
+      "date": "2012-07-03",
+      "titre": "La déclaration de politique générale du gouvernement de Jean-Marc Ayrault (application de l'article 49, alinéa premier de la Constitution).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/14/scrutins/1",
+      "questions": [],
+      "votes": {
+        "batho": "non_votant",
+        "bertrand": "contre",
+        "cazeneuve": "non_votant",
+        "darmanin": "contre",
+        "dupont-aignan": "contre",
+        "faure": "pour",
+        "lassalle": "abstention",
+        "le-maire": "contre",
+        "marechal": "contre",
+        "philippe": "contre",
+        "wauquiez": "contre"
+      }
+    },
+    {
+      "id": "an-13-786",
+      "chambre": "AN",
+      "date": "2011-07-12",
+      "titre": "La déclaration du Gouvernement sur l'intervention des forces armées en Libye pour la mise en oeuvre de la résolution 1973 du Conseil de sécurité de l'ONU",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/13/scrutins/jo0786.asp",
+      "questions": [],
+      "votes": {
+        "batho": "pour",
+        "bayrou": "pour",
+        "cazeneuve": "pour",
+        "dupont-aignan": "contre",
+        "hollande": "pour",
+        "lassalle": "pour"
+      }
+    },
+    {
+      "id": "an-13-737",
+      "chambre": "AN",
+      "date": "2011-05-31",
+      "titre": "L'ensemble du projet de loi relatif à la bioéthique (2e lecture)",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/13/scrutins/jo0737.asp",
+      "questions": [],
+      "votes": {
+        "batho": "contre",
+        "bayrou": "absent",
+        "cazeneuve": "contre",
+        "dupont-aignan": "contre",
+        "hollande": "absent",
+        "lassalle": "absent"
+      }
+    },
+    {
+      "id": "an-13-728",
+      "chambre": "AN",
+      "date": "2011-05-11",
+      "titre": "Le projet de loi relatif à l'immigration, à l'intégration et à la nationalité (texte de la commission mixte paritaire)",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/13/scrutins/jo0728.asp",
+      "questions": [],
+      "votes": {
+        "batho": "absent",
+        "bayrou": "absent",
+        "cazeneuve": "contre",
+        "dupont-aignan": "pour",
+        "hollande": "absent",
+        "lassalle": "absent"
+      }
+    },
+    {
+      "id": "an-13-646",
+      "chambre": "AN",
+      "date": "2010-10-27",
+      "titre": "L'ensemble du projet de loi portant réforme des retraites (texte de la CMP)",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/13/scrutins/jo0646.asp",
+      "questions": [
+        "q05"
+      ],
+      "votes": {
+        "batho": "contre",
+        "bayrou": "contre",
+        "bertrand": "pour",
+        "cazeneuve": "contre",
+        "dupont-aignan": "contre",
+        "hollande": "contre",
+        "lassalle": "contre"
+      }
+    },
+    {
+      "id": "an-13-601",
+      "chambre": "AN",
+      "date": "2010-09-15",
+      "titre": "L'ensemble du projet de loi portant réforme des retraites",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/13/scrutins/jo0601.asp",
+      "questions": [
+        "q05"
+      ],
+      "votes": {
+        "batho": "contre",
+        "bayrou": "contre",
+        "bertrand": "pour",
+        "cazeneuve": "contre",
+        "dupont-aignan": "contre",
+        "hollande": "contre",
+        "lassalle": "contre"
+      }
+    },
+    {
+      "id": "an-13-595",
+      "chambre": "AN",
+      "date": "2010-07-13",
+      "titre": "L'ensemble du projet de loi interdisant la dissimulation du visage dans l'espace public",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/13/scrutins/jo0595.asp",
+      "questions": [],
+      "votes": {
+        "batho": "absent",
+        "bayrou": "pour",
+        "bertrand": "pour",
+        "cazeneuve": "absent",
+        "dupont-aignan": "pour",
+        "hollande": "absent",
+        "lassalle": "absent"
+      }
+    },
+    {
+      "id": "an-13-564",
+      "chambre": "AN",
+      "date": "2010-05-11",
+      "titre": "L'ensemble du projet de loi, adopté par le Sénat après déclaration d'urgence, portant engagement national pour l'environnement (Grenelle 2)",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/13/scrutins/jo0564.asp",
+      "questions": [],
+      "votes": {
+        "batho": "contre",
+        "bayrou": "abstention",
+        "bertrand": "pour",
+        "cazeneuve": "contre",
+        "dupont-aignan": "pour",
+        "hollande": "contre",
+        "lassalle": "contre"
+      }
+    },
+    {
+      "id": "an-13-482",
+      "chambre": "AN",
+      "date": "2010-03-30",
+      "titre": "L'ensemble de la proposition de loi constitutionnelle visant à accorder le droit de vote et d'éligibilité aux élections municipales aux étrangers non ressortissants de l'Union Européenne résidant en France",
+      "type": "solennel",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/13/scrutins/jo0482.asp",
+      "questions": [
+        "q30"
+      ],
+      "votes": {
+        "batho": "pour",
+        "bayrou": "absent",
+        "bertrand": "contre",
+        "cazeneuve": "pour",
+        "dupont-aignan": "absent",
+        "hollande": "pour",
+        "lassalle": "absent"
+      }
+    },
+    {
+      "id": "an-13-397",
+      "chambre": "AN",
+      "date": "2009-06-17",
+      "titre": "L'ensemble du projet de loi, modifié par le Sénat, de programmation relatif à la mise en oeuvre du Grenelle de l'environnement",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/13/scrutins/jo0397.asp",
+      "questions": [],
+      "votes": {
+        "batho": "pour",
+        "bayrou": "pour",
+        "bertrand": "pour",
+        "cazeneuve": "pour",
+        "dupont-aignan": "pour",
+        "hollande": "pour",
+        "lassalle": "absent"
+      }
+    },
+    {
+      "id": "an-13-360",
+      "chambre": "AN",
+      "date": "2009-03-18",
+      "titre": "L'ensemble du projet de loi portant réforme de l'hôpital et relatif aux patients, à la santé et aux territoires",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/13/scrutins/jo0360.asp",
+      "questions": [],
+      "votes": {
+        "batho": "contre",
+        "bayrou": "contre",
+        "bertrand": "pour",
+        "cazeneuve": "contre",
+        "dupont-aignan": "absent",
+        "hollande": "contre",
+        "lassalle": "contre"
+      }
+    },
+    {
+      "id": "an-13-323",
+      "chambre": "AN",
+      "date": "2009-01-27",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 2, de la Constitution par MM. Ayrault, Charasse et 201 membres de l'Assemblée",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/13/scrutins/jo0323.asp",
+      "questions": [],
+      "votes": {
+        "batho": "pour",
+        "bayrou": "pour",
+        "cazeneuve": "pour",
+        "dupont-aignan": "absent",
+        "hollande": "pour",
+        "lassalle": "pour"
+      }
+    },
+    {
+      "id": "an-13-83",
+      "chambre": "AN",
+      "date": "2008-02-07",
+      "titre": "L'article unique du projet de loi autorisant la ratification du traité de Lisbonne modifiant le traité sur l'Union européenne, le traité instituant la Communauté européenne et certains actes connexes",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/13/scrutins/jo0083.asp",
+      "questions": [],
+      "votes": {
+        "batho": "abstention",
+        "bayrou": "absent",
+        "cazeneuve": "absent",
+        "dupont-aignan": "contre",
+        "hollande": "pour",
+        "lassalle": "contre",
+        "le-maire": "absent"
+      }
+    },
+    {
+      "id": "an-13-33",
+      "chambre": "AN",
+      "date": "2007-10-23",
+      "titre": "L'ensemble du projet de loi relatif à la maîtrise de l'immigration, à l'intégration et à l'asile (texte de la commission mixte paritaire)",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/13/scrutins/jo0033.asp",
+      "questions": [],
+      "votes": {
+        "batho": "contre",
+        "bayrou": "contre",
+        "cazeneuve": "contre",
+        "dupont-aignan": "abstention",
+        "hollande": "contre",
+        "lassalle": "contre",
+        "le-maire": "abstention"
+      }
+    },
+    {
+      "id": "an-12-979",
+      "chambre": "AN",
+      "date": "2006-05-17",
+      "titre": "L'ensemble du projet de loi relatif à l'immigration et à l'intégration",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/12/scrutins/jo0979.asp",
+      "questions": [],
+      "votes": {
+        "bayrou": "abstention",
+        "dupont-aignan": "pour",
+        "hollande": "contre",
+        "lassalle": "pour",
+        "royal": "absent",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-12-945",
+      "chambre": "AN",
+      "date": "2006-03-08",
+      "titre": "L'ensemble du projet de loi pour l'égalité des chances (texte de la commission mixte paritaire)",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/12/scrutins/jo0945.asp",
+      "questions": [],
+      "votes": {
+        "bayrou": "contre",
+        "dupont-aignan": "contre",
+        "hollande": "contre",
+        "lassalle": "absent",
+        "royal": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-12-803",
+      "chambre": "AN",
+      "date": "2005-07-05",
+      "titre": "La motion de censure, déposée en application de l'article 49, alinéa 2, de la Constitution, par MM. Ayrault, Hollande et 142 de leurs collègues",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/12/scrutins/jo0803.asp",
+      "questions": [],
+      "votes": {
+        "bayrou": "absent",
+        "dupont-aignan": "absent",
+        "hollande": "pour",
+        "lassalle": "absent",
+        "royal": "pour",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-12-678",
+      "chambre": "AN",
+      "date": "2004-11-30",
+      "titre": "L'ensemble de la proposition de loi relative aux droits des malades et à la fin de vie",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/12/scrutins/jo0678.asp",
+      "questions": [],
+      "votes": {
+        "bayrou": "pour",
+        "dupont-aignan": "pour",
+        "hollande": "pour",
+        "lassalle": "pour",
+        "royal": "pour",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-12-642",
+      "chambre": "AN",
+      "date": "2004-07-20",
+      "titre": "L'ensemble du projet de loi relatif à l'assurance maladie",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/12/scrutins/jo0642.asp",
+      "questions": [],
+      "votes": {
+        "bayrou": "contre",
+        "dupont-aignan": "pour",
+        "hollande": "contre",
+        "lassalle": "contre",
+        "royal": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-12-479",
+      "chambre": "AN",
+      "date": "2004-06-01",
+      "titre": "L'ensemble du projet de loi constitutionnelle relatif à la Charte de l'environnement",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/12/scrutins/jo0479.asp",
+      "questions": [],
+      "votes": {
+        "bayrou": "pour",
+        "dupont-aignan": "absent",
+        "hollande": "abstention",
+        "lassalle": "contre",
+        "royal": "abstention"
+      }
+    },
+    {
+      "id": "an-12-436",
+      "chambre": "AN",
+      "date": "2004-02-10",
+      "titre": "L'ensemble du projet de loi relatif à l'application du principe de laïcité dans les écoles, collèges et lycées publics",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/12/scrutins/jo0436.asp",
+      "questions": [],
+      "votes": {
+        "bayrou": "abstention",
+        "bertrand": "pour",
+        "dupont-aignan": "pour",
+        "hollande": "pour",
+        "lassalle": "contre",
+        "royal": "pour"
+      }
+    },
+    {
+      "id": "an-12-313",
+      "chambre": "AN",
+      "date": "2003-07-24",
+      "titre": "L'ensemble du projet de loi portant réforme des retraites (texte de la commission mixte paritaire)",
+      "type": "ordinaire",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/12/scrutins/jo0313.asp",
+      "questions": [],
+      "votes": {
+        "bayrou": "pour",
+        "bertrand": "pour",
+        "dupont-aignan": "pour",
+        "hollande": "contre",
+        "lassalle": "pour",
+        "royal": "contre"
+      }
+    },
+    {
+      "id": "an-12-310",
+      "chambre": "AN",
+      "date": "2003-07-03",
+      "titre": "L'ensemble du projet de loi portant réforme des retraites",
+      "type": "ordinaire",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/12/scrutins/jo0310.asp",
+      "questions": [],
+      "votes": {
+        "bayrou": "pour",
+        "bertrand": "pour",
+        "dupont-aignan": "pour",
+        "hollande": "contre",
+        "lassalle": "pour",
+        "royal": "absent"
+      }
+    },
+    {
+      "id": "an-12-114",
+      "chambre": "AN",
+      "date": "2003-01-28",
+      "titre": "L'ensemble du projet de loi, adopté par le Sénat après déclaration d'urgence, pour la sécurité intérieure",
+      "type": "ordinaire",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/12/scrutins/jo0114.asp",
+      "questions": [],
+      "votes": {
+        "bayrou": "pour",
+        "bertrand": "pour",
+        "dupont-aignan": "pour",
+        "hollande": "contre",
+        "lassalle": "absent",
+        "royal": "contre"
+      }
+    },
+    {
+      "id": "an-12-1",
+      "chambre": "AN",
+      "date": "2002-07-03",
+      "titre": "La déclaration de politique générale du Gouvernement de M. Jean-Pierre Raffarin (application de l'article 49, alinéa premier de la Constitution)",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/12/scrutins/jo0001.asp",
+      "questions": [],
+      "votes": {
+        "bayrou": "pour",
+        "bertrand": "pour",
+        "dupont-aignan": "pour",
+        "hollande": "contre",
+        "lassalle": "pour",
+        "royal": "contre"
+      }
+    }
+  ],
+  "a_verifier": [
+    "Périmètre : ce fichier ne couvre que l'Assemblée nationale, et uniquement les législatures XII à XVI (2002-2024). Les scrutins de la 17e législature sont dans data/votes-an.json ; le Sénat et le Parlement européen sont traités ailleurs.",
+    "Disponibilité par législature : les 14e, 15e et 16e législatures sont publiées en données ouvertes avec décompte nominatif ; les 12e et 13e ne le sont pas et n'ont été lues que dans les pages HTML « analyse du scrutin » du site archivé de l'Assemblée. Pour la 11e législature (1997-2002) et les précédentes, aucune liste nominative n'est publiée en ligne : aucun vote antérieur à juin 2002 ne figure ici.",
+    "Pages « analyse du scrutin » des 12e et 13e législatures : l'identification des votants s'y fait par prénom + nom, sans identifiant de député. Un vote n'est attribué à un candidat que si le prénom ET le nom correspondent exactement (accents et tirets normalisés) et si le candidat exerçait son mandat à la date du scrutin ; toute correspondance multiple ou hors mandat arrête le script.",
+    "Scrutins non nominatifs écartés : quand un groupe vote en bloc, les pages des 12e et 13e législatures écrivent « membres du groupe, présents ou ayant délégué leur droit de vote » sans nommer personne et ne citent que les dissidents. Ces scrutins sont rejetés par le script (contrôle nom à nom contre les décomptes annoncés) : c'est le cas, par exemple, du scrutin n° 779 du 21 juin 2011 sur la loi de bioéthique (CMP).",
+    "Type de scrutin des 12e et 13e législatures : la distinction solennel / ordinaire n'est pas publiée telle quelle. Elle est déduite de l'entête de la page (« scrutin public à la tribune », « dans les salles voisines de la salle des séances ») et des tables chronologiques (section « salles voisines », astérisque « scrutin décidé en Conférence des Présidents en application de l'article 65-1 »). Avant la session 2003-2004, les tables ne portent pas l'astérisque : les scrutins concernés sont donc rangés en « ordinaire » faute de mention contraire dans la source.",
+    "Le jeu de données ouvertes de la 14e législature s'arrête au scrutin n° 1354 du 24 novembre 2016 et celui de la 15e au scrutin n° 4417 du 24 février 2022, alors que ces législatures se sont achevées en juin 2017 et juin 2022 : les derniers mois n'y figurent pas. Aucun scrutin retenu ici n'est concerné.",
+    "Mandats : le jeu « historique des députés » (AMO30) ne remonte qu'à la 12e législature (2002) et ignore le mandat de Xavier Bertrand de 2002 à 2004. Les mandats manquants — antérieurs à 2002 et celui-là — sont repris de la fiche officielle du député sur assemblee-nationale.fr (rubrique « Anciens mandats et fonctions »), qui remonte à la 6e législature pour Michel Barnier. Ces mandats anciens n'indiquent pas la circonscription.",
+    "Les dates de mandat retenues sont les dates d'exercice effectif (prise de fonction et fin), et non les dates d'ouverture et de clôture de la législature : un député entré au Gouvernement puis revenu au Palais-Bourbon apparaît donc avec plusieurs périodes, et il n'est pas compté comme membre entre les deux.",
+    "Les « mises au point au sujet du présent scrutin » (corrections déclarées après coup par des députés) ne sont pas appliquées : le vote publié dans le décompte nominatif officiel est repris tel quel.",
+    "« absent » signifie : député en exercice à cette date mais ne figurant dans aucune des listes nominatives du scrutin. « non_votant » reprend la catégorie officielle des non-votants (présidence de séance, membres du Gouvernement, etc.).",
+    "Motions de censure : seuls les votes « pour » sont recensés, une motion n'étant adoptée que si elle réunit la majorité des membres de l'Assemblée. « absent » y signifie donc « n'a pas voté la censure » et non « était absent de l'hémicycle ».",
+    "60 scrutins retenus sur les quelque 11 000 scrutins publics de ces cinq législatures, dont une minorité seulement est nominative pour les 12e et 13e. Les critères de sélection, identiques pour tous les candidats, sont détaillés en tête de scripts/votes_an_historique.py.",
+    "Un scrutin n'est relié à une question clé que lorsqu'il porte exactement sur le même objet. Les lois de 2005 et 2016 sur la fin de vie ne sont donc pas reliées à la question sur l'aide à mourir : elles écartaient explicitement l'aide active à mourir. De même, la loi de 2010 interdisant la dissimulation du visage dans l'espace public n'est pas reliée à la question sur le port du voile.",
+    "Les intitulés reprennent l'objet officiel du scrutin tel qu'il est publié, sans retouche : quelques libellés de la 15e législature figurent sans accents dans la source (« la declaration de politique generale du Gouvernement de M. Edouard Philippe »).",
+    "La page de licence de data.assemblee-nationale.fr renvoie à la « Licence Ouverte / Open Licence » d'Etalab sans en indiquer le numéro de version. Les pages archivées des 12e et 13e législatures ne portent pas de mention de licence."
+  ]
+}

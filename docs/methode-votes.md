@@ -60,3 +60,13 @@ Valeurs de `votes` : `pour`, `contre`, `abstention`, `non_votant` (présent mais
 
 - **Fiche candidat** : bloc replié « Votes au Parlement », scrutins du plus récent au plus ancien, avec la date, l'objet, le vote et le lien officiel. Si `mandats` est vide : « Jamais élu au Parlement (Assemblée nationale, Sénat ou Parlement européen) ».
 - **Questions clés** : quand un scrutin est relié à une question, le vote est affiché à côté de la position déclarée. Si les deux diffèrent, les deux sont montrés avec leur date, sans commentaire.
+
+## Couverture des sources
+
+| Chambre | Période couverte par les scrutins retenus | Limite |
+|---|---|---|
+| Assemblée nationale | 2002 → aujourd'hui | Données ouvertes depuis octobre 2024 ; avant, pages officielles « analyse du scrutin ». Les 12e et 13e législatures n'ont pas de décompte nominatif systématique : un vote n'est attribué que s'il est nominativement publié. |
+| Sénat | Session 2006-2007 → aujourd'hui | Rien avant 2006. |
+| Parlement européen | Juillet 2019 → aujourd'hui | Le portail de données ne remonte pas plus loin : les mandats antérieurs sont listés, sans les votes. |
+
+Quand un candidat a eu un mandat mais qu'aucun scrutin retenu n'est disponible, sa fiche l'explique au lieu d'afficher une rubrique vide.

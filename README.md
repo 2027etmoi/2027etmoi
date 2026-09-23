@@ -31,7 +31,7 @@ data/votes.json              votes nominatifs au Parlement (AN, Sénat, PE), fus
 
 Méthode des données de candidature et des évaluations : [docs/methode-candidatures.md](docs/methode-candidatures.md). Recherches à reprendre : [docs/TODO-recherches.md](docs/TODO-recherches.md) et [docs/a-verifier.md](docs/a-verifier.md) (généré par `python3 scripts/a_verifier.py`).
 
-Mise à jour des votes : `python3 scripts/votes_an.py`, `scripts/votes_senat.py`, `scripts/votes_pe.py`, puis `python3 scripts/fusion_votes.py`. Méthode : [docs/methode-votes.md](docs/methode-votes.md).
+Mise à jour des votes : `python3 scripts/votes_an.py` (17e législature), `scripts/votes_an_historique.py` (12e-16e), `scripts/votes_senat.py`, `scripts/votes_pe.py`, puis `python3 scripts/fusion_votes.py` (qui fusionne tous les `data/votes-*.json`). Méthode : [docs/methode-votes.md](docs/methode-votes.md).
 
 Mise à jour des temps de parole (nouveaux mois publiés par l'Arcom) : ajouter les URL en tête de `scripts/temps_parole.py`, puis `python3 scripts/temps_parole.py`.
 

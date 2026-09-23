@@ -6,10 +6,9 @@ from pathlib import Path
 
 DATA = Path(__file__).resolve().parent.parent / "data"
 out = {"mise_a_jour": date.today().isoformat(), "sources": [], "mandats": {}, "scrutins": [], "a_verifier": []}
-for nom in ("votes-an.json", "votes-senat.json", "votes-pe.json"):
-    f = DATA / nom
-    if not f.exists():
-        continue
+for f in sorted(DATA.glob("votes-*.json")):
+    nom = f.name
+
     part = json.loads(f.read_text(encoding="utf-8"))
     out["sources"] += part.get("sources", [])
     for cid, mandats in (part.get("mandats") or {}).items():
