@@ -132,6 +132,26 @@ function paroleSection(tp, id) {
 }
 
 // Votes au Parlement : mandats et scrutins nominatifs (data/votes.json)
+// Périodes couvertes par les scrutins retenus, pour expliquer une absence de vote.
+const COUVERTURE = {
+  AN: { debut: "2024-10-08", texte: "L'Assemblée nationale ne publie ses scrutins en données ouvertes que depuis octobre 2024." },
+  SENAT: { debut: "2006-10-01", texte: "Les scrutins publics du Sénat sont en ligne depuis la session 2006-2007." },
+  PE: { debut: "2019-07-02", texte: "Le portail de données du Parlement européen ne couvre les séances que depuis juillet 2019." },
+};
+
+// Regroupe les périodes d'un même mandat (l'Assemblée les découpe en sous-périodes)
+function fusionnerMandats(mandats) {
+  const parCle = new Map();
+  for (const m of mandats) {
+    const cle = `${m.chambre}|${(m.detail || "").replace(/\s*—.*$/, "")}`;
+    const a = parCle.get(cle);
+    if (!a) { parCle.set(cle, { ...m }); continue; }
+    if ((m.debut || "") < (a.debut || "")) a.debut = m.debut;
+    a.fin = a.fin === null || m.fin === null ? null : (m.fin > a.fin ? m.fin : a.fin);
+  }
+  return [...parCle.values()].sort((x, y) => (y.debut || "").localeCompare(x.debut || ""));
+}
+
 function votesSection(v, id) {
   const mandats = v?.mandats?.[id];
   if (!v || mandats === undefined) return "";
@@ -139,16 +159,32 @@ function votesSection(v, id) {
     return fold("Votes au Parlement", `<p class="notice">Jamais élu au Parlement (Assemblée nationale, Sénat ou Parlement européen) : aucun vote à afficher.</p>`);
   }
   const miens = (v.scrutins || []).filter((sc) => sc.votes && id in sc.votes);
-  const corps = `<div class="card"><ul class="plain">${mandats.map((m) =>
-      `<li><strong>${esc(CHAMBRES[m.chambre] || m.chambre)}</strong> — ${esc(m.detail || "")} (${esc(m.debut || "?")} → ${m.fin ? esc(m.fin) : "en cours"})${sourceHtml(m.source)}</li>`).join("")}</ul></div>
+  const groupes = fusionnerMandats(mandats);
+
+  // Explication précise quand aucun vote n'est disponible malgré un mandat
+  let manque = "";
+  if (!miens.length) {
+    const raisons = [...new Set(groupes.map((m) => m.chambre))].map((ch) => {
+      const c = COUVERTURE[ch];
+      const dernier = groupes.filter((m) => m.chambre === ch).map((m) => m.fin).sort().pop();
+      return c && dernier && dernier < c.debut
+        ? `${esc(CHAMBRES[ch])} : mandat achevé le ${esc(formatDate(dernier))}. ${esc(c.texte)}`
+        : `${esc(CHAMBRES[ch])} : aucun des scrutins retenus n'a eu lieu pendant ce mandat.`;
+    });
+    manque = `<div class="card"><p class="notice"><strong>Aucun vote disponible pour l'instant.</strong></p>
+      <ul class="plain">${raisons.map((r) => `<li>${r}</li>`).join("")}</ul>
+      <p class="notice">Les scrutins plus anciens sont en cours d'intégration.</p></div>`;
+  }
+
+  const corps = `<div class="card"><h3 class="sr-h">Mandats</h3><ul class="plain">${groupes.map((m) =>
+      `<li><strong>${esc(CHAMBRES[m.chambre] || m.chambre)}</strong> — ${esc(m.detail || "")} (${esc(formatDate(m.debut) || "?")} → ${m.fin ? esc(formatDate(m.fin)) : "en cours"})${sourceHtml(m.source)}</li>`).join("")}</ul></div>
+    ${manque}
     ${miens.length ? `<ul class="measures">${miens.map((sc) => `<li>${voteTag(sc.votes[id], sc.type)}
         <strong>${esc(formatDate(sc.date))}</strong> · ${esc(CHAMBRES[sc.chambre] || sc.chambre)} — ${esc(sc.titre)}
         ${sc.resultat ? `<span class="poll-n">Texte ${esc(sc.resultat)}</span>` : ""}
-        ${(sc.questions || []).length ? `<span class="poll-n">En lien avec : ${sc.questions.map((q) => esc(q)).join(", ")}</span>` : ""}
-        <span class="source">${extLink(sc.url, "Scrutin officiel")}</span></li>`).join("")}</ul>`
-      : `<p class="notice">Aucun des scrutins retenus n'a eu lieu pendant ses mandats.</p>`}
+        <span class="source">${extLink(sc.url, "Scrutin officiel")}</span></li>`).join("")}</ul>` : ""}
     <p class="notice">Seuls les votes nominatifs sont repris, sur une sélection de scrutins identique pour tous les candidats (scrutins solennels, motions de censure, textes marquants, sujets de nos questions clés). Ni score d'orientation, ni taux de participation : <a href="https://github.com/2027etmoi/2027etmoi/blob/main/docs/methode-votes.md" target="_blank" rel="noopener">méthode</a>.</p>`;
-  return fold("Votes au Parlement", corps, { count: miens.length });
+  return fold("Votes au Parlement", corps, miens.length ? { count: miens.length } : {});
 }
 
 // Ouvre le bloc visé par une ancre (#t-retraites…) et ses parents

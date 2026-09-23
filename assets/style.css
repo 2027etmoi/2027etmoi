@@ -652,3 +652,4 @@ button.cta { border: 0; font: inherit; font-weight: 600; cursor: pointer; }
 .etapes-parcours li.actif { background: var(--pastel-blue); color: var(--text); font-weight: 600; }
 .qpos .dot { display: inline-block; vertical-align: 1px; }
 [id="t-societe"], .th-societe { --tint: var(--pastel-lavender); }
+.sr-h { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
