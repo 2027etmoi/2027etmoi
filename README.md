@@ -25,9 +25,13 @@ data/sondages.json           sondages bruts ; la moyenne est calculée par le si
 data/candidatures.json       déclaration, désignation, présidentielles passées, chiffrage
 data/evaluations.json        évaluations multi-candidats d'institutions, avec leur orientation
 data/temps-parole.json       temps de parole TV/radio par mois (Arcom), produit par scripts/temps_parole.py
+data/questions.json          questions clés et positions sourcées des candidats
+data/votes.json              votes nominatifs au Parlement (AN, Sénat, PE), fusion de votes-an/senat/pe.json
 ```
 
 Méthode des données de candidature et des évaluations : [docs/methode-candidatures.md](docs/methode-candidatures.md). Recherches à reprendre : [docs/TODO-recherches.md](docs/TODO-recherches.md) et [docs/a-verifier.md](docs/a-verifier.md) (généré par `python3 scripts/a_verifier.py`).
+
+Mise à jour des votes : `python3 scripts/votes_an.py`, `scripts/votes_senat.py`, `scripts/votes_pe.py`, puis `python3 scripts/fusion_votes.py`. Méthode : [docs/methode-votes.md](docs/methode-votes.md).
 
 Mise à jour des temps de parole (nouveaux mois publiés par l'Arcom) : ajouter les URL en tête de `scripts/temps_parole.py`, puis `python3 scripts/temps_parole.py`.
 

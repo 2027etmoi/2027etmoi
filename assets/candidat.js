@@ -131,6 +131,26 @@ function paroleSection(tp, id) {
     { count: mois.length });
 }
 
+// Votes au Parlement : mandats et scrutins nominatifs (data/votes.json)
+function votesSection(v, id) {
+  const mandats = v?.mandats?.[id];
+  if (!v || mandats === undefined) return "";
+  if (!mandats.length) {
+    return fold("Votes au Parlement", `<p class="notice">Jamais élu au Parlement (Assemblée nationale, Sénat ou Parlement européen) : aucun vote à afficher.</p>`);
+  }
+  const miens = (v.scrutins || []).filter((sc) => sc.votes && id in sc.votes);
+  const corps = `<div class="card"><ul class="plain">${mandats.map((m) =>
+      `<li><strong>${esc(CHAMBRES[m.chambre] || m.chambre)}</strong> — ${esc(m.detail || "")} (${esc(m.debut || "?")} → ${m.fin ? esc(m.fin) : "en cours"})${sourceHtml(m.source)}</li>`).join("")}</ul></div>
+    ${miens.length ? `<ul class="measures">${miens.map((sc) => `<li>${voteTag(sc.votes[id], sc.type)}
+        <strong>${esc(formatDate(sc.date))}</strong> · ${esc(CHAMBRES[sc.chambre] || sc.chambre)} — ${esc(sc.titre)}
+        ${sc.resultat ? `<span class="poll-n">Texte ${esc(sc.resultat)}</span>` : ""}
+        ${(sc.questions || []).length ? `<span class="poll-n">En lien avec : ${sc.questions.map((q) => esc(q)).join(", ")}</span>` : ""}
+        <span class="source">${extLink(sc.url, "Scrutin officiel")}</span></li>`).join("")}</ul>`
+      : `<p class="notice">Aucun des scrutins retenus n'a eu lieu pendant ses mandats.</p>`}
+    <p class="notice">Seuls les votes nominatifs sont repris, sur une sélection de scrutins identique pour tous les candidats (scrutins solennels, motions de censure, textes marquants, sujets de nos questions clés). Ni score d'orientation, ni taux de participation : <a href="https://github.com/2027etmoi/2027etmoi/blob/main/docs/methode-votes.md" target="_blank" rel="noopener">méthode</a>.</p>`;
+  return fold("Votes au Parlement", corps, { count: miens.length });
+}
+
 // Ouvre le bloc visé par une ancre (#t-retraites…) et ses parents
 function openTarget(hash) {
   const el = hash && document.getElementById(decodeURIComponent(hash.slice(1)));
@@ -157,7 +177,7 @@ async function init() {
   }
 
   if (!location.pathname.startsWith("/candidats/")) document.title = `${c.nom} — 2027 et moi`;
-  const [p, b, sondages, tp] = await Promise.all([loadProgramme(c.id), loadBiographie(c.id), loadSondages(), loadTempsParole()]);
+  const [p, b, sondages, tp, votes] = await Promise.all([loadProgramme(c.id), loadBiographie(c.id), loadSondages(), loadTempsParole(), loadVotes()]);
   const m = computeMoyennes(sondages)[c.id];
 
   const head = `<header class="site-header cand-header" style="padding-top:16px">
@@ -177,7 +197,7 @@ async function init() {
     </header>`;
 
   $("loading").remove();
-  main.insertAdjacentHTML("beforeend", head + programmeSections(c, p) + paroleSection(tp, c.id) + bioSections(b, p));
+  main.insertAdjacentHTML("beforeend", head + programmeSections(c, p) + votesSection(votes, c.id) + paroleSection(tp, c.id) + bioSections(b, p));
 
   main.addEventListener("click", (e) => {
     const btn = e.target.closest("[data-toggle-all]");

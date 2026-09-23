@@ -222,6 +222,42 @@ if qf:
                 err(w, "résumé vide")
             check_source(w, x.get("source"), allow_wikipedia=False)
 
+# --- votes au Parlement
+VOTES_OK = {"pour", "contre", "abstention", "non_votant", "absent"}
+CHAMBRES = {"AN", "SENAT", "PE"}
+vt = load(DATA / "votes.json") if (DATA / "votes.json").exists() else None
+if vt:
+    qids_v = {x["id"] for x in (qf or {}).get("questions", [])}
+    for cid, mandats in (vt.get("mandats") or {}).items():
+        if cid not in ids:
+            err(f"votes/mandats/{cid}", "id absent de candidats.json")
+        for m in mandats:
+            if m.get("chambre") not in CHAMBRES:
+                err(f"votes/mandats/{cid}", f"chambre inconnue {m.get('chambre')!r}")
+            check_source(f"votes/mandats/{cid}", m.get("source"))
+    vus = set()
+    for sc in vt.get("scrutins", []):
+        w = f"votes/{sc.get('id')}"
+        if sc.get("id") in vus:
+            err(w, "identifiant de scrutin dupliqué")
+        vus.add(sc.get("id"))
+        if sc.get("chambre") not in CHAMBRES:
+            err(w, f"chambre inconnue {sc.get('chambre')!r}")
+        if not DATE_RE.match(str(sc.get("date", ""))):
+            err(w, f"date invalide {sc.get('date')!r}")
+        if not str(sc.get("url", "")).startswith("http"):
+            err(w, "URL du scrutin manquante")
+        if not sc.get("titre"):
+            err(w, "intitulé manquant")
+        for qid in sc.get("questions") or []:
+            if qids_v and qid not in qids_v:
+                err(w, f"question inconnue {qid}")
+        for cid, v in (sc.get("votes") or {}).items():
+            if cid not in ids:
+                err(w, f"id inconnu dans les votes : {cid}")
+            if v not in VOTES_OK:
+                err(w, f"vote invalide pour {cid} : {v!r}")
+
 # --- couverture
 manque_prog = sorted(en_lice - set(progs))
 manque_bio = sorted(en_lice - set(bios))

@@ -1,6 +1,6 @@
 # Points à vérifier (généré)
 
-Généré le 2026-09-22 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 535 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
+Généré le 2026-09-23 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 535 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
 
 ## Biographies et affaires judiciaires
 

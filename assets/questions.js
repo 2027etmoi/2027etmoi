@@ -7,7 +7,7 @@ const Q_POSITIONS = { pour: 2, plutot_pour: 1, nuance: 0, plutot_contre: -1, con
 const Q_LIBELLES = { pour: "Pour", plutot_pour: "Plutôt pour", nuance: "Nuancé", plutot_contre: "Plutôt contre", contre: "Contre" };
 const Q_MIN = 5; // nombre minimal de questions comparables pour afficher un pourcentage
 
-const qs = { data: null, cands: {}, rep: {}, imp: {} };
+const qs = { data: null, cands: {}, rep: {}, imp: {}, votes: null };
 const qapp = () => $("qapp");
 
 function qLimites() {
@@ -104,10 +104,16 @@ function qRenderResultats() {
         const u = qs.rep[q.id];
         const bloc = (label, list) => list.length ? `<div class="qpos"><strong>${label}</strong><ul class="measures">${list.map((x) =>
           `<li><strong>${esc(qs.cands[x.id]?.nom || x.id)}</strong> <span class="answer-tag ${Q_POSITIONS[x.p.position] > 0 ? "oui" : Q_POSITIONS[x.p.position] < 0 ? "non" : "none"}">${esc(Q_LIBELLES[x.p.position])}</span> ${esc(x.p.resume)}${sourceHtml(x.p.source)}</li>`).join("")}</ul></div>` : "";
+        const scrutins = (qs.votes?.scrutins || []).filter((sc) => (sc.questions || []).includes(q.id));
+        const votesHtml = scrutins.length ? `<div class="qpos"><strong>Votes au Parlement sur ce sujet</strong>${scrutins.map((sc) =>
+          `<p class="notice">${esc(formatDate(sc.date))} · ${esc(CHAMBRES[sc.chambre] || sc.chambre)} — ${esc(sc.titre)} ${extLink(sc.url, "scrutin officiel")}</p>
+           <ul class="measures">${Object.entries(sc.votes || {}).filter(([id]) => qs.cands[id]).map(([id, v]) =>
+             `<li>${voteTag(v, sc.type)} <strong>${esc(qs.cands[id].nom)}</strong></li>`).join("")}</ul>`).join("")}</div>` : "";
         return `<details class="card theme-block th-${q.theme}" id="q-${q.id}">
           <summary><h3>${i + 1}. ${esc(q.texte)}</h3><span class="fold-count">${positions.length}</span></summary>
           <p class="notice">Votre réponse : <strong>${u === undefined ? "pas de réponse" : Q_REPONSES[u]}</strong>${qs.imp[q.id] ? " · importante" : ""}</p>
           ${bloc("Pour", groupe(["pour", "plutot_pour"]))}${bloc("Nuancé", groupe(["nuance"]))}${bloc("Contre", groupe(["contre", "plutot_contre"]))}
+          ${votesHtml}
           ${positions.length ? "" : `<p class="props-empty">Aucune position sourcée pour l'instant.</p>`}
           <p class="notice">Position non connue : ${ids.filter((id) => !qs.data.positions[id]?.[q.id]).length} candidat(s).</p>
         </details>`;
@@ -132,7 +138,8 @@ function qRenderResultats() {
 }
 
 (async () => {
-  const [d, cands] = await Promise.all([loadOptional("/data/questions.json"), loadCandidats()]);
+  const [d, cands, votes] = await Promise.all([loadOptional("/data/questions.json"), loadCandidats(), loadVotes()]);
+  qs.votes = votes;
   qs.data = d;
   qs.cands = Object.fromEntries((cands.candidats || []).filter((c) => EN_LICE.includes(c.statut)).map((c) => [c.id, c]));
   const nbPos = Object.values(d?.positions || {}).reduce((n, p) => n + Object.keys(p).length, 0);

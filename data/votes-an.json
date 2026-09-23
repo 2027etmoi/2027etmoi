@@ -1,0 +1,2473 @@
+{
+  "mise_a_jour": "2026-09-23",
+  "sources": [
+    {
+      "titre": "Assemblée nationale — données ouvertes, scrutins de la 17e législature",
+      "url": "https://data.assemblee-nationale.fr/travaux-parlementaires/votes",
+      "licence": "Licence Ouverte / Open Licence (Etalab)"
+    },
+    {
+      "titre": "Assemblée nationale — données ouvertes, historique des députés (acteurs, mandats, organes)",
+      "url": "https://data.assemblee-nationale.fr/acteurs/historique-des-deputes",
+      "licence": "Licence Ouverte / Open Licence (Etalab)"
+    }
+  ],
+  "mandats": {
+    "melenchon": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Bouches-du-Rhône, 4e circonscription) — 15e législature",
+        "debut": "2017-06-18",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jean-Luc Mélenchon",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA2150",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "faure": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Seine-et-Marne, 11e circonscription) — 17e législature",
+        "debut": "2024-06-30",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Olivier Faure",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA609332",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Seine-et-Marne, 11e circonscription) — 16e législature",
+        "debut": "2022-06-19",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Olivier Faure",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA609332",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Seine-et-Marne, 11e circonscription) — 15e législature",
+        "debut": "2017-06-18",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Olivier Faure",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA609332",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Seine-et-Marne, 11e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2017-06-20",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Olivier Faure",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA609332",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "glucksmann": [],
+    "guedj": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 6e circonscription) — 17e législature",
+        "debut": "2024-07-07",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jérôme Guedj",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1567",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 6e circonscription) — 16e législature",
+        "debut": "2022-06-19",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jérôme Guedj",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1567",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 6e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2014-05-02",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jérôme Guedj",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1567",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 6e circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2012-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jérôme Guedj",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1567",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "royal": [
+      {
+        "chambre": "AN",
+        "detail": "Députée (Deux-Sèvres, 2e circonscription) — 12e législature",
+        "debut": "2002-06-19",
+        "fin": "2007-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Ségolène Royal",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA2650",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "maurel": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Val-d'Oise, 3e circonscription) — 17e législature",
+        "debut": "2024-07-07",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Emmanuel Maurel",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA842271",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "roussel": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Nord, 20e circonscription) — 16e législature",
+        "debut": "2022-06-19",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Fabien Roussel",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA720692",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Nord, 20e circonscription) — 15e législature",
+        "debut": "2017-06-18",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Fabien Roussel",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA720692",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "ruffin": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Somme, 1re circonscription) — 17e législature",
+        "debut": "2024-07-07",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de François Ruffin",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA722142",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Somme, 1re circonscription) — 16e législature",
+        "debut": "2022-06-19",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de François Ruffin",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA722142",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Somme, 1re circonscription) — 15e législature",
+        "debut": "2017-06-18",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de François Ruffin",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA722142",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "cazeneuve": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Manche, 4e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2017-06-20",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Bernard Cazeneuve",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA785",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Manche, 4e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2012-07-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Bernard Cazeneuve",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA785",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Manche, 5e circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2012-06-16",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Bernard Cazeneuve",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA785",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "bouamrane": [],
+    "hollande": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Corrèze, 1re circonscription) — 17e législature",
+        "debut": "2024-07-07",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de François Hollande",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1654",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Corrèze, 1re circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2012-05-14",
+        "source": {
+          "titre": "Assemblée nationale — fiche de François Hollande",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1654",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Corrèze, 1re circonscription) — 12e législature",
+        "debut": "2002-06-19",
+        "fin": "2007-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de François Hollande",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1654",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "arthaud": [],
+    "kazib": [],
+    "labib": [],
+    "tondelier": [],
+    "batho": [
+      {
+        "chambre": "AN",
+        "detail": "Députée (Deux-Sèvres, 2e circonscription) — 17e législature",
+        "debut": "2024-07-07",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Delphine Batho",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Deux-Sèvres, 2e circonscription) — 16e législature",
+        "debut": "2022-06-19",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Delphine Batho",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Deux-Sèvres, 2e circonscription) — 15e législature",
+        "debut": "2017-06-18",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Delphine Batho",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Deux-Sèvres, 2e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2017-06-20",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Delphine Batho",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Deux-Sèvres, 2e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2012-07-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Delphine Batho",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Deux-Sèvres, 2e circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2012-06-16",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Delphine Batho",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "vallaud": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Landes, 3e circonscription) — 17e législature",
+        "debut": "2024-07-07",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Boris Vallaud",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA719930",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Landes, 3e circonscription) — 16e législature",
+        "debut": "2022-06-19",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Boris Vallaud",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA719930",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Landes, 3e circonscription) — 15e législature",
+        "debut": "2017-06-18",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Boris Vallaud",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA719930",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "autain": [
+      {
+        "chambre": "AN",
+        "detail": "Députée (Seine-Saint-Denis, 11e circonscription) — 17e législature",
+        "debut": "2024-06-30",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Clémentine Autain",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA588884",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Seine-Saint-Denis, 11e circonscription) — 16e législature",
+        "debut": "2022-06-19",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Clémentine Autain",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA588884",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Seine-Saint-Denis, 11e circonscription) — 15e législature",
+        "debut": "2017-06-18",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Clémentine Autain",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA588884",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "castets": [],
+    "poutou": [],
+    "philippe": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Seine-Maritime, 7e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2017-06-15",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Édouard Philippe",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA345619",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Seine-Maritime, 7e circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2012-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Édouard Philippe",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA345619",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "attal": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Hauts-de-Seine, 10e circonscription) — 17e législature",
+        "debut": "2024-07-07",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Gabriel Attal",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA722190",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Hauts-de-Seine, 10e circonscription) — 16e législature",
+        "debut": "2022-06-19",
+        "fin": "2022-07-22",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Gabriel Attal",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA722190",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Hauts-de-Seine, 10e circonscription) — 15e législature",
+        "debut": "2017-06-18",
+        "fin": "2018-11-16",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Gabriel Attal",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA722190",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "villepin": [],
+    "le-maire": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Eure, 1re circonscription) — 15e législature",
+        "debut": "2017-06-18",
+        "fin": "2017-07-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Bruno Le Maire",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA331481",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Eure, 1re circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2017-06-17",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Bruno Le Maire",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA331481",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Eure, 1re circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2012-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Bruno Le Maire",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA331481",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Eure, 1re circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2009-01-13",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Bruno Le Maire",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA331481",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "darmanin": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Nord, 10e circonscription) — 17e législature",
+        "debut": "2024-07-07",
+        "fin": "2025-01-23",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Gérald Darmanin",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA607846",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Nord, 10e circonscription) — 16e législature",
+        "debut": "2022-06-19",
+        "fin": "2022-07-22",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Gérald Darmanin",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA607846",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Nord, 10e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2016-01-27",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Gérald Darmanin",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA607846",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "bayrou": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Pyrénées-Atlantiques, 2e circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2012-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de François Bayrou",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA410",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Pyrénées-Atlantiques, 2e circonscription) — 12e législature",
+        "debut": "2002-06-19",
+        "fin": "2007-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de François Bayrou",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA410",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "retailleau": [],
+    "lisnard": [],
+    "bertrand": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Aisne, 2e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2016-01-12",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Xavier Bertrand",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267080",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Aisne, 2e circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2012-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Xavier Bertrand",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267080",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Aisne, 2e circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2010-12-15",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Xavier Bertrand",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267080",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Aisne, 2e circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2007-07-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Xavier Bertrand",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267080",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "wauquiez": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Haute-Loire, 1re circonscription) — 17e législature",
+        "debut": "2024-07-07",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Laurent Wauquiez",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267285",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Haute-Loire, 1re circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2017-06-20",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Laurent Wauquiez",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267285",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Haute-Loire, 1re circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2007-07-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Laurent Wauquiez",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267285",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Haute-Loire, 1re circonscription) — 12e législature",
+        "debut": "2004-07-04",
+        "fin": "2007-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Laurent Wauquiez",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA267285",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "barnier": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Paris, 2e circonscription) — 17e législature",
+        "debut": "2025-09-28",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Michel Barnier",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA368",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "le-pen": [
+      {
+        "chambre": "AN",
+        "detail": "Députée (Pas-de-Calais, 11e circonscription) — 17e législature",
+        "debut": "2024-06-30",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Marine Le Pen",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA720614",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Pas-de-Calais, 11e circonscription) — 16e législature",
+        "debut": "2022-06-19",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Marine Le Pen",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA720614",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Députée (Pas-de-Calais, 11e circonscription) — 15e législature",
+        "debut": "2017-06-18",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Marine Le Pen",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA720614",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "bardella": [],
+    "zemmour": [],
+    "knafo": [],
+    "marechal": [
+      {
+        "chambre": "AN",
+        "detail": "Députée (Vaucluse, 3e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2017-06-20",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Marion Maréchal-Le Pen",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA609709",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "dupont-aignan": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 8e circonscription) — 16e législature",
+        "debut": "2022-06-19",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Nicolas Dupont-Aignan",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1206",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 8e circonscription) — 15e législature",
+        "debut": "2017-06-18",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Nicolas Dupont-Aignan",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1206",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 8e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2017-06-20",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Nicolas Dupont-Aignan",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1206",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 8e circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2012-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Nicolas Dupont-Aignan",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1206",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Essonne, 8e circonscription) — 12e législature",
+        "debut": "2002-06-19",
+        "fin": "2007-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Nicolas Dupont-Aignan",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1206",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "philippot": [],
+    "asselineau": [],
+    "lassalle": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Pyrénées-Atlantiques, 4e circonscription) — 15e législature",
+        "debut": "2017-06-18",
+        "fin": "2022-06-21",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jean Lassalle",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1838",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Pyrénées-Atlantiques, 4e circonscription) — 14e législature",
+        "debut": "2012-06-20",
+        "fin": "2017-06-20",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jean Lassalle",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1838",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Pyrénées-Atlantiques, 4e circonscription) — 13e législature",
+        "debut": "2007-06-20",
+        "fin": "2012-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jean Lassalle",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1838",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Pyrénées-Atlantiques, 4e circonscription) — 12e législature",
+        "debut": "2002-06-19",
+        "fin": "2007-06-19",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Jean Lassalle",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1838",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "mlekuz": [],
+    "egger": [],
+    "mathieu": [],
+    "lalanne": [],
+    "branco": [],
+    "durif": [],
+    "mikolajczak": [],
+    "massard": [],
+    "lucas-lundy": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Yvelines, 8e circonscription) — 17e législature",
+        "debut": "2024-07-07",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Benjamin Lucas-Lundy",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA795636",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Yvelines, 8e circonscription) — 16e législature",
+        "debut": "2022-06-19",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Benjamin Lucas-Lundy",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA795636",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "brun": [
+      {
+        "chambre": "AN",
+        "detail": "Député (Eure, 4e circonscription) — 17e législature",
+        "debut": "2024-07-07",
+        "fin": null,
+        "source": {
+          "titre": "Assemblée nationale — fiche de Philippe Brun",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA793624",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "AN",
+        "detail": "Député (Eure, 4e circonscription) — 16e législature",
+        "debut": "2022-06-19",
+        "fin": "2024-06-09",
+        "source": {
+          "titre": "Assemblée nationale — fiche de Philippe Brun",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA793624",
+          "date": "2026-09-23"
+        }
+      }
+    ]
+  },
+  "scrutins": [
+    {
+      "id": "an-17-8433",
+      "chambre": "AN",
+      "date": "2026-07-21",
+      "titre": "L'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "barnier": "pour",
+        "batho": "contre",
+        "brun": "contre",
+        "faure": "contre",
+        "guedj": "contre",
+        "hollande": "contre",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "maurel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-8431",
+      "chambre": "AN",
+      "date": "2026-07-21",
+      "titre": "L'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+      "questions": [
+        "q33"
+      ],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "barnier": "pour",
+        "batho": "pour",
+        "brun": "pour",
+        "faure": "abstention",
+        "guedj": "pour",
+        "hollande": "pour",
+        "le-pen": "absent",
+        "lucas-lundy": "abstention",
+        "maurel": "pour",
+        "ruffin": "abstention",
+        "vallaud": "pour",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-8430",
+      "chambre": "AN",
+      "date": "2026-07-21",
+      "titre": "L'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "abstention",
+        "barnier": "pour",
+        "batho": "absent",
+        "brun": "abstention",
+        "faure": "abstention",
+        "guedj": "abstention",
+        "hollande": "abstention",
+        "le-pen": "pour",
+        "lucas-lundy": "abstention",
+        "maurel": "pour",
+        "ruffin": "abstention",
+        "vallaud": "abstention",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-8427",
+      "chambre": "AN",
+      "date": "2026-07-20",
+      "titre": "L'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "barnier": "pour",
+        "batho": "contre",
+        "brun": "contre",
+        "faure": "contre",
+        "guedj": "contre",
+        "hollande": "contre",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "maurel": "absent",
+        "ruffin": "contre",
+        "vallaud": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-8280",
+      "chambre": "AN",
+      "date": "2026-07-15",
+      "titre": "L'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280",
+      "questions": [
+        "q08"
+      ],
+      "votes": {
+        "attal": "pour",
+        "autain": "pour",
+        "barnier": "contre",
+        "batho": "pour",
+        "brun": "abstention",
+        "faure": "pour",
+        "guedj": "pour",
+        "hollande": "pour",
+        "le-pen": "contre",
+        "lucas-lundy": "pour",
+        "maurel": "pour",
+        "ruffin": "pour",
+        "vallaud": "pour",
+        "wauquiez": "contre"
+      }
+    },
+    {
+      "id": "an-17-8042",
+      "chambre": "AN",
+      "date": "2026-07-08",
+      "titre": "L'ensemble du projet de loi sur la justice criminelle et le respect des victimes (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8042",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "barnier": "pour",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "contre",
+        "guedj": "absent",
+        "hollande": "contre",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "maurel": "absent",
+        "ruffin": "contre",
+        "vallaud": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-7987",
+      "chambre": "AN",
+      "date": "2026-07-07",
+      "titre": "L'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "absent",
+        "barnier": "pour",
+        "batho": "absent",
+        "brun": "contre",
+        "faure": "contre",
+        "guedj": "contre",
+        "hollande": "contre",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "maurel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-7979",
+      "chambre": "AN",
+      "date": "2026-07-06",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 2, de la Constitution par Mmes Cyrielle Chatelain, Nadège Abomangoli et 56 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7979",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "pour",
+        "barnier": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "pour",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "absent",
+        "lucas-lundy": "pour",
+        "maurel": "absent",
+        "ruffin": "pour",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-7905",
+      "chambre": "AN",
+      "date": "2026-07-01",
+      "titre": "L'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "barnier": "pour",
+        "batho": "pour",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "pour",
+        "hollande": "pour",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "maurel": "abstention",
+        "ruffin": "contre",
+        "vallaud": "pour",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-7454",
+      "chambre": "AN",
+      "date": "2026-06-23",
+      "titre": "L'ensemble du projet de loi constitutionnelle pour une Corse autonome au sein de la République (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7454",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "abstention",
+        "barnier": "contre",
+        "batho": "pour",
+        "brun": "contre",
+        "faure": "pour",
+        "guedj": "contre",
+        "hollande": "abstention",
+        "le-pen": "contre",
+        "lucas-lundy": "contre",
+        "maurel": "contre",
+        "ruffin": "pour",
+        "vallaud": "abstention",
+        "wauquiez": "contre"
+      }
+    },
+    {
+      "id": "an-17-7408",
+      "chambre": "AN",
+      "date": "2026-06-17",
+      "titre": "L'ensemble de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7408",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "barnier": "pour",
+        "batho": "absent",
+        "brun": "contre",
+        "faure": "contre",
+        "guedj": "absent",
+        "hollande": "contre",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "maurel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-7405",
+      "chambre": "AN",
+      "date": "2026-06-16",
+      "titre": "L'ensemble de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "barnier": "pour",
+        "batho": "absent",
+        "brun": "contre",
+        "faure": "contre",
+        "guedj": "contre",
+        "hollande": "contre",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "maurel": "abstention",
+        "ruffin": "contre",
+        "vallaud": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-7260",
+      "chambre": "AN",
+      "date": "2026-06-02",
+      "titre": "L'ensemble du projet de loi portant transposition de l'avenant n° 3 du 25 février 2026 au protocole d'accord du 10 novembre 2023 relatif à l'assurance chômage (deuxième lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7260",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "absent",
+        "barnier": "pour",
+        "batho": "absent",
+        "brun": "abstention",
+        "faure": "absent",
+        "guedj": "abstention",
+        "hollande": "abstention",
+        "le-pen": "absent",
+        "lucas-lundy": "contre",
+        "maurel": "contre",
+        "ruffin": "contre",
+        "vallaud": "abstention",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-6319",
+      "chambre": "AN",
+      "date": "2026-05-05",
+      "titre": "L'ensemble du projet de loi relatif à la lutte contre les fraudes sociales et fiscales (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6319",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "barnier": "pour",
+        "batho": "absent",
+        "brun": "contre",
+        "faure": "contre",
+        "guedj": "contre",
+        "hollande": "contre",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "maurel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-6184",
+      "chambre": "AN",
+      "date": "2026-04-14",
+      "titre": "L'ensemble du projet de loi de simplification de la vie économique (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6184",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "contre",
+        "barnier": "pour",
+        "batho": "contre",
+        "brun": "contre",
+        "faure": "contre",
+        "guedj": "contre",
+        "hollande": "contre",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "maurel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-5731",
+      "chambre": "AN",
+      "date": "2026-02-25",
+      "titre": "La motion de censure, déposée en application de l'article 49, alinéa 2, de la Constitution, par Mme Mathilde Panot et 57 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5731",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "pour",
+        "barnier": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "absent",
+        "lucas-lundy": "pour",
+        "maurel": "absent",
+        "ruffin": "pour",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-5730",
+      "chambre": "AN",
+      "date": "2026-02-25",
+      "titre": "La motion de censure, déposée en application de l'article 49, alinéa 2, de la Constitution, par M. Jean-Philippe Tanguy et 59 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5730",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "absent",
+        "barnier": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "pour",
+        "lucas-lundy": "absent",
+        "maurel": "absent",
+        "ruffin": "absent",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-5285",
+      "chambre": "AN",
+      "date": "2026-02-02",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par Mme Marine Le Pen, M. Éric Ciotti et 104 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5285",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "absent",
+        "barnier": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "pour",
+        "lucas-lundy": "absent",
+        "maurel": "absent",
+        "ruffin": "absent",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-5284",
+      "chambre": "AN",
+      "date": "2026-02-02",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par M. Stéphane Peu, Mme Mathilde Panot, Mme Cyrielle Chatelain et 110 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5284",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "pour",
+        "barnier": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "pour",
+        "lucas-lundy": "pour",
+        "maurel": "absent",
+        "ruffin": "pour",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-5194",
+      "chambre": "AN",
+      "date": "2026-01-27",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par Mme Marine Le Pen, M. Éric Ciotti et 102 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5194",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "absent",
+        "barnier": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "pour",
+        "lucas-lundy": "absent",
+        "maurel": "absent",
+        "ruffin": "absent",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-5193",
+      "chambre": "AN",
+      "date": "2026-01-27",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par Mme Cyrielle Chatelain, Mme Mathilde Panot, M. Stéphane Peu et 110 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5193",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "pour",
+        "barnier": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "pour",
+        "lucas-lundy": "pour",
+        "maurel": "absent",
+        "ruffin": "pour",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-5155",
+      "chambre": "AN",
+      "date": "2026-01-23",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par Mme Marine Le Pen, M. Éric CIotti et 102 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5155",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "absent",
+        "barnier": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "pour",
+        "lucas-lundy": "absent",
+        "maurel": "absent",
+        "ruffin": "absent",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-5154",
+      "chambre": "AN",
+      "date": "2026-01-23",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par Mme Mathilde Panot, Mme Cyrielle Chatelain, M. Stéphane Peu et 108 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5154",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "pour",
+        "barnier": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "pour",
+        "lucas-lundy": "pour",
+        "maurel": "absent",
+        "ruffin": "pour",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-4987",
+      "chambre": "AN",
+      "date": "2026-01-14",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 2, de la Constitution par Mme Marine Le Pen et 57 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4987",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "absent",
+        "barnier": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "pour",
+        "lucas-lundy": "absent",
+        "maurel": "absent",
+        "ruffin": "absent",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-4986",
+      "chambre": "AN",
+      "date": "2026-01-14",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 2, de la Constitution par Mme Mathilde Panot et 57 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4986",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "pour",
+        "barnier": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "pour",
+        "lucas-lundy": "pour",
+        "maurel": "absent",
+        "ruffin": "pour",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-4758",
+      "chambre": "AN",
+      "date": "2025-12-16",
+      "titre": "L'ensemble du projet de loi de financement de la sécurité sociale pour 2026 (lecture définitive).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4758",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "barnier": "abstention",
+        "batho": "pour",
+        "brun": "pour",
+        "faure": "pour",
+        "guedj": "pour",
+        "hollande": "pour",
+        "le-pen": "contre",
+        "lucas-lundy": "contre",
+        "maurel": "pour",
+        "ruffin": "contre",
+        "vallaud": "pour",
+        "wauquiez": "abstention"
+      }
+    },
+    {
+      "id": "an-17-4698",
+      "chambre": "AN",
+      "date": "2025-12-10",
+      "titre": "La déclaration du Gouvernement portant sur la stratégie de défense nationale (application de l'article 50-1 de la Constitution).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4698",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "barnier": "pour",
+        "batho": "pour",
+        "brun": "pour",
+        "faure": "pour",
+        "guedj": "pour",
+        "hollande": "pour",
+        "le-pen": "pour",
+        "lucas-lundy": "pour",
+        "maurel": "absent",
+        "ruffin": "absent",
+        "vallaud": "pour",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-4442",
+      "chambre": "AN",
+      "date": "2025-12-02",
+      "titre": "L'ensemble du projet de loi de fin de gestion pour 2025 (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4442",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "barnier": "pour",
+        "batho": "absent",
+        "brun": "abstention",
+        "faure": "absent",
+        "guedj": "abstention",
+        "hollande": "abstention",
+        "le-pen": "contre",
+        "lucas-lundy": "abstention",
+        "maurel": "contre",
+        "ruffin": "absent",
+        "vallaud": "abstention",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-4241",
+      "chambre": "AN",
+      "date": "2025-11-21",
+      "titre": "La première partie du projet de loi de finances pour 2026 (première lecture).",
+      "type": "solennel",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4241",
+      "questions": [],
+      "votes": {
+        "attal": "abstention",
+        "autain": "contre",
+        "barnier": "contre",
+        "batho": "absent",
+        "brun": "contre",
+        "faure": "contre",
+        "guedj": "contre",
+        "hollande": "contre",
+        "le-pen": "contre",
+        "lucas-lundy": "contre",
+        "maurel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre",
+        "wauquiez": "contre"
+      }
+    },
+    {
+      "id": "an-17-3059",
+      "chambre": "AN",
+      "date": "2025-10-16",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 2, de la Constitution par Mme Marine Le Pen, M. Éric Ciotti et 56 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3059",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "absent",
+        "barnier": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "pour",
+        "lucas-lundy": "absent",
+        "maurel": "absent",
+        "ruffin": "absent",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-3058",
+      "chambre": "AN",
+      "date": "2025-10-16",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 2, de la Constitution par Mme Mathilde Panot et 86 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3058",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "pour",
+        "barnier": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "pour",
+        "lucas-lundy": "pour",
+        "maurel": "pour",
+        "ruffin": "pour",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-3054",
+      "chambre": "AN",
+      "date": "2025-09-08",
+      "titre": "La déclaration de politique générale du Gouvernement de M. François Bayrou (application de l'article 49, alinéa premier, de la Constitution).",
+      "type": "solennel",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3054",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "batho": "contre",
+        "brun": "contre",
+        "faure": "contre",
+        "guedj": "contre",
+        "hollande": "contre",
+        "le-pen": "contre",
+        "lucas-lundy": "contre",
+        "maurel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-2958",
+      "chambre": "AN",
+      "date": "2025-07-08",
+      "titre": "L'ensemble de la proposition de loi visant à faciliter le maintien en rétention des personnes condamnées pour des faits d’une particulière gravité et présentant de forts risques de récidive (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2958",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "absent",
+        "batho": "contre",
+        "brun": "contre",
+        "faure": "contre",
+        "guedj": "absent",
+        "hollande": "contre",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "maurel": "absent",
+        "ruffin": "contre",
+        "vallaud": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-2957",
+      "chambre": "AN",
+      "date": "2025-07-08",
+      "titre": "L'ensemble de la proposition de loi visant à lever les contraintes à l'exercice du métier d'agriculteur (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2957",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "batho": "contre",
+        "brun": "contre",
+        "faure": "contre",
+        "guedj": "contre",
+        "hollande": "contre",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "maurel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-2880",
+      "chambre": "AN",
+      "date": "2025-07-02",
+      "titre": "L'ensemble de la proposition de loi relative à la lutte contre l'antisémitisme dans l'enseignement supérieur (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2880",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "batho": "pour",
+        "brun": "pour",
+        "faure": "absent",
+        "guedj": "pour",
+        "hollande": "pour",
+        "le-pen": "pour",
+        "lucas-lundy": "absent",
+        "maurel": "pour",
+        "ruffin": "absent",
+        "vallaud": "pour",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-2876",
+      "chambre": "AN",
+      "date": "2025-07-01",
+      "titre": "La motion de censure, déposée en application de l'article 49, alinéa 2, de la Constitution, par M. Boris Vallaud et 65 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2876",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "pour",
+        "batho": "absent",
+        "brun": "pour",
+        "faure": "pour",
+        "guedj": "pour",
+        "hollande": "pour",
+        "le-pen": "absent",
+        "lucas-lundy": "pour",
+        "maurel": "pour",
+        "ruffin": "pour",
+        "vallaud": "pour",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-2653",
+      "chambre": "AN",
+      "date": "2025-06-24",
+      "titre": "L'ensemble de la proposition de loi portant programmation nationale pour l'énergie et le climat pour les années 2025 à 2035 (première lecture).",
+      "type": "solennel",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2653",
+      "questions": [],
+      "votes": {
+        "attal": "contre",
+        "autain": "absent",
+        "batho": "contre",
+        "brun": "contre",
+        "faure": "contre",
+        "guedj": "contre",
+        "hollande": "contre",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "maurel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre",
+        "wauquiez": "abstention"
+      }
+    },
+    {
+      "id": "an-17-2222",
+      "chambre": "AN",
+      "date": "2025-06-04",
+      "titre": "La motion de censure, déposée en application de l'article 49, alinéa 2, de la Constitution, par Mme Aurélie Trouvé et 57 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2222",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "pour",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "absent",
+        "lucas-lundy": "pour",
+        "maurel": "pour",
+        "ruffin": "pour",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-2107",
+      "chambre": "AN",
+      "date": "2025-05-27",
+      "titre": "L’ensemble de la proposition de loi relative au droit à l’aide à mourir (première lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2107",
+      "questions": [
+        "q08"
+      ],
+      "votes": {
+        "attal": "pour",
+        "autain": "pour",
+        "batho": "pour",
+        "brun": "pour",
+        "faure": "pour",
+        "guedj": "pour",
+        "hollande": "pour",
+        "le-pen": "contre",
+        "lucas-lundy": "pour",
+        "maurel": "pour",
+        "ruffin": "pour",
+        "vallaud": "pour",
+        "wauquiez": "contre"
+      }
+    },
+    {
+      "id": "an-17-1624",
+      "chambre": "AN",
+      "date": "2025-05-13",
+      "titre": "L'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "batho": "contre",
+        "brun": "contre",
+        "faure": "contre",
+        "guedj": "contre",
+        "hollande": "contre",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "maurel": "absent",
+        "ruffin": "contre",
+        "vallaud": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-1607",
+      "chambre": "AN",
+      "date": "2025-05-07",
+      "titre": "L'ensemble de la proposition de loi visant à lutter contre les déserts médicaux, d'initiative transpartisane (première lecture).",
+      "type": "ordinaire",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1607",
+      "questions": [
+        "q07"
+      ],
+      "votes": {
+        "attal": "absent",
+        "autain": "absent",
+        "batho": "pour",
+        "brun": "pour",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "absent",
+        "lucas-lundy": "pour",
+        "maurel": "pour",
+        "ruffin": "absent",
+        "vallaud": "pour",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-1473",
+      "chambre": "AN",
+      "date": "2025-04-29",
+      "titre": "L'ensemble de la proposition de loi visant à sortir la France du piège du narcotrafic (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1473",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "batho": "absent",
+        "brun": "pour",
+        "faure": "pour",
+        "guedj": "pour",
+        "hollande": "pour",
+        "le-pen": "pour",
+        "lucas-lundy": "abstention",
+        "maurel": "pour",
+        "ruffin": "abstention",
+        "vallaud": "pour",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-1308",
+      "chambre": "AN",
+      "date": "2025-04-08",
+      "titre": "L'ensemble de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "batho": "absent",
+        "brun": "contre",
+        "faure": "contre",
+        "guedj": "contre",
+        "hollande": "contre",
+        "le-pen": "pour",
+        "lucas-lundy": "absent",
+        "maurel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-1303",
+      "chambre": "AN",
+      "date": "2025-04-07",
+      "titre": "L'ensemble de la proposition de loi visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité (deuxième lecture).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1303",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "absent",
+        "batho": "pour",
+        "brun": "pour",
+        "faure": "pour",
+        "guedj": "pour",
+        "hollande": "pour",
+        "le-pen": "contre",
+        "lucas-lundy": "pour",
+        "maurel": "absent",
+        "ruffin": "pour",
+        "vallaud": "pour",
+        "wauquiez": "contre"
+      }
+    },
+    {
+      "id": "an-17-1041",
+      "chambre": "AN",
+      "date": "2025-03-18",
+      "titre": "L'ensemble de la proposition de loi relative au renforcement de la sûreté dans les transports (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1041",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "batho": "absent",
+        "brun": "contre",
+        "faure": "contre",
+        "guedj": "contre",
+        "hollande": "abstention",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "maurel": "absent",
+        "ruffin": "absent",
+        "vallaud": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-988",
+      "chambre": "AN",
+      "date": "2025-03-12",
+      "titre": "L'article unique de la proposition de résolution européenne appelant au renforcement du soutien à l'Ukraine.",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
+      "questions": [
+        "q17"
+      ],
+      "votes": {
+        "attal": "pour",
+        "autain": "pour",
+        "batho": "pour",
+        "brun": "pour",
+        "faure": "pour",
+        "guedj": "pour",
+        "hollande": "pour",
+        "le-pen": "abstention",
+        "lucas-lundy": "pour",
+        "maurel": "abstention",
+        "ruffin": "abstention",
+        "vallaud": "pour",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-881",
+      "chambre": "AN",
+      "date": "2025-02-20",
+      "titre": "L'ensemble de la proposition de loi instaurant un impôt plancher de 2 % sur le patrimoine des ultra riches (première lecture).",
+      "type": "ordinaire",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/881",
+      "questions": [
+        "q01"
+      ],
+      "votes": {
+        "attal": "contre",
+        "autain": "pour",
+        "batho": "pour",
+        "brun": "absent",
+        "faure": "pour",
+        "guedj": "pour",
+        "hollande": "absent",
+        "le-pen": "absent",
+        "lucas-lundy": "pour",
+        "maurel": "absent",
+        "ruffin": "pour",
+        "vallaud": "pour",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-844",
+      "chambre": "AN",
+      "date": "2025-02-19",
+      "titre": "L'ensemble du projet de loi d'orientation pour la souveraineté alimentaire et agricole et le renouvellement des générations en agriculture (texte de la commission mixte paritaire).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/844",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "contre",
+        "batho": "contre",
+        "brun": "absent",
+        "faure": "contre",
+        "guedj": "contre",
+        "hollande": "contre",
+        "le-pen": "absent",
+        "lucas-lundy": "contre",
+        "maurel": "contre",
+        "ruffin": "contre",
+        "vallaud": "contre",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-842",
+      "chambre": "AN",
+      "date": "2025-02-19",
+      "titre": "La motion de censure, déposée en application de l'article 49, alinéa 2, de la Constitution, par M. Boris Vallaud et 65 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/842",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "pour",
+        "batho": "absent",
+        "brun": "pour",
+        "faure": "pour",
+        "guedj": "pour",
+        "hollande": "pour",
+        "le-pen": "absent",
+        "lucas-lundy": "pour",
+        "maurel": "pour",
+        "ruffin": "pour",
+        "vallaud": "pour",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-791",
+      "chambre": "AN",
+      "date": "2025-02-12",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par Mme Mathilde Panot et 73 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/791",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "pour",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "absent",
+        "lucas-lundy": "pour",
+        "maurel": "pour",
+        "ruffin": "pour",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-739",
+      "chambre": "AN",
+      "date": "2025-02-10",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par Mme Mathilde Panot et 70 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/739",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "absent",
+        "lucas-lundy": "pour",
+        "maurel": "pour",
+        "ruffin": "pour",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-694",
+      "chambre": "AN",
+      "date": "2025-02-05",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par Mme Mathilde Panot et 91 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/694",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "pour",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "absent",
+        "lucas-lundy": "pour",
+        "maurel": "pour",
+        "ruffin": "pour",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-693",
+      "chambre": "AN",
+      "date": "2025-02-05",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par Mme Mathilde Panot et 90 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/693",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "pour",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "absent",
+        "lucas-lundy": "pour",
+        "maurel": "pour",
+        "ruffin": "pour",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-691",
+      "chambre": "AN",
+      "date": "2025-01-30",
+      "titre": "L'article unique de la proposition de résolution européenne visant à refuser la ratification de l'accord commercial entre l'Union européenne et le Mercosur.",
+      "type": "ordinaire",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/691",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "absent",
+        "batho": "absent",
+        "brun": "absent",
+        "faure": "absent",
+        "guedj": "pour",
+        "hollande": "absent",
+        "le-pen": "absent",
+        "lucas-lundy": "absent",
+        "maurel": "absent",
+        "ruffin": "absent",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-526",
+      "chambre": "AN",
+      "date": "2025-01-16",
+      "titre": "La motion de censure, déposée en application de l'article 49, alinéa 2, de la Constitution, par Mme Mathilde Panot et 57 députés.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/526",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "pour",
+        "batho": "absent",
+        "brun": "absent",
+        "darmanin": "non_votant",
+        "faure": "absent",
+        "guedj": "absent",
+        "hollande": "absent",
+        "le-pen": "absent",
+        "lucas-lundy": "pour",
+        "maurel": "pour",
+        "ruffin": "pour",
+        "vallaud": "absent",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-519",
+      "chambre": "AN",
+      "date": "2024-12-04",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par Mme Mathilde Panot, M. Boris Vallaud, Mme Cyrielle Chatelain, M. André Chassaigne et 181 membres de l'Assemblée.",
+      "type": "motion_censure",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/519",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "pour",
+        "batho": "pour",
+        "brun": "pour",
+        "darmanin": "absent",
+        "faure": "pour",
+        "guedj": "pour",
+        "hollande": "pour",
+        "le-pen": "pour",
+        "lucas-lundy": "pour",
+        "maurel": "pour",
+        "ruffin": "pour",
+        "vallaud": "pour",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-456",
+      "chambre": "AN",
+      "date": "2024-11-26",
+      "titre": "La déclaration du Gouvernement portant sur les négociations en cours relatives à l'accord d'association entre l'Union européenne et le Mercosur (application de l'article 50-1 de la Constitution).",
+      "type": "solennel",
+      "resultat": "adopté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/456",
+      "questions": [],
+      "votes": {
+        "attal": "pour",
+        "autain": "pour",
+        "batho": "pour",
+        "brun": "pour",
+        "darmanin": "pour",
+        "faure": "pour",
+        "guedj": "pour",
+        "hollande": "pour",
+        "le-pen": "pour",
+        "lucas-lundy": "pour",
+        "maurel": "pour",
+        "ruffin": "pour",
+        "vallaud": "pour",
+        "wauquiez": "pour"
+      }
+    },
+    {
+      "id": "an-17-438",
+      "chambre": "AN",
+      "date": "2024-11-12",
+      "titre": "La première partie du projet de loi de finances pour 2025 (première lecture).",
+      "type": "solennel",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/438",
+      "questions": [],
+      "votes": {
+        "attal": "contre",
+        "autain": "pour",
+        "batho": "abstention",
+        "brun": "pour",
+        "darmanin": "contre",
+        "faure": "pour",
+        "guedj": "pour",
+        "hollande": "pour",
+        "le-pen": "contre",
+        "lucas-lundy": "pour",
+        "maurel": "pour",
+        "ruffin": "pour",
+        "vallaud": "pour",
+        "wauquiez": "contre"
+      }
+    },
+    {
+      "id": "an-17-217",
+      "chambre": "AN",
+      "date": "2024-10-31",
+      "titre": "L'ensemble de la proposition de loi visant à restaurer un système de retraite plus juste en annulant les dernières réformes portant sur l’âge de départ et le nombre d’annuités (première lecture).",
+      "type": "ordinaire",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/217",
+      "questions": [
+        "q05"
+      ],
+      "votes": {
+        "attal": "contre",
+        "autain": "contre",
+        "batho": "contre",
+        "brun": "contre",
+        "darmanin": "contre",
+        "faure": "contre",
+        "guedj": "contre",
+        "hollande": "contre",
+        "le-pen": "pour",
+        "lucas-lundy": "contre",
+        "maurel": "contre",
+        "ruffin": "absent",
+        "vallaud": "contre",
+        "wauquiez": "absent"
+      }
+    },
+    {
+      "id": "an-17-1",
+      "chambre": "AN",
+      "date": "2024-10-08",
+      "titre": "La motion de censure déposée en application de l'article 49, alinéa 2, de la Constitution par M. Boris Vallaud, Mme Mathilde Panot, Mme Cyrielle Chatelain, M. André Chassaigne et 188 de leurs collègues.",
+      "type": "motion_censure",
+      "resultat": "rejeté",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1",
+      "questions": [],
+      "votes": {
+        "attal": "absent",
+        "autain": "pour",
+        "batho": "pour",
+        "brun": "pour",
+        "darmanin": "absent",
+        "faure": "pour",
+        "guedj": "pour",
+        "hollande": "pour",
+        "le-pen": "absent",
+        "lucas-lundy": "pour",
+        "maurel": "pour",
+        "ruffin": "pour",
+        "vallaud": "pour",
+        "wauquiez": "absent"
+      }
+    }
+  ],
+  "a_verifier": [
+    "Périmètre : ce fichier ne couvre que l'Assemblée nationale. Un candidat dont la liste de mandats est vide n'a jamais été député ; il a pu être sénateur ou député européen, ce que ce fichier ne dit pas.",
+    "Le jeu « historique des députés » de l'Assemblée (AMO30) ne remonte qu'à la 12e législature (2002). Les mandats de député antérieurs à 2002 — notamment ceux de François Bayrou, François Hollande et Ségolène Royal — n'y figurent pas et ne sont donc pas listés ici : à compléter avec une autre source officielle.",
+    "Les scrutins publics mis en ligne pour la 17e législature commencent le 8 octobre 2024 ; les séances de juillet et septembre 2024 ne donnent lieu à aucun scrutin public dans le jeu de données.",
+    "60 scrutins retenus sur les 8 434 de la législature (dont 72 solennels et 23 motions de censure) : les 23 motions de censure et 34 des 72 scrutins solennels. Les solennels écartés sont soit des lectures intermédiaires d'un texte déjà retenu, soit des textes techniques ou de portée locale (voir les critères dans scripts/votes_an.py).",
+    "Les « mises au point au sujet du présent scrutin » (corrections déclarées après coup par des députés) ne sont pas appliquées : le vote publié dans le décompte nominatif officiel est repris tel quel.",
+    "« absent » signifie : député en exercice à cette date mais ne figurant dans aucune des listes nominatives du scrutin. « non_votant » reprend la catégorie officielle des non-votants (présidence de séance, membres du Gouvernement, etc.).",
+    "Motions de censure : seuls les votes « pour » sont recensés, une motion n'étant adoptée que si elle réunit la majorité des membres de l'Assemblée. « absent » y signifie donc « n'a pas voté la censure » et non « était absent de l'hémicycle ».",
+    "Scrutin n° 1 du 8 octobre 2024 : le décompte nominatif du fichier officiel comporte 21 non-votants alors que la synthèse du même fichier en annonce 10. Aucun candidat n'est concerné ; les 59 autres scrutins retenus sont cohérents entre décompte nominatif et synthèse.",
+    "Les scrutins retenus appartiennent tous à la 17e législature (seule dont les scrutins soient publiés en données ouvertes) : les candidats dont le dernier mandat de député est antérieur à 2024 ont des mandats listés mais aucun vote.",
+    "La page de licence de data.assemblee-nationale.fr renvoie à la « Licence Ouverte / Open Licence » d'Etalab sans en indiquer le numéro de version.",
+    "Plusieurs mandats peuvent se chevaucher pour une même législature dans les données officielles (entrée au Gouvernement, remplacement par un suppléant, retour au Palais-Bourbon) : les périodes sont reprises telles quelles."
+  ]
+}

@@ -1,0 +1,828 @@
+{
+  "mise_a_jour": "2026-09-23",
+  "sources": [
+    {
+      "titre": "Parlement européen — portail de données ouvertes, décisions de séance plénière (votes par appel nominal)",
+      "url": "https://data.europarl.europa.eu/en/developer-corner/opendata-api",
+      "licence": "Avis juridique du Parlement européen — réutilisation autorisée avec citation de la source (© Union européenne — Source : Parlement européen)"
+    },
+    {
+      "titre": "Parlement européen — portail de données ouvertes, députés et mandats",
+      "url": "https://data.europarl.europa.eu/en/dataset/meps",
+      "licence": "Avis juridique du Parlement européen — réutilisation autorisée avec citation de la source (© Union européenne — Source : Parlement européen)"
+    }
+  ],
+  "mandats": {
+    "melenchon": [
+      {
+        "chambre": "PE",
+        "detail": "Député européen (France) — 8e législature",
+        "debut": "2014-07-01",
+        "fin": "2017-06-18",
+        "source": {
+          "titre": "Parlement européen — fiche de Jean-Luc Mélenchon",
+          "url": "https://www.europarl.europa.eu/meps/fr/96742",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "PE",
+        "detail": "Député européen (France) — 7e législature",
+        "debut": "2009-07-14",
+        "fin": "2014-06-30",
+        "source": {
+          "titre": "Parlement européen — fiche de Jean-Luc Mélenchon",
+          "url": "https://www.europarl.europa.eu/meps/fr/96742",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "faure": [],
+    "glucksmann": [
+      {
+        "chambre": "PE",
+        "detail": "Député européen (France) — 10e législature",
+        "debut": "2024-07-16",
+        "fin": null,
+        "source": {
+          "titre": "Parlement européen — fiche de Raphaël Glucksmann",
+          "url": "https://www.europarl.europa.eu/meps/fr/197694",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "PE",
+        "detail": "Député européen (France) — 9e législature",
+        "debut": "2019-07-02",
+        "fin": "2024-07-15",
+        "source": {
+          "titre": "Parlement européen — fiche de Raphaël Glucksmann",
+          "url": "https://www.europarl.europa.eu/meps/fr/197694",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "guedj": [],
+    "royal": [],
+    "maurel": [
+      {
+        "chambre": "PE",
+        "detail": "Député européen (France) — 9e législature",
+        "debut": "2019-07-02",
+        "fin": "2024-07-15",
+        "source": {
+          "titre": "Parlement européen — fiche de Emmanuel Maurel",
+          "url": "https://www.europarl.europa.eu/meps/fr/24505",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "PE",
+        "detail": "Député européen (France) — 8e législature",
+        "debut": "2014-07-01",
+        "fin": "2019-07-01",
+        "source": {
+          "titre": "Parlement européen — fiche de Emmanuel Maurel",
+          "url": "https://www.europarl.europa.eu/meps/fr/24505",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "roussel": [],
+    "ruffin": [],
+    "cazeneuve": [],
+    "bouamrane": [],
+    "hollande": [
+      {
+        "chambre": "PE",
+        "detail": "Député européen (France) — 5e législature",
+        "debut": "1999-07-20",
+        "fin": "1999-12-17",
+        "source": {
+          "titre": "Parlement européen — fiche de François Hollande",
+          "url": "https://www.europarl.europa.eu/meps/fr/4285",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "arthaud": [],
+    "kazib": [],
+    "labib": [],
+    "tondelier": [],
+    "batho": [],
+    "vallaud": [],
+    "autain": [],
+    "castets": [],
+    "poutou": [],
+    "philippe": [],
+    "attal": [],
+    "villepin": [],
+    "le-maire": [],
+    "darmanin": [],
+    "bayrou": [
+      {
+        "chambre": "PE",
+        "detail": "Député européen (France) — 5e législature",
+        "debut": "1999-07-20",
+        "fin": "2002-06-16",
+        "source": {
+          "titre": "Parlement européen — fiche de François Bayrou",
+          "url": "https://www.europarl.europa.eu/meps/fr/4324",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "retailleau": [],
+    "lisnard": [],
+    "bertrand": [],
+    "wauquiez": [],
+    "barnier": [
+      {
+        "chambre": "PE",
+        "detail": "Député européen (France) — 7e législature",
+        "debut": "2009-07-14",
+        "fin": "2010-02-09",
+        "source": {
+          "titre": "Parlement européen — fiche de Michel Barnier",
+          "url": "https://www.europarl.europa.eu/meps/fr/72776",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "le-pen": [
+      {
+        "chambre": "PE",
+        "detail": "Députée européenne (France) — 8e législature",
+        "debut": "2014-07-01",
+        "fin": "2017-06-18",
+        "source": {
+          "titre": "Parlement européen — fiche de Marine Le Pen",
+          "url": "https://www.europarl.europa.eu/meps/fr/28210",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "PE",
+        "detail": "Députée européenne (France) — 7e législature",
+        "debut": "2009-07-14",
+        "fin": "2014-06-30",
+        "source": {
+          "titre": "Parlement européen — fiche de Marine Le Pen",
+          "url": "https://www.europarl.europa.eu/meps/fr/28210",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "PE",
+        "detail": "Députée européenne (France) — 6e législature",
+        "debut": "2004-07-20",
+        "fin": "2009-07-13",
+        "source": {
+          "titre": "Parlement européen — fiche de Marine Le Pen",
+          "url": "https://www.europarl.europa.eu/meps/fr/28210",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "bardella": [
+      {
+        "chambre": "PE",
+        "detail": "Député européen (France) — 10e législature",
+        "debut": "2024-07-16",
+        "fin": null,
+        "source": {
+          "titre": "Parlement européen — fiche de Jordan Bardella",
+          "url": "https://www.europarl.europa.eu/meps/fr/131580",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "PE",
+        "detail": "Député européen (France) — 9e législature",
+        "debut": "2019-07-02",
+        "fin": "2024-07-15",
+        "source": {
+          "titre": "Parlement européen — fiche de Jordan Bardella",
+          "url": "https://www.europarl.europa.eu/meps/fr/131580",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "zemmour": [],
+    "knafo": [
+      {
+        "chambre": "PE",
+        "detail": "Députée européenne (France) — 10e législature",
+        "debut": "2024-07-16",
+        "fin": null,
+        "source": {
+          "titre": "Parlement européen — fiche de Sarah Knafo",
+          "url": "https://www.europarl.europa.eu/meps/fr/256924",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "marechal": [
+      {
+        "chambre": "PE",
+        "detail": "Députée européenne (France) — 10e législature",
+        "debut": "2024-07-16",
+        "fin": null,
+        "source": {
+          "titre": "Parlement européen — fiche de Marion Maréchal",
+          "url": "https://www.europarl.europa.eu/meps/fr/256922",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "dupont-aignan": [],
+    "philippot": [
+      {
+        "chambre": "PE",
+        "detail": "Député européen (France) — 8e législature",
+        "debut": "2014-07-01",
+        "fin": "2019-07-01",
+        "source": {
+          "titre": "Parlement européen — fiche de Florian Philippot",
+          "url": "https://www.europarl.europa.eu/meps/fr/110977",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "asselineau": [],
+    "lassalle": [],
+    "mlekuz": [],
+    "egger": [],
+    "mathieu": [],
+    "lalanne": [],
+    "branco": [],
+    "durif": [],
+    "mikolajczak": [],
+    "massard": [
+      {
+        "chambre": "PE",
+        "detail": "Députée européenne (France) — 9e législature",
+        "debut": "2023-09-24",
+        "fin": "2024-07-15",
+        "source": {
+          "titre": "Parlement européen — fiche de Lydie Massard",
+          "url": "https://www.europarl.europa.eu/meps/fr/249285",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "lucas-lundy": [],
+    "brun": []
+  },
+  "scrutins": [
+    {
+      "id": "pe-10-194134",
+      "chambre": "PE",
+      "date": "2026-06-17",
+      "titre": "Système commun en matière de retour des ressortissants de pays tiers en séjour irrégulier dans l’Union (règlement sur le retour) — accord provisoire",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-06-17-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "pour",
+        "glucksmann": "contre",
+        "knafo": "pour",
+        "marechal": "pour"
+      }
+    },
+    {
+      "id": "pe-10-190026",
+      "chambre": "PE",
+      "date": "2026-04-28",
+      "titre": "Rapport intérimaire sur la proposition de cadre financier pluriannuel pour les années 2028 à 2034 — proposition de résolution (ensemble du texte)",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-04-28-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "contre",
+        "glucksmann": "pour",
+        "knafo": "contre",
+        "marechal": "contre"
+      }
+    },
+    {
+      "id": "pe-10-185885",
+      "chambre": "PE",
+      "date": "2026-02-24",
+      "titre": "Quatre ans de guerre d’agression russe contre l’Ukraine et contributions européennes en faveur d’une paix juste et d’une sécurité durable pour l’Ukraine — proposition de résolution (ensemble du texte)",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-02-24-RCV_FR.html",
+      "questions": [
+        "q17"
+      ],
+      "votes": {
+        "bardella": "abstention",
+        "glucksmann": "pour",
+        "knafo": "non_votant",
+        "marechal": "abstention"
+      }
+    },
+    {
+      "id": "pe-10-184191",
+      "chambre": "PE",
+      "date": "2026-02-10",
+      "titre": "Clause de sauvegarde bilatérale prévue par l’accord de partenariat UE-Mercosur et l’accord intérimaire UE-Mercosur sur le commerce pour les produits agricoles — accord provisoire",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-02-10-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "contre",
+        "glucksmann": "abstention",
+        "knafo": "pour",
+        "marechal": "pour"
+      }
+    },
+    {
+      "id": "pe-10-184178",
+      "chambre": "PE",
+      "date": "2026-02-10",
+      "titre": "Cadre requis pour parvenir à la neutralité climatique — accord provisoire",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-02-10-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "contre",
+        "glucksmann": "pour",
+        "knafo": "pour",
+        "marechal": "contre"
+      }
+    },
+    {
+      "id": "pe-10-184172",
+      "chambre": "PE",
+      "date": "2026-02-10",
+      "titre": "Établissement d’une liste des pays d’origine sûrs au niveau de l’Union — accord provisoire",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-02-10-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "pour",
+        "glucksmann": "contre",
+        "knafo": "pour",
+        "marechal": "pour"
+      }
+    },
+    {
+      "id": "pe-10-183884",
+      "chambre": "PE",
+      "date": "2026-01-21",
+      "titre": "Demande d’un avis de la Cour de justice sur la compatibilité avec les traités de l’accord de partenariat et de l’accord intérimaire sur le commerce proposés entre l’Union européenne et le Mercosur — proposition de résolution",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-01-21-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "pour",
+        "glucksmann": "pour",
+        "knafo": "pour",
+        "marechal": "pour"
+      }
+    },
+    {
+      "id": "pe-10-182509",
+      "chambre": "PE",
+      "date": "2025-12-16",
+      "titre": "Modification de certains règlements de la PAC en ce qui concerne le système de conditionnalité, les types d’intervention sous la forme de paiements directs, les types d’intervention dans certains secteurs et dans le cadre du développement rural et les rapports annuels de performance, la gouvernance des données et de l’interopérabilité, la suspension des paiements liée à l’apurement annuel des performances et les contrôles et les sanctions — accord provisoire",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-12-16-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "pour",
+        "glucksmann": "pour",
+        "knafo": "pour",
+        "marechal": "pour"
+      }
+    },
+    {
+      "id": "pe-10-182483",
+      "chambre": "PE",
+      "date": "2025-12-16",
+      "titre": "Incitation aux investissements liés à la défense dans le budget de l’UE pour mettre en œuvre le plan «ReArm Europe» — accord provisoire",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-12-16-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "pour",
+        "glucksmann": "pour",
+        "knafo": "abstention",
+        "marechal": "pour"
+      }
+    },
+    {
+      "id": "pe-10-181511",
+      "chambre": "PE",
+      "date": "2025-11-25",
+      "titre": "Existence d’un risque clair de violation grave par la Hongrie des valeurs sur lesquelles l’Union est fondée — proposition de résolution (ensemble du texte)",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-11-25-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "contre",
+        "glucksmann": "pour",
+        "knafo": "contre",
+        "marechal": "contre"
+      }
+    },
+    {
+      "id": "pe-10-180153",
+      "chambre": "PE",
+      "date": "2025-10-22",
+      "titre": "Budget général de l'Union européenne pour l'exercice 2026 – toutes sections — proposition de résolution (ensemble du texte)",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-10-22-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "contre",
+        "glucksmann": "pour",
+        "knafo": "non_votant",
+        "marechal": "contre"
+      }
+    },
+    {
+      "id": "pe-10-179048",
+      "chambre": "PE",
+      "date": "2025-09-11",
+      "titre": "Gaza au point de rupture: action de l’Union pour combattre la famine, urgence de la libération des otages et progrès vers une solution fondée sur la coexistence de deux États — proposition de résolution (ensemble du texte)",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-09-11-RCV_FR.html",
+      "questions": [
+        "q34"
+      ],
+      "votes": {
+        "bardella": "abstention",
+        "glucksmann": "non_votant",
+        "knafo": "contre",
+        "marechal": "non_votant"
+      }
+    },
+    {
+      "id": "pe-10-176302",
+      "chambre": "PE",
+      "date": "2025-05-08",
+      "titre": "Normes de performance en matière d'émissions de CO2 pour les voitures particulières neuves et pour les véhicules utilitaires légers neufs pour les années 2025 à 2027 — proposition de la Commission",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-05-08-RCV_FR.html",
+      "questions": [
+        "q12"
+      ],
+      "votes": {
+        "bardella": "pour",
+        "glucksmann": "pour",
+        "knafo": "pour",
+        "marechal": "pour"
+      }
+    },
+    {
+      "id": "pe-10-172867",
+      "chambre": "PE",
+      "date": "2025-03-12",
+      "titre": "Livre blanc sur l’avenir de la défense européenne — proposition de résolution (ensemble du texte)",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-03-12-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "contre",
+        "glucksmann": "pour",
+        "knafo": "contre",
+        "marechal": "contre"
+      }
+    },
+    {
+      "id": "pe-10-172663",
+      "chambre": "PE",
+      "date": "2025-03-12",
+      "titre": "Poursuivre le soutien sans faille de l’Union à l’Ukraine, après trois ans de guerre d’agression russe — proposition de résolution (ensemble du texte)",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-03-12-RCV_FR.html",
+      "questions": [
+        "q17"
+      ],
+      "votes": {
+        "bardella": "abstention",
+        "glucksmann": "pour",
+        "knafo": "abstention",
+        "marechal": "abstention"
+      }
+    },
+    {
+      "id": "pe-10-169889",
+      "chambre": "PE",
+      "date": "2024-10-22",
+      "titre": "Établissement du mécanisme de coopération sous forme de prêts en faveur de l'Ukraine et octroi d'une assistance macrofinancière exceptionnelle à l'Ukraine — proposition de la Commission",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2024-10-22-RCV_FR.html",
+      "questions": [
+        "q17"
+      ],
+      "votes": {
+        "bardella": "abstention",
+        "glucksmann": "pour",
+        "knafo": "contre",
+        "marechal": "pour"
+      }
+    },
+    {
+      "id": "pe-10-169676",
+      "chambre": "PE",
+      "date": "2024-09-19",
+      "titre": "Pérennité du soutien financier et militaire des États membres de l'Union à l'Ukraine — proposition de résolution (ensemble du texte)",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2024-09-19-RCV_FR.html",
+      "questions": [
+        "q17"
+      ],
+      "votes": {
+        "bardella": "non_votant",
+        "glucksmann": "pour",
+        "knafo": "abstention",
+        "marechal": "pour"
+      }
+    },
+    {
+      "id": "pe-9-167531",
+      "chambre": "PE",
+      "date": "2024-04-10",
+      "titre": "Gestion de l’asile et de la migration — accord provisoire",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-04-10-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "contre",
+        "glucksmann": "contre",
+        "massard": "contre",
+        "maurel": "abstention"
+      }
+    },
+    {
+      "id": "pe-9-166904",
+      "chambre": "PE",
+      "date": "2024-04-10",
+      "titre": "Filtrage des ressortissants de pays tiers aux frontières extérieures — accord provisoire",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-04-10-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "contre",
+        "glucksmann": "contre",
+        "massard": "contre",
+        "maurel": "abstention"
+      }
+    },
+    {
+      "id": "pe-9-166777",
+      "chambre": "PE",
+      "date": "2024-03-14",
+      "titre": "Le risque immédiat de famine généralisée à Gaza et les attaques contre les livraisons d'aide humanitaire — proposition de résolution (ensemble du texte)",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-03-14-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "abstention",
+        "glucksmann": "pour",
+        "massard": "pour",
+        "maurel": "pour"
+      }
+    },
+    {
+      "id": "pe-9-166183",
+      "chambre": "PE",
+      "date": "2024-03-13",
+      "titre": "Législation européenne sur la liberté des médias — accord provisoire",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-03-13-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "contre",
+        "glucksmann": "pour",
+        "massard": "pour",
+        "maurel": "pour"
+      }
+    },
+    {
+      "id": "pe-9-166051",
+      "chambre": "PE",
+      "date": "2024-03-13",
+      "titre": "Législation sur l’intelligence artificielle — accord provisoire",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-03-13-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "pour",
+        "glucksmann": "pour",
+        "massard": "pour",
+        "maurel": "pour"
+      }
+    },
+    {
+      "id": "pe-9-164815",
+      "chambre": "PE",
+      "date": "2024-02-27",
+      "titre": "Cadre financier pluriannuel 2021-2027 — projet de règlement du Conseil",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-02-27-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "contre",
+        "glucksmann": "pour",
+        "massard": "pour",
+        "maurel": "abstention"
+      }
+    },
+    {
+      "id": "pe-9-164536",
+      "chambre": "PE",
+      "date": "2024-02-27",
+      "titre": "Création de la facilité pour l’Ukraine — accord provisoire",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-02-27-RCV_FR.html",
+      "questions": [
+        "q17"
+      ],
+      "votes": {
+        "bardella": "abstention",
+        "glucksmann": "pour",
+        "massard": "pour",
+        "maurel": "pour"
+      }
+    },
+    {
+      "id": "pe-9-164499",
+      "chambre": "PE",
+      "date": "2024-02-27",
+      "titre": "Restauration de la nature — accord provisoire",
+      "type": "appel_nominal",
+      "resultat": "adopté",
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-02-27-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "contre",
+        "glucksmann": "pour",
+        "massard": "pour",
+        "maurel": "pour"
+      }
+    },
+    {
+      "id": "pe-9-161821",
+      "chambre": "PE",
+      "date": "2023-11-22",
+      "titre": "Utilisation des produits phytopharmaceutiques compatible avec le développement durable — proposition de la Commission",
+      "type": "appel_nominal",
+      "resultat": null,
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2023-11-22-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "contre",
+        "glucksmann": "contre",
+        "massard": "contre",
+        "maurel": "contre"
+      }
+    },
+    {
+      "id": "pe-9-159664",
+      "chambre": "PE",
+      "date": "2023-10-19",
+      "titre": "Les attaques terroristes abjectes du Hamas contre Israël, le droit d'Israël à se défendre conformément au droit humanitaire et international et la situation humanitaire à Gaza — proposition de résolution (ensemble du texte)",
+      "type": "appel_nominal",
+      "resultat": null,
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2023-10-19-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "pour",
+        "glucksmann": "pour",
+        "massard": "pour",
+        "maurel": "pour"
+      }
+    },
+    {
+      "id": "pe-9-154173",
+      "chambre": "PE",
+      "date": "2023-04-18",
+      "titre": "Révision du système d'échange de quotas d'émission de l'UE — accord provisoire",
+      "type": "appel_nominal",
+      "resultat": null,
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2023-04-18-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "contre",
+        "glucksmann": "abstention",
+        "maurel": "contre"
+      }
+    },
+    {
+      "id": "pe-9-152544",
+      "chambre": "PE",
+      "date": "2023-02-14",
+      "titre": "Normes d'émissions de CO2 pour les voitures et les camionnettes — accord provisoire",
+      "type": "appel_nominal",
+      "resultat": null,
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2023-02-14-RCV_FR.html",
+      "questions": [
+        "q12"
+      ],
+      "votes": {
+        "bardella": "contre",
+        "glucksmann": "pour",
+        "maurel": "abstention"
+      }
+    },
+    {
+      "id": "pe-9-147456",
+      "chambre": "PE",
+      "date": "2022-09-15",
+      "titre": "Existence d’un risque clair de violation grave par la Hongrie des valeurs sur lesquelles l’Union est fondée — proposition de résolution (ensemble du texte)",
+      "type": "appel_nominal",
+      "resultat": null,
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2022-09-15-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "contre",
+        "glucksmann": "pour",
+        "maurel": "pour"
+      }
+    },
+    {
+      "id": "pe-9-147342",
+      "chambre": "PE",
+      "date": "2022-09-14",
+      "titre": "Salaires minimaux adéquats dans l’Union européenne — accord provisoire",
+      "type": "appel_nominal",
+      "resultat": null,
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2022-09-14-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "contre",
+        "glucksmann": "pour",
+        "maurel": "pour"
+      }
+    },
+    {
+      "id": "pe-9-146649",
+      "chambre": "PE",
+      "date": "2022-07-05",
+      "titre": "Législation sur les services numériques — accord provisoire",
+      "type": "appel_nominal",
+      "resultat": null,
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2022-07-05-RCV_FR.html",
+      "questions": [],
+      "votes": {
+        "bardella": "abstention",
+        "glucksmann": "pour",
+        "maurel": "pour"
+      }
+    },
+    {
+      "id": "pe-9-140111",
+      "chambre": "PE",
+      "date": "2022-03-01",
+      "titre": "Agression de l'Ukraine par la Russie — proposition de résolution (ensemble du texte)",
+      "type": "appel_nominal",
+      "resultat": null,
+      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2022-03-01-RCV_FR.html",
+      "questions": [
+        "q17"
+      ],
+      "votes": {
+        "bardella": "pour",
+        "glucksmann": "pour",
+        "maurel": "pour"
+      }
+    }
+  ],
+  "a_verifier": [
+    "Périmètre : ce fichier ne couvre que le Parlement européen. Un candidat dont la liste de mandats est vide n'a jamais été député européen ; il a pu être député ou sénateur, ce que ce fichier ne dit pas.",
+    "L'API du portail de données ouvertes du Parlement européen ne publie les décisions de séance plénière qu'à partir de la 9e législature (2 juillet 2019). Les votes de François Hollande et François Bayrou (1999), de Michel Barnier (2009-2010), de Jean-Luc Mélenchon (2009-2017), de Marine Le Pen (2004-2017) et de Florian Philippot (2014-2019) ne sont donc pas repris, alors que leurs mandats le sont.",
+    "L'annexe des votes par appel nominal ne publie que les listes « pour », « contre » et « abstention » : elle ne distingue pas un député absent d'un député présent n'ayant pas pris part au vote. Tout député en exercice à la date du scrutin et absent de ces trois listes est donc noté « non_votant », affiché « n'a pas pris part au vote », et jamais « absent ».",
+    "Les intentions de vote déclarées après coup (had_voter_intended_favor / _against / _abstention) ne sont pas appliquées : le vote effectivement enregistré dans le décompte nominatif officiel est repris tel quel.",
+    "Le champ decision_outcome (adopté / rejeté) n'est pas renseigné par l'API pour les scrutins les plus anciens de la 9e législature : « resultat » vaut alors null. Le sens du vote de chaque candidat, lui, est toujours issu des listes nominatives officielles.",
+    "33 scrutins retenus sur plusieurs dizaines de milliers de votes par appel nominal des 9e et 10e législatures : uniquement des votes sur l'ensemble d'un texte, choisis selon les critères listés dans scripts/votes_pe.py. Tous les autres restent consultables dans le jeu de données source.",
+    "Un scrutin sur l'ensemble d'une résolution porte sur un texte qui traite de plusieurs sujets : le rattachement à une question clé signale une correspondance d'objet, pas une réponse à la question."
+  ]
+}

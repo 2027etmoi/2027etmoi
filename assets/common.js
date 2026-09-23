@@ -256,3 +256,23 @@ initHeaderTips();
     e.currentTarget.setAttribute("aria-expanded", String(open));
   });
 })();
+
+const loadVotes = () => loadOptional("/data/votes.json");
+
+const CHAMBRES = { AN: "Assemblée nationale", SENAT: "Sénat", PE: "Parlement européen" };
+const VOTES = {
+  pour: "A voté pour", contre: "A voté contre", abstention: "Abstention",
+  non_votant: "N'a pas pris part au vote", absent: "Absent",
+};
+
+// Affichage d'un vote. Pour une motion de censure, seuls les votes « pour » sont
+// recensés officiellement : « absent » ne veut donc pas dire absence physique.
+function voteTag(v, type) {
+  if (type === "motion_censure" || type === "censure") {
+    return v === "pour"
+      ? `<span class="answer-tag oui">A voté la censure</span>`
+      : `<span class="answer-tag none" title="Le scrutin ne recense que les votes pour la censure">N'a pas voté la censure</span>`;
+  }
+  const cls = v === "pour" ? "oui" : v === "contre" ? "non" : "none";
+  return `<span class="answer-tag ${cls}">${esc(VOTES[v] || v)}</span>`;
+}

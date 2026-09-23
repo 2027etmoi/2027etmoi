@@ -1,0 +1,668 @@
+{
+  "mise_a_jour": "2026-09-23",
+  "sources": [
+    {
+      "titre": "Sénat — données ouvertes, répertoire des sénateurs",
+      "url": "https://data.senat.fr/les-senateurs/",
+      "licence": "Licence ouverte du Sénat (termes de la Licence Ouverte de data.gouv.fr)"
+    },
+    {
+      "titre": "Sénat — scrutins publics",
+      "url": "https://www.senat.fr/scrutin-public/scr2025.html",
+      "licence": "Licence ouverte du Sénat (termes de la Licence Ouverte de data.gouv.fr)"
+    }
+  ],
+  "mandats": {
+    "melenchon": [
+      {
+        "chambre": "SENAT",
+        "detail": "Sénateur de l'Essonne",
+        "debut": "1986-10-02",
+        "fin": "1995-10-01",
+        "source": {
+          "titre": "Sénat — répertoire des sénateurs (données ouvertes)",
+          "url": "https://data.senat.fr/data/senateurs/ODSEN_ELUSEN.json",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "SENAT",
+        "detail": "Sénateur de l'Essonne",
+        "debut": "1995-10-02",
+        "fin": "2000-04-27",
+        "source": {
+          "titre": "Sénat — répertoire des sénateurs (données ouvertes)",
+          "url": "https://data.senat.fr/data/senateurs/ODSEN_ELUSEN.json",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "SENAT",
+        "detail": "Sénateur de l'Essonne",
+        "debut": "2004-10-01",
+        "fin": "2010-01-07",
+        "source": {
+          "titre": "Sénat — répertoire des sénateurs (données ouvertes)",
+          "url": "https://data.senat.fr/data/senateurs/ODSEN_ELUSEN.json",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "faure": [],
+    "glucksmann": [],
+    "guedj": [],
+    "royal": [],
+    "maurel": [],
+    "roussel": [],
+    "ruffin": [],
+    "cazeneuve": [],
+    "bouamrane": [],
+    "hollande": [],
+    "arthaud": [],
+    "kazib": [],
+    "labib": [],
+    "tondelier": [],
+    "batho": [],
+    "vallaud": [],
+    "autain": [],
+    "castets": [],
+    "poutou": [],
+    "philippe": [],
+    "attal": [],
+    "villepin": [],
+    "le-maire": [],
+    "darmanin": [],
+    "bayrou": [],
+    "retailleau": [
+      {
+        "chambre": "SENAT",
+        "detail": "Sénateur de la Vendée",
+        "debut": "2004-10-01",
+        "fin": "2014-09-30",
+        "source": {
+          "titre": "Sénat — répertoire des sénateurs (données ouvertes)",
+          "url": "https://data.senat.fr/data/senateurs/ODSEN_ELUSEN.json",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "SENAT",
+        "detail": "Sénateur de la Vendée",
+        "debut": "2014-10-01",
+        "fin": "2020-09-30",
+        "source": {
+          "titre": "Sénat — répertoire des sénateurs (données ouvertes)",
+          "url": "https://data.senat.fr/data/senateurs/ODSEN_ELUSEN.json",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "SENAT",
+        "detail": "Sénateur de la Vendée",
+        "debut": "2020-10-01",
+        "fin": "2024-10-21",
+        "source": {
+          "titre": "Sénat — répertoire des sénateurs (données ouvertes)",
+          "url": "https://data.senat.fr/data/senateurs/ODSEN_ELUSEN.json",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "SENAT",
+        "detail": "Sénateur de la Vendée",
+        "debut": "2025-11-13",
+        "fin": null,
+        "source": {
+          "titre": "Sénat — fiche de Bruno Retailleau",
+          "url": "https://www.senat.fr/senateur/retailleau_bruno04033b.html",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "lisnard": [],
+    "bertrand": [],
+    "wauquiez": [],
+    "barnier": [
+      {
+        "chambre": "SENAT",
+        "detail": "Sénateur de la Savoie",
+        "debut": "1995-10-02",
+        "fin": "1995-10-31",
+        "source": {
+          "titre": "Sénat — répertoire des sénateurs (données ouvertes)",
+          "url": "https://data.senat.fr/data/senateurs/ODSEN_ELUSEN.json",
+          "date": "2026-09-23"
+        }
+      },
+      {
+        "chambre": "SENAT",
+        "detail": "Sénateur de la Savoie",
+        "debut": "1997-09-21",
+        "fin": "1999-09-23",
+        "source": {
+          "titre": "Sénat — répertoire des sénateurs (données ouvertes)",
+          "url": "https://data.senat.fr/data/senateurs/ODSEN_ELUSEN.json",
+          "date": "2026-09-23"
+        }
+      }
+    ],
+    "le-pen": [],
+    "bardella": [],
+    "zemmour": [],
+    "knafo": [],
+    "marechal": [],
+    "dupont-aignan": [],
+    "philippot": [],
+    "asselineau": [],
+    "lassalle": [],
+    "mlekuz": [],
+    "egger": [],
+    "mathieu": [],
+    "lalanne": [],
+    "branco": [],
+    "durif": [],
+    "mikolajczak": [],
+    "massard": [],
+    "lucas-lundy": [],
+    "brun": []
+  },
+  "scrutins": [
+    {
+      "id": "senat-2006-40",
+      "chambre": "SENAT",
+      "date": "2006-10-25",
+      "titre": "Sur l'ensemble du projet de loi, adopté par l'Assemblée nationale après déclaration d'urgence, relatif au secteur de l'énergie",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2006/scr2006-40.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour",
+        "melenchon": "contre"
+      }
+    },
+    {
+      "id": "senat-2006-122",
+      "chambre": "SENAT",
+      "date": "2007-07-26",
+      "titre": "Sur l'article premier du projet de loi, adopté par l'Assemblée nationale, après déclaration d'urgence, en faveur du travail, de l'emploi et du pouvoir d'achat (Exonération fiscale et sociale des heures supplémentaires)",
+      "type": "article",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2006/scr2006-122.html",
+      "questions": [
+        "q04"
+      ],
+      "votes": {
+        "retailleau": "pour",
+        "melenchon": "contre"
+      }
+    },
+    {
+      "id": "senat-2007-10",
+      "chambre": "SENAT",
+      "date": "2007-10-04",
+      "titre": "Sur l'ensemble du projet de loi, adopté par l'Assemblée nationale après déclaration d'urgence, relatif à la maîtrise de l'immigration, à l'intégration et à l'asile",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2007/scr2007-10.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour",
+        "melenchon": "contre"
+      }
+    },
+    {
+      "id": "senat-2007-85",
+      "chambre": "SENAT",
+      "date": "2008-02-07",
+      "titre": "Sur l'ensemble du projet de loi, adopté par l'Assemblée nationale, autorisant la ratification du traité de Lisbonne modifiant le traité sur l'Union européenne et le traité instituant la Communauté européenne",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2007/scr2007-85.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "contre",
+        "melenchon": "contre"
+      }
+    },
+    {
+      "id": "senat-2008-56",
+      "chambre": "SENAT",
+      "date": "2008-12-09",
+      "titre": "Sur l'ensemble du projet de loi de finances pour 2009, adopté par l'Assemblée nationale",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2008/scr2008-56.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour",
+        "melenchon": "contre"
+      }
+    },
+    {
+      "id": "senat-2008-109",
+      "chambre": "SENAT",
+      "date": "2009-02-10",
+      "titre": "Sur l'ensemble du projet de loi de programmation, adopté par l'Assemblée nationale, relatif à la mise en oeuvre du Grenelle de l'environnement",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2008/scr2008-109.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour",
+        "melenchon": "abstention"
+      }
+    },
+    {
+      "id": "senat-2009-276",
+      "chambre": "SENAT",
+      "date": "2010-09-14",
+      "titre": "Sur l'ensemble du projet de loi, adopté par l'Assemblée nationale, interdisant la dissimulation du visage dans l'espace public",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2009/scr2009-276.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2010-82",
+      "chambre": "SENAT",
+      "date": "2010-10-22",
+      "titre": "Sur l'ensemble du projet de loi, adopté par l'Assemblée nationale après engagement de la procédure accélérée, portant réforme des retraites",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2010/scr2010-82.html",
+      "questions": [
+        "q05"
+      ],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2010-195",
+      "chambre": "SENAT",
+      "date": "2011-04-14",
+      "titre": "Sur l'ensemble du projet de loi, adopté avec modifications par l'Assemblée nationale, relatif à l'immigration, à l'intégration et à la nationalité",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2010/scr2010-195.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2011-66",
+      "chambre": "SENAT",
+      "date": "2011-12-08",
+      "titre": "Sur l'ensemble de la proposition de loi constitutionnelle, adoptée par l'Assemblée nationale, visant à accorder le droit de vote et d'éligibilité aux élections municipales aux étrangers non-ressortissants de l'Union européenne résidant en France",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2011/scr2011-66.html",
+      "questions": [
+        "q30"
+      ],
+      "votes": {
+        "retailleau": "contre"
+      }
+    },
+    {
+      "id": "senat-2012-148",
+      "chambre": "SENAT",
+      "date": "2013-04-09",
+      "titre": "Sur l'article 1er du projet de loi, adopté par l'Assemblée nationale, ouvrant le mariage aux couples de personnes de même sexe",
+      "type": "article",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2012/scr2012-148.html",
+      "questions": [
+        "q25"
+      ],
+      "votes": {
+        "retailleau": "contre"
+      }
+    },
+    {
+      "id": "senat-2013-42",
+      "chambre": "SENAT",
+      "date": "2013-11-05",
+      "titre": "Sur l'ensemble du projet de loi, adopté par l'Assemblée nationale après engagement de la procédure accélérée, garantissant l'avenir et la justice du système de retraites",
+      "type": "ensemble",
+      "resultat": "rejeté",
+      "url": "https://www.senat.fr/scrutin-public/2013/scr2013-42.html",
+      "questions": [
+        "q05"
+      ],
+      "votes": {
+        "retailleau": "contre"
+      }
+    },
+    {
+      "id": "senat-2014-215",
+      "chambre": "SENAT",
+      "date": "2015-06-23",
+      "titre": "Sur l'ensemble de la proposition de loi, adoptée par l'Assemblée nationale, créant de nouveaux droits en faveur des malades et des personnes en fin de vie",
+      "type": "ensemble",
+      "resultat": "rejeté",
+      "url": "https://www.senat.fr/scrutin-public/2014/scr2014-215.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2015-13",
+      "chambre": "SENAT",
+      "date": "2015-10-13",
+      "titre": "Sur l'ensemble du projet de loi, adopté par l'Assemblée nationale après engagement de la procédure accélérée, relatif au droit des étrangers en France",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2015/scr2015-13.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2016-123",
+      "chambre": "SENAT",
+      "date": "2017-07-18",
+      "titre": "Sur l'ensemble du projet de loi renforçant la sécurité intérieure et la lutte contre le terrorisme",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2016/scr2016-123.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2017-6",
+      "chambre": "SENAT",
+      "date": "2017-11-08",
+      "titre": "Sur l'ensemble du projet de loi, adopté par l'Assemblée nationale après engagement de la procédure accélérée, mettant fin à la recherche ainsi qu'à l'exploitation des hydrocarbures conventionnels et non conventionnels et portant diverses dispositions relatives à l'énergie et à l'environnement",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-6.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2017-171",
+      "chambre": "SENAT",
+      "date": "2018-06-26",
+      "titre": "Sur l'ensemble du projet de loi, adopté par l'Assemblée nationale après engagement de la procédure accélérée, pour une immigration maîtrisée, un droit d'asile effectif et une intégration réussie",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-171.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2018-170",
+      "chambre": "SENAT",
+      "date": "2019-07-18",
+      "titre": "Sur l'ensemble du projet de loi, adopté par l'Assemblée nationale après engagement de la procédure accélérée, relatif à l'énergie et au climat",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2018/scr2018-170.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2020-148",
+      "chambre": "SENAT",
+      "date": "2021-06-29",
+      "titre": "Sur l'ensemble du projet de loi portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2020/scr2020-148.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2022-8",
+      "chambre": "SENAT",
+      "date": "2022-10-19",
+      "titre": "Sur l'ensemble de la proposition de loi constitutionnelle visant à protéger et à garantir le droit fondamental à l'interruption volontaire de grossesse et à la contraception",
+      "type": "ensemble",
+      "resultat": "rejeté",
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-8.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "contre"
+      }
+    },
+    {
+      "id": "senat-2022-110",
+      "chambre": "SENAT",
+      "date": "2023-01-24",
+      "titre": "Sur l'ensemble du projet de loi relatif à l'accélération des procédures liées à la construction de nouvelles installations nucléaires à proximité de sites nucléaires existants et au fonctionnement des installations existantes (procédure accélérée)",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-110.html",
+      "questions": [
+        "q11"
+      ],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2022-124",
+      "chambre": "SENAT",
+      "date": "2023-02-07",
+      "titre": "Sur l'ensemble de la proposition de résolution en application de l'article 34-1 de la Constitution, exprimant le soutien du Sénat à l'Ukraine, condamnant la guerre d'agression menée par la Fédération de Russie et appelant au renforcement de l'aide fournie à l'Ukraine",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-124.html",
+      "questions": [
+        "q17"
+      ],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2022-249",
+      "chambre": "SENAT",
+      "date": "2023-03-11",
+      "titre": "Sur les articles 9 à 20 et sur l'ensemble du texte, en ne retenant que les amendements proposés ou acceptés par le Gouvernement en application de l'article 44, alinéa 3 de la Constitution du projet de loi de financement rectificative de la sécurité sociale, dont le Sénat est saisi en application de l'article 47-1, alinéa 2, de la Constitution, pour 2023",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-249.html",
+      "questions": [
+        "q05"
+      ],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2022-251",
+      "chambre": "SENAT",
+      "date": "2023-03-16",
+      "titre": "Sur l'ensemble du texte élaboré par la commission mixte paritaire sur le projet de loi de financement rectificative de la sécurité sociale pour 2023",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-251.html",
+      "questions": [
+        "q05"
+      ],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2022-332",
+      "chambre": "SENAT",
+      "date": "2023-07-13",
+      "titre": "Sur l'ensemble du texte élaboré par la commission mixte paritaire sur la proposition de loi visant à renforcer l'accompagnement des élus locaux dans la mise en œuvre de la lutte contre l'artificialisation des sols",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-332.html",
+      "questions": [
+        "q23"
+      ],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2023-43",
+      "chambre": "SENAT",
+      "date": "2023-11-14",
+      "titre": "Sur l'ensemble du projet de loi pour contrôler l'immigration, améliorer l'intégration",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-43.html",
+      "questions": [
+        "q13",
+        "q14"
+      ],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2023-109",
+      "chambre": "SENAT",
+      "date": "2023-12-19",
+      "titre": "Sur l'ensemble du texte élaboré par la commission mixte paritaire sur le projet de loi pour contrôler l'immigration, améliorer l'intégration",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-109.html",
+      "questions": [
+        "q13",
+        "q14"
+      ],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2023-136",
+      "chambre": "SENAT",
+      "date": "2024-02-28",
+      "titre": "Sur l'article unique constituant l'ensemble du projet de loi constitutionnelle relatif à la liberté de recourir à l'interruption volontaire de grossesse",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-136.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "contre"
+      }
+    },
+    {
+      "id": "senat-2025-61",
+      "chambre": "SENAT",
+      "date": "2025-11-26",
+      "titre": "Sur l'ensemble du projet de loi de financement de la sécurité sociale pour 2026",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-61.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2025-125",
+      "chambre": "SENAT",
+      "date": "2025-12-15",
+      "titre": "Sur l'ensemble du projet de loi de finances pour 2026",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-125.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2025-169",
+      "chambre": "SENAT",
+      "date": "2026-01-28",
+      "titre": "Sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir",
+      "type": "ensemble",
+      "resultat": "rejeté",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-169.html",
+      "questions": [
+        "q08"
+      ],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2025-307",
+      "chambre": "SENAT",
+      "date": "2026-06-11",
+      "titre": "Sur l'article 1er de la proposition de loi visant à lutter contre les déserts médicaux, d'initiative transpartisane",
+      "type": "article",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-307.html",
+      "questions": [
+        "q07"
+      ],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2025-337",
+      "chambre": "SENAT",
+      "date": "2026-07-21",
+      "titre": "Sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-337.html",
+      "questions": [
+        "q33"
+      ],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2025-338",
+      "chambre": "SENAT",
+      "date": "2026-07-21",
+      "titre": "Sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-338.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour"
+      }
+    },
+    {
+      "id": "senat-2025-340",
+      "chambre": "SENAT",
+      "date": "2026-07-21",
+      "titre": "Sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles",
+      "type": "ensemble",
+      "resultat": "adopté",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-340.html",
+      "questions": [],
+      "votes": {
+        "retailleau": "pour"
+      }
+    }
+  ],
+  "a_verifier": [
+    "Michel Barnier a été sénateur de la Savoie (1995, puis 1997-1999) : les scrutins publics du Sénat n'étant publiés en ligne qu'à partir de la session 2006-2007, aucun de ses votes n'est repris ici.",
+    "Aucun scrutin n'est retenu entre le 21 octobre 2024 et le 13 novembre 2025 : Bruno Retailleau, seul sénateur en exercice parmi les candidats, n'était alors pas membre du Sénat (fonctions gouvernementales)."
+  ]
+}
