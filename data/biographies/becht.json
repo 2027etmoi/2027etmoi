@@ -1,0 +1,110 @@
+{
+  "id": "becht",
+  "mise_a_jour": "2026-09-25",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Olivier_Becht_%28cropped%29.jpg/500px-Olivier_Becht_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Olivier_Becht_(cropped).jpg",
+    "auteur": "Jean-Luc Hauser",
+    "licence": "CC BY-SA 4.0",
+    "annee": "2017",
+    "officielle": false,
+    "legende": "Olivier Becht au palais Bourbon en 2017"
+  },
+  "presentation": {
+    "texte": "Olivier Becht est un homme politique français, député du Haut-Rhin depuis 2017 (Renaissance, apparenté groupe Ensemble pour la République). Ancien maire de Rixheim, il a été ministre délégué chargé du Commerce extérieur de 2022 à 2024.",
+    "sources": [
+      {
+        "titre": "Olivier Becht — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+        "date": "2026-09-25"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1976-04-28",
+    "lieu": "Strasbourg (Bas-Rhin)",
+    "source": {
+      "titre": "Olivier Becht — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+      "date": "2026-09-25"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Annonce sa candidature à l'élection présidentielle de 2027, à Rixheim.",
+      "source": {
+        "titre": "ICI Alsace",
+        "url": "https://www.ici.fr/grand-est/alsace-cea/rixheim/il-faut-refonder-notre-modele-le-depute-alsacien-olivier-becht-est-candidat-a-la-presidentielle-1401407",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "periode": "depuis 2017",
+      "texte": "Député de la 5e circonscription du Haut-Rhin, réélu en 2022 et 2024.",
+      "source": {
+        "titre": "Olivier Becht — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+        "date": "2026-09-25"
+      }
+    },
+    {
+      "periode": "2022-2024",
+      "texte": "Ministre délégué chargé du Commerce extérieur, de l'Attractivité et des Français de l'étranger, dans le gouvernement d'Élisabeth Borne.",
+      "source": {
+        "titre": "Olivier Becht — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+        "date": "2026-09-25"
+      }
+    },
+    {
+      "periode": "2020-2022",
+      "texte": "Président du groupe Agir Ensemble à l'Assemblée nationale.",
+      "source": {
+        "titre": "Olivier Becht — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+        "date": "2026-09-25"
+      }
+    },
+    {
+      "periode": "2008-2017",
+      "texte": "Maire de Rixheim (Haut-Rhin).",
+      "source": {
+        "titre": "Olivier Becht — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+        "date": "2026-09-25"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "depuis 2008",
+      "texte": "Enseignant à l'université de Haute-Alsace.",
+      "source": {
+        "titre": "Olivier Becht — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+        "date": "2026-09-25"
+      }
+    },
+    {
+      "periode": "Avant la politique",
+      "texte": "Magistrat administratif, en poste au tribunal administratif de Nancy.",
+      "source": {
+        "titre": "Olivier Becht — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+        "date": "2026-09-25"
+      }
+    },
+    {
+      "periode": "2002-2004",
+      "texte": "École nationale d'administration, promotion Léopold-Sédar-Senghor.",
+      "source": {
+        "titre": "Olivier Becht — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+        "date": "2026-09-25"
+      }
+    }
+  ],
+  "affaires": [],
+  "a_verifier": []
+}
