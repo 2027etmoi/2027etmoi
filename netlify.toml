@@ -22,3 +22,10 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
     X-Frame-Options = "SAMEORIGIN"
+
+# Une seule adresse indexable : l'adresse Netlify renvoie vers le domaine
+[[redirects]]
+  from = "https://2027etmoi.netlify.app/*"
+  to = "https://2027etmoi.fr/:splat"
+  status = 301
+  force = true

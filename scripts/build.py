@@ -103,8 +103,10 @@ subprocess.run([sys.executable, str(ROOT / "scripts" / "meta.py")], check=True)
 meta = load(DATA / "meta.json")
 lastmod = max(filter(None, [meta.get("publication"), meta.get("donnees")]))
 
+ORGANISATION = {"@context": "https://schema.org", "@type": "Organization", "name": NOM_SITE, "url": SITE + "/",
+                "logo": f"{SITE}/assets/apple-touch-icon.png", "description": "Site d'information indépendant et non partisan sur l'élection présidentielle française de 2027."}
 WEBSITE = {"@context": "https://schema.org", "@type": "WebSite", "name": NOM_SITE, "url": SITE + "/", "inLanguage": "fr-FR",
-           "description": PAGES["index.html"][1]}
+           "description": PAGES["index.html"][1], "publisher": {"@type": "Organization", "name": NOM_SITE, "url": SITE + "/"}}
 
 # Version des fichiers CSS/JS (empreinte du contenu) pour forcer leur rechargement après une mise à jour
 import hashlib
@@ -123,7 +125,7 @@ for page, (titre, desc) in PAGES.items():
         continue
     url = SITE + ("/" if page == "index.html" else f"/{page}")
     s = set_title_desc(f.read_text(encoding="utf-8"), f"{titre} | {NOM_SITE}" if page != "index.html" else f"{titre} — {NOM_SITE}", desc)
-    jsonld = [WEBSITE] if page == "index.html" else []
+    jsonld = [WEBSITE, ORGANISATION] if page == "index.html" else []
     if page == "candidats.html":
         jsonld.append({"@context": "https://schema.org", "@type": "ItemList", "name": "Candidats à l'élection présidentielle française de 2027",
                        "numberOfItems": len([c for c in load(DATA / "candidats.json")["candidats"] if c["statut"] in ("declare", "primaire", "pressenti")]),
@@ -359,6 +361,7 @@ for theme, label in THEMES.items():
     collection = {"@context": "https://schema.org", "@type": "CollectionPage", "name": f"{label} — Présidentielle 2027",
                   "url": url, "inLanguage": "fr-FR", "dateModified": lastmod,
                   "description": f"Propositions des candidats à la présidentielle 2027 sur le thème « {label} », avec leurs sources."}
+    sections.append(f'<p class="meta">Page mise à jour le {esc(lastmod)} · les mesures et positions proviennent des fiches candidats, chacune sourcée.</p>')
     corps = fil + "\n" + "\n".join(sections)
     titre_court = label.split(",")[0]
     (themes_dir / f"{theme}.html").write_text(page_html(
