@@ -1,6 +1,6 @@
 # Points à vérifier (généré)
 
-Généré le 2026-09-23 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 535 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
+Généré le 2026-09-25 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 537 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
 
 ## Biographies et affaires judiciaires
 
@@ -322,6 +322,11 @@ Généré le 2026-09-23 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Contenu programmatique du livre « La politique de la beauté » (éd. de l'Aube, juin 2026) non consulté.
 - [ ] Entretiens vidéo sur RMC (20/08/2026) et Sud Radio (24/08/2026) relayés par Génération écologie : contenu non transcrit, non vérifié.
 - [ ] « Green Deal européen renforcé » et « fin des accords de libre-échange climaticides » : relevés uniquement sur un agrégateur (elyseescope), non retenus.
+
+### Olivier Becht (`data/programmes/becht.json`)
+
+- [ ] Orientations générales annoncées le 24/09/2026 sans mesure chiffrée : énergie « 100 % française et 100 % décarbonée », « contrat universel » de protection sociale tout au long de la vie, « France fédérale » donnant davantage de pouvoir aux acteurs locaux. Trop générales pour constituer des mesures publiables (règle de non-extrapolation) ; à préciser à la parution du livre « Projet France ».
+- [ ] Le JDD (24/09/2026) a également couvert l'annonce mais la page est en accès payant (HTTP 403) : non ouverte.
 
 ### Xavier Bertrand (`data/programmes/bertrand.json`)
 

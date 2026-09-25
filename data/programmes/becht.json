@@ -1,0 +1,30 @@
+{
+  "id": "becht",
+  "mise_a_jour": "2026-09-25",
+  "programme": {
+    "titre": "Projet France",
+    "url": "",
+    "etat": "aucun",
+    "note": "Candidature annoncée le 24/09/2026 ; un livre détaillant le « Projet France » est annoncé mais pas encore publié au 25/09/2026. Seules des orientations générales ont été présentées lors de l'annonce."
+  },
+  "reperes": [
+    { "texte": "Ancien maire de Rixheim (Haut-Rhin) et ministre délégué chargé du Commerce extérieur (2022-2024).", "source": { "titre": "Olivier Becht — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Olivier_Becht", "date": "2026-09-25" } },
+    { "texte": "Annonce sa candidature à Rixheim, la commune dont il a été maire.", "source": { "titre": "ICI Alsace", "url": "https://www.ici.fr/grand-est/alsace-cea/rixheim/il-faut-refonder-notre-modele-le-depute-alsacien-olivier-becht-est-candidat-a-la-presidentielle-1401407", "date": "2026-09-24" } }
+  ],
+  "mesures": [
+    {
+      "theme": "securite",
+      "texte": "Création de centres de redressement pour délinquants, encadrés par d'anciens militaires, pour travailler et rembourser.",
+      "nature": "declaration",
+      "source": { "titre": "ICI Alsace", "url": "https://www.ici.fr/grand-est/alsace-cea/rixheim/il-faut-refonder-notre-modele-le-depute-alsacien-olivier-becht-est-candidat-a-la-presidentielle-1401407", "date": "2026-09-24" }
+    }
+  ],
+  "ressources": [
+    { "titre": "ICI Alsace — « Il faut refonder notre modèle » : le député alsacien Olivier Becht est candidat à la présidentielle", "url": "https://www.ici.fr/grand-est/alsace-cea/rixheim/il-faut-refonder-notre-modele-le-depute-alsacien-olivier-becht-est-candidat-a-la-presidentielle-1401407", "type": "article", "date": "2026-09-24" },
+    { "titre": "CNews — Camarade de promo d'Emmanuel Macron à l'ENA, l'ancien ministre Olivier Becht annonce sa candidature", "url": "https://www.cnews.fr/france/2026-09-24/presidentielle-2027-camarade-de-promo-demmanuel-macron-lena-lancien-ministre", "type": "article", "date": "2026-09-24" }
+  ],
+  "a_verifier": [
+    "Orientations générales annoncées le 24/09/2026 sans mesure chiffrée : énergie « 100 % française et 100 % décarbonée », « contrat universel » de protection sociale tout au long de la vie, « France fédérale » donnant davantage de pouvoir aux acteurs locaux. Trop générales pour constituer des mesures publiables (règle de non-extrapolation) ; à préciser à la parution du livre « Projet France ».",
+    "Le JDD (24/09/2026) a également couvert l'annonce mais la page est en accès payant (HTTP 403) : non ouverte."
+  ]
+}
