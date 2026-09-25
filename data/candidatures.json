@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-09-25",
   "candidatures": {
     "philippe": {
       "declaration": {
@@ -569,6 +569,32 @@
           "titre": "Sud Radio — L'avocat Juan Branco candidat à la présidentielle",
           "url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle",
           "date": "2025-12-19"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
+      }
+    },
+    "becht": {
+      "declaration": {
+        "date": "2026-09-24",
+        "source": {
+          "titre": "ICI Alsace",
+          "url": "https://www.ici.fr/grand-est/alsace-cea/rixheim/il-faut-refonder-notre-modele-le-depute-alsacien-olivier-becht-est-candidat-a-la-presidentielle-1401407",
+          "date": "2026-09-24"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature annoncée par lui-même ; aucune procédure de désignation mentionnée.",
+        "source": {
+          "titre": "ICI Alsace",
+          "url": "https://www.ici.fr/grand-est/alsace-cea/rixheim/il-faut-refonder-notre-modele-le-depute-alsacien-olivier-becht-est-candidat-a-la-presidentielle-1401407",
+          "date": "2026-09-24"
         }
       },
       "precedentes": [],
