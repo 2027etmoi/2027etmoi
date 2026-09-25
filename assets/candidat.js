@@ -39,6 +39,7 @@ function programmeSections(c, p) {
       </div>
       ${themes.map((t) => `<details class="card theme-block" id="t-${t}">
           <summary><h3>${esc(THEMES[t])}</h3><span class="fold-count">${byTheme[t].length}</span></summary>
+          <p class="notice"><a href="/themes/${t}.html">Voir ce que proposent tous les candidats sur ce thème →</a></p>
           <ul class="measures">${byTheme[t].map(measureItem).join("")}</ul>
         </details>`).join("")}
       <p class="notice">Les thèmes absents n'ont pas de proposition sourcée à ce jour. <span class="tag programme">Programme</span> document officiel de campagne · <span class="tag declaration">Déclaration</span> propos du candidat rapportés · <span class="tag presse">Presse</span> mesure décrite par un média.</p>`

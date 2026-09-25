@@ -653,3 +653,16 @@ button.cta { border: 0; font: inherit; font-weight: 600; cursor: pointer; }
 .qpos .dot { display: inline-block; vertical-align: 1px; }
 [id="t-societe"], .th-societe { --tint: var(--pastel-lavender); }
 .sr-h { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* Fil d'Ariane, pages thématiques et calendrier */
+.fil { font-size: 13px; color: var(--muted); margin: 18px 0 4px; }
+.fil a { color: inherit; }
+.entry-grid-13 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.cand-links.cols { columns: 3; column-gap: 24px; }
+.cand-links.cols li { break-inside: avoid; }
+.steps-col { grid-template-columns: 1fr; }
+.steps-col .step { display: grid; grid-template-columns: 220px 1fr auto; align-items: center; gap: 4px 16px; }
+.steps-col .step .source { grid-column: 1 / -1; }
+.theme-block h3 .party { font-weight: 400; font-size: 13px; }
+@media (max-width: 900px) { .entry-grid-13 { grid-template-columns: repeat(2, minmax(0, 1fr)); } .cand-links.cols { columns: 2; } }
+@media (max-width: 760px) { .entry-grid-13 { grid-template-columns: 1fr; } .cand-links.cols { columns: 1; } .steps-col .step { grid-template-columns: 1fr; } }
