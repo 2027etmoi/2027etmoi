@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-09-25",
   "candidats": [
     {
       "id": "melenchon",
@@ -520,6 +520,26 @@
         "wikipedia": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
       },
       "verifie_le": "2026-09-22"
+    },
+    {
+      "id": "becht",
+      "nom": "Olivier Becht",
+      "parti": "Renaissance",
+      "bloc": "centre",
+      "statut": "declare",
+      "statut_detail": "Candidature annoncée à Rixheim (Haut-Rhin), commune dont il a été maire. Député du Haut-Rhin, ancien ministre délégué chargé du Commerce extérieur.",
+      "source": {
+        "titre": "ICI Alsace",
+        "url": "https://www.ici.fr/grand-est/alsace-cea/rixheim/il-faut-refonder-notre-modele-le-depute-alsacien-olivier-becht-est-candidat-a-la-presidentielle-1401407",
+        "date": "2026-09-24"
+      },
+      "propositions": [
+        "Création de centres de redressement pour délinquants, encadrés par d'anciens militaires, pour travailler et rembourser."
+      ],
+      "liens": {
+        "wikipedia": "https://fr.wikipedia.org/wiki/Olivier_Becht"
+      },
+      "verifie_le": "2026-09-25"
     },
     {
       "id": "villepin",
