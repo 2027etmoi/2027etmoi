@@ -31,13 +31,19 @@ Sources refusées : les agrégateurs et comparateurs non officiels (elyseescope,
    - respecte le format existant (hypothèses, scores par id).
 5. **Programmes** (`data/programmes/<id>.json`) : ajoute les mesures des programmes publiés ou détaillés depuis la dernière mise à jour. Commence par les points signalés dans `docs/a-verifier.md` (par exemple la trajectoire économique de Marine Le Pen ou le programme de l'UPR).
 6. **Positions sur les questions clés** (`data/questions.json`) : mets-les à jour si une nouvelle position sourcée est apparue.
-7. **Affaires judiciaires** (`data/biographies/<id>.json`) : mets à jour l'état des procédures qui ont évolué, avec une source de presse reconnue ouverte.
+7. **Votes au Parlement** (`data/votes.json`) : si tu ajoutes un candidat, ou si le rapport signale un candidat absent des données de votes :
+   - cherche s'il a été député, sénateur ou député européen ;
+   - si oui, trouve son identifiant officiel (Assemblée : `PA…` dans le jeu AMO30 ; Sénat : matricule ; Parlement européen : identifiant MEP), **vérifie-le par le triplet prénom, nom, date de naissance**, ajoute-le au tableau en tête du script concerné (`scripts/votes_an.py`, `votes_an_historique.py`, `votes_senat.py`, `votes_pe.py`), relance ce script puis `python3 scripts/fusion_votes.py` ;
+   - si tu ne peux pas vérifier l'identifiant, ne devine pas : signale-le dans la pull request et dans `a_verifier` ;
+   - s'il n'a jamais été parlementaire, vérifie que sa fiche affiche bien « jamais élu au Parlement » (entrée `"mandats": []`).
+   Ces scripts sont l'exception à la règle « ne pas toucher au code » : tu peux y ajouter une ligne d'identifiant, rien d'autre.
+8. **Affaires judiciaires** (`data/biographies/<id>.json`) : mets à jour l'état des procédures qui ont évolué, avec une source de presse reconnue ouverte.
 
 Limite-toi à ce que tu peux vérifier sérieusement. Mieux vaut peu de changements sûrs que beaucoup de changements douteux.
 
 ## Contraintes techniques
 
-- Modifie uniquement les fichiers de `data/` (et `docs/a-verifier.md` via le script). Ne touche jamais au code : `assets/`, `scripts/`, les pages `.html` et `.github/`.
+- Modifie uniquement les fichiers de `data/` (et `docs/a-verifier.md` via le script). Ne touche jamais au code : `assets/`, les pages `.html` et `.github/`. Seule exception, décrite au point 7 : ajouter une ligne d'identifiant parlementaire dans les scripts `scripts/votes_*.py`.
 - Mets à jour le champ `mise_a_jour` des fichiers que tu modifies.
 - Avant de conclure, lance :
   - `python3 scripts/propositions_phares.py`

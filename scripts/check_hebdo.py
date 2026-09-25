@@ -123,6 +123,19 @@ except Exception as e:  # noqa: BLE001
     texte = f"ℹ️ Page Arcom non exploitable automatiquement ({e}) : vérifier à la main (dernier mois intégré : {dernier_mois})."
 sections.append("## 6. Temps de parole (Arcom)\n\n" + texte + "\n")
 
+# 6 bis. Candidats absents des données de votes
+vt = load(DATA / "votes.json") if (DATA / "votes.json").exists() else {"mandats": {}}
+sans = [c["nom"] for c in cands if c["statut"] in EN_LICE and c["id"] not in (vt.get("mandats") or {})]
+if sans:
+    alertes += 1
+sections.append("## 6 bis. Données de votes\n\n" + (
+    f"⚠️ {len(sans)} candidat(s) absent(s) de `data/votes.json` : " + ", ".join(sans)
+    + ".\n\nS'ils ont été parlementaires, ajouter leur identifiant (Assemblée, Sénat ou Parlement européen) "
+      "dans le tableau en tête de `scripts/votes_an.py`, `votes_an_historique.py`, `votes_senat.py` ou `votes_pe.py`, "
+      "relancer le script concerné puis `scripts/fusion_votes.py`. Sinon, leur ajouter une entrée vide "
+      "(`\"mandats\": []`) pour que leur fiche affiche « jamais élu au Parlement »."
+    if sans else "✅ Tous les candidats figurent dans les données de votes.") + "\n")
+
 # 7. Points en attente
 code, out = run(["scripts/a_verifier.py"])
 m = re.search(r"(\d+) points", out)
