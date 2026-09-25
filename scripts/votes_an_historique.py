@@ -149,6 +149,7 @@ CANDIDATS_DEPUTES = {
     "autain": ("PA588884", "Clémentine", "Autain", "1973-05-26"),
     "philippe": ("PA345619", "Édouard", "Philippe", "1970-11-28"),
     "attal": ("PA722190", "Gabriel", "Attal", "1989-03-16"),
+    "becht": ("PA642935", "Olivier", "Becht", "1976-04-28"),
     "le-maire": ("PA331481", "Bruno", "Le Maire", "1969-04-15"),
     "darmanin": ("PA607846", "Gérald", "Darmanin", "1982-10-11"),
     "bayrou": ("PA410", "François", "Bayrou", "1951-05-25"),
