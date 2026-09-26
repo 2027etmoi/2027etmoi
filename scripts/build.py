@@ -55,6 +55,53 @@ PAGES = {
 }
 
 
+MOIS_FR = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
+           "août", "septembre", "octobre", "novembre", "décembre"]
+JOURS_FR = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
+
+
+def date_courte(iso):
+    """2027-04-18 -> 18 avril 2027 (chaîne vide si le format est inattendu)."""
+    try:
+        d = date(*(int(x) for x in iso.split("-")))
+    except (TypeError, ValueError, AttributeError):
+        return ""
+    return f"{'1er' if d.day == 1 else d.day} {MOIS_FR[d.month - 1]} {d.year}"
+
+
+def date_fr(iso):
+    """2027-04-18 -> dimanche 18 avril 2027 (chaîne vide si le format est inattendu)."""
+    try:
+        d = date(*(int(x) for x in iso.split("-")))
+    except (TypeError, ValueError, AttributeError):
+        return ""
+    return f"{JOURS_FR[d.weekday()]} {date_courte(iso)}"
+
+
+def pct(v):
+    """2.0 -> « 2,0 % »."""
+    return f"{v:.1f}".replace(".", ",") + " %"
+
+
+def moyennes_sondages(data):
+    """Moyenne, nombre de sondages et fourchette par candidat.
+
+    Même calcul que computeMoyennes() dans assets/common.js : moyenne des
+    hypothèses à l'intérieur d'un sondage, puis moyenne des sondages.
+    """
+    par_sondage = {}
+    for s in data.get("sondages", []):
+        acc = {}
+        for h in s.get("hypotheses", []):
+            for cid, v in (h.get("scores") or {}).items():
+                if isinstance(v, (int, float)):
+                    acc.setdefault(cid, []).append(v)
+        for cid, vals in acc.items():
+            par_sondage.setdefault(cid, []).append(sum(vals) / len(vals))
+    return {cid: {"moyenne": sum(v) / len(v), "n": len(v), "min": min(v), "max": max(v)}
+            for cid, v in par_sondage.items()}
+
+
 def load(p):
     return json.loads(Path(p).read_text(encoding="utf-8"))
 
@@ -145,6 +192,20 @@ for page, (titre, desc) in PAGES.items():
 
 # --- 3. pages candidats
 cands = load(DATA / "candidats.json")["candidats"]
+sond = load(DATA / "sondages.json") if (DATA / "sondages.json").exists() else {"sondages": []}
+moy = moyennes_sondages(sond)
+fen = sond.get("fenetre") or {}
+def _fenetre(debut, fin):
+    """« du 1er août au 22 septembre 2026 » (l'année n'est écrite qu'une fois)."""
+    d, f = date_courte(debut), date_courte(fin)
+    if not d or not f:
+        return ""
+    if debut[:4] == fin[:4]:
+        d = d.rsplit(" ", 1)[0]
+    return f" (publiés du {d} au {f})"
+
+
+fenetre_txt = _fenetre(fen.get("debut"), fen.get("fin"))
 (ROOT / "candidat.html").write_text(versionner((ROOT / "candidat.html").read_text(encoding="utf-8")), encoding="utf-8")
 gabarit = (ROOT / "candidat.html").read_text(encoding="utf-8")
 out = ROOT / "candidats"
@@ -189,6 +250,23 @@ for c in cands:
               f'<p class="lede">{esc(c["nom"])}, {esc(statut)} à l\'élection présidentielle 2027. {esc(c.get("statut_detail"))}</p>']
     if base:
         resume.append(f"<p>{esc(base)}</p>")
+    # Intentions de vote : reprise du calcul affiché sur la page Sondages
+    if c["statut"] in ("declare", "primaire", "pressenti"):
+        m = moy.get(cid)
+        if m:
+            fourchette = (f", dans une fourchette de {pct(m['min'])} à {pct(m['max'])}"
+                          if m["n"] > 1 and m["max"] - m["min"] > 0.05 else "")
+            resume.append(
+                f'<p><strong>Sondages :</strong> {esc(c["nom"])} apparaît dans {m["n"]} sondage'
+                f'{"s" if m["n"] > 1 else ""} d\'intentions de vote au premier tour{esc(fenetre_txt)}, '
+                f'avec une moyenne de {pct(m["moyenne"])}{fourchette}. Un sondage mesure une intention à une '
+                f'date donnée : ce n\'est ni un pronostic ni un résultat. '
+                f'<a href="/sondages.html#{cid}">Détail des sondages</a></p>')
+        else:
+            resume.append(
+                f'<p><strong>Sondages :</strong> {esc(c["nom"])} ne figure dans aucune des hypothèses '
+                f'des sondages retenus{esc(fenetre_txt)}. '
+                f'<a href="/sondages.html">Voir les sondages</a></p>')
     if par_theme:
         resume.append(f"<h2>Programme de {esc(c['nom'])} pour 2027</h2>")
         for t, label in THEMES.items():
@@ -394,17 +472,6 @@ lignes_cal = "".join(
     f'<span class="source">Source : <a href="{esc(e["source"]["url"])}" target="_blank" rel="noopener">{esc(e["source"].get("titre", "lien"))}</a>, {esc(e["source"].get("date", ""))}</span></li>'
     for e in cal.get("etapes", []))
 
-
-def date_fr(iso):
-    """2027-04-18 -> dimanche 18 avril 2027 (chaîne vide si le format est inattendu)."""
-    MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
-            "août", "septembre", "octobre", "novembre", "décembre"]
-    JOURS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
-    try:
-        d = date(*(int(x) for x in iso.split("-")))
-    except (TypeError, ValueError):
-        return ""
-    return f"{JOURS[d.weekday()]} {'1er' if d.day == 1 else d.day} {MOIS[d.month - 1]} {d.year}"
 
 
 def event_jsonld(e):
