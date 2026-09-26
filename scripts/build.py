@@ -26,8 +26,13 @@ SITE = (os.environ.get("SITE_URL") or os.environ.get("URL") or "https://2027etmo
 NOM_SITE = "2027 et moi"
 OG_DEFAUT = f"{SITE}/assets/og.jpg"
 
-STATUTS = {"declare": "candidat déclaré", "primaire": "candidat à la primaire", "pressenti": "candidature pressentie",
-           "empeche": "candidature empêchée", "renonce": "pas candidat"}
+# Phrases d'état d'une candidature. Tournures sans accord de genre : le site ne
+# recense pas le genre des personnes et n'a pas à le déduire de leur prénom.
+STATUTS = {"declare": "{nom} ({parti}) a déclaré sa candidature à l'élection présidentielle 2027.",
+           "primaire": "{nom} ({parti}) est en lice dans une primaire pour l'élection présidentielle 2027.",
+           "pressenti": "La candidature de {nom} ({parti}) est pressentie pour l'élection présidentielle 2027.",
+           "empeche": "La candidature de {nom} ({parti}) est empêchée pour l'élection présidentielle 2027.",
+           "renonce": "{nom} ({parti}) a renoncé à se présenter à l'élection présidentielle 2027."}
 THEMES = {"economie": "Économie, fiscalité et finances publiques", "travail": "Travail, salaires et pouvoir d'achat",
           "retraites": "Retraites et protection sociale", "sante": "Santé", "education": "Éducation, jeunesse et recherche",
           "ecologie": "Écologie, climat et énergie", "immigration": "Immigration et intégration",
@@ -243,10 +248,10 @@ for c in cands:
     cid = c["id"]
     prog = load(DATA / "programmes" / f"{cid}.json") if (DATA / "programmes" / f"{cid}.json").exists() else None
     bio = load(DATA / "biographies" / f"{cid}.json") if (DATA / "biographies" / f"{cid}.json").exists() else None
-    statut = STATUTS.get(c["statut"], c["statut"])
+    statut = (STATUTS.get(c["statut"]) or "{nom} ({parti}).").format(nom=c["nom"], parti=c["parti"])
     titre = f"{c['nom']} : programme 2027, parcours et sondages"
-    base = (bio or {}).get("presentation", {}).get("texte") or f"{c['nom']} ({c['parti']}), {statut} à l'élection présidentielle 2027."
-    desc = couper(f"{c['nom']} ({c['parti']}), {statut} à la présidentielle 2027 : programme par thème, parcours, sondages. {base}")
+    base = (bio or {}).get("presentation", {}).get("texte") or statut
+    desc = couper(f"{statut} Programme par thème, parcours, sondages, chaque information sourcée. {base}")
     url = f"{SITE}/candidats/{cid}.html"
     photo = (bio or {}).get("photo", {}).get("url")
     sameas = [u for k, u in (c.get("liens") or {}).items() if k in ("wikipedia", "campagne", "x", "instagram", "youtube")]
@@ -277,8 +282,8 @@ for c in cands:
         par_theme.setdefault(m["theme"], []).append(m)
     resume = [f'<article id="loading" class="prerender">',
               f'<p class="kicker">{esc(c["parti"])}</p><h1>{esc(c["nom"])}</h1>',
-              f'<p class="lede">{esc(c["nom"])}, {esc(statut)} à l\'élection présidentielle 2027. {esc(c.get("statut_detail"))}</p>']
-    if base:
+              f'<p class="lede">{esc(statut)} {esc(c.get("statut_detail"))}</p>']
+    if base and base != statut:  # sans biographie, base reprend la phrase du chapô
         resume.append(f"<p>{esc(base)}</p>")
     # Intentions de vote : reprise du calcul affiché sur la page Sondages
     if c["statut"] in ("declare", "primaire", "pressenti"):
