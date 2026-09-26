@@ -151,6 +151,32 @@ subprocess.run([sys.executable, str(ROOT / "scripts" / "meta.py")], check=True)
 meta = load(DATA / "meta.json")
 lastmod = max(filter(None, [meta.get("publication"), meta.get("donnees")]))
 
+
+def maj(*chemins):
+    """Date « mise_a_jour » la plus récente parmi des fichiers de data/ (None si aucune)."""
+    d = []
+    for c in chemins:
+        for f in ([DATA / c] if not str(c).endswith("*") else sorted(DATA.glob(str(c)))):
+            if f.exists():
+                v = load(f).get("mise_a_jour")
+                if isinstance(v, str) and len(v) >= 10:
+                    d.append(v[:10])
+    return max(d) if d else None
+
+
+# Chaque page est datée par les données qu'elle affiche, et non par la date du
+# dernier déploiement : un <lastmod> identique partout et remis à jour à chaque
+# build n'apporte aucune information aux moteurs de recherche.
+D_CAND = maj("candidats.json")
+D_SOND = maj("sondages.json")
+D_CAL = maj("calendrier.json")
+D_THEMES = maj("programmes/*.json", "questions.json")
+D_DON = maj("candidats.json", "sondages.json", "candidatures.json", "evaluations.json", "temps-parole.json")
+DATES_PAGES = {"index.html": D_CAND, "candidats.html": D_CAND, "sondages.html": D_SOND,
+               "donnees.html": D_DON, "comparateur.html": D_THEMES, "mes-priorites.html": D_THEMES,
+               "faq.html": None}  # FAQ : texte rédigé, pas de date de données
+dates_cand = {}
+
 ORGANISATION = {"@context": "https://schema.org", "@type": "Organization", "name": NOM_SITE, "url": SITE + "/",
                 "logo": f"{SITE}/assets/apple-touch-icon.png", "description": "Site d'information indépendant et non partisan sur l'élection présidentielle française de 2027."}
 WEBSITE = {"@context": "https://schema.org", "@type": "WebSite", "name": NOM_SITE, "url": SITE + "/", "inLanguage": "fr-FR",
@@ -231,9 +257,13 @@ for c in cands:
         personne["sameAs"] = sameas
     if base:
         personne["description"] = couper(base, 300)
+    # La fiche affiche le programme, la biographie, le statut vérifié et la moyenne des sondages
+    _d = [d for d in [(prog or {}).get("mise_a_jour"), (bio or {}).get("mise_a_jour"),
+                      c.get("verifie_le"), D_SOND] if d]
+    dates_cand[cid] = max(_d) if _d else D_CAND
     jsonld = [
         {"@context": "https://schema.org", "@type": "ProfilePage", "name": titre, "url": url, "inLanguage": "fr-FR",
-         "dateModified": (prog or {}).get("mise_a_jour") or lastmod, "mainEntity": personne},
+         "dateModified": dates_cand[cid] or lastmod, "mainEntity": personne},
         {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": "Présidentielle 2027", "item": SITE + "/"},
             {"@type": "ListItem", "position": 2, "name": "Candidats", "item": f"{SITE}/candidats.html"},
@@ -438,9 +468,9 @@ for theme, label in THEMES.items():
 
     jl, fil = fil_ariane([("Présidentielle 2027", SITE + "/"), ("Thèmes", SITE + "/themes/"), (label, url)])
     collection = {"@context": "https://schema.org", "@type": "CollectionPage", "name": f"{label} — Présidentielle 2027",
-                  "url": url, "inLanguage": "fr-FR", "dateModified": lastmod,
+                  "url": url, "inLanguage": "fr-FR", "dateModified": D_THEMES or lastmod,
                   "description": f"Propositions des candidats à la présidentielle 2027 sur le thème « {label} », avec leurs sources."}
-    sections.append(f'<p class="meta">Page mise à jour le {esc(lastmod)} · les mesures et positions proviennent des fiches candidats, chacune sourcée.</p>')
+    sections.append(f'<p class="meta">Page mise à jour le {esc(D_THEMES or lastmod)} · les mesures et positions proviennent des fiches candidats, chacune sourcée.</p>')
     corps = fil + "\n" + "\n".join(sections)
     titre_court = label.split(",")[0]
     (themes_dir / f"{theme}.html").write_text(page_html(
@@ -522,13 +552,16 @@ jl_c, fil_c = fil_ariane([("Présidentielle 2027", SITE + "/"), ("Calendrier", S
 
 
 # --- 4. sitemap.xml et robots.txt
-urls = [(SITE + "/", "1.0"), *[(f"{SITE}/{p}", "0.8") for p in PAGES if p != "index.html"],
-        (f"{SITE}/calendrier.html", "0.9"), (f"{SITE}/themes/", "0.8"),
-        *[(f"{SITE}/themes/{t}.html", "0.8") for t in THEMES],
-        *[(f"{SITE}/candidats/{c['id']}.html", "0.7" if c["statut"] != "renonce" else "0.4") for c in cands]]
+urls = [(SITE + "/", "1.0", DATES_PAGES["index.html"]),
+        *[(f"{SITE}/{p}", "0.8", DATES_PAGES.get(p)) for p in PAGES if p != "index.html"],
+        (f"{SITE}/calendrier.html", "0.9", D_CAL), (f"{SITE}/themes/", "0.8", D_THEMES),
+        *[(f"{SITE}/themes/{t}.html", "0.8", D_THEMES) for t in THEMES],
+        *[(f"{SITE}/candidats/{c['id']}.html", "0.7" if c["statut"] != "renonce" else "0.4", dates_cand.get(c["id"]))
+          for c in cands]]
 (ROOT / "sitemap.xml").write_text(
     '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-    + "".join(f"  <url><loc>{esc(u)}</loc><lastmod>{lastmod}</lastmod><priority>{p}</priority></url>\n" for u, p in urls)
+    + "".join(f"  <url><loc>{esc(u)}</loc>" + (f"<lastmod>{d}</lastmod>" if d else "")
+              + f"<priority>{pr}</priority></url>\n" for u, pr, d in urls)
     + "</urlset>\n", encoding="utf-8")
 (ROOT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /candidat.html\n\nSitemap: {SITE}/sitemap.xml\n", encoding="utf-8")
 
