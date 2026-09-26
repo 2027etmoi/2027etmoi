@@ -17,11 +17,12 @@ import os
 import re
 import subprocess
 import sys
+from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
-SITE = (os.environ.get("SITE_URL") or os.environ.get("URL") or "https://2027etmoi.netlify.app").rstrip("/")
+SITE = (os.environ.get("SITE_URL") or os.environ.get("URL") or "https://2027etmoi.fr").rstrip("/")
 NOM_SITE = "2027 et moi"
 OG_DEFAUT = f"{SITE}/assets/og.jpg"
 
@@ -392,12 +393,48 @@ lignes_cal = "".join(
     f'<span class="badge {"declare" if e.get("statut") == "officielle" else "primaire" if e.get("statut") == "prevue" else "pressenti"}">{esc(STATUTS_CAL.get(e.get("statut"), ""))}</span>'
     f'<span class="source">Source : <a href="{esc(e["source"]["url"])}" target="_blank" rel="noopener">{esc(e["source"].get("titre", "lien"))}</a>, {esc(e["source"].get("date", ""))}</span></li>'
     for e in cal.get("etapes", []))
-events = [{"@context": "https://schema.org", "@type": "Event", "name": e["titre"], "startDate": e["date"],
-           "endDate": e.get("fin") or e["date"], "eventStatus": "https://schema.org/EventScheduled",
-           "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-           "location": {"@type": "Country", "name": "France"},
-           "organizer": {"@type": "Organization", "name": "République française"}}
-          for e in cal.get("etapes", []) if e.get("statut") == "officielle"]
+
+
+def date_fr(iso):
+    """2027-04-18 -> dimanche 18 avril 2027 (chaîne vide si le format est inattendu)."""
+    MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
+            "août", "septembre", "octobre", "novembre", "décembre"]
+    JOURS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
+    try:
+        d = date(*(int(x) for x in iso.split("-")))
+    except (TypeError, ValueError):
+        return ""
+    return f"{JOURS[d.weekday()]} {'1er' if d.day == 1 else d.day} {MOIS[d.month - 1]} {d.year}"
+
+
+def event_jsonld(e):
+    """Données structurées d'une étape du calendrier dont la date est officielle.
+
+    Les champs recommandés par Google sont renseignés à partir des données du
+    fichier calendrier.json, sans rien ajouter qui n'y figure pas. Le champ
+    « performer » est volontairement absent : une élection n'a pas d'interprète,
+    et y inscrire des candidats serait faux (et contraire à la neutralité du site).
+    """
+    src = e.get("source") or {}
+    quand = date_fr(e["date"])
+    desc = (f"{e['titre']}" + (f", le {quand}" if quand else "") + ". "
+            "Le président de la République française est élu au suffrage universel direct, à deux tours. "
+            "Date officielle" + (f", source : {src['titre']}" if src.get("titre") else "")
+            + (f", {date_fr(src['date']) or src['date']}" if src.get("date") else "") + ".")
+    return {"@context": "https://schema.org", "@type": "Event", "name": e["titre"],
+            "description": desc, "image": [OG_DEFAUT], "url": f"{SITE}/calendrier.html",
+            "startDate": e["date"], "endDate": e.get("fin") or e["date"],
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {"@type": "Place", "name": "France",
+                         "address": {"@type": "PostalAddress", "addressCountry": "FR"}},
+            "organizer": {"@type": "GovernmentOrganization", "name": "Ministère de l'Intérieur",
+                          "url": "https://www.interieur.gouv.fr/"},
+            "about": {"@type": "Thing", "name": "Élection présidentielle française de 2027"},
+            "inLanguage": "fr-FR"}
+
+
+events = [event_jsonld(e) for e in cal.get("etapes", []) if e.get("statut") == "officielle"]
 jl_c, fil_c = fil_ariane([("Présidentielle 2027", SITE + "/"), ("Calendrier", SITE + "/calendrier.html")])
 (ROOT / "calendrier.html").write_text(page_html(
     "Date de la présidentielle 2027 : 18 avril et 2 mai, calendrier complet",
