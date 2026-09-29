@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-09-25",
+  "mise_a_jour": "2026-09-29",
   "sources": [
     {
       "titre": "Assemblée nationale — données ouvertes, scrutins des 14e, 15e et 16e législatures",
@@ -23,7 +23,7 @@
     },
     {
       "titre": "Assemblée nationale — fiches des députés, anciens mandats et fonctions",
-      "url": "https://www.assemblee-nationale.fr/dyn/deputes",
+      "url": "https://www.assemblee-nationale.fr/dyn/vos-deputes",
       "licence": "Site officiel de l'Assemblée nationale"
     },
     {
