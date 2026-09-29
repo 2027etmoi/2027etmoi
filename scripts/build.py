@@ -55,6 +55,8 @@ PAGES = {
                      "Les candidatures à la présidentielle 2027 en faits vérifiables : déclaration, désignation, programme, chiffrage, sondages, temps de parole TV et radio (Arcom), évaluations externes. Sans note ni classement."),
     "sondages.html": ("Sondages présidentielle 2027 : moyenne des intentions de vote",
                       "Intentions de vote au 1er tour de la présidentielle 2027 : moyenne des sondages récents et détail de chaque enquête (Ifop, Ipsos, Elabe, Odoxa, OpinionWay…), avec les notices officielles."),
+    "contact.html": ("Contact — signaler une erreur ou proposer une source",
+                     "Écrire à 2027 et moi : signaler une erreur sur un candidat, un programme ou un sondage, proposer une source, poser une question sur la méthode du site."),
     "faq.html": ("Présidentielle 2027 : questions fréquentes (dates, parrainages, primaires)",
                  "Quand a lieu la présidentielle 2027 ? Comment devient-on candidat ? Que valent les sondages ? Réponses sourcées sur l'élection, les programmes et la méthode du site 2027 et moi."),
 }
@@ -179,11 +181,15 @@ D_THEMES = maj("programmes/*.json", "questions.json")
 D_DON = maj("candidats.json", "sondages.json", "candidatures.json", "evaluations.json", "temps-parole.json")
 DATES_PAGES = {"index.html": D_CAND, "candidats.html": D_CAND, "sondages.html": D_SOND,
                "donnees.html": D_DON, "comparateur.html": D_THEMES, "mes-priorites.html": D_THEMES,
-               "faq.html": None}  # FAQ : texte rédigé, pas de date de données
+               "faq.html": None, "contact.html": None}  # textes rédigés, pas de date de données
 dates_cand = {}
 
+COURRIEL = "contact@2027etmoi.fr"
 ORGANISATION = {"@context": "https://schema.org", "@type": "Organization", "name": NOM_SITE, "url": SITE + "/",
-                "logo": f"{SITE}/assets/apple-touch-icon.png", "description": "Site d'information indépendant et non partisan sur l'élection présidentielle française de 2027."}
+                "logo": f"{SITE}/assets/apple-touch-icon.png", "email": COURRIEL,
+                "contactPoint": {"@type": "ContactPoint", "contactType": "rédaction", "email": COURRIEL,
+                                 "url": f"{SITE}/contact.html", "availableLanguage": "fr"},
+                "description": "Site d'information indépendant et non partisan sur l'élection présidentielle française de 2027."}
 WEBSITE = {"@context": "https://schema.org", "@type": "WebSite", "name": NOM_SITE, "url": SITE + "/", "inLanguage": "fr-FR",
            "description": PAGES["index.html"][1], "publisher": {"@type": "Organization", "name": NOM_SITE, "url": SITE + "/"}}
 
@@ -211,6 +217,11 @@ for page, (titre, desc) in PAGES.items():
                        "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": f"{SITE}/candidats/{c['id']}.html",
                                             "item": {"@type": "Person", "name": c["nom"], "affiliation": {"@type": "Organization", "name": c["parti"]}}}
                                            for i, c in enumerate(c for c in load(DATA / "candidats.json")["candidats"] if c["statut"] in ("declare", "primaire", "pressenti"))]})
+    if page == "contact.html":
+        jsonld.append({"@context": "https://schema.org", "@type": "ContactPage", "name": "Contact — 2027 et moi",
+                       "url": url, "inLanguage": "fr-FR",
+                       "description": "Comment signaler une erreur, proposer une source ou poser une question sur la méthode du site.",
+                       "mainEntity": {"@type": "Organization", "name": NOM_SITE, "url": SITE + "/", "email": COURRIEL}})
     if page == "faq.html":
         qa = []
         for q, a in re.findall(r"<summary>(.*?)</summary>\s*<div class=\"answer\">(.*?)</div>", s, flags=re.S):
