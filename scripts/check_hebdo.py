@@ -109,6 +109,8 @@ dernier_mois = max(tp.get("mois") or ["?"])
 try:
     req = urllib.request.Request(f"https://www.arcom.fr/temps-parole/hors-elections/recherche/source/{AUJ.year}", headers={"User-Agent": UA})
     page = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "replace")
+    # La liste des fichiers est servie dans du JSON embarqué, où les barres obliques sont échappées
+    page = page.replace("\\/", "/")
     liens = set(re.findall(r'https?://www\.arcom\.fr/sites/default/files/tphe/files/speaking_time_files/Export_web_Personnalites_avec_seuil_[^"\']+\.csv', page))
     liens |= {"https://www.arcom.fr" + l for l in re.findall(r'"(/sites/default/files/tphe/files/speaking_time_files/Export_web_Personnalites_avec_seuil_[^"]+\.csv)"', page)}
     nouveaux = sorted(liens - connus)
