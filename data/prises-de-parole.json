@@ -1,6 +1,8 @@
 {
   "mise_a_jour": "2026-09-30",
-  "fenetre": { "debut": "2026-08-19" },
+  "fenetre": {
+    "debut": "2026-08-19"
+  },
   "regles": "https://github.com/2027etmoi/2027etmoi/blob/main/docs/methode-prises-de-parole.md",
   "types": {
     "interview": "Interview",
@@ -11,6 +13,869 @@
     "parlement": "Intervention au Parlement",
     "communique": "Communiqué officiel"
   },
-  "prises_de_parole": [],
-  "a_verifier": []
+  "prises_de_parole": [
+    {
+      "id": "le-pen",
+      "date": "2026-08-27",
+      "type": "debat",
+      "media": "Université d'été du Medef, Roland-Garros (Paris)",
+      "emission": "Sept candidats interrogés par cinq chefs d'entreprise",
+      "titre": "Direct : Attal, Le Pen, Mélenchon, Philippe... Suivez le premier débat de la présidentielle organisé par le Medef entre sept candidats déclarés",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-attal-le-pen-melenchon-philippe-suivez-le-premier-debat-de-la-presidentielle-organise-par-le-medef-entre-sept-candidats-declares_8162033.html",
+      "declare": [
+        "Propose de supprimer « 130 impôts totalement improductifs » et de mettre en place « un suramortissement » pour accompagner la robotisation des entreprises."
+      ],
+      "themes": [
+        "economie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "le-pen",
+      "date": "2026-09-12",
+      "type": "discours",
+      "media": "Réunion des parlementaires du Rassemblement national, Le Touquet",
+      "titre": "Marine Le Pen préfère un budget « imparfait, opérationnel » avant la présidentielle plutôt qu'une loi spéciale",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-prefere-un-budget-imparfait-operationnel-avant-la-presidentielle-plutot-qu-une-loi-speciale_8189900.html",
+      "declare": [
+        "Déclare préférer « un budget imparfait opérationnel avant les élections » à une loi spéciale, un nouveau président pouvant modifier plus vite un budget existant.",
+        "Pose ses conditions : « aucune hausse d'impôt », des économies, pas d'accord avec Bruxelles sur le cadre financier pluriannuel, suspension de la programmation pluriannuelle de l'énergie et gel de l'immigration jusqu'à la présidentielle."
+      ],
+      "themes": [
+        "economie",
+        "institutions",
+        "immigration"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "le-pen",
+      "date": "2026-09-13",
+      "type": "discours",
+      "media": "Rentrée politique, Hénin-Beaumont (Pas-de-Calais)",
+      "titre": "Marine Le Pen, candidate du RN à la présidentielle, détaille une série de propositions sur le logement",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/video-marine-le-pen-candidate-du-rn-a-la-presidentielle-2027-detaille-une-serie-de-propositions-sur-le-logement-qui-sera-un-des-grands-chantiers-de-son-quinquennat-si-elle-est-elue_8190839.html",
+      "declare": [
+        "Détaille ses propositions sur le logement : suppression du « zéro artificialisation nette », des contraintes fondées sur le DPE et de la loi SRU, transformation de bureaux en logements, prêt à taux zéro « 100 % Rénov ».",
+        "Propose de réserver le logement social et les APL aux Français, de vendre une partie des HLM à leurs occupants et d'expulser pour trois ans « les familles délinquantes des HLM », et annonce une loi contre les squats dès son élection."
+      ],
+      "themes": [
+        "logement",
+        "immigration",
+        "securite"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "le-pen",
+      "date": "2026-09-24",
+      "type": "interview",
+      "media": "Sommet Playbook de Politico, Paris",
+      "titre": "Présidentielle 2027 : Attal, Le Pen et Mélenchon, trois manières de parler à un pays « exaspéré »",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-attal-le-pen-et-melenchon-trois-manieres-de-parler-a-un-pays-exaspere",
+      "declare": [
+        "Déclare : « Nous ne pouvons plus aider financièrement l'Ukraine », tout en maintenant son soutien au pays, et souhaite que la France « ne fasse la guerre à aucun pays nucléaire ».",
+        "Sur les carburants, réclame une baisse de la TVA, qu'elle chiffre à une douzaine de milliards d'euros, et rejette « la politique des chèques, inefficace et onéreuse »."
+      ],
+      "themes": [
+        "international",
+        "economie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "melenchon",
+      "date": "2026-08-27",
+      "type": "debat",
+      "media": "Université d'été du Medef, Roland-Garros (Paris)",
+      "emission": "Sept candidats interrogés par cinq chefs d'entreprise",
+      "titre": "Direct : Attal, Le Pen, Mélenchon, Philippe... Suivez le premier débat de la présidentielle organisé par le Medef entre sept candidats déclarés",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-attal-le-pen-melenchon-philippe-suivez-le-premier-debat-de-la-presidentielle-organise-par-le-medef-entre-sept-candidats-declares_8162033.html",
+      "declare": [
+        "Défend le principe que « tout le monde paye » et s'oppose aux échappatoires fiscales."
+      ],
+      "themes": [
+        "economie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "melenchon",
+      "date": "2026-09-12",
+      "type": "discours",
+      "media": "Fête de l'Humanité, Le Plessis-Pâté (Essonne)",
+      "titre": "En meeting à la Fête de l'Humanité, Jean-Luc Mélenchon attire les foules et plaide pour le blocage des prix",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/en-meeting-a-la-fete-de-l-humanite-jean-luc-melenchon-attire-les-foules-et-plaide-pour-le-blocage-des-prix_8190017.html",
+      "declare": [
+        "Attribue la hausse des prix aux marges des entreprises et propose « le blocage des prix et le blocage des marges », ainsi qu'une échelle mobile des salaires indexée sur l'inflation.",
+        "Annonce vouloir pouvoir « décréter l'état d'urgence sociale ou l'état d'urgence écologique »."
+      ],
+      "themes": [
+        "travail",
+        "economie",
+        "ecologie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "melenchon",
+      "date": "2026-09-24",
+      "type": "interview",
+      "media": "Sommet Playbook de Politico, Paris",
+      "titre": "Présidentielle 2027 : Attal, Le Pen et Mélenchon, trois manières de parler à un pays « exaspéré »",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-attal-le-pen-et-melenchon-trois-manieres-de-parler-a-un-pays-exaspere",
+      "declare": [
+        "Déclare que « le pays est en état d'exaspération » et propose de « bloquer le litre à 1,70 euro ».",
+        "Sur l'Ukraine, se dit favorable à « la stratégie des petits pas » et maintient la sortie de l'OTAN."
+      ],
+      "themes": [
+        "economie",
+        "international"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "attal",
+      "date": "2026-08-27",
+      "type": "debat",
+      "media": "Université d'été du Medef, Roland-Garros (Paris)",
+      "emission": "Sept candidats interrogés par cinq chefs d'entreprise",
+      "titre": "Direct : Attal, Le Pen, Mélenchon, Philippe... Suivez le premier débat de la présidentielle organisé par le Medef entre sept candidats déclarés",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-attal-le-pen-melenchon-philippe-suivez-le-premier-debat-de-la-presidentielle-organise-par-le-medef-entre-sept-candidats-declares_8162033.html",
+      "declare": [
+        "Défend « une vraie stratégie de croissance » pour « faire grandir le gâteau »."
+      ],
+      "themes": [
+        "economie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "attal",
+      "date": "2026-09-01",
+      "type": "interview",
+      "media": "France 2",
+      "emission": "Journal de 20 heures",
+      "titre": "Pour moi, l'école, ce n'est pas un sujet de campagne présidentielle. C'est juste le cœur de mon engagement en politique, déclare Gabriel Attal",
+      "url": "https://www.franceinfo.fr/politique/gabriel-attal/pour-moi-l-ecole-ce-n-est-pas-un-sujet-de-campagne-presidentielle-c-est-juste-le-c-ur-de-mon-engagement-en-politique-declare-gabriel-attal-candidat-de-renaissance-a-la-presidentielle_8172782.html",
+      "declare": [
+        "Propose une hausse de 200 euros nets par mois pour tous les enseignants, jusqu'à 500 euros en milieu de carrière, dès 2027, avec une meilleure organisation des remplacements par des établissements autonomes.",
+        "Annonce vouloir revaloriser les AESH et leur créer un corps professionnel avec des perspectives de carrière.",
+        "Sur le voile, refuse une interdiction générale mais maintient l'interdiction pour les mineures de moins de 15 ans."
+      ],
+      "themes": [
+        "education",
+        "societe"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "attal",
+      "date": "2026-09-17",
+      "type": "discours",
+      "media": "Entreprise Latitude, Reims",
+      "titre": "Gabriel Attal juge que l'Europe des 27 a « atteint ses limites » et plaide pour des « États-Unis d'Europe »",
+      "url": "https://www.franceinfo.fr/monde/europe/gabriel-attal-juge-que-l-europe-des-27-a-atteint-ses-limites-et-plaide-pour-des-etats-unis-d-europe_8197754.html",
+      "declare": [
+        "Déclare que « l'Europe actuelle, à 27, a atteint ses limites » et propose des « États-Unis d'Europe » : un fédéralisme économique, technologique et écologique entre un noyau de pays, sans fusion des États.",
+        "Propose un traité fondateur soumis au « premier référendum européen », organisé simultanément dans les pays participants."
+      ],
+      "themes": [
+        "international"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "attal",
+      "date": "2026-09-24",
+      "type": "interview",
+      "media": "Sommet Playbook de Politico, Paris",
+      "titre": "Présidentielle 2027 : Attal, Le Pen et Mélenchon, trois manières de parler à un pays « exaspéré »",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-attal-le-pen-et-melenchon-trois-manieres-de-parler-a-un-pays-exaspere",
+      "declare": [
+        "Déclare que « le soutien à l'Ukraine, ce n'est pas une aide humanitaire, c'est un investissement pour nous ».",
+        "Chiffre à 150 milliards d'euros les économies nécessaires sur cinq ans, avec un déficit sous 3 % avant 2032, et appelle à une régulation internationale de l'intelligence artificielle sur le modèle du nucléaire."
+      ],
+      "themes": [
+        "international",
+        "economie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "attal",
+      "date": "2026-09-30",
+      "type": "interview",
+      "media": "Europe 1 et CNews",
+      "emission": "La Grande Interview, Laurence Ferrari",
+      "titre": "Budget 2027 : « On doit éviter une crise de la dette », alerte Gabriel Attal",
+      "url": "https://www.europe1.fr/emissions/la-grande-interview-europe-1-cnews/budget-2027-on-doit-eviter-une-crise-de-la-dette-alerte-gabriel-attal-1113200",
+      "declare": [
+        "Déclare, à propos du budget 2027 : « On doit éviter une crise de la dette ».",
+        "Sur les blocages de lycées : « LFI se sert de notre jeunesse comme de la chair à canon politique »."
+      ],
+      "themes": [
+        "economie",
+        "education"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "philippe",
+      "date": "2026-08-27",
+      "type": "debat",
+      "media": "Université d'été du Medef, Roland-Garros (Paris)",
+      "emission": "Sept candidats interrogés par cinq chefs d'entreprise",
+      "titre": "Direct : Attal, Le Pen, Mélenchon, Philippe... Suivez le premier débat de la présidentielle organisé par le Medef entre sept candidats déclarés",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-attal-le-pen-melenchon-philippe-suivez-le-premier-debat-de-la-presidentielle-organise-par-le-medef-entre-sept-candidats-declares_8162033.html",
+      "declare": [
+        "Propose de supprimer « 50 milliards d'euros d'impôts de production »."
+      ],
+      "themes": [
+        "economie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "philippe",
+      "date": "2026-09-29",
+      "type": "communique",
+      "media": "Vidéo publiée sur sa chaîne YouTube",
+      "titre": "Âge de départ à 65 ans, 45 annuités de cotisation… Édouard Philippe, candidat Horizons à la présidentielle, dévoile son projet de réforme des retraites",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/age-de-depart-a-65-ans-45-annuites-de-cotisation-edouard-philippe-candidat-horizons-a-la-presidentielle-devoile-son-projet-de-reforme-des-retraites_8214737.html",
+      "declare": [
+        "Propose de porter progressivement l'âge de départ à 65 ans et la durée de cotisation à 45 annuités « en moins de dix ans », avec un départ entre 60 et 64 ans pour « un Français sur trois », des départs maintenus à 55, 60 et 62 ans pour le handicap, l'incapacité permanente et l'invalidité, et les carrières longues.",
+        "Annonce vouloir ajouter « un volet capitalisation » au système par répartition, pour en « retrouver l'équilibre », et présente sa réforme comme « responsable pour tous et juste pour chacun »."
+      ],
+      "themes": [
+        "retraites"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "retailleau",
+      "date": "2026-08-27",
+      "type": "debat",
+      "media": "Université d'été du Medef, Roland-Garros (Paris)",
+      "emission": "Sept candidats interrogés par cinq chefs d'entreprise",
+      "titre": "Direct : Attal, Le Pen, Mélenchon, Philippe... Suivez le premier débat de la présidentielle organisé par le Medef entre sept candidats déclarés",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-attal-le-pen-melenchon-philippe-suivez-le-premier-debat-de-la-presidentielle-organise-par-le-medef-entre-sept-candidats-declares_8162033.html",
+      "declare": [
+        "Propose de « réduire de 40 milliards les cotisations sociales, les impôts de production »."
+      ],
+      "themes": [
+        "economie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "retailleau",
+      "date": "2026-09-08",
+      "type": "interview",
+      "media": "CNews",
+      "emission": "Objectif Élysée 2027, Laurence Ferrari",
+      "titre": "Suppression du droit du sol, peines minimales : Bruno Retailleau dévoile ses ambitions sur CNews",
+      "url": "https://www.lejdd.fr/politique/suppression-du-droit-du-sol-peines-minimales-bruno-retailleau-devoile-ses-ambitions-sur-cnews-182979",
+      "declare": [
+        "Propose la suppression du droit du sol (« On ne peut pas devenir français par hasard, en catimini »), une immigration étudiante « beaucoup plus stricte » et deux référendums, sur l'immigration et sur la politique pénale.",
+        "Propose des peines minimales pour les agresseurs de policiers, l'abaissement de la majorité pénale à 15 ans, la fusion des allocations familiales en un « revenu parental unique » versé dès le premier enfant, et aucune intelligence artificielle à l'école avant le collège.",
+        "Déclare que l'élection « se gagnera à droite » et qualifie le rassemblement annoncé par Édouard Philippe de réunion « de macronistes, entre macronistes »."
+      ],
+      "themes": [
+        "immigration",
+        "securite",
+        "education",
+        "campagne"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "retailleau",
+      "date": "2026-09-12",
+      "type": "discours",
+      "media": "Campus de rentrée des Jeunes Républicains, Pavillon Baltard (Nogent-sur-Marne)",
+      "titre": "Présidentielle 2027 : « combat de civilisation », révision constitutionnelle… Ce qu'il faut retenir du discours de rentrée de Bruno Retailleau",
+      "url": "https://www.cnews.fr/france/2026-09-12/presidentielle-2027-combat-de-civilisation-revision-constitutionnelle-ce-quil",
+      "declare": [
+        "Annonce « une grande révision constitutionnelle » « dès les premiers mois » de son mandat, pour soumettre des projets de loi aux Français par référendum.",
+        "Se dit porteur d'« un projet de rupture » et déclare : « La démocratie française a été confisquée »."
+      ],
+      "themes": [
+        "institutions",
+        "campagne"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "glucksmann",
+      "date": "2026-08-23",
+      "type": "interview",
+      "media": "TF1",
+      "emission": "Journal de 20 heures",
+      "titre": "Raphaël Glucksmann annonce sa candidature à la présidentielle de 2027",
+      "url": "https://www.france24.com/fr/france/20260823-rapha%C3%ABl-glucksmann-annonce-sa-candidature-%C3%A0-la-pr%C3%A9sidentielle-de-2027",
+      "declare": [
+        "Annonce sa candidature (« Oui, je suis candidat ») et déclare : « On va gagner l'élection présidentielle, j'en suis convaincu ».",
+        "Propose d'augmenter le salaire net par une baisse des prélèvements sociaux financée par une taxation des « mégahéritages », « un plan de sauvetage de l'école publique » et « un état d'urgence écologique ».",
+        "Affirme qu'en cas de victoire à la primaire, « il n'y aura plus jamais d'accord avec La France insoumise »."
+      ],
+      "themes": [
+        "campagne",
+        "travail",
+        "education",
+        "ecologie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "glucksmann",
+      "date": "2026-08-27",
+      "type": "debat",
+      "media": "Université d'été du Medef, Roland-Garros (Paris)",
+      "emission": "Sept candidats interrogés par cinq chefs d'entreprise",
+      "titre": "Direct : Attal, Le Pen, Mélenchon, Philippe... Suivez le premier débat de la présidentielle organisé par le Medef entre sept candidats déclarés",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-attal-le-pen-melenchon-philippe-suivez-le-premier-debat-de-la-presidentielle-organise-par-le-medef-entre-sept-candidats-declares_8162033.html",
+      "declare": [
+        "Propose une taxation des « mega héritages » et « une trajectoire fiscale stable »."
+      ],
+      "themes": [
+        "economie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "glucksmann",
+      "date": "2026-09-23",
+      "type": "debat",
+      "media": "LCI et TF1, avec Le Parisien",
+      "emission": "Premier débat de la primaire socialiste",
+      "titre": "Désaccords sur le Proche-Orient et LFI, convergences sur les salaires… Ce qu'il faut retenir du premier débat de la primaire socialiste",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/desaccords-sur-le-proche-orient-et-lfi-convergences-sur-les-salaires-ce-qu-il-faut-retenir-du-premier-debat-de-la-primaire-socialiste_8207438.html",
+      "declare": [
+        "Déclare : « Il n'y aura pas d'accord à la présidentielle avec les insoumis » et, sur une alliance avec LFI pour battre l'extrême droite : « vous perdez ».",
+        "Propose de tripler le chèque énergie pour les classes populaires et moyennes, de baisser la CSG sur les bas salaires et de taxer davantage les très gros héritages en réformant le pacte Dutreil, pour 15 milliards d'euros.",
+        "Sur l'Ukraine, estime que Vladimir Poutine « n'a aucune intention de négocier » et appelle à « résister, aider les Ukrainiens »."
+      ],
+      "themes": [
+        "campagne",
+        "economie",
+        "travail",
+        "international"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "glucksmann",
+      "date": "2026-09-30",
+      "type": "interview",
+      "media": "BFMTV et RMC",
+      "emission": "Face-à-Face",
+      "titre": "Blocage des lycées : Raphaël Glucksmann dit soutenir les revendications mais condamne toute violence",
+      "url": "https://actu.orange.fr/politique/blocage-des-lycees-raphael-glucksmann-dit-soutenir-les-revendications-mais-condamne-toute-violence-magic-CNT000002sdwWL.html",
+      "declare": [
+        "Déclare soutenir « les revendications des lycéens » et comprendre « la colère » des lycéens et des professeurs, et condamne « toute forme de violence ».",
+        "Demande que le gouvernement « reçoive les organisations et réponde aux demandes »."
+      ],
+      "themes": [
+        "education"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "faure",
+      "date": "2026-08-30",
+      "type": "interview",
+      "media": "TF1",
+      "emission": "Journal de 20 heures",
+      "titre": "Le chef du Parti socialiste, Olivier Faure, confirme sa candidature à la primaire de son camp en vue de l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/le-chef-du-parti-socialiste-olivier-faure-confirme-sa-candidature-a-la-primaire-de-son-camp-en-vue-de-l-election-presidentielle_8169896.html",
+      "declare": [
+        "Confirme sa candidature à la primaire : « Je veux porter une France plus juste ».",
+        "Déclare : « Moi, je me bats contre la droite et contre l'extrême droite »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "faure",
+      "date": "2026-09-21",
+      "type": "interview",
+      "media": "Politis",
+      "emission": "Grand entretien, Lucas Sarafian",
+      "titre": "Olivier Faure : « Je ne vois pas ce qui pourrait conduire vers une autre décision que la censure »",
+      "url": "https://www.politis.fr/articles/2026/09/olivier-faure-je-ne-vois-pas-ce-qui-pourrait-conduire-vers-une-autre-decision-que-la-censure/",
+      "declare": [
+        "Sur le budget, déclare : « En l'état je ne vois pas ce qui pourrait conduire vers une autre décision que la censure ».",
+        "Propose un SMIC à 1 700 euros net, une taxation des héritages et des grandes fortunes, et une conditionnalité des aides aux entreprises, en citant le rapport Gay sur 211 milliards d'euros d'aides annuelles.",
+        "Propose un fonds permanent, national ou européen, de réaménagement des territoires sur trente ans : végétalisation des écoles, rénovation des bâtiments, reforestation."
+      ],
+      "themes": [
+        "economie",
+        "travail",
+        "ecologie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "faure",
+      "date": "2026-09-23",
+      "type": "debat",
+      "media": "LCI et TF1, avec Le Parisien",
+      "emission": "Premier débat de la primaire socialiste",
+      "titre": "Désaccords sur le Proche-Orient et LFI, convergences sur les salaires… Ce qu'il faut retenir du premier débat de la primaire socialiste",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/desaccords-sur-le-proche-orient-et-lfi-convergences-sur-les-salaires-ce-qu-il-faut-retenir-du-premier-debat-de-la-primaire-socialiste_8207438.html",
+      "declare": [
+        "Propose un SMIC à 1 700 euros net et un « bouclier logement » limitant à 30 % la part des revenus consacrée au loyer.",
+        "Défend l'alignement des votes du PS avec LFI au Parlement et déclare : « Arrêtons de cracher sur le reste de la gauche ! »",
+        "Sur les carburants, préfère des aides ciblées à des mesures universelles."
+      ],
+      "themes": [
+        "travail",
+        "logement",
+        "campagne",
+        "economie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "royal",
+      "date": "2026-09-15",
+      "type": "interview",
+      "media": "Europe 1 et CNews",
+      "emission": "La Grande Interview, Laurence Ferrari",
+      "titre": "Prix des carburants : « Le gouvernement joue la carte du chaos », déplore Ségolène Royal",
+      "url": "https://www.europe1.fr/economie/prix-des-carburants-le-gouvernement-joue-la-carte-du-chaos-deplore-segolene-royal-1078763",
+      "declare": [
+        "Déclare : « Il faut un changement profond, radical dans l'exercice du pouvoir ».",
+        "Sur les carburants, propose de supprimer la taxe de 15 centimes liée aux certificats d'économie d'énergie, de baisser la TVA et la taxe sur l'énergie, et de négocier au niveau européen pour ramener le litre autour de 1,70 euro.",
+        "Sur la primaire, déplore le droit de participation de 15 euros (« Je voulais que ça soit 4 euros ») et déclare que Raphaël Glucksmann « a voulu ça pour verrouiller le vote »."
+      ],
+      "themes": [
+        "institutions",
+        "economie",
+        "campagne"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "royal",
+      "date": "2026-09-23",
+      "type": "debat",
+      "media": "LCI et TF1, avec Le Parisien",
+      "emission": "Premier débat de la primaire socialiste",
+      "titre": "Désaccords sur le Proche-Orient et LFI, convergences sur les salaires… Ce qu'il faut retenir du premier débat de la primaire socialiste",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/desaccords-sur-le-proche-orient-et-lfi-convergences-sur-les-salaires-ce-qu-il-faut-retenir-du-premier-debat-de-la-primaire-socialiste_8207438.html",
+      "declare": [
+        "Sur l'Ukraine, appelle à « aider l'Ukraine à obtenir une paix juste et durable » et à un « équilibre entre défense et négociation ».",
+        "Propose de plafonner le prix de l'essence à 1,70 euro le litre et refuse l'annulation de la dette, en proposant de supprimer les aides aux entreprises non justifiées.",
+        "Sur Gaza, lie « la montée de l'antisémitisme » aux « actuels dirigeants » israéliens et appelle « plus de voix israéliennes et juives » à dire que la situation « est intolérable »."
+      ],
+      "themes": [
+        "international",
+        "economie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "guedj",
+      "date": "2026-09-11",
+      "type": "interview",
+      "media": "BFMTV",
+      "titre": "« Je veux sortir de l'âge légal » : Jérôme Guedj propose une retraite calculée sur les annuités et la pénibilité",
+      "url": "https://fr.finance.yahoo.com/actualites/veux-sortir-l%C3%A2ge-l%C3%A9gal-j%C3%A9r%C3%B4me-144747223.html",
+      "declare": [
+        "Déclare : « Je veux sortir de l'âge légal » de départ à la retraite, qu'il juge « anxiogène », au profit du nombre d'annuités cotisées et de la prise en compte de la pénibilité, avec une baisse de l'âge du taux plein.",
+        "Propose d'expérimenter la semaine de quatre jours sans réduction du temps de travail."
+      ],
+      "themes": [
+        "retraites",
+        "travail"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "guedj",
+      "date": "2026-09-23",
+      "type": "debat",
+      "media": "LCI et TF1, avec Le Parisien",
+      "emission": "Premier débat de la primaire socialiste",
+      "titre": "Désaccords sur le Proche-Orient et LFI, convergences sur les salaires… Ce qu'il faut retenir du premier débat de la primaire socialiste",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/desaccords-sur-le-proche-orient-et-lfi-convergences-sur-les-salaires-ce-qu-il-faut-retenir-du-premier-debat-de-la-primaire-socialiste_8207438.html",
+      "declare": [
+        "Se présente comme le candidat de la « gauche républicaine » et qualifie une alliance avec LFI de « soumission » : « La godille, c'est bon pour le ski, pas pour la gauche ».",
+        "Propose de conditionner les aides aux entreprises lorsque des salariés restent au SMIC.",
+        "Sur Gaza, répond à Ségolène Royal que « dire que c'est aux juifs de se justifier du gouvernement israélien, c'est essentialiser le conflit »."
+      ],
+      "themes": [
+        "campagne",
+        "travail",
+        "international"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "maurel",
+      "date": "2026-09-21",
+      "type": "interview",
+      "media": "Public Sénat",
+      "emission": "Bonjour chez vous !, Oriane Mancini",
+      "titre": "Emmanuel Maurel : « Il y a 50 nuances de gauche dans le pays »",
+      "url": "https://www.publicsenat.fr/emission/bonjour-chez-vous/emmanuel-maurel-il-y-a-50-nuances-de-gauche-dans-le-pays-e0",
+      "declare": [
+        "Résume son projet en trois verbes, « Démondialiser, démocratiser, démarchandiser », et plaide pour la relocalisation des entreprises et une industrie souveraine.",
+        "Sur l'énergie, défend la place du nucléaire et des énergies renouvelables dans le mix énergétique."
+      ],
+      "themes": [
+        "economie",
+        "ecologie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "maurel",
+      "date": "2026-09-23",
+      "type": "debat",
+      "media": "LCI et TF1, avec Le Parisien",
+      "emission": "Premier débat de la primaire socialiste",
+      "titre": "Désaccords sur le Proche-Orient et LFI, convergences sur les salaires… Ce qu'il faut retenir du premier débat de la primaire socialiste",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/desaccords-sur-le-proche-orient-et-lfi-convergences-sur-les-salaires-ce-qu-il-faut-retenir-du-premier-debat-de-la-primaire-socialiste_8207438.html",
+      "declare": [
+        "Propose l'indexation des salaires sur l'inflation et la fin du gel du point d'indice des fonctionnaires.",
+        "Refuse l'annulation de la dette tout en critiquant la politique de la Banque centrale européenne, et partage la position de Raphaël Glucksmann sur l'Ukraine."
+      ],
+      "themes": [
+        "travail",
+        "economie",
+        "international"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "roussel",
+      "date": "2026-09-06",
+      "type": "interview",
+      "media": "TF1",
+      "emission": "Journal de 20 heures, Anne-Claire Coudray",
+      "titre": "Présidentielle 2027 : Fabien Roussel se lance à son tour dans la course à l'Élysée malgré les critiques",
+      "url": "https://actu.orange.fr/politique/presidentielle-2027-fabien-roussel-se-lance-a-son-tour-dans-la-course-a-l-elysee-malgre-les-critiques-magic-CNT000002rKPqE.html",
+      "declare": [
+        "Officialise sa candidature, « largement soutenue, à 72 %, dans mon parti », avec « un projet de rupture » et pour slogan « vivre ».",
+        "Déclare : « Le problème de la gauche, ce n'est pas qu'elle est divisée, c'est qu'elle n'est pas majoritaire », et revendique « un plan climat pour doubler la production du nucléaire et réindustrialiser »."
+      ],
+      "themes": [
+        "campagne",
+        "ecologie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "roussel",
+      "date": "2026-09-12",
+      "type": "discours",
+      "media": "Fête de l'Humanité, Le Plessis-Pâté (Essonne)",
+      "titre": "Présidentielle 2027 : « Ne nous laissons pas tondre » comme des moutons, lance Fabien Roussel à la Fête de l'Humanité",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-fete-de-l-humanite-fete-de-la-rose-campus-des-jeunes-republicains-la-rentree-politique-bat-son-plein_8189465.html",
+      "declare": [
+        "Appelle à « la baisse des taxes sur l'essence » et à la « confiscation des profits de Total » : « Ne nous laissons pas tondre jusqu'à la présidentielle ».",
+        "Appelle à « envahir les ronds-points »."
+      ],
+      "themes": [
+        "economie",
+        "campagne"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "tondelier",
+      "date": "2026-08-21",
+      "type": "discours",
+      "media": "Journées d'été des Écologistes",
+      "titre": "Discours de Marine Tondelier aux Journées d'été des Écologistes 2026",
+      "url": "https://lesecologistes.fr/posts/2s0kOxQEOQdC8JP4jkXuu7/discours-de-marine-tondelier-aux-journees-d-ete-des-ecologistes-2026",
+      "declare": [
+        "Présente un projet de « prospérité écologique » de 557 propositions pour sortir du « surendettement climatique ».",
+        "Propose un « État providence climatique » : droit à une alimentation et à une eau saines, congé climatique, réforme du régime des catastrophes naturelles, sécurité sociale de l'alimentation ; et l'égalité devant l'impôt pour les 1 % les plus riches."
+      ],
+      "themes": [
+        "ecologie",
+        "retraites",
+        "economie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "tondelier",
+      "date": "2026-08-27",
+      "type": "debat",
+      "media": "Université d'été du Medef, Roland-Garros (Paris)",
+      "emission": "Sept candidats interrogés par cinq chefs d'entreprise",
+      "titre": "Direct : Attal, Le Pen, Mélenchon, Philippe... Suivez le premier débat de la présidentielle organisé par le Medef entre sept candidats déclarés",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-attal-le-pen-melenchon-philippe-suivez-le-premier-debat-de-la-presidentielle-organise-par-le-medef-entre-sept-candidats-declares_8162033.html",
+      "declare": [
+        "Propose un SMIC à « 2 000 euros brut » et « un grand plan d'aide pour les PME et les TPE »."
+      ],
+      "themes": [
+        "travail",
+        "economie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "tondelier",
+      "date": "2026-09-12",
+      "type": "interview",
+      "media": "franceinfo",
+      "emission": "L'interview politique, Antoine Comte",
+      "titre": "« Chacun a décidé d'être dans son couloir de natation », déplore Marine Tondelier, candidate écologiste à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/replay-radio/l-interview-politique/chacun-a-decide-d-etre-dans-son-couloir-de-natation-deplore-marine-tondelier-candidate-ecologiste-a-l-election-presidentielle_8189441.html",
+      "declare": [
+        "Déplore la division de la gauche (« Chacun a décidé d'être dans son couloir de natation ») et présente 21 propositions destinées à la rassembler.",
+        "Déclare que les rendez-vous avec les partenaires de gauche « ont commencé » et que la primaire socialiste n'est « plus notre affaire »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "zemmour",
+      "date": "2026-09-17",
+      "type": "interview",
+      "media": "BFMTV",
+      "emission": "Face à BFM",
+      "titre": "Zemmour confirme qu'il sera candidat à l'élection présidentielle en France et durcit encore son discours sur l'immigration",
+      "url": "https://www.lavenir.net/actu/monde/2026/09/18/zemmour-confirme-quil-sera-candidat-a-lelection-presidentielle-en-france-et-durcit-encore-son-discours-sur-limmigration-5OFMOVM6CVCDFHY4B3GI5QID3Q/",
+      "declare": [
+        "Déclare : « Je suis candidat à la présidence de la République, je serai candidat à l'élection présidentielle ».",
+        "Propose de renvoyer « tous les étrangers qui sont dans les prisons françaises », « tous les délinquants étrangers », les personnes en situation irrégulière et les étrangers chômeurs de longue durée ou vivant « uniquement des aides sociales », en invoquant un article de 1945 du code des étrangers."
+      ],
+      "themes": [
+        "campagne",
+        "immigration",
+        "securite"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "dupont-aignan",
+      "date": "2026-09-19",
+      "type": "interview",
+      "media": "franceinfo",
+      "emission": "À Yerres, jour de l'officialisation de sa candidature",
+      "titre": "« Je serai le seul candidat qui propose de sortir de l'Union européenne », dit Nicolas Dupont-Aignan, qui se lance dans sa quatrième campagne présidentielle",
+      "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html",
+      "declare": [
+        "Déclare : « Je serai le seul candidat qui propose de sortir de cette prison qu'est l'Union européenne », chiffre à 15 milliards d'euros par an les économies d'une sortie et les affecte à la dette et à un capital retraite de 10 000 euros par nouveau-né.",
+        "Propose de baisser de 40 centimes par litre le prix des carburants par une baisse des taxes, de sortir du marché européen de l'énergie et de supprimer l'aide à l'Ukraine."
+      ],
+      "themes": [
+        "international",
+        "economie",
+        "retraites"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "dupont-aignan",
+      "date": "2026-09-20",
+      "type": "interview",
+      "media": "Sud Radio",
+      "emission": "Le Grand Matin Week-End, Jean-François Achilli",
+      "titre": "Nicolas Dupont-Aignan : « La position du RN est incompréhensible »",
+      "url": "https://www.sudradio.fr/linvite-politique/nicolas-dupont-aignan-la-position-du-rn-est-incomprehensible",
+      "declare": [
+        "Propose une baisse de 50 centimes par litre de carburant : suppression des certificats d'économie d'énergie (15 centimes), de la TVA sur les taxes (15 centimes) et d'une partie des accises (20 centimes).",
+        "Sur l'Ukraine, propose le retrait des troupes russes contre le maintien de l'Ukraine hors de l'OTAN et de l'Union européenne ; juge la position du RN « incompréhensible » et déclare : « Je souhaite être au second tour et je peux l'être »."
+      ],
+      "themes": [
+        "economie",
+        "international",
+        "campagne"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "villepin",
+      "date": "2026-09-20",
+      "type": "interview",
+      "media": "franceinfo",
+      "emission": "Le grand enjeu, Myriam Encaoua",
+      "titre": "Présidentielle 2027 : « J'ai le sentiment que bien des programmes sont un peu courts sur pattes », estime Dominique de Villepin",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-j-ai-le-sentiment-que-bien-des-programmes-sont-un-peu-courts-sur-pattes-estime-dominique-de-villepin-ancien-premier-ministre_8202191.html",
+      "declare": [
+        "Déclare : « J'ai le sentiment que bien des programmes sont un peu courts sur pattes » et défend « une radicalité mesurée ».",
+        "Estime qu'Édouard Philippe « est totalement lié à ce qui s'est fait depuis dix ans »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "villepin",
+      "date": "2026-09-29",
+      "type": "interview",
+      "media": "franceinfo",
+      "emission": "Matinale",
+      "titre": "« Le jeu va se décanter » dans les « prochains mois », avance l'ancien Premier ministre Dominique de Villepin concernant l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/le-jeu-va-se-decanter-dans-les-prochains-mois-avance-l-ancien-premier-ministre-dominique-de-villepin-concernant-l-election-presidentielle_8214548.html",
+      "declare": [
+        "Déclare qu'il est « encore trop tôt » pour se déclarer candidat et que « le jeu va se décanter » dans « les prochains mois ».",
+        "Propose de « supprimer progressivement les niches fiscales et sociales qui représentent 180 milliards d'euros » pour rembourser la dette."
+      ],
+      "themes": [
+        "campagne",
+        "economie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "hollande",
+      "date": "2026-09-07",
+      "type": "interview",
+      "media": "franceinfo",
+      "titre": "« Je ne vais pas entraver qui que ce soit » pour l'élection présidentielle 2027, assure François Hollande",
+      "url": "https://www.franceinfo.fr/politique/francois-hollande/francois-hollande-sur-france-2/je-ne-vais-pas-entraver-qui-que-ce-soit-pour-l-election-presidentielle-2027-assure-francois-hollande_8180591.html",
+      "declare": [
+        "Déclare : « Je ne suis pas candidat à ce stade » et « nous verrons au mois de décembre ».",
+        "Annonce qu'il votera à la primaire socialiste et qu'il ne veut « entraver qui que ce soit »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "hollande",
+      "date": "2026-09-28",
+      "type": "interview",
+      "media": "la Repubblica (entretien rapporté par Reuters)",
+      "titre": "France's Hollande says may run in 2027 if victory looks attainable, paper says",
+      "url": "https://www.usnews.com/news/world/articles/2026-09-28/frances-hollande-says-may-run-in-2027-if-victory-looks-attainable-paper-says",
+      "declare": [
+        "Déclare qu'il ne se présenterait qu'en cas de circonstances exceptionnelles et s'il existait une chance réelle d'atteindre le second tour et de l'emporter.",
+        "Ajoute que, pour un ancien chef de l'État, une candidature ne se décide pas à la légère."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "bouamrane",
+      "date": "2026-09-07",
+      "type": "interview",
+      "media": "Europe 1 et CNews",
+      "emission": "La Grande Interview, Laurence Ferrari",
+      "titre": "« François Hollande et moi sommes bien placés pour rassembler notre camp », estime Karim Bouamrane, maire PS de Saint-Ouen et candidat à la présidentielle",
+      "url": "https://www.europe1.fr/politique/francois-hollande-et-moi-sommes-bien-places-pour-rassembler-notre-camp-estime-karim-bouamrane-maire-ps-de-saint-ouen-et-candidat-a-la-presidentielle-1060409",
+      "declare": [
+        "Annonce qu'il ne participera pas à la primaire socialiste, dont il juge le mode de sélection « censitaire » (15 euros pour voter) et qui ne « mobilise pas toute la famille sociale-démocrate ».",
+        "Déclare : « François Hollande et moi pourrons être les deux personnes les mieux placées pour pouvoir rassembler notre camp »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "arthaud",
+      "date": "2026-09-26",
+      "type": "discours",
+      "media": "Meeting, salle de la Mutualité (Paris)",
+      "titre": "« Plus Léon Trotski que Léon XIV » : premier meeting de campagne pour Arthaud et LO",
+      "url": "https://actu.orange.fr/politique/quot-plus-leon-trotski-que-leon-xiv-quot-premier-meeting-de-campagne-pour-arthaud-et-lo-CNT000002s7wNn.html",
+      "declare": [
+        "Déclare : « Notre programme n'est pas un programme électoral, c'est un plan de combat » et que « le véritable pouvoir n'est pas à l'Élysée ».",
+        "Rejette le vote utile pour Jean-Luc Mélenchon : « Ce n'est pas Jean-Luc Mélenchon qui fera progresser cette conscience de classe »."
+      ],
+      "themes": [
+        "campagne",
+        "travail"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "lisnard",
+      "date": "2026-09-17",
+      "type": "interview",
+      "media": "franceinfo",
+      "emission": "L'invité politique, Alix Bouilhaguet",
+      "titre": "« Mon ambition, c'est qu'on retrouve une France beaucoup plus forte », assure David Lisnard, candidat à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-jeudi-17-septembre-2026_8182328.html",
+      "declare": [
+        "Promet « 80 milliards d'euros d'économie dès la première année », en citant l'hébergement d'urgence en hôtels (3,2 milliards), les postes administratifs et la fusion d'agences redondantes.",
+        "Sur les carburants, propose la « suspension des certificats d'économie d'énergie », soit 15 à 17 centimes par litre."
+      ],
+      "themes": [
+        "economie"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "bertrand",
+      "date": "2026-08-27",
+      "type": "interview",
+      "media": "franceinfo, en marge de l'université d'été du Medef",
+      "titre": "Xavier Bertrand, président Les Républicains de la Région Hauts-de-France, déclare qu'il « sera » candidat à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html",
+      "declare": [
+        "Interrogé sur une candidature, répond : « Je le serai », puis précise devant la presse : « le moment n'est pas venu ».",
+        "Annonce qu'il ne participera pas à une primaire de la droite et du centre."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "batho",
+      "date": "2026-09-14",
+      "type": "interview",
+      "media": "ICI Poitou",
+      "emission": "L'invité de ICI Poitou",
+      "titre": "Présidentielle : « Les Français aspirent à des idées et à des forces nouvelles », estime Delphine Batho, candidate",
+      "url": "https://www.ici.fr/emissions/l-invite-de-ici-poitou/delphine-batho-candidate-en-2027-les-francaises-aspirent-a-des-idees-nouvelles-et-a-des-forces-nouvelles-6628651",
+      "declare": [
+        "Annonce qu'il y aura en 2027 « un bulletin pour l'écologie, le climat, la santé environnementale » et dit rechercher les 500 parrainages nécessaires.",
+        "Propose une « république des territoires » et répond, à propos de Ségolène Royal, que « les Français aspirent à des idées nouvelles et à des forces nouvelles »."
+      ],
+      "themes": [
+        "ecologie",
+        "campagne",
+        "institutions"
+      ],
+      "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "becht",
+      "date": "2026-09-24",
+      "type": "conference",
+      "media": "Permanence parlementaire, Rixheim (Haut-Rhin)",
+      "titre": "« Il faut refonder notre modèle » : le député alsacien Olivier Becht est candidat à la présidentielle",
+      "url": "https://www.ici.fr/grand-est/alsace-cea/rixheim/il-faut-refonder-notre-modele-le-depute-alsacien-olivier-becht-est-candidat-a-la-presidentielle-1401407",
+      "declare": [
+        "Annonce sa candidature et un « Projet France », « refondation complète de notre modèle » : énergie « 100 % en France et 100 % décarbonée », protection universelle tout au long de la vie, centres de réhabilitation encadrés par d'anciens militaires pour les délinquants.",
+        "Annonce un tour des départements à partir du 12 novembre : « Je vais aller porter ce projet quasiment en porte-à-porte »."
+      ],
+      "themes": [
+        "campagne",
+        "ecologie",
+        "securite"
+      ],
+      "verifie_le": "2026-09-30"
+    }
+  ],
+  "a_verifier": [
+    "Attal, RTL du 25 septembre 2026 (« Je suis candidat pour gagner cette élection présidentielle ») : page rtl.fr non trouvée, seule la vidéo YouTube de RTL existe ; à ajouter si une page datée est publiée.",
+    "Aucune prise de parole recensée sur la période pour : Cazeneuve, Kazib, Labib, Le Maire, Philippot, Asselineau, Lassalle, Ruffin, Egger, Mathieu, Lalanne, Branco, Durif, Mikolajczak, Massard — recherche à reprendre chaque semaine.",
+    "Glucksmann, BFMTV/RMC du 30 septembre 2026 : source citée = reprise 6Médias/L'Express sur actu.orange.fr ; remplacer par la page de BFMTV dès qu'elle est identifiée.",
+    "Guedj, BFMTV du 11 septembre 2026 : source citée = article de Capital repris par Yahoo ; remplacer par la page de BFMTV ou de Capital.",
+    "Hollande, la Repubblica du 28 septembre 2026 : source citée = dépêche Reuters en anglais ; remplacer par l'entretien original ou une reprise en français.",
+    "Mlekuz, SQOOL TV du 24 septembre 2026 : émission identifiée mais aucune déclaration transcrite ; à compléter après visionnage.",
+    "Mélenchon, Fête de l'Humanité du 11 septembre 2026 (échange avec la rédaction de L'Humanité) : contenu disponible seulement en vidéo ; à ajouter si un compte rendu écrit paraît.",
+    "Roussel, TF1 du 6 septembre 2026 : source citée = dépêche reprise sur actu.orange.fr ; remplacer par la page de TF1 Info."
+  ]
 }

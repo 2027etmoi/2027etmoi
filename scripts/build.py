@@ -282,8 +282,8 @@ def en_bref(items):
     periode = (f"le {date_courte(dates[0])}" if dates[0] == dates[-1]
                else f"entre le {date_courte(dates[0])} et le {date_courte(dates[-1])}")
     s = "s" if n > 1 else ""
-    return (f"{n} prise{s} de parole recensée{s} {periode} : {', '.join(types)}, sur {', '.join(medias)}. "
-            f"Thèmes abordés : {', '.join(themes).lower()}.")
+    return (f"{n} prise{s} de parole recensée{s} {periode} : {', '.join(types)}. "
+            f"Lieux et médias : {' · '.join(medias)}. Thèmes abordés : {', '.join(themes).lower()}.")
 
 
 def parole_li(i, avec_nom=""):

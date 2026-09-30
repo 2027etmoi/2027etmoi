@@ -167,8 +167,8 @@ function enBrefParole(items) {
   const medias = [...new Set(items.map((i) => i.media))];
   const themes = [...new Set(items.flatMap((i) => i.themes || []))].map((t) => THEMES_PAROLE[t] || t);
   const periode = dates[0] === dates[n - 1] ? `le ${formatDate(dates[0])}` : `entre le ${formatDate(dates[0])} et le ${formatDate(dates[n - 1])}`;
-  return `${n} prise${n > 1 ? "s" : ""} de parole recensée${n > 1 ? "s" : ""} ${periode} : ${types.join(", ")}, sur ${medias.join(", ")}. `
-    + `Thèmes abordés : ${themes.join(", ").toLowerCase()}.`;
+  return `${n} prise${n > 1 ? "s" : ""} de parole recensée${n > 1 ? "s" : ""} ${periode} : ${types.join(", ")}. `
+    + `Lieux et médias : ${medias.join(" · ")}. Thèmes abordés : ${themes.join(", ").toLowerCase()}.`;
 }
 
 // Une prise de parole (fiche candidat et page Actualité partagent la même présentation)
