@@ -579,6 +579,15 @@ urls = [(SITE + "/", "1.0", DATES_PAGES["index.html"]),
     + "".join(f"  <url><loc>{esc(u)}</loc>" + (f"<lastmod>{d}</lastmod>" if d else "")
               + f"<priority>{pr}</priority></url>\n" for u, pr, d in urls)
     + "</urlset>\n", encoding="utf-8")
+# Redirections des adresses sans extension (« /faq ») vers l'adresse déclarée
+# (« /faq.html »). Netlify a longtemps servi les deux avec un code 200 : ces règles
+# ramènent chaque page à une seule adresse, quelle que soit celle déjà connue des moteurs.
+# Le « ! » force la redirection même si un fichier correspond au chemin demandé.
+sans_ext = sorted({u[len(SITE):].removesuffix(".html") for u, _, _ in urls
+                   if u.endswith(".html")} - {""})
+(ROOT / "_redirects").write_text(
+    "# Généré par scripts/build.py — ne pas modifier à la main\n"
+    + "".join(f"{c}  {c}.html  301!\n" for c in sans_ext), encoding="utf-8")
 (ROOT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /candidat.html\n\nSitemap: {SITE}/sitemap.xml\n", encoding="utf-8")
 
 print(f"build : {len(cands)} pages candidats, {len(urls)} URL dans le sitemap, site = {SITE}")

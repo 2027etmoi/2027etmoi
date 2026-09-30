@@ -3,5 +3,6 @@
 /candidats/
 /sitemap.xml
 /robots.txt
+/_redirects
 /rapport.md
 __pycache__/

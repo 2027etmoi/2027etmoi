@@ -5,6 +5,12 @@
 [build.environment]
   PYTHON_VERSION = "3.11"
 
+# Les liens internes gardent leur extension : une seule adresse par page, celle que
+# déclarent la balise canonique et le plan du site. Sans cela, Netlify réécrit tous
+# les liens en supprimant « .html », et chaque page devient accessible à deux adresses.
+[build.processing.html]
+  pretty_urls = false
+
 # Cache long pour les fichiers versionnés (?v=empreinte), court pour les pages et les données
 [[headers]]
   for = "/assets/*"
