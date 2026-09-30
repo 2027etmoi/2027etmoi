@@ -132,6 +132,20 @@ function paroleSection(tp, id) {
     { count: mois.length });
 }
 
+// Prises de parole récentes : les cinq dernières, avec un « En bref » construit mécaniquement
+function prisesSection(pp, id) {
+  if (!pp) return "";
+  const miens = (pp.prises_de_parole || []).filter((i) => i.id === id).sort((a, b) => b.date.localeCompare(a.date)).slice(0, 5);
+  const regles = `<p class="notice">Seuls les propos de la personne sont recensés — interviews, discours, tribunes, débats, interventions au Parlement — là où ils ont été tenus, jamais les articles à son sujet. Sélection identique pour tous : <a href="https://github.com/2027etmoi/2027etmoi/blob/main/docs/methode-prises-de-parole.md" target="_blank" rel="noopener">méthode</a>. <a href="/actualite.html#${encodeURIComponent(id)}">Toute l'actualité de la campagne</a></p>`;
+  if (!miens.length) {
+    const depuis = pp.fenetre?.debut ? ` depuis le ${esc(formatDate(pp.fenetre.debut))}` : "";
+    return fold("Prises de parole récentes", `<p class="notice">Aucune prise de parole recensée${depuis}. Cela signifie qu'aucune n'a été relevée, pas qu'il n'y en a pas eu.</p>${regles}`);
+  }
+  return fold("Prises de parole récentes",
+    `<p class="enbref">${esc(enBrefParole(miens))}</p><ul class="measures feed">${miens.map((i) => paroleItemHtml(i)).join("")}</ul>${regles}`,
+    { count: miens.length });
+}
+
 // Votes au Parlement : mandats et scrutins nominatifs (data/votes.json)
 // Périodes couvertes par les scrutins retenus, pour expliquer une absence de vote.
 const COUVERTURE = {
@@ -214,7 +228,7 @@ async function init() {
   }
 
   if (!location.pathname.startsWith("/candidats/")) document.title = `${c.nom} — 2027 et moi`;
-  const [p, b, sondages, tp, votes] = await Promise.all([loadProgramme(c.id), loadBiographie(c.id), loadSondages(), loadTempsParole(), loadVotes()]);
+  const [p, b, sondages, tp, votes, pp] = await Promise.all([loadProgramme(c.id), loadBiographie(c.id), loadSondages(), loadTempsParole(), loadVotes(), loadPrisesDeParole()]);
   const m = computeMoyennes(sondages)[c.id];
 
   const head = `<header class="site-header cand-header" style="padding-top:16px">
@@ -234,7 +248,7 @@ async function init() {
     </header>`;
 
   $("loading").remove();
-  main.insertAdjacentHTML("beforeend", head + programmeSections(c, p) + votesSection(votes, c.id) + paroleSection(tp, c.id) + bioSections(b, p));
+  main.insertAdjacentHTML("beforeend", head + programmeSections(c, p) + prisesSection(pp, c.id) + votesSection(votes, c.id) + paroleSection(tp, c.id) + bioSections(b, p));
 
   main.addEventListener("click", (e) => {
     const btn = e.target.closest("[data-toggle-all]");

@@ -138,6 +138,20 @@ sections.append("## 6 bis. Données de votes\n\n" + (
       "(`\"mandats\": []`) pour que leur fiche affiche « jamais élu au Parlement »."
     if sans else "✅ Tous les candidats figurent dans les données de votes.") + "\n")
 
+# 6 ter. Prises de parole : candidats en lice sans prise de parole récente
+pp = load(DATA / "prises-de-parole.json") if (DATA / "prises-de-parole.json").exists() else {"prises_de_parole": []}
+recent = (AUJ - timedelta(days=21)).isoformat()
+derniere = {}
+for it in pp.get("prises_de_parole", []):
+    derniere[it["id"]] = max(derniere.get(it["id"], ""), it["date"])
+silencieux = [f'{c["nom"]} ({"dernière : " + derniere[c["id"]] if c["id"] in derniere else "aucune"})'
+              for c in cands if c["statut"] in EN_LICE and derniere.get(c["id"], "") < recent]
+sections.append("## 6 ter. Prises de parole\n\n" + (
+    f"ℹ️ {len(silencieux)} candidat(s) en lice sans prise de parole recensée depuis trois semaines : "
+    + ", ".join(silencieux) + ".\n\nÀ rechercher en priorité (interviews, discours, tribunes, débats), "
+      "selon `docs/methode-prises-de-parole.md`. Une absence peut aussi refléter une absence réelle d'exposition."
+    if silencieux else "✅ Chaque candidat en lice a une prise de parole recensée depuis moins de trois semaines.") + "\n")
+
 # 7. Points en attente
 code, out = run(["scripts/a_verifier.py"])
 m = re.search(r"(\d+) points", out)

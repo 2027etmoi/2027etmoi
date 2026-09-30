@@ -666,3 +666,21 @@ button.cta { border: 0; font: inherit; font-weight: 600; cursor: pointer; }
 .theme-block h3 .party { font-weight: 400; font-size: 13px; }
 @media (max-width: 900px) { .entry-grid-13 { grid-template-columns: repeat(2, minmax(0, 1fr)); } .cand-links.cols { columns: 2; } }
 @media (max-width: 760px) { .entry-grid-13 { grid-template-columns: 1fr; } .cand-links.cols { columns: 1; } .steps-col .step { grid-template-columns: 1fr; } }
+
+/* Prises de parole (fiche candidat et page Actualité) */
+.feed li { display: grid; gap: 5px; }
+.feed-head { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 13px; color: var(--muted); }
+.feed-head strong { color: var(--text); }
+.feed-cand { font-weight: 600; }
+.badge.parole { background: var(--pastel-blue); color: #2b4a80; }
+.feed .titre { font-weight: 600; color: var(--text); text-decoration: none; }
+.feed a.titre:hover { text-decoration: underline; color: var(--accent); }
+.feed .declare { margin: 0; }
+.feed .themes { display: flex; flex-wrap: wrap; gap: 6px; }
+.feed .themes a, .feed .themes span { font-size: 12px; color: var(--muted); background: var(--bg); border: 1px solid var(--border); border-radius: 999px; padding: 2px 8px; text-decoration: none; }
+.feed .themes a:hover { border-color: var(--accent); color: var(--accent); }
+.feed-month { margin: 26px 0 8px; font-size: 18px; }
+.enbref { margin: 0 0 12px; padding: 12px 14px; background: var(--accent-soft); border-radius: var(--radius); font-size: 15px; }
+.filters { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 14px; }
+.filters select { font: inherit; padding: 6px 10px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); color: var(--text); max-width: 100%; }
+.needs-js { display: none; }

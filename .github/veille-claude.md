@@ -9,7 +9,8 @@ Tu mets à jour les **données** du site « 2027 et moi », un site d'informatio
 - `docs/methode-sources.md` : programmes et mesures ;
 - `docs/methode-biographies.md` : biographies et affaires judiciaires, avec des règles strictes et la présomption d'innocence ;
 - `docs/methode-candidatures.md` : données de candidature ;
-- `docs/questions-cles.md` : positions sur les questions clés.
+- `docs/questions-cles.md` : positions sur les questions clés ;
+- `docs/methode-prises-de-parole.md` : prises de parole des candidats.
 
 Sources refusées : les agrégateurs et comparateurs non officiels (elyseescope, monvote2027, candidatspresidentielles2027, etc.), et Wikipédia pour une mesure ou une affaire. Pour tes recherches, privilégie les sources ouvertes : franceinfo.fr, france24.com, publicsenat.fr, lcp.fr, europe1.fr, ici.fr et francebleu.fr, ainsi que les sites officiels des candidats, des partis et des institutions (conseil-constitutionnel.fr, commission-des-sondages.fr, arcom.fr).
 
@@ -38,6 +39,7 @@ Sources refusées : les agrégateurs et comparateurs non officiels (elyseescope,
    - s'il n'a jamais été parlementaire, vérifie que sa fiche affiche bien « jamais élu au Parlement » (entrée `"mandats": []`).
    Ces scripts sont l'exception à la règle « ne pas toucher au code » : tu peux y ajouter une ligne d'identifiant, rien d'autre.
 8. **Affaires judiciaires** (`data/biographies/<id>.json`) : mets à jour l'état des procédures qui ont évolué, avec une source de presse reconnue ouverte.
+9. **Prises de parole** (`data/prises-de-parole.json`) : pour chaque candidat en lice, cherche les interviews, discours, tribunes signées, débats, conférences de presse et interventions au Parlement de la semaine écoulée, en commençant par les candidats que le rapport signale sans prise de parole récente. Pour chacune : la source **ouverte**, le titre tel que publié, une à trois phrases de ce qui a été déclaré, à l'indicatif et **sans aucun qualificatif** (ni « offensive », ni « recadrage », ni « polémique »), et ses thèmes. **Jamais d'article sur le candidat** (portrait, enquête, analyse, éditorial), jamais de propos rapportés par une source anonyme, jamais de publication sur les réseaux sociaux. Si une prise de parole contient une proposition précise, reporte-la aussi dans le programme (mesure de nature `declaration`). Avance `fenetre.debut` pour couvrir environ six semaines.
 
 Limite-toi à ce que tu peux vérifier sérieusement. Mieux vaut peu de changements sûrs que beaucoup de changements douteux.
 

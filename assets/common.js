@@ -142,6 +142,50 @@ const ETATS_AFFAIRE = {
 
 const loadSondages = () => loadOptional("/data/sondages.json");
 
+// Prises de parole : propos tenus par la personne, là où ils l'ont été (docs/methode-prises-de-parole.md)
+const loadPrisesDeParole = () => loadOptional("/data/prises-de-parole.json");
+const TYPES_PAROLE = {
+  interview: ["Interview", "interview", "interviews"],
+  discours: ["Discours ou meeting", "discours ou meeting", "discours ou meetings"],
+  tribune: ["Tribune signée", "tribune signée", "tribunes signées"],
+  debat: ["Débat", "débat", "débats"],
+  conference: ["Conférence de presse", "conférence de presse", "conférences de presse"],
+  parlement: ["Intervention au Parlement", "intervention au Parlement", "interventions au Parlement"],
+  communique: ["Communiqué officiel", "communiqué officiel", "communiqués officiels"],
+};
+const THEMES_PAROLE = { ...THEMES, campagne: "Campagne et candidature" };
+
+// « En bref » : phrases construites mécaniquement à partir des prises de parole affichées.
+// Aucune rédaction : nombre, période, types, médias, thèmes. Même code pour tous les candidats.
+function enBrefParole(items) {
+  if (!items.length) return "";
+  const dates = items.map((i) => i.date).sort();
+  const n = items.length;
+  const parType = {};
+  for (const i of items) parType[i.type] = (parType[i.type] || 0) + 1;
+  const types = Object.entries(parType).map(([t, k]) => `${k} ${(TYPES_PAROLE[t] || [t, t, t])[k > 1 ? 2 : 1]}`);
+  const medias = [...new Set(items.map((i) => i.media))];
+  const themes = [...new Set(items.flatMap((i) => i.themes || []))].map((t) => THEMES_PAROLE[t] || t);
+  const periode = dates[0] === dates[n - 1] ? `le ${formatDate(dates[0])}` : `entre le ${formatDate(dates[0])} et le ${formatDate(dates[n - 1])}`;
+  return `${n} prise${n > 1 ? "s" : ""} de parole recensée${n > 1 ? "s" : ""} ${periode} : ${types.join(", ")}. `
+    + `Lieux et médias : ${medias.join(" · ")}. Thèmes abordés : ${themes.join(", ").toLowerCase()}.`;
+}
+
+// Une prise de parole (fiche candidat et page Actualité partagent la même présentation)
+function paroleItemHtml(i, { avecNom = "" } = {}) {
+  const type = (TYPES_PAROLE[i.type] || [i.type])[0];
+  const themes = (i.themes || []).map((t) => t in THEMES
+    ? `<a href="/themes/${esc(t)}.html">${esc(THEMES[t])}</a>` : `<span>${esc(THEMES_PAROLE[t] || t)}</span>`).join("");
+  return `<li>
+    <div class="feed-head"><strong>${esc(formatDate(i.date))}</strong> <span class="badge parole">${esc(type)}</span>
+      ${avecNom ? `<a class="feed-cand" href="/candidats/${esc(i.id)}.html">${esc(avecNom)}</a> ·` : ""}
+      <span>${esc(i.media)}${i.emission ? ` — ${esc(i.emission)}` : ""}</span></div>
+    ${safeUrl(i.url) ? `<a class="titre" href="${safeUrl(i.url)}" target="_blank" rel="noopener">${esc(i.titre)}</a>` : `<span class="titre">${esc(i.titre)}</span>`}
+    <p class="declare">${(i.declare || []).map(esc).join(" ")}</p>
+    ${themes ? `<div class="themes">${themes}</div>` : ""}
+  </li>`;
+}
+
 // Moyenne des intentions de vote par personnalité.
 // Un sondage compte pour une voix : on fait d'abord la moyenne des hypothèses
 // d'un même sondage, puis la moyenne entre sondages. Voir sondages.html.

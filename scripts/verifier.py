@@ -258,6 +258,47 @@ if vt:
             if v not in VOTES_OK:
                 err(w, f"vote invalide pour {cid} : {v!r}")
 
+# --- prises de parole
+pp = load(DATA / "prises-de-parole.json") if (DATA / "prises-de-parole.json").exists() else None
+if pp:
+    TYPES_PAROLE = set((pp.get("types") or {}).keys())
+    THEMES_PAROLE = THEMES | {"campagne"}
+    vus = set()
+    for it in pp.get("prises_de_parole", []):
+        w = f"prises-de-parole/{it.get('id')} {it.get('date')}"
+        if it.get("id") not in ids:
+            err(w, f"id inconnu : {it.get('id')}")
+        if not re.match(r"^\d{4}-\d{2}-\d{2}$", it.get("date") or ""):
+            err(w, "date invalide (AAAA-MM-JJ attendu)")
+        if it.get("type") not in TYPES_PAROLE:
+            err(w, f"type inconnu : {it.get('type')}")
+        for champ in ("media", "titre"):
+            if not (it.get(champ) or "").strip():
+                err(w, f"champ « {champ} » manquant")
+        url = it.get("url") or ""
+        if not url.startswith("http"):
+            err(w, "url manquante")
+        if any(b in url for b in INTERDITS) or "wikipedia.org" in url:
+            err(w, f"source refusée : {url}")
+        d = it.get("declare")
+        if not isinstance(d, list) or not d or not all(isinstance(x, str) and x.strip() for x in d):
+            err(w, "« declare » doit être une liste d'une à trois phrases")
+        elif len(d) > 3:
+            warn(w, f"« declare » compte {len(d)} phrases (trois au plus)")
+        th = it.get("themes")
+        if not isinstance(th, list) or not th:
+            err(w, "au moins un thème est requis")
+        else:
+            for t in th:
+                if t not in THEMES_PAROLE:
+                    err(w, f"thème inconnu : {t}")
+        if not DATE_RE.match(it.get("verifie_le") or ""):
+            err(w, "verifie_le manquant ou invalide")
+        cle = (it.get("id"), url)
+        if cle in vus:
+            err(w, "doublon (même personne, même source)")
+        vus.add(cle)
+
 # --- couverture
 manque_prog = sorted(en_lice - set(progs))
 manque_bio = sorted(en_lice - set(bios))

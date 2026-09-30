@@ -1,6 +1,6 @@
 # Points à vérifier (généré)
 
-Généré le 2026-09-29 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 571 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
+Généré le 2026-09-30 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 579 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
 
 ## Biographies et affaires judiciaires
 
@@ -811,4 +811,15 @@ Généré le 2026-09-29 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Un scrutin sur l'ensemble d'une résolution porte sur un texte qui traite de plusieurs sujets : le rattachement à une question clé signale une correspondance d'objet, pas une réponse à la question.
 - [ ] Michel Barnier a été sénateur de la Savoie (1995, puis 1997-1999) : les scrutins publics du Sénat n'étant publiés en ligne qu'à partir de la session 2006-2007, aucun de ses votes n'est repris ici.
 - [ ] Aucun scrutin n'est retenu entre le 21 octobre 2024 et le 13 novembre 2025 : Bruno Retailleau, seul sénateur en exercice parmi les candidats, n'était alors pas membre du Sénat (fonctions gouvernementales).
+
+## Prises de parole (`data/prises-de-parole.json`)
+
+- [ ] Attal, RTL du 25 septembre 2026 (« Je suis candidat pour gagner cette élection présidentielle ») : page rtl.fr non trouvée, seule la vidéo YouTube de RTL existe ; à ajouter si une page datée est publiée.
+- [ ] Aucune prise de parole recensée sur la période pour : Cazeneuve, Kazib, Labib, Le Maire, Philippot, Asselineau, Lassalle, Ruffin, Egger, Mathieu, Lalanne, Branco, Durif, Mikolajczak, Massard — recherche à reprendre chaque semaine.
+- [ ] Glucksmann, BFMTV/RMC du 30 septembre 2026 : source citée = reprise 6Médias/L'Express sur actu.orange.fr ; remplacer par la page de BFMTV dès qu'elle est identifiée.
+- [ ] Guedj, BFMTV du 11 septembre 2026 : source citée = article de Capital repris par Yahoo ; remplacer par la page de BFMTV ou de Capital.
+- [ ] Hollande, la Repubblica du 28 septembre 2026 : source citée = dépêche Reuters en anglais ; remplacer par l'entretien original ou une reprise en français.
+- [ ] Mlekuz, SQOOL TV du 24 septembre 2026 : émission identifiée mais aucune déclaration transcrite ; à compléter après visionnage.
+- [ ] Mélenchon, Fête de l'Humanité du 11 septembre 2026 (échange avec la rédaction de L'Humanité) : contenu disponible seulement en vidéo ; à ajouter si un compte rendu écrit paraît.
+- [ ] Roussel, TF1 du 6 septembre 2026 : source citée = dépêche reprise sur actu.orange.fr ; remplacer par la page de TF1 Info.
 
