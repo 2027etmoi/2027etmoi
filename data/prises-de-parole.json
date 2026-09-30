@@ -1,0 +1,16 @@
+{
+  "mise_a_jour": "2026-09-30",
+  "fenetre": { "debut": "2026-08-19" },
+  "regles": "https://github.com/2027etmoi/2027etmoi/blob/main/docs/methode-prises-de-parole.md",
+  "types": {
+    "interview": "Interview",
+    "discours": "Discours ou meeting",
+    "tribune": "Tribune signée",
+    "debat": "Débat",
+    "conference": "Conférence de presse",
+    "parlement": "Intervention au Parlement",
+    "communique": "Communiqué officiel"
+  },
+  "prises_de_parole": [],
+  "a_verifier": []
+}

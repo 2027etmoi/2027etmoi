@@ -248,6 +248,56 @@ def _fenetre(debut, fin):
 
 
 fenetre_txt = _fenetre(fen.get("debut"), fen.get("fin"))
+
+# Prises de parole : propos tenus par la personne, là où ils l'ont été (docs/methode-prises-de-parole.md)
+pp = load(DATA / "prises-de-parole.json") if (DATA / "prises-de-parole.json").exists() else {"prises_de_parole": []}
+TYPES_PAROLE = {"interview": ("Interview", "interview", "interviews"),
+                "discours": ("Discours ou meeting", "discours ou meeting", "discours ou meetings"),
+                "tribune": ("Tribune signée", "tribune signée", "tribunes signées"),
+                "debat": ("Débat", "débat", "débats"),
+                "conference": ("Conférence de presse", "conférence de presse", "conférences de presse"),
+                "parlement": ("Intervention au Parlement", "intervention au Parlement", "interventions au Parlement"),
+                "communique": ("Communiqué officiel", "communiqué officiel", "communiqués officiels")}
+THEMES_PAROLE = {**THEMES, "campagne": "Campagne et candidature"}
+D_PAROLE = maj("prises-de-parole.json")
+par_cand_pp = {}
+for _it in pp.get("prises_de_parole", []):
+    par_cand_pp.setdefault(_it["id"], []).append(_it)
+for _l in par_cand_pp.values():
+    _l.sort(key=lambda i: i["date"], reverse=True)
+
+
+def en_bref(items):
+    """« En bref » construit mécaniquement — même logique que enBrefParole() dans assets/common.js."""
+    if not items:
+        return ""
+    dates = sorted(i["date"] for i in items)
+    n = len(items)
+    par_type = {}
+    for i in items:
+        par_type[i["type"]] = par_type.get(i["type"], 0) + 1
+    types = [f"{k} {TYPES_PAROLE.get(t, (t, t, t))[2 if k > 1 else 1]}" for t, k in par_type.items()]
+    medias = list(dict.fromkeys(i["media"] for i in items))
+    themes = list(dict.fromkeys(THEMES_PAROLE.get(t, t) for i in items for t in (i.get("themes") or [])))
+    periode = (f"le {date_courte(dates[0])}" if dates[0] == dates[-1]
+               else f"entre le {date_courte(dates[0])} et le {date_courte(dates[-1])}")
+    s = "s" if n > 1 else ""
+    return (f"{n} prise{s} de parole recensée{s} {periode} : {', '.join(types)}, sur {', '.join(medias)}. "
+            f"Thèmes abordés : {', '.join(themes).lower()}.")
+
+
+def parole_li(i, avec_nom=""):
+    """Une prise de parole en HTML statique — même présentation que paroleItemHtml() côté JavaScript."""
+    type_ = TYPES_PAROLE.get(i["type"], (i["type"],))[0]
+    themes = "".join(f'<a href="/themes/{esc(t)}.html">{esc(THEMES[t])}</a>' if t in THEMES
+                     else f"<span>{esc(THEMES_PAROLE.get(t, t))}</span>" for t in (i.get("themes") or []))
+    nom = f'<a class="feed-cand" href="/candidats/{esc(i["id"])}.html">{esc(avec_nom)}</a> ·' if avec_nom else ""
+    return (f'<li data-cand="{esc(i["id"])}" data-themes="{esc(" ".join(i.get("themes") or []))}">'
+            f'<div class="feed-head"><strong>{esc(date_courte(i["date"]))}</strong> <span class="badge parole">{esc(type_)}</span> {nom} '
+            f'<span>{esc(i["media"])}{" — " + esc(i["emission"]) if i.get("emission") else ""}</span></div>'
+            f'<a class="titre" href="{esc(i["url"])}" target="_blank" rel="noopener">{esc(i["titre"])}</a>'
+            f'<p class="declare">{" ".join(esc(d) for d in i.get("declare") or [])}</p>'
+            + (f'<div class="themes">{themes}</div>' if themes else "") + "</li>")
 (ROOT / "candidat.html").write_text(versionner((ROOT / "candidat.html").read_text(encoding="utf-8")), encoding="utf-8")
 gabarit = (ROOT / "candidat.html").read_text(encoding="utf-8")
 out = ROOT / "candidats"
@@ -276,6 +326,7 @@ for c in cands:
     # La fiche affiche le programme, la biographie, le statut vérifié et la moyenne des sondages
     _d = [d for d in [(prog or {}).get("mise_a_jour"), (bio or {}).get("mise_a_jour"),
                       c.get("verifie_le"), D_SOND] if d]
+    _d += [i["verifie_le"] for i in par_cand_pp.get(cid, []) if i.get("verifie_le")]
     dates_cand[cid] = max(_d) if _d else D_CAND
     jsonld = [
         {"@context": "https://schema.org", "@type": "ProfilePage", "name": titre, "url": url, "inLanguage": "fr-FR",
@@ -319,6 +370,12 @@ for c in cands:
             if t in par_theme:
                 resume.append(f'<h3><a href="/themes/{t}.html">{esc(label)}</a></h3><ul>' + "".join(
                     f'<li>{esc(m["texte"])} (<a href="{esc(m["source"]["url"])}" rel="noopener">source</a>)</li>' for m in par_theme[t]) + "</ul>")
+    miens = par_cand_pp.get(cid, [])[:5]
+    if miens:
+        resume.append(f'<h2>Prises de parole récentes</h2><p class="enbref">{esc(en_bref(miens))}</p><ul class="measures feed">'
+                      + "".join(parole_li(i) for i in miens) + "</ul>"
+                      f'<p class="notice">Propos tenus par la personne, là où ils l\'ont été ; jamais les articles à son sujet. '
+                      f'<a href="/actualite.html#{esc(cid)}">Toute l\'actualité de la campagne</a></p>')
     resume.append("</article>")
 
     s = set_title_desc(gabarit, f"{titre} | {NOM_SITE}", desc)
@@ -363,7 +420,7 @@ NAV = re.search(r'<nav class="site-nav">.*?</nav>', (ROOT / "index.html").read_t
 FOOTER = re.search(r'<footer class="site-footer">.*?</footer>', (ROOT / "index.html").read_text(encoding="utf-8"), re.S).group(0)
 
 
-def page_html(titre_seo, desc, url, kicker, h1, lede, corps, jsonld=None):
+def page_html(titre_seo, desc, url, kicker, h1, lede, corps, jsonld=None, scripts=()):
     """Page statique complète, au gabarit du site."""
     return versionner(f"""<!doctype html>
 <html lang="fr">
@@ -399,7 +456,7 @@ def page_html(titre_seo, desc, url, kicker, h1, lede, corps, jsonld=None):
   {FOOTER}
 
   <script src="/assets/common.js"></script>
-</body>
+{"".join(f'  <script src="{s}"></script>' + chr(10) for s in scripts)}</body>
 </html>
 """)
 
@@ -508,6 +565,47 @@ jl_t, fil_t = fil_ariane([("Présidentielle 2027", SITE + "/"), ("Thèmes", SITE
     "Choisissez un thème pour voir toutes les propositions sourcées des candidats et leurs positions sur les questions clés.",
     fil_t + '\n    <section class="section"><div class="entry-grid entry-grid-13">' + cartes + "</div></section>", [jl_t]), encoding="utf-8")
 
+# Page Actualité de la campagne : toutes les prises de parole, en ordre chronologique inverse
+paroles = sorted(pp.get("prises_de_parole", []), key=lambda i: (i["date"], i["id"]), reverse=True)
+paroles = [i for i in paroles if i["id"] in noms]
+mois_fr = {}
+for i in paroles:
+    mois_fr.setdefault(i["date"][:7], []).append(i)
+cands_pp = sorted({i["id"] for i in paroles}, key=lambda k: noms[k]["nom"].split()[-1])
+themes_pp = [t for t in THEMES_PAROLE if any(t in (i.get("themes") or []) for i in paroles)]
+filtres = ('<div class="filters needs-js" id="filtres"><label>Candidat <select>'
+           '<option value="">Tous</option>'
+           + "".join(f'<option value="{esc(k)}">{esc(noms[k]["nom"])}</option>' for k in cands_pp)
+           + '</select></label><div class="chips" role="group" aria-label="Thème">'
+           + "".join(f'<button type="button" class="chip" data-theme="{esc(t)}" aria-pressed="false">{esc(THEMES_PAROLE[t])}</button>'
+                     for t in themes_pp)
+           + f'</div><span class="notice" id="feed-count"></span></div>')
+corps_feed = "".join(
+    f'<h2 class="feed-month">{esc(MOIS_FR[int(m[5:7]) - 1].capitalize())} {m[:4]}</h2><ul class="measures feed">'
+    + "".join(parole_li(i, avec_nom=noms[i["id"]]["nom"]) for i in its) + "</ul>"
+    for m, its in mois_fr.items())
+if not paroles:
+    corps_feed = '<p class="notice">Aucune prise de parole recensée pour le moment.</p>'
+jl_a, fil_a = fil_ariane([("Présidentielle 2027", SITE + "/"), ("Actualité de la campagne", SITE + "/actualite.html")])
+jl_a2 = {"@context": "https://schema.org", "@type": "CollectionPage", "name": "Actualité de la campagne présidentielle 2027",
+         "url": f"{SITE}/actualite.html", "inLanguage": "fr-FR", "dateModified": D_PAROLE or lastmod,
+         "description": "Prises de parole des candidats à l'élection présidentielle 2027, jour par jour, avec ce qui a été déclaré et la source."}
+(ROOT / "actualite.html").write_text(page_html(
+    "Actualité de la présidentielle 2027 : ce que déclarent les candidats, jour par jour",
+    "Interviews, discours, tribunes et débats des candidats à la présidentielle 2027, en ordre chronologique : ce qui a été déclaré, où, avec la source. Sans commentaire, sélection identique pour tous.",
+    f"{SITE}/actualite.html", "Présidentielle 2027", "Actualité de la campagne",
+    "Ce que les candidats ont déclaré, là où ils l'ont dit : interviews, discours, tribunes, débats, interventions au Parlement. Chaque ligne renvoie à sa source. Aucun article <em>sur</em> les candidats, aucun commentaire.",
+    fil_a + f"""
+    <section class="section" id="feed">
+      {filtres}
+      {corps_feed}
+    </section>
+    <section class="section prose">
+      <h2>Comment cette page est construite</h2>
+      <p>Une « revue de presse » choisit des articles sur un candidat, et chaque choix est une opinion. Ici, l'unité recensée est une <strong>prise de parole publique</strong> : un fait daté. On note où le candidat s'est exprimé et ce qu'il a déclaré, reformulé sans qualificatif, avec la source ouverte avant publication. Portraits, enquêtes, éditoriaux et propos rapportés par des sources anonymes ne sont jamais repris. La sélection obéit à la même règle pour tous ; l'inégalité d'exposition entre candidats est un fait du paysage médiatique, que le site affiche sans le corriger. <a href="https://github.com/2027etmoi/2027etmoi/blob/main/docs/methode-prises-de-parole.md" target="_blank" rel="noopener">Méthode détaillée</a> · <a href="/contact.html">Signaler une prise de parole manquante</a>.</p>
+      <p>Voir aussi : <a href="/candidats.html">les candidats</a>, <a href="/themes/">les programmes par thème</a>, <a href="/sondages.html">les sondages</a>, <a href="/donnees.html">le temps de parole relevé par l'Arcom</a>.</p>
+    </section>""", [jl_a, jl_a2], scripts=("/assets/actualite.js",)), encoding="utf-8")
+
 # Page calendrier
 cal = load(DATA / "calendrier.json") if (DATA / "calendrier.json").exists() else {"etapes": []}
 STATUTS_CAL = {"officielle": "Date officielle", "prevue": "Prévue", "estimee": "Estimée"}
@@ -570,7 +668,8 @@ jl_c, fil_c = fil_ariane([("Présidentielle 2027", SITE + "/"), ("Calendrier", S
 # --- 4. sitemap.xml et robots.txt
 urls = [(SITE + "/", "1.0", DATES_PAGES["index.html"]),
         *[(f"{SITE}/{p}", "0.8", DATES_PAGES.get(p)) for p in PAGES if p != "index.html"],
-        (f"{SITE}/calendrier.html", "0.9", D_CAL), (f"{SITE}/themes/", "0.8", D_THEMES),
+        (f"{SITE}/calendrier.html", "0.9", D_CAL), (f"{SITE}/actualite.html", "0.9", D_PAROLE),
+        (f"{SITE}/themes/", "0.8", D_THEMES),
         *[(f"{SITE}/themes/{t}.html", "0.8", D_THEMES) for t in THEMES],
         *[(f"{SITE}/candidats/{c['id']}.html", "0.7" if c["statut"] != "renonce" else "0.4", dates_cand.get(c["id"]))
           for c in cands]]
