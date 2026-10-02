@@ -396,6 +396,88 @@ for c in cands:
     s = inject(s, seo_block(titre, desc, url, image=photo or OG_DEFAUT, type_="profile", jsonld=jsonld))
     (out / f"{cid}.html").write_text(s, encoding="utf-8")
 
+# --- 3 a. pages Sondages et Candidats : contenu lisible sans JavaScript
+# Ces deux pages sont construites par script dans le navigateur. Les robots des assistants
+# conversationnels, et certains moteurs, n'exécutent pas JavaScript : sans ce pré-remplissage,
+# ils n'y lisent ni un chiffre ni un nom. Le script remplace ce contenu au chargement.
+_par_id = {c["id"]: c for c in cands}
+_hors = sond.get("noms_hors_liste") or {}
+LIENS = {"campagne": "Site de campagne", "parti": "Parti", "programme": "Programme", "x": "X",
+         "instagram": "Instagram", "youtube": "YouTube", "wikipedia": "Wikipédia"}
+BLOCS_LIB = {"gauche": "Gauche", "ecolo": "Écologistes", "centre": "Centre", "droite": "Droite",
+             "extdroite": "Droite nationaliste", "autre": "Autres"}
+# Libellés sans accord de genre (le script affiche ensuite ses propres badges)
+STATUTS_COURTS = {"declare": "Candidature déclarée", "primaire": "En primaire", "pressenti": "Candidature pressentie",
+                  "empeche": "Candidature empêchée", "renonce": "Ne se présente pas"}
+
+
+def _nom(i):
+    return _par_id[i]["nom"] if i in _par_id else _hors.get(i, i)
+
+
+def _source(src, prefixe="Source : "):
+    if not src or not str(src.get("url", "")).startswith("http"):
+        return ""
+    return (f'<span class="source">{prefixe}<a href="{esc(src["url"])}" target="_blank" rel="noopener">{esc(src.get("titre") or "lien")}</a>'
+            + (f', {esc(date_courte(src["date"]) or src["date"])}' if src.get("date") else "") + "</span>")
+
+
+def _remplir(page, cible_ouvre, cible_ferme, contenu):
+    """Place le contenu statique entre deux balises d'une page, de façon répétable."""
+    f = ROOT / page
+    if not f.exists():
+        return
+    t = f.read_text(encoding="utf-8")
+    motif = re.escape(cible_ouvre) + r"(?:<!--STATIQUE-->.*?<!--/STATIQUE-->)?" + re.escape(cible_ferme)
+    t2, n = re.subn(motif, lambda _: f"{cible_ouvre}<!--STATIQUE-->{contenu}<!--/STATIQUE-->{cible_ferme}", t, count=1, flags=re.S)
+    if n != 1:
+        sys.exit(f"build : zone statique introuvable dans {page} ({cible_ouvre})")
+    f.write_text(t2, encoding="utf-8")
+
+
+_rangs = sorted(moy.items(), key=lambda kv: -kv[1]["moyenne"])
+_top = _rangs[0][1]["moyenne"] if _rangs else 1
+_remplir("sondages.html", '<tbody id="avg">', "</tbody>", "".join(
+    f'<tr id="{esc(i)}"><td>'
+    + (f'<span class="bloc"><span class="dot {esc(_par_id[i]["bloc"])}"></span><a class="name" href="/candidats/{esc(i)}.html">{esc(_nom(i))}</a></span>'
+       if i in _par_id else esc(_nom(i)))
+    + f'</td><td class="num"><strong>{pct(m["moyenne"])}</strong></td>'
+      f'<td class="num">{pct(m["min"]) + " – " + pct(m["max"]) if m["n"] > 1 else "—"}</td>'
+      f'<td class="num">{m["n"]}</td>'
+      f'<td class="bar-cell"><div class="bar" style="width:{m["moyenne"] / _top * 100:.1f}%"></div></td></tr>'
+    for i, m in _rangs))
+_remplir("sondages.html", '<div id="polls">', "</div>\n    </section>", "".join(
+    f'<div class="card poll-card"><h3>{esc(s["institut"])}{" pour " + esc(s["commanditaire"]) if s.get("commanditaire") else ""}</h3>'
+    f'<div class="notice">Terrain du {esc(date_courte(s["terrain_debut"]))} au {esc(date_courte(s["terrain_fin"]))}'
+    + (f' · {s["echantillon"]:,} personnes interrogées'.replace(",", " ") if s.get("echantillon") else "") + "</div>"
+    + _source(s.get("source"))
+    + "".join(f'<div class="hyp"><strong>{esc(h.get("label") or "Hypothèse")}</strong> '
+              + " · ".join(f"{esc(_nom(i))} {pct(v)}" for i, v in sorted((h.get("scores") or {}).items(), key=lambda kv: -kv[1]))
+              + "</div>" for h in s.get("hypotheses", []))
+    + "</div>" for s in sond.get("sondages", [])))
+
+
+def _ligne_candidat(c):
+    m = moy.get(c["id"])
+    sondage = (f'<a class="poll" href="/sondages.html#{esc(c["id"])}">{pct(m["moyenne"])}</a> '
+               f'<span class="poll-n">{m["n"]} sondage{"s" if m["n"] > 1 else ""}</span>' if m
+               else '<span class="props-empty">Non testé</span>')
+    props = ("<ul class=\"props\">" + "".join(f"<li>{esc(x)}</li>" for x in c["propositions"]) + "</ul>" if c.get("propositions")
+             else '<span class="props-empty">Pas encore de programme publié</span>')
+    liens = "".join(f'<a href="{esc(u)}" target="_blank" rel="noopener">{lib}</a>' for k, lib in LIENS.items()
+                    if str((u := (c.get("liens") or {}).get(k)) or "").startswith("http"))
+    return (f'<tr class="{"retire" if c["statut"] == "renonce" else ""}">'
+            f'<td data-label="Candidat"><a class="name" href="/candidats/{esc(c["id"])}.html">{esc(c["nom"])}</a><div class="party">{esc(c["parti"])}</div></td>'
+            f'<td data-label="Famille"><span class="bloc"><span class="dot {esc(c["bloc"])}"></span>{esc(BLOCS_LIB.get(c["bloc"], c["bloc"]))}</span></td>'
+            f'<td data-label="Statut"><span class="badge {esc(c["statut"])}">{esc(STATUTS_COURTS.get(c["statut"], c["statut"]))}</span>'
+            + (f'<div class="status-note">{esc(c["statut_detail"])}</div>' if c.get("statut_detail") else "") + _source(c.get("source")) + "</td>"
+            f'<td data-label="Sondages (moyenne)">{sondage}</td>'
+            f'<td data-label="Propositions phares">{props}</td>'
+            f'<td data-label="Liens"><div class="links">{liens or "<span class=props-empty>—</span>"}</div></td></tr>')
+
+
+_remplir("candidats.html", '<tbody id="rows">', "</tbody>", "".join(_ligne_candidat(c) for c in cands))
+
 # --- 3 bis. liste statique des candidats sur l'accueil (liens internes, lisible sans JavaScript)
 BLOCS = {"gauche": "Gauche", "ecolo": "Écologistes", "centre": "Centre", "droite": "Droite",
          "extdroite": "Droite nationaliste", "autre": "Autres"}
@@ -710,6 +792,51 @@ jl_c, fil_c = fil_ariane([("Présidentielle 2027", SITE + "/"), ("Calendrier", S
       <p><a href="/faq.html">Questions fréquentes sur l'élection</a> · <a href="/candidats.html">Qui se présente</a> · <a href="/sondages.html">Sondages</a></p>
     </section>""", [jl_c] + events), encoding="utf-8")
 
+
+# --- 3 quater. llms.txt : présentation du site à l'intention des assistants conversationnels
+# Convention récente (llmstxt.org), sans garantie d'être lue ; elle ne coûte rien et ne contient
+# que ce que le site affiche déjà.
+_gh = "https://github.com/2027etmoi/2027etmoi/blob/main"
+(ROOT / "llms.txt").write_text(f"""# 2027 et moi
+
+> Site d'information indépendant et non partisan sur l'élection présidentielle française de 2027 (premier tour le 18 avril 2027, second tour le 2 mai 2027). Chaque information renvoie à une source datée. Le site n'attribue ni note ni classement et ne donne aucune consigne de vote.
+
+Données mises à jour le {date_courte(lastmod)}. Les données sont réutilisables sous Licence Ouverte 2.0, en citant « 2027 et moi » ({SITE}) et la date de mise à jour. Tant que le Conseil constitutionnel n'a pas arrêté la liste officielle, attendue vers la mi-mars 2027, les candidatures recensées sont des candidatures annoncées.
+
+## Pages principales
+
+- [Candidats]({SITE}/candidats.html) : candidatures déclarées, en primaire ou pressenties, avec parti, statut sourcé et moyenne des sondages
+- [Actualité de la campagne]({SITE}/actualite.html) : ce que les candidats ont déclaré, jour par jour, avec la source
+- [Programmes par thème]({SITE}/themes/) : mesures sourcées classées en treize thèmes
+- [Sondages]({SITE}/sondages.html) : intentions de vote au premier tour, recopiées des notices de la Commission des sondages
+- [Calendrier]({SITE}/calendrier.html) : étapes de l'élection, avec leur degré de certitude
+- [La campagne en données]({SITE}/donnees.html) : programmes publiés, chiffrages, temps de parole relevé par l'Arcom
+- [Questions fréquentes]({SITE}/faq.html) : règles de l'élection et méthode du site
+- [Qui sommes-nous]({SITE}/a-propos.html) : éditeur, financement, mentions légales
+
+## Fiches candidats
+
+"""
+    + "".join(f"- [{c['nom']}]({SITE}/candidats/{c['id']}.html) : {c['parti']} — {STATUTS_COURTS.get(c['statut'], c['statut']).lower()}\n"
+              for c in cands if c["statut"] in ("declare", "primaire", "pressenti"))
+    + f"""
+## Données ouvertes (JSON)
+
+- [candidats.json]({SITE}/data/candidats.json) : candidatures et statuts sourcés
+- [votes.json]({SITE}/data/votes.json) : votes nominatifs des candidats au Parlement
+- [prises-de-parole.json]({SITE}/data/prises-de-parole.json) : interviews, discours et débats, avec ce qui a été déclaré
+- [sondages.json]({SITE}/data/sondages.json) : sondages par hypothèse, avec les notices officielles
+- [calendrier.json]({SITE}/data/calendrier.json) : calendrier de l'élection
+- Programmes : {SITE}/data/programmes/<identifiant>.json — biographies : {SITE}/data/biographies/<identifiant>.json
+
+## Méthode
+
+- [Programmes et mesures]({_gh}/docs/methode-sources.md)
+- [Biographies et affaires judiciaires]({_gh}/docs/methode-biographies.md)
+- [Votes au Parlement]({_gh}/docs/methode-votes.md)
+- [Prises de parole]({_gh}/docs/methode-prises-de-parole.md)
+- [Licence des données]({_gh}/LICENCE-DONNEES.md)
+""", encoding="utf-8")
 
 # --- 4. sitemap.xml et robots.txt
 urls = [(SITE + "/", "1.0", DATES_PAGES["index.html"]),
