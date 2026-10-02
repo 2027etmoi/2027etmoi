@@ -12,7 +12,7 @@
   const count = document.getElementById("feed-count");
   const state = { cand: "", theme: "" };
 
-  function apply() {
+  function apply(majAdresse = true) {
     let n = 0;
     for (const li of items) {
       const ok = (!state.cand || li.dataset.cand === state.cand)
@@ -30,7 +30,7 @@
     for (const ch of chips) ch.setAttribute("aria-pressed", String(ch.dataset.theme === state.theme));
     if (count) count.textContent = `${n} prise${n > 1 ? "s" : ""} de parole affichée${n > 1 ? "s" : ""} sur ${items.length}`;
     const h = state.cand ? `#${state.cand}` : "";
-    if (location.hash !== h) history.replaceState(null, "", location.pathname + h);
+    if (majAdresse && location.hash !== h) history.replaceState(null, "", location.pathname + h);
   }
 
   select.addEventListener("change", () => { state.cand = select.value; apply(); });
@@ -47,5 +47,6 @@
     select.value = cible;
     state.cand = cible;
   }
-  apply();
+  // Au chargement, l'ancre d'une prise de parole (lien du flux RSS) est conservée
+  apply(false);
 })();

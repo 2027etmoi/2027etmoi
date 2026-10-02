@@ -95,3 +95,8 @@ python3 scripts/check_hebdo.py > rapport.md
 ```
 
 Après avoir revérifié un statut, mettre à jour son champ `verifie_le`.
+
+## Licence
+
+- **Données** (`data/`) : [Licence Ouverte 2.0](LICENCE-DONNEES.md). Réutilisation libre, y compris commerciale, en citant « 2027 et moi » et la date de mise à jour. Les photographies et les citations de presse n'en font pas partie.
+- **Code** : public, mais sans licence libre à ce stade.

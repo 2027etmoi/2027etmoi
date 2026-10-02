@@ -1,0 +1,28 @@
+# Prévient les moteurs IndexNow (Bing et ceux qui s'y alimentent) après chaque mise en ligne.
+# Seules les pages dont les données ont changé depuis deux jours sont signalées.
+name: IndexNow
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      tout:
+        description: 'Signaler toutes les pages du plan du site'
+        type: boolean
+        default: false
+
+jobs:
+  signaler:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Attendre la mise en ligne par Netlify
+        run: sleep 180
+      - name: Signaler les pages modifiées
+        run: python3 scripts/indexnow.py ${{ inputs.tout && '--tout' || '' }}

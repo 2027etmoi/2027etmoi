@@ -272,6 +272,12 @@ for _it in pp.get("prises_de_parole", []):
     par_cand_pp.setdefault(_it["id"], []).append(_it)
 for _l in par_cand_pp.values():
     _l.sort(key=lambda i: i["date"], reverse=True)
+# Ancre stable par prise de parole (p-<id>-<date>, suffixée si plusieurs le même jour) : cible des liens du flux RSS
+_vus = {}
+for _it in sorted(pp.get("prises_de_parole", []), key=lambda i: (i["date"], i["id"], i["url"])):
+    _base = f'p-{_it["id"]}-{_it["date"]}'
+    _vus[_base] = _vus.get(_base, 0) + 1
+    _it["_ancre"] = _base if _vus[_base] == 1 else f"{_base}-{_vus[_base]}"
 
 
 def en_bref(items):
@@ -299,7 +305,7 @@ def parole_li(i, avec_nom=""):
     themes = "".join(f'<a href="/themes/{esc(t)}.html">{esc(THEMES[t])}</a>' if t in THEMES
                      else f"<span>{esc(THEMES_PAROLE.get(t, t))}</span>" for t in (i.get("themes") or []))
     nom = f'<a class="feed-cand" href="/candidats/{esc(i["id"])}.html">{esc(avec_nom)}</a> ·' if avec_nom else ""
-    return (f'<li data-cand="{esc(i["id"])}" data-themes="{esc(" ".join(i.get("themes") or []))}">'
+    return (f'<li id="{esc(i.get("_ancre", ""))}" data-cand="{esc(i["id"])}" data-themes="{esc(" ".join(i.get("themes") or []))}">'
             f'<div class="feed-head"><strong>{esc(date_courte(i["date"]))}</strong> <span class="badge parole">{esc(type_)}</span> {nom} '
             f'<span>{esc(i["media"])}{" — " + esc(i["emission"]) if i.get("emission") else ""}</span></div>'
             f'<a class="titre" href="{esc(i["url"])}" target="_blank" rel="noopener">{esc(i["titre"])}</a>'
@@ -443,6 +449,7 @@ def page_html(titre_seo, desc, url, kicker, h1, lede, corps, jsonld=None, script
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap">
   <link rel="stylesheet" href="/assets/style.css">
+  <link rel="alternate" type="application/rss+xml" title="2027 et moi — Actualité de la campagne" href="/actualite.xml">
   {seo_block(titre_seo, desc, url, jsonld=jsonld)}
 </head>
 <body>
@@ -605,6 +612,7 @@ jl_a2 = {"@context": "https://schema.org", "@type": "CollectionPage", "name": "A
     fil_a + f"""
     <section class="section" id="feed">
       {filtres}
+      <p class="notice">Suivre cette page : <a href="/actualite.xml">flux RSS</a>.</p>
       {corps_feed}
     </section>
     <section class="section prose">
@@ -612,6 +620,37 @@ jl_a2 = {"@context": "https://schema.org", "@type": "CollectionPage", "name": "A
       <p>Une « revue de presse » choisit des articles sur un candidat, et chaque choix est une opinion. Ici, l'unité recensée est une <strong>prise de parole publique</strong> : un fait daté. On note où le candidat s'est exprimé et ce qu'il a déclaré, reformulé sans qualificatif, avec la source ouverte avant publication. Portraits, enquêtes, éditoriaux et propos rapportés par des sources anonymes ne sont jamais repris. La sélection obéit à la même règle pour tous ; l'inégalité d'exposition entre candidats est un fait du paysage médiatique, que le site affiche sans le corriger. <a href="https://github.com/2027etmoi/2027etmoi/blob/main/docs/methode-prises-de-parole.md" target="_blank" rel="noopener">Méthode détaillée</a> · <a href="/contact.html">Signaler une prise de parole manquante</a>.</p>
       <p>Voir aussi : <a href="/candidats.html">les candidats</a>, <a href="/themes/">les programmes par thème</a>, <a href="/sondages.html">les sondages</a>, <a href="/donnees.html">le temps de parole relevé par l'Arcom</a>.</p>
     </section>""", [jl_a, jl_a2], scripts=("/assets/actualite.js",)), encoding="utf-8")
+
+# Flux RSS des prises de parole (les 60 plus récentes) : chaque entrée renvoie à son ancre sur la page Actualité
+from datetime import datetime, timezone
+from email.utils import format_datetime
+
+
+def _rfc822(iso):
+    return format_datetime(datetime(*(int(x) for x in iso.split("-")), 12, 0, tzinfo=timezone.utc))
+
+
+_items = "".join(
+    f"""    <item>
+      <title>{esc(noms[i["id"]]["nom"])} — {esc(TYPES_PAROLE.get(i["type"], (i["type"],))[0])}, {esc(i["media"])}</title>
+      <link>{SITE}/actualite.html#{esc(i["_ancre"])}</link>
+      <guid isPermaLink="true">{SITE}/actualite.html#{esc(i["_ancre"])}</guid>
+      <pubDate>{_rfc822(i["date"])}</pubDate>
+      <description><![CDATA[<p>{" ".join(esc(d) for d in i.get("declare") or [])}</p><p>Source : <a href="{esc(i["url"])}">{esc(i["titre"])}</a></p>]]></description>
+    </item>
+""" for i in paroles[:60])
+(ROOT / "actualite.xml").write_text(f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2027 et moi — Actualité de la campagne</title>
+    <link>{SITE}/actualite.html</link>
+    <atom:link href="{SITE}/actualite.xml" rel="self" type="application/rss+xml"/>
+    <description>Ce que déclarent les candidats à la présidentielle 2027 : interviews, discours, débats, tribunes. Chaque entrée renvoie à sa source, sans commentaire.</description>
+    <language>fr-FR</language>
+    <lastBuildDate>{_rfc822(D_PAROLE or lastmod)}</lastBuildDate>
+{_items}  </channel>
+</rss>
+""", encoding="utf-8")
 
 # Page calendrier
 cal = load(DATA / "calendrier.json") if (DATA / "calendrier.json").exists() else {"etapes": []}
