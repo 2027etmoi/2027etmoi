@@ -9,12 +9,14 @@ const BLOCS = {
   autre: "Autres",
 };
 
+// Libellés sans accord de genre : le site ne recense pas le genre des personnes.
+// À garder alignés sur STATUTS_COURTS dans scripts/build.py (contenu statique).
 const STATUTS = {
-  declare: "Déclaré",
+  declare: "Candidature déclarée",
   primaire: "En primaire",
-  pressenti: "Pressenti",
-  empeche: "Empêché",
-  renonce: "Pas candidat",
+  pressenti: "Candidature pressentie",
+  empeche: "Candidature empêchée",
+  renonce: "Ne se présente pas",
 };
 
 // Statuts pour lesquels on recense un programme
