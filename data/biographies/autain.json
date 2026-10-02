@@ -1,0 +1,108 @@
+{
+  "id": "autain",
+  "mise_a_jour": "2026-10-02",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20210821_autin.c_6679_%28cropped%29.jpg/500px-20210821_autin.c_6679_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20210821_autin.c_6679_(cropped).jpg",
+    "auteur": "Greenbox",
+    "licence": "CC BY-SA 4.0",
+    "annee": "2021",
+    "officielle": false,
+    "legende": "Clémentine Autain en août 2021"
+  },
+  "presentation": {
+    "texte": "Clémentine Autain est une femme politique française, députée de la Seine-Saint-Denis depuis 2017. Elle a quitté La France insoumise en juillet 2024 et cofondé le mouvement L'Après. Elle a retiré en juillet 2026 sa candidature à l'élection présidentielle de 2027.",
+    "sources": [
+      {
+        "titre": "Clémentine Autain — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Clémentine_Autain",
+        "date": "2026-10-02"
+      },
+      {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-la-deputee-clementine-autain-retire-sa-candidature-denoncant-l-empilement-des-candidatures-a-gauche_8103848.html",
+        "date": "2026-07-11"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1973-05-26",
+    "lieu": "Saint-Cloud (Hauts-de-Seine)",
+    "source": {
+      "titre": "Clémentine Autain — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Clémentine_Autain",
+      "date": "2026-10-02"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Retire en juillet 2026 sa candidature à l'élection présidentielle de 2027, en dénonçant « l'empilement des candidatures » à gauche.",
+      "source": {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-la-deputee-clementine-autain-retire-sa-candidature-denoncant-l-empilement-des-candidatures-a-gauche_8103848.html",
+        "date": "2026-07-11"
+      }
+    },
+    {
+      "periode": "2024-",
+      "texte": "Cofondatrice de L'Après (12 juillet 2024), après son départ de La France insoumise au lendemain des élections législatives.",
+      "source": {
+        "titre": "Clémentine Autain — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Clémentine_Autain",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2017-",
+      "texte": "Députée de la 11e circonscription de la Seine-Saint-Denis.",
+      "source": {
+        "titre": "Clémentine Autain — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Clémentine_Autain",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2016-2023",
+      "texte": "Conseillère régionale d'Île-de-France (2016-2017, puis 2021-2023).",
+      "source": {
+        "titre": "Clémentine Autain — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Clémentine_Autain",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2014-2020",
+      "texte": "Conseillère municipale de Sevran.",
+      "source": {
+        "titre": "Clémentine Autain — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Clémentine_Autain",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2001-2008",
+      "texte": "Conseillère de Paris et adjointe au maire de Paris chargée de la jeunesse.",
+      "source": {
+        "titre": "Clémentine Autain — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Clémentine_Autain",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "années 1990-2000",
+      "texte": "Maîtrise d'histoire et diplôme d'études approfondies ; journaliste et essayiste, directrice de la publication du magazine Regards.",
+      "source": {
+        "titre": "Clémentine Autain — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Clémentine_Autain",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Date d'annonce de sa candidature à l'élection présidentielle de 2027 : non trouvée dans les sources ouvertes."
+  ]
+}

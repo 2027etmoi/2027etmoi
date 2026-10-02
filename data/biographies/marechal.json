@@ -1,0 +1,148 @@
+{
+  "id": "marechal",
+  "mise_a_jour": "2026-10-02",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Marion_Mar%C3%A9chal_MEP_%282024%29.jpg/500px-Marion_Mar%C3%A9chal_MEP_%282024%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Marion_Mar%C3%A9chal_MEP_(2024).jpg",
+    "auteur": "European Union 2024 - Source : EP",
+    "licence": "© Union européenne – Parlement européen (réutilisation autorisée avec mention de la source)",
+    "annee": "2024",
+    "officielle": true,
+    "legende": "Portrait officiel de Marion Maréchal, députée européenne (Parlement européen, 2024)"
+  },
+  "presentation": {
+    "texte": "Marion Maréchal est une femme politique française, députée européenne depuis 2024 et présidente d'Identité-Libertés, parti qu'elle a fondé en octobre 2024. Elle a été députée de Vaucluse de 2012 à 2017 sous l'étiquette du Front national, puis vice-présidente de Reconquête. Elle n'est pas candidate à l'élection présidentielle de 2027 et soutient Marine Le Pen.",
+    "sources": [
+      {
+        "titre": "Marion Maréchal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Marion_Maréchal",
+        "date": "2026-10-02"
+      },
+      {
+        "titre": "CNews",
+        "url": "https://www.cnews.fr/france/2026-09-20/presidentielle-2027-marion-marechal-prete-jeter-toutes-ses-forces-dans-la",
+        "date": "2026-09-20"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1989-12-10",
+    "lieu": "Saint-Germain-en-Laye (Yvelines)",
+    "source": {
+      "titre": "Marion Maréchal — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Marion_Maréchal",
+      "date": "2026-10-02"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "N'est pas candidate à l'élection présidentielle de 2027 et soutient Marine Le Pen.",
+      "source": {
+        "titre": "CNews",
+        "url": "https://www.cnews.fr/france/2026-09-20/presidentielle-2027-marion-marechal-prete-jeter-toutes-ses-forces-dans-la",
+        "date": "2026-09-20"
+      }
+    },
+    {
+      "periode": "2024-",
+      "texte": "Présidente d'Identité-Libertés, parti fondé en octobre 2024.",
+      "source": {
+        "titre": "Marion Maréchal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Marion_Maréchal",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2024-",
+      "texte": "Députée européenne depuis juillet 2024, élue à la tête de la liste Reconquête ; exclue de Reconquête quelques jours après le scrutin de juin 2024.",
+      "source": {
+        "titre": "Marion Maréchal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Marion_Maréchal",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2022-2024",
+      "texte": "Vice-présidente de Reconquête.",
+      "source": {
+        "titre": "Marion Maréchal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Marion_Maréchal",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2015-2017",
+      "texte": "Conseillère régionale de Provence-Alpes-Côte d'Azur.",
+      "source": {
+        "titre": "Marion Maréchal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Marion_Maréchal",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2012-2017",
+      "texte": "Députée de la 3e circonscription de Vaucluse.",
+      "source": {
+        "titre": "Marion Maréchal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Marion_Maréchal",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "années 2010",
+      "texte": "Licence de droit des affaires et master de droit public à l'université Panthéon-Assas.",
+      "source": {
+        "titre": "Marion Maréchal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Marion_Maréchal",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2018-2022",
+      "texte": "Directrice générale de l'Institut de sciences sociales, économiques et politiques (ISSEP), établissement privé d'enseignement supérieur qu'elle a fondé à Lyon.",
+      "source": {
+        "titre": "Marion Maréchal — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Marion_Maréchal",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "affaires": [
+    {
+      "titre": "Diffamation : propos sur une école musulmane de Valence",
+      "texte": "L'association Valeurs et Réussite, qui gère une école musulmane hors contrat à Valence, a poursuivi Marion Maréchal en diffamation pour des propos tenus sur CNews en octobre 2023. Le tribunal judiciaire de Valence l'a relaxée le 14 novembre 2025, en jugeant que ses propos n'étaient « pas suffisamment précis » pour revêtir un caractère diffamatoire. L'association a annoncé son intention de faire appel.",
+      "etat": "relaxe",
+      "etat_detail": "Relaxée en première instance le 14 novembre 2025 ; appel annoncé par l'association, suites non connues.",
+      "date_etat": "2025-11-14",
+      "sources": [
+        {
+          "titre": "France 3 Auvergne-Rhône-Alpes",
+          "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/drome/valence/marion-marechal-accusee-de-diffamation-par-une-association-a-ete-relaxee-3249439.html",
+          "date": "2025-11-14"
+        }
+      ]
+    },
+    {
+      "titre": "Diffamation : propos sur l'Institut européen des sciences humaines de Château-Chinon",
+      "texte": "Le tribunal correctionnel de Lyon a condamné Marion Maréchal le 20 janvier 2026 pour diffamation publique envers l'Institut européen des sciences humaines (IESH) de Château-Chinon, établissement privé de formation d'imams, pour des propos tenus dans une vidéo et sur BFMTV en mai 2024. Elle a été condamnée à 2 000 euros d'amende et, solidairement avec un autre prévenu, à 1 000 euros de dommages et intérêts.",
+      "etat": "condamnation_non_definitive",
+      "etat_detail": "Condamnée en première instance le 20 janvier 2026 ; décision non définitive à cette date, la source ne précisant pas si un appel a été formé. Elle est présumée innocente tant que la condamnation n'est pas définitive.",
+      "date_etat": "2026-01-20",
+      "sources": [
+        {
+          "titre": "Saphirnews",
+          "url": "https://www.saphirnews.com/IESH-de-Chateau-Chinon-Marion-Marechal-condamnee-pour-diffamation-publique_a31078.html",
+          "date": "2026-01-22"
+        }
+      ]
+    }
+  ],
+  "a_verifier": [
+    "Diffamation IESH : la seule source ouverte (Saphirnews) relaie le cabinet d'avocats de la partie civile ; une recherche évoque une décision d'appel attendue le 15 juillet 2026. À confirmer par une source d'agence et à mettre à jour.",
+    "Diffamation Valence : appel annoncé par l'association, suites à vérifier.",
+    "Date de sa déclaration de non-candidature et de son soutien à Marine Le Pen : source CNews du 20 septembre 2026."
+  ]
+}

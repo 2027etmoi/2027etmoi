@@ -46,7 +46,7 @@ Un fichier par candidat : `data/biographies/<id>.json`. L'`id` est celui de `dat
 
 ## Photo
 
-- **Uniquement Wikimedia Commons**, sous licence libre (CC BY, CC BY-SA, CC0, domaine public ou Licence Ouverte). Pas de photo de site de campagne ni de média : elles sont protégées par le droit d'auteur.
+- **Uniquement Wikimedia Commons**, sous licence libre (CC BY, CC BY-SA, CC0, domaine public, Licence Ouverte, ou licence d'attribution du Parlement européen pour les portraits officiels des députés européens). Pas de photo de site de campagne ni de média : elles sont protégées par le droit d'auteur.
 - On privilégie un **portrait officiel** quand il est sur Commons : Assemblée nationale, Sénat, Parlement européen, gouvernement, Élysée ou collectivité. On met alors `officielle: true`. Sinon, on prend un portrait récent et net, et `officielle: false`.
 - `url` est l'adresse directe `upload.wikimedia.org` du fichier. On prend de préférence une vignette de 500 px de large, au format `…/thumb/…/500px-Fichier.jpg` (Wikimedia refuse les largeurs non standard comme 400 px ; 250, 330 et 500 fonctionnent). L'URL doit avoir été vérifiée en l'ouvrant.
 - `auteur` et `licence` sont recopiés depuis la page Commons.

@@ -1,0 +1,129 @@
+{
+  "id": "bardella",
+  "mise_a_jour": "2026-10-02",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/MEP_Jordan_Bardella.jpg/500px-MEP_Jordan_Bardella.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:MEP_Jordan_Bardella.jpg",
+    "auteur": "European Union",
+    "licence": "© Union européenne – Parlement européen (réutilisation autorisée avec mention de la source)",
+    "annee": "2024",
+    "officielle": true,
+    "legende": "Portrait officiel de Jordan Bardella, député européen (Parlement européen, 2024)"
+  },
+  "presentation": {
+    "texte": "Jordan Bardella est un homme politique français, président du Rassemblement national depuis le 5 novembre 2022 et député européen depuis 2019. Il a conduit la liste du parti aux élections européennes de 2019 et de 2024. Il n'est pas candidat à l'élection présidentielle de 2027 : Marine Le Pen l'a désigné comme son futur Premier ministre en cas de victoire.",
+    "sources": [
+      {
+        "titre": "Jordan Bardella — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+        "date": "2026-10-02"
+      },
+      {
+        "titre": "RTS",
+        "url": "https://www.rts.ch/info/monde/2026/article/marine-le-pen-sera-candidate-a-la-presidentielle-de-2027-29297057.html",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1995-09-13",
+    "lieu": "Drancy (Seine-Saint-Denis)",
+    "source": {
+      "titre": "Jordan Bardella — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+      "date": "2026-10-02"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "N'est pas candidat à l'élection présidentielle de 2027 : Marine Le Pen le désigne en juillet 2026 comme son futur Premier ministre en cas de victoire.",
+      "source": {
+        "titre": "RTS",
+        "url": "https://www.rts.ch/info/monde/2026/article/marine-le-pen-sera-candidate-a-la-presidentielle-de-2027-29297057.html",
+        "date": "2026-07-07"
+      }
+    },
+    {
+      "periode": "2024-",
+      "texte": "Président du groupe Patriotes pour l'Europe au Parlement européen (depuis le 16 juillet 2024).",
+      "source": {
+        "titre": "Jordan Bardella — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2022-",
+      "texte": "Président du Rassemblement national, élu le 5 novembre 2022 avec 84,8 % des voix, après en avoir assuré la présidence par intérim à partir du 13 septembre 2021.",
+      "source": {
+        "titre": "Jordan Bardella — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2019-",
+      "texte": "Député européen depuis le 2 juillet 2019, réélu en 2024.",
+      "source": {
+        "titre": "Jordan Bardella — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2019, 2024",
+      "texte": "Tête de liste du Rassemblement national aux élections européennes : 23,34 % des voix en 2019, 31,37 % en 2024.",
+      "source": {
+        "titre": "Jordan Bardella — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2019-2022",
+      "texte": "Vice-président du Rassemblement national.",
+      "source": {
+        "titre": "Jordan Bardella — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2015-2025",
+      "texte": "Conseiller régional d'Île-de-France.",
+      "source": {
+        "titre": "Jordan Bardella — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2017-2019",
+      "texte": "Porte-parole du Front national, devenu Rassemblement national.",
+      "source": {
+        "titre": "Jordan Bardella — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "années 2010",
+      "texte": "Études de géographie à l'université Paris-Sorbonne, interrompues sans diplôme ; carrière entièrement politique depuis.",
+      "source": {
+        "titre": "Jordan Bardella — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Diffamation (propos sur Trappes, plainte du maire Ali Rabeh) : mis en examen en février 2022 puis relaxé selon Wikipédia et son propre message ; aucune source de presse reconnue ouverte, non publiée.",
+    "Formation aux médias financée par le Parlement européen (2019-2021) : plainte contre X de l'association AC!! Anti-Corruption (décembre 2025), analyse annoncée par le Parquet national financier (janvier 2026), enquête du Parquet européen annoncée en mai 2026 ; sources trouvées non reconnues, et mise en cause personnelle à établir. Non publiée.",
+    "Plainte pour escroquerie de l'association Adelibe (mars 2025) : suites non connues, non publiée.",
+    "Messages attribués par Mediapart (septembre 2026) : pas de procédure le visant ; il a annoncé une plainte pour faux. Hors périmètre."
+  ]
+}

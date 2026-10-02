@@ -1,0 +1,106 @@
+{
+  "id": "lucas-lundy",
+  "mise_a_jour": "2026-10-02",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/20210819_lucas.benjamin_5936.jpg/500px-20210819_lucas.benjamin_5936.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20210819_lucas.benjamin_5936.jpg",
+    "auteur": "Greenbox",
+    "licence": "CC BY-SA 4.0",
+    "annee": "2021",
+    "officielle": false,
+    "legende": "Benjamin Lucas-Lundy en août 2021"
+  },
+  "presentation": {
+    "texte": "Benjamin Lucas-Lundy est un homme politique français, député des Yvelines depuis 2022 et co-coordinateur national de Génération.s. Il a présidé le Mouvement des jeunes socialistes de 2015 à 2018. Candidat à la primaire de la gauche unitaire pour l'élection présidentielle de 2027, il s'en est retiré le 7 juillet 2026.",
+    "sources": [
+      {
+        "titre": "Benjamin Lucas-Lundy — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Benjamin_Lucas-Lundy",
+        "date": "2026-10-02"
+      },
+      {
+        "titre": "Le Monde",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/07/le-depute-benjamin-lucas-landy-retire-sa-candidature-a-la-primaire-unitaire-de-la-gauche_6721467_823448.html",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1990-10-08",
+    "lieu": "Amiens (Somme)",
+    "source": {
+      "titre": "Benjamin Lucas-Lundy — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Benjamin_Lucas-Lundy",
+      "date": "2026-10-02"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Annonce le 14 mai 2026 sa candidature à la primaire de la gauche unitaire, puis la retire le 7 juillet 2026.",
+      "source": {
+        "titre": "Le Monde",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/07/le-depute-benjamin-lucas-landy-retire-sa-candidature-a-la-primaire-unitaire-de-la-gauche_6721467_823448.html",
+        "date": "2026-07-07"
+      }
+    },
+    {
+      "periode": "2025-",
+      "texte": "Co-coordinateur national de Génération.s (depuis août 2025, fonction déjà exercée de 2020 à 2022).",
+      "source": {
+        "titre": "Benjamin Lucas-Lundy — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Benjamin_Lucas-Lundy",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2022-",
+      "texte": "Député de la 8e circonscription des Yvelines (élu en 2022, réélu le 7 juillet 2024).",
+      "source": {
+        "titre": "Benjamin Lucas-Lundy — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Benjamin_Lucas-Lundy",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2021-2023",
+      "texte": "Conseiller régional des Hauts-de-France.",
+      "source": {
+        "titre": "Benjamin Lucas-Lundy — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Benjamin_Lucas-Lundy",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2018-2019",
+      "texte": "Secrétaire général de Génération.s.",
+      "source": {
+        "titre": "Benjamin Lucas-Lundy — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Benjamin_Lucas-Lundy",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2015-2018",
+      "texte": "Président du Mouvement des jeunes socialistes.",
+      "source": {
+        "titre": "Benjamin Lucas-Lundy — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Benjamin_Lucas-Lundy",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "années 2010",
+      "texte": "Études de droit à l'université de Picardie ; permanent du Mouvement des jeunes socialistes.",
+      "source": {
+        "titre": "Benjamin Lucas-Lundy — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Benjamin_Lucas-Lundy",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "affaires": [],
+  "a_verifier": []
+}

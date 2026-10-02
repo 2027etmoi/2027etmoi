@@ -1,0 +1,100 @@
+{
+  "id": "poutou",
+  "mise_a_jour": "2026-10-02",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Philippe_Poutou_2020_%28cropped%29.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Philippe_Poutou_2020_(cropped).png",
+    "auteur": "Patrice CALATAYU from Bordeaux, France",
+    "licence": "CC BY-SA 2.0",
+    "annee": "2020",
+    "officielle": false,
+    "legende": "Philippe Poutou lors d'une manifestation, janvier 2020"
+  },
+  "presentation": {
+    "texte": "Philippe Poutou est un homme politique français, ancien ouvrier de l'usine Ford de Blanquefort et porte-parole du NPA-l'Anticapitaliste. Il a été trois fois candidat à l'élection présidentielle, en 2012, 2017 et 2022. Son parti a annoncé en juin 2026 qu'il ne présenterait pas de candidat en 2027 et qu'il soutenait Jean-Luc Mélenchon.",
+    "sources": [
+      {
+        "titre": "Philippe Poutou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Philippe_Poutou",
+        "date": "2026-10-02"
+      },
+      {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/le-npa-anticapitaliste-renonce-a-presenter-un-candidat-a-l-election-presidentielle-2027-et-annonce-soutenir-jean-luc-melenchon_8084936.html",
+        "date": "2026-06-29"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1967-03-14",
+    "lieu": "Villemomble (Seine-Saint-Denis)",
+    "source": {
+      "titre": "Philippe Poutou — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Philippe_Poutou",
+      "date": "2026-10-02"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Le NPA-l'Anticapitaliste annonce en juin 2026 qu'il ne présente pas de candidat à l'élection présidentielle de 2027 et soutient Jean-Luc Mélenchon.",
+      "source": {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/le-npa-anticapitaliste-renonce-a-presenter-un-candidat-a-l-election-presidentielle-2027-et-annonce-soutenir-jean-luc-melenchon_8084936.html",
+        "date": "2026-06-29"
+      }
+    },
+    {
+      "periode": "2024",
+      "texte": "Candidat aux élections législatives dans la 1re circonscription de l'Aude : 38,56 % des voix au second tour, battu.",
+      "source": {
+        "titre": "Philippe Poutou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Philippe_Poutou",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2020-2026",
+      "texte": "Conseiller municipal de Bordeaux, élu après avoir conduit une liste aux élections municipales de 2020 (9,39 % au second tour).",
+      "source": {
+        "titre": "Philippe Poutou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Philippe_Poutou",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2012, 2017, 2022",
+      "texte": "Candidat à l'élection présidentielle : 1,15 % des voix en 2012, 1,09 % en 2017, 0,76 % en 2022.",
+      "source": {
+        "titre": "Philippe Poutou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Philippe_Poutou",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "1996-2019",
+      "texte": "Ouvrier à l'usine Ford de Blanquefort (Gironde), jusqu'à son licenciement lors de la fermeture du site.",
+      "source": {
+        "titre": "Philippe Poutou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Philippe_Poutou",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2025-",
+      "texte": "Cogérant d'une librairie indépendante à Bordeaux.",
+      "source": {
+        "titre": "Philippe Poutou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Philippe_Poutou",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Convocation par la police en mars 2022 pour « injure publique envers une administration » (Wikipédia) : suites non connues, non publiée.",
+    "Procès pour dégradation du stand Ford lors d'une manifestation en 2012 : source non reconnue, issue non vérifiée, non publiée."
+  ]
+}
