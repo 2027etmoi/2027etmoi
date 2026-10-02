@@ -55,6 +55,8 @@ PAGES = {
                      "Les candidatures à la présidentielle 2027 en faits vérifiables : déclaration, désignation, programme, chiffrage, sondages, temps de parole TV et radio (Arcom), évaluations externes. Sans note ni classement."),
     "sondages.html": ("Sondages présidentielle 2027 : moyenne des intentions de vote",
                       "Intentions de vote au 1er tour de la présidentielle 2027 : moyenne des sondages récents et détail de chaque enquête (Ifop, Ipsos, Elabe, Odoxa, OpinionWay…), avec les notices officielles."),
+    "a-propos.html": ("Qui sommes-nous : un site citoyen, sans parti, sans financement, sans publicité",
+                      "Qui édite 2027 et moi, comment le site est financé et tenu à jour, pourquoi il n'est pas signé, et ses mentions légales : éditeur, hébergeur, données personnelles."),
     "contact.html": ("Contact — signaler une erreur ou proposer une source",
                      "Écrire à 2027 et moi : signaler une erreur sur un candidat, un programme ou un sondage, proposer une source, poser une question sur la méthode du site."),
     "faq.html": ("Présidentielle 2027 : questions fréquentes (dates, parrainages, primaires)",
@@ -181,7 +183,7 @@ D_THEMES = maj("programmes/*.json", "questions.json")
 D_DON = maj("candidats.json", "sondages.json", "candidatures.json", "evaluations.json", "temps-parole.json")
 DATES_PAGES = {"index.html": D_CAND, "candidats.html": D_CAND, "sondages.html": D_SOND,
                "donnees.html": D_DON, "comparateur.html": D_THEMES, "mes-priorites.html": D_THEMES,
-               "faq.html": None, "contact.html": None}  # textes rédigés, pas de date de données
+               "faq.html": None, "contact.html": None, "a-propos.html": None}  # textes rédigés, pas de date de données
 dates_cand = {}
 
 COURRIEL = "contact@2027etmoi.fr"
@@ -217,6 +219,11 @@ for page, (titre, desc) in PAGES.items():
                        "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": f"{SITE}/candidats/{c['id']}.html",
                                             "item": {"@type": "Person", "name": c["nom"], "affiliation": {"@type": "Organization", "name": c["parti"]}}}
                                            for i, c in enumerate(c for c in load(DATA / "candidats.json")["candidats"] if c["statut"] in ("declare", "primaire", "pressenti"))]})
+    if page == "a-propos.html":
+        jsonld.append({"@context": "https://schema.org", "@type": "AboutPage", "name": "Qui sommes-nous — 2027 et moi",
+                       "url": url, "inLanguage": "fr-FR",
+                       "description": "Qui édite le site, comment il est financé et tenu à jour, et ses mentions légales.",
+                       "mainEntity": ORGANISATION})
     if page == "contact.html":
         jsonld.append({"@context": "https://schema.org", "@type": "ContactPage", "name": "Contact — 2027 et moi",
                        "url": url, "inLanguage": "fr-FR",
