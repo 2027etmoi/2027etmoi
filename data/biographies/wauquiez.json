@@ -1,0 +1,170 @@
+{
+  "id": "wauquiez",
+  "mise_a_jour": "2026-10-02",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Laurent_Wauquiez_2021.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Laurent_Wauquiez_2021.jpg",
+    "auteur": "Un Gone",
+    "licence": "CC BY-SA 4.0",
+    "annee": "2021",
+    "officielle": false,
+    "legende": "Laurent Wauquiez en 2021"
+  },
+  "presentation": {
+    "texte": "Laurent Wauquiez est un homme politique français, membre des Républicains, député de la Haute-Loire et président du groupe Droite républicaine à l'Assemblée nationale depuis juillet 2024. Il a présidé la région Auvergne-Rhône-Alpes de 2016 à 2024 et Les Républicains de 2017 à 2019. Il n'est pas candidat à l'élection présidentielle de 2027.",
+    "sources": [
+      {
+        "titre": "Laurent Wauquiez — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez",
+        "date": "2026-10-02"
+      },
+      {
+        "titre": "Public Sénat",
+        "url": "https://www.publicsenat.fr/actualites/politique/main-tendue-de-laurent-wauquiez-a-edouard-philippe-cest-le-retour-de-la-droite-la-plus-bete-du-monde-tacle-le-camp-de-bruno-retailleau",
+        "date": "2026-07"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1975-04-12",
+    "lieu": "Lyon (Rhône)",
+    "source": {
+      "titre": "Laurent Wauquiez — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez",
+      "date": "2026-10-02"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "N'est pas candidat à l'élection présidentielle de 2027 ; appelle en juillet 2026 Bruno Retailleau à se retirer au profit d'Édouard Philippe.",
+      "source": {
+        "titre": "Public Sénat",
+        "url": "https://www.publicsenat.fr/actualites/politique/main-tendue-de-laurent-wauquiez-a-edouard-philippe-cest-le-retour-de-la-droite-la-plus-bete-du-monde-tacle-le-camp-de-bruno-retailleau",
+        "date": "2026-07"
+      }
+    },
+    {
+      "periode": "2024-",
+      "texte": "Député de la 1re circonscription de la Haute-Loire (depuis le 8 juillet 2024) et président du groupe Droite républicaine à l'Assemblée nationale (depuis le 10 juillet 2024).",
+      "source": {
+        "titre": "Laurent Wauquiez — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2016-2024",
+      "texte": "Président du conseil régional d'Auvergne-Rhône-Alpes (4 janvier 2016 - 4 septembre 2024).",
+      "source": {
+        "titre": "Laurent Wauquiez — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2017-2019",
+      "texte": "Président des Républicains (10 décembre 2017 - 2 juin 2019).",
+      "source": {
+        "titre": "Laurent Wauquiez — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2011-2012",
+      "texte": "Ministre de l'Enseignement supérieur et de la Recherche.",
+      "source": {
+        "titre": "Laurent Wauquiez — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2010-2011",
+      "texte": "Ministre chargé des Affaires européennes.",
+      "source": {
+        "titre": "Laurent Wauquiez — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2008-2010",
+      "texte": "Secrétaire d'État chargé de l'Emploi.",
+      "source": {
+        "titre": "Laurent Wauquiez — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2007-2008",
+      "texte": "Secrétaire d'État auprès du Premier ministre, porte-parole du gouvernement.",
+      "source": {
+        "titre": "Laurent Wauquiez — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2008-2016",
+      "texte": "Maire du Puy-en-Velay.",
+      "source": {
+        "titre": "Laurent Wauquiez — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2004-2017",
+      "texte": "Député de la Haute-Loire (2004-2007, puis 2012-2017).",
+      "source": {
+        "titre": "Laurent Wauquiez — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "1997-2001",
+      "texte": "Ancien élève de l'École normale supérieure, agrégé d'histoire (1997), diplômé de Sciences Po Paris et de l'ENA (promotion Mandela, 2001).",
+      "source": {
+        "titre": "Laurent Wauquiez — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2001-",
+      "texte": "Maître des requêtes au Conseil d'État.",
+      "source": {
+        "titre": "Laurent Wauquiez — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "affaires": [
+    {
+      "titre": "Enquête sur le « dîner des sommets » de la région Auvergne-Rhône-Alpes",
+      "texte": "Le Parquet national financier a ouvert le 2 décembre 2022 une enquête préliminaire pour favoritisme, recel de favoritisme et détournement de fonds publics, au sujet d'un dîner organisé en juin 2022 par Laurent Wauquiez, alors président de la région, et payé par celle-ci (plus de 100 000 euros pour environ 90 invités). Le siège de la région a été perquisitionné le 21 février 2023. La région s'est dite « très sereine et à la disposition de la justice ».",
+      "etat": "enquete",
+      "etat_detail": "Enquête préliminaire en cours au 21 février 2023, date de la perquisition ; la source ne fait état d'aucune mise en cause personnelle de Laurent Wauquiez à cette date. Il est présumé innocent.",
+      "date_etat": "2023-02-21",
+      "sources": [
+        {
+          "titre": "France 3 Auvergne-Rhône-Alpes",
+          "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/diner-des-sommets-de-laurents-wauquiez-perquisitions-a-l-hotel-de-region-auvergne-rhone-alpes-2718414.html",
+          "date": "2023-02-21"
+        }
+      ]
+    }
+  ],
+  "a_verifier": [
+    "Enquête du PNF sur le « dîner des sommets » : état vérifié au 21 février 2023 seulement ; suites (auditions, mise en cause, classement) à rechercher.",
+    "Wikipédia mentionne d'autres enquêtes (notes de frais 2021-2023, emplois à Paris financés par la région) : aucune source de presse ouverte, non publiées.",
+    "Date exacte de sa déclaration de non-candidature (source Public Sénat datée « 2026-07 ») à préciser."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "knafo",
+  "mise_a_jour": "2026-10-02",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1719930258552_20240702_KNAFO_Sarah_FR_021.jpg/500px-1719930258552_20240702_KNAFO_Sarah_FR_021.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1719930258552_20240702_KNAFO_Sarah_FR_021.jpg",
+    "auteur": "European Union 2024 - Source : EP",
+    "licence": "© Union européenne – Parlement européen (réutilisation autorisée avec mention de la source)",
+    "annee": "2024",
+    "officielle": true,
+    "legende": "Portrait officiel de Sarah Knafo, députée européenne (Parlement européen, 2024)"
+  },
+  "presentation": {
+    "texte": "Sarah Knafo est une femme politique française, députée européenne Reconquête depuis juillet 2024. Magistrate à la Cour des comptes de formation, elle a dirigé la stratégie de la campagne présidentielle d'Éric Zemmour en 2022. Elle a déclaré en avril 2026 ne pas être candidate à l'élection présidentielle de 2027.",
+    "sources": [
+      {
+        "titre": "Sarah Knafo — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Sarah_Knafo",
+        "date": "2026-10-02"
+      },
+      {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/politique/pas-candidate-a-l-election-presidentielle-de-2027-sarah-knafo-lance-une-grande-consultation-des-francais_7970540.html",
+        "date": "2026-04-29"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1993-04-24",
+    "lieu": "Les Pavillons-sous-Bois (Seine-Saint-Denis)",
+    "source": {
+      "titre": "Sarah Knafo — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Sarah_Knafo",
+      "date": "2026-10-02"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Déclare en avril 2026 ne pas être candidate à l'élection présidentielle de 2027 et juge Éric Zemmour « candidat naturel ».",
+      "source": {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/politique/pas-candidate-a-l-election-presidentielle-de-2027-sarah-knafo-lance-une-grande-consultation-des-francais_7970540.html",
+        "date": "2026-04-29"
+      }
+    },
+    {
+      "periode": "2026-",
+      "texte": "Conseillère du 16e arrondissement de Paris, après avoir conduit une liste aux élections municipales de mars 2026 à Paris (10,40 % des voix).",
+      "source": {
+        "titre": "Sarah Knafo — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Sarah_Knafo",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2024-",
+      "texte": "Députée européenne depuis le 16 juillet 2024, élue en troisième position sur la liste Reconquête.",
+      "source": {
+        "titre": "Sarah Knafo — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Sarah_Knafo",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2021-2022",
+      "texte": "Directrice de la stratégie de la campagne présidentielle d'Éric Zemmour.",
+      "source": {
+        "titre": "Sarah Knafo — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Sarah_Knafo",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "2015-2020",
+      "texte": "Diplômée en économie et en science politique (université Panthéon-Sorbonne), de Sciences Po Paris (2017) et de l'ENA (promotion Molière).",
+      "source": {
+        "titre": "Sarah Knafo — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Sarah_Knafo",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2020-2021",
+      "texte": "Auditrice à la Cour des comptes.",
+      "source": {
+        "titre": "Sarah Knafo — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Sarah_Knafo",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "affaires": [],
+  "a_verifier": []
+}

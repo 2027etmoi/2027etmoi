@@ -1,0 +1,180 @@
+{
+  "id": "bayrou",
+  "mise_a_jour": "2026-10-02",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bayrou_Matignon_%28cropped%29.jpg/500px-Bayrou_Matignon_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bayrou_Matignon_(cropped).jpg",
+    "auteur": "Service photographique de Matignon",
+    "licence": "Licence Ouverte",
+    "annee": "2025",
+    "officielle": true,
+    "legende": "Portrait officiel de François Bayrou, Premier ministre (service photographique de Matignon)"
+  },
+  "presentation": {
+    "texte": "François Bayrou est un homme politique français, président du Mouvement démocrate (MoDem) depuis 2007. Il a été Premier ministre du 13 décembre 2024 au 9 septembre 2025, ministre de l'Éducation nationale de 1993 à 1997 et trois fois candidat à l'élection présidentielle. Il a déclaré en juin 2026 ne pas être candidat à l'élection présidentielle de 2027.",
+    "sources": [
+      {
+        "titre": "François Bayrou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/François_Bayrou",
+        "date": "2026-10-02"
+      },
+      {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/l-ancien-premier-ministre-francois-bayrou-n-est-pas-candidat-a-l-election-presidentielle-de-2027_8054486.html",
+        "date": "2026-06-10"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1951-05-25",
+    "lieu": "Bordères (Pyrénées-Atlantiques)",
+    "source": {
+      "titre": "François Bayrou — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/François_Bayrou",
+      "date": "2026-10-02"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Déclare en juin 2026 : « Je ne suis pas candidat » à l'élection présidentielle de 2027.",
+      "source": {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/l-ancien-premier-ministre-francois-bayrou-n-est-pas-candidat-a-l-election-presidentielle-de-2027_8054486.html",
+        "date": "2026-06-10"
+      }
+    },
+    {
+      "periode": "2024-2025",
+      "texte": "Premier ministre (13 décembre 2024 - 9 septembre 2025).",
+      "source": {
+        "titre": "François Bayrou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/François_Bayrou",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2020-2025",
+      "texte": "Haut-commissaire au plan.",
+      "source": {
+        "titre": "François Bayrou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/François_Bayrou",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2017",
+      "texte": "Ministre d'État, garde des Sceaux, ministre de la Justice (17 mai - 21 juin 2017).",
+      "source": {
+        "titre": "François Bayrou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/François_Bayrou",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2014-",
+      "texte": "Maire de Pau, élu en 2014.",
+      "source": {
+        "titre": "François Bayrou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/François_Bayrou",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2007-",
+      "texte": "Président du Mouvement démocrate.",
+      "source": {
+        "titre": "François Bayrou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/François_Bayrou",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2002, 2007, 2012",
+      "texte": "Candidat à l'élection présidentielle : 6,84 % des voix en 2002, 18,57 % en 2007, 9,13 % en 2012.",
+      "source": {
+        "titre": "François Bayrou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/François_Bayrou",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "1998-2007",
+      "texte": "Président de l'Union pour la démocratie française (UDF).",
+      "source": {
+        "titre": "François Bayrou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/François_Bayrou",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "1993-1997",
+      "texte": "Ministre de l'Éducation nationale.",
+      "source": {
+        "titre": "François Bayrou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/François_Bayrou",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "1986-2012",
+      "texte": "Député des Pyrénées-Atlantiques à plusieurs reprises (1986-1993, 1997-1999, 2002-2012) ; député européen de 1999 à 2002.",
+      "source": {
+        "titre": "François Bayrou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/François_Bayrou",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "1974",
+      "texte": "Agrégé de lettres classiques, après des études à l'université Bordeaux-Montaigne ; professeur de lettres.",
+      "source": {
+        "titre": "François Bayrou — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/François_Bayrou",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "affaires": [
+    {
+      "titre": "Affaire des assistants parlementaires européens du MoDem",
+      "texte": "François Bayrou a été jugé pour détournement de fonds, avec d'autres responsables de l'UDF et du MoDem, au sujet de la rémunération par le Parlement européen d'assistants parlementaires soupçonnés d'avoir travaillé pour le parti entre 2005 et 2017. Le tribunal correctionnel de Paris l'a relaxé le 5 février 2024, « au bénéfice du doute », en relevant qu'il ne ressortait d'aucune pièce du dossier qu'il aurait demandé d'employer fictivement des assistants. Le parquet a fait appel. Il conteste les faits : « Toutes ces accusations, on va le prouver, sont infondées. »",
+      "etat": "relaxe",
+      "etat_detail": "Relaxé en première instance le 5 février 2024 ; appel du parquet. Procès en appel ouvert le 9 septembre 2026 devant la cour d'appel de Paris, débats prévus jusqu'au 5 octobre 2026 ; décision non rendue à cette date. Il est présumé innocent.",
+      "date_etat": "2026-09-09",
+      "sources": [
+        {
+          "titre": "AFP, via Boursorama",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/assistants-d-eurodeputes-le-proces-en-appel-de-francois-bayrou-et-du-modem-s-est-ouvert-a-paris-8212ba9e89b1439a9dc057db84c91efc",
+          "date": "2026-09-09"
+        },
+        {
+          "titre": "France 3 Nouvelle-Aquitaine",
+          "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/pau/francois-bayrou-sera-finalement-juge-en-appel-dans-l-affaire-des-assistants-parlementaires-du-modem-3314061.html",
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "titre": "Affaire Bétharram : signalements à la Cour de justice de la République",
+      "texte": "Deux députés de La France insoumise ont saisi la Cour de justice de la République de signalements visant François Bayrou pour « non-dénonciation de mauvais traitement sur mineurs » et « abstention volontaire d'empêcher un crime ou un délit », au sujet de violences commises dans l'établissement Notre-Dame de Bétharram lorsqu'il était ministre de l'Éducation nationale. Le procureur général près la Cour de cassation a classé ces signalements le 3 mars 2025, en indiquant qu'« aucune infraction relevant de la compétence de la Cour de justice de la République ne paraît susceptible d'être caractérisée ».",
+      "etat": "classement",
+      "etat_detail": "Signalements classés sans suite le 3 mars 2025. La source indique qu'une plainte distincte, déposée à Pau en février 2025 pour « entrave à la justice » et « recel de crime », n'est pas concernée par cette décision.",
+      "date_etat": "2025-03-03",
+      "sources": [
+        {
+          "titre": "franceinfo",
+          "url": "https://www.franceinfo.fr/societe/education/affaire-de-violences-sexuelles-a-notre-dame-de-betharram/affaire-betharram-deux-signalements-pour-non-denonciation-visant-francois-bayrou-classes-sans-suite_7107825.html",
+          "date": "2025-03-03"
+        }
+      ]
+    }
+  ],
+  "a_verifier": [
+    "Mandat de maire de Pau : Wikipédia indique une fin au 27 mars 2026, France 3 le présente comme maire le 11 mars 2026 ; statut après les municipales de mars 2026 à vérifier.",
+    "Affaire des assistants du MoDem : décision de la cour d'appel de Paris à intégrer dès qu'elle est rendue (débats jusqu'au 5 octobre 2026).",
+    "Bétharram : suites de la plainte déposée à Pau en février 2025 (« entrave à la justice », « recel de crime ») à vérifier."
+  ]
+}

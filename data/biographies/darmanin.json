@@ -1,0 +1,133 @@
+{
+  "id": "darmanin",
+  "mise_a_jour": "2026-10-02",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/French_Justice_Minister_G%C3%A9rald_Darmanin_in_2025_%28cropped_2%29.jpg/500px-French_Justice_Minister_G%C3%A9rald_Darmanin_in_2025_%28cropped_2%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:French_Justice_Minister_G%C3%A9rald_Darmanin_in_2025_(cropped_2).jpg",
+    "auteur": "UK Home Office",
+    "licence": "CC BY 2.0",
+    "annee": "2025",
+    "officielle": false,
+    "legende": "Gérald Darmanin, ministre de la Justice, en mars 2025"
+  },
+  "presentation": {
+    "texte": "Gérald Darmanin est un homme politique français, garde des Sceaux, ministre de la Justice depuis le 23 décembre 2024. Il a été ministre de l'Intérieur de 2020 à 2024, ministre de l'Action et des Comptes publics de 2017 à 2020 et maire de Tourcoing. Il a annoncé en août 2026 qu'il ne se présenterait pas à l'élection présidentielle de 2027 et qu'il soutenait Édouard Philippe.",
+    "sources": [
+      {
+        "titre": "Gérald Darmanin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gérald_Darmanin",
+        "date": "2026-10-02"
+      },
+      {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/politique/gerald-darmanin-ne-se-presentera-pas-a-l-election-presidentielle-et-apporte-son-soutien-a-edouard-philippe_8151311.html",
+        "date": "2026-08-17"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1982-10-11",
+    "lieu": "Valenciennes (Nord)",
+    "source": {
+      "titre": "Gérald Darmanin — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Gérald_Darmanin",
+      "date": "2026-10-02"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Annonce en août 2026 qu'il ne se présentera pas à l'élection présidentielle de 2027 et apporte son soutien à Édouard Philippe.",
+      "source": {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/politique/gerald-darmanin-ne-se-presentera-pas-a-l-election-presidentielle-et-apporte-son-soutien-a-edouard-philippe_8151311.html",
+        "date": "2026-08-17"
+      }
+    },
+    {
+      "periode": "2024-",
+      "texte": "Garde des Sceaux, ministre de la Justice, depuis le 23 décembre 2024.",
+      "source": {
+        "titre": "Gérald Darmanin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gérald_Darmanin",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2020-2024",
+      "texte": "Ministre de l'Intérieur, puis de l'Intérieur et des Outre-mer (6 juillet 2020 - 21 septembre 2024).",
+      "source": {
+        "titre": "Gérald Darmanin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gérald_Darmanin",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2017-2020",
+      "texte": "Ministre de l'Action et des Comptes publics (17 mai 2017 - 6 juillet 2020).",
+      "source": {
+        "titre": "Gérald Darmanin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gérald_Darmanin",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2014-2020",
+      "texte": "Maire de Tourcoing (2014-2017, puis mai-septembre 2020).",
+      "source": {
+        "titre": "Gérald Darmanin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gérald_Darmanin",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2012-2025",
+      "texte": "Député du Nord (2012-2016, puis élu en 2022 et en 2024, mandats interrompus par ses fonctions gouvernementales).",
+      "source": {
+        "titre": "Gérald Darmanin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gérald_Darmanin",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2010-2017",
+      "texte": "Conseiller régional du Nord-Pas-de-Calais (2010-2014), puis vice-président du conseil régional des Hauts-de-France (2016-2017).",
+      "source": {
+        "titre": "Gérald Darmanin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gérald_Darmanin",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "2007",
+      "texte": "Diplômé de l'Institut d'études politiques de Lille.",
+      "source": {
+        "titre": "Gérald Darmanin — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Gérald_Darmanin",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "affaires": [
+    {
+      "titre": "Plainte pour viol : non-lieu définitif",
+      "texte": "Une femme a accusé Gérald Darmanin de l'avoir violée en 2009, alors qu'il était chargé de mission au service des affaires juridiques de l'UMP et qu'elle sollicitait son appui dans un dossier judiciaire. Il a toujours contesté ces accusations, reconnaissant une relation sexuelle qu'il dit consentie, et n'a pas été mis en examen. Après plusieurs classements, une juge d'instruction a été désignée en 2020 ; elle a rendu un non-lieu en juillet 2022, confirmé en appel en 2023. La Cour de cassation a rejeté le pourvoi de la plaignante le 14 février 2024.",
+      "etat": "non_lieu",
+      "etat_detail": "Non-lieu définitif depuis le rejet du pourvoi par la Cour de cassation, le 14 février 2024.",
+      "date_etat": "2024-02-14",
+      "sources": [
+        {
+          "titre": "CNews",
+          "url": "https://www.cnews.fr/faits-divers/2024-02-14/gerald-darmanin-accuse-de-viol-la-cour-de-cassation-valide-le-non-lieu-en",
+          "date": "2024-02-14"
+        }
+      ]
+    }
+  ],
+  "a_verifier": [
+    "Plainte pour abus de faiblesse déposée par une habitante de Tourcoing (2018), classée sans suite selon Wikipédia : aucune source de presse ouverte, non publiée.",
+    "Wikipédia indique qu'il est premier adjoint au maire de Tourcoing depuis le 28 mars 2026 : à vérifier avant publication."
+  ]
+}

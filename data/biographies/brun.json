@@ -1,0 +1,91 @@
+{
+  "id": "brun",
+  "mise_a_jour": "2026-10-02",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/LOUVIERS_-_4e_circo_Eure_-_Philippe_Brun_nouveau_d%C3%A9put%C3%A9_22_juin_2022_%281%29_%28cropped%29.jpg/500px-LOUVIERS_-_4e_circo_Eure_-_Philippe_Brun_nouveau_d%C3%A9put%C3%A9_22_juin_2022_%281%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:LOUVIERS_-_4e_circo_Eure_-_Philippe_Brun_nouveau_d%C3%A9put%C3%A9_22_juin_2022_(1)_(cropped).jpg",
+    "auteur": "Pierre2777",
+    "licence": "CC BY-SA 4.0",
+    "annee": "2022",
+    "officielle": false,
+    "legende": "Philippe Brun à Louviers, juin 2022"
+  },
+  "presentation": {
+    "texte": "Philippe Brun est un homme politique français, député de l'Eure depuis 2022, élu sous l'étiquette socialiste. Magistrat administratif de formation, il avait annoncé en juin 2026 sa candidature à la primaire socialiste pour l'élection présidentielle de 2027. Le Parti socialiste l'a suspendu à titre conservatoire le 16 septembre 2026, ce qui l'écarte de la primaire.",
+    "sources": [
+      {
+        "titre": "Philippe Brun — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Philippe_Brun",
+        "date": "2026-10-02"
+      },
+      {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/le-depute-socialiste-philippe-brun-exclu-de-la-primaire-de-la-gauche-apres-des-accusations-de-violence-l-interesse-evoque-sa-stupeur_8195156.html",
+        "date": "2026-09-16"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1991-10-16",
+    "lieu": "Rouen (Seine-Maritime)",
+    "source": {
+      "titre": "Philippe Brun — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Philippe_Brun",
+      "date": "2026-10-02"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Annonce le 30 juin 2026 sa candidature à la primaire socialiste. Le Parti socialiste le suspend à titre conservatoire le 16 septembre 2026, après des accusations portées par une ancienne collaboratrice ; il dit avoir appris cette décision avec « stupeur » et ignorer ce qui lui est reproché.",
+      "source": {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/le-depute-socialiste-philippe-brun-exclu-de-la-primaire-de-la-gauche-apres-des-accusations-de-violence-l-interesse-evoque-sa-stupeur_8195156.html",
+        "date": "2026-09-16"
+      }
+    },
+    {
+      "periode": "2022-",
+      "texte": "Député de la 4e circonscription de l'Eure (depuis le 22 juin 2022).",
+      "source": {
+        "titre": "Philippe Brun — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Philippe_Brun",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2009-2015, 2022-",
+      "texte": "Adhérent du Parti socialiste de 2009 à 2015, puis de nouveau à partir de 2022.",
+      "source": {
+        "titre": "Philippe Brun — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Philippe_Brun",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "2014-2018",
+      "texte": "Diplômé de Sciences Po Paris (2014), de HEC Paris (2016) et de l'ENA (promotion Georges Clemenceau, 2017-2018).",
+      "source": {
+        "titre": "Philippe Brun — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Philippe_Brun",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2019-",
+      "texte": "Magistrat administratif, au tribunal administratif de Montreuil.",
+      "source": {
+        "titre": "Philippe Brun — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Philippe_Brun",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Accusations portées par une ancienne collaboratrice (harcèlement, violences, emploi familial), à l'origine de la suspension par le PS : la source (franceinfo, 16 septembre 2026) ne mentionne aucune plainte ni enquête judiciaire. À surveiller ; rien à publier dans les affaires tant qu'aucune procédure n'est ouverte.",
+    "Référé engagé par Philippe Brun contre sa suspension, rejeté selon Wikipédia : contentieux civil, hors périmètre."
+  ]
+}

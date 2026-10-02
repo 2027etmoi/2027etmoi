@@ -1,0 +1,157 @@
+{
+  "id": "barnier",
+  "mise_a_jour": "2026-10-02",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Barnier_Portrait.jpg/500px-Barnier_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Barnier_Portrait.jpg",
+    "auteur": "Florian David Pm",
+    "licence": "CC BY-SA 4.0",
+    "annee": "2024",
+    "officielle": true,
+    "legende": "Portrait officiel de Michel Barnier, Premier ministre, octobre 2024"
+  },
+  "presentation": {
+    "texte": "Michel Barnier est un homme politique français, membre des Républicains, député de Paris depuis septembre 2025. Il a été Premier ministre du 5 septembre au 13 décembre 2024, négociateur en chef de l'Union européenne pour le Brexit de 2016 à 2021, commissaire européen et plusieurs fois ministre. Il a déclaré en avril 2026 ne pas être candidat « à ce stade » à l'élection présidentielle de 2027.",
+    "sources": [
+      {
+        "titre": "Michel Barnier — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Michel_Barnier",
+        "date": "2026-10-02"
+      },
+      {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/politique/michel-barnier/presidentielle-2027-michel-barnier-se-sent-capable-d-etre-president-mais-ne-veut-pas-personnaliser-aujourd-hui-la-campagne_7949753.html",
+        "date": "2026-04-19"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1951-01-09",
+    "lieu": "La Tronche (Isère)",
+    "source": {
+      "titre": "Michel Barnier — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Michel_Barnier",
+      "date": "2026-10-02"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Déclare en avril 2026 ne pas être candidat « à ce stade » à l'élection présidentielle de 2027 et demande une primaire la plus ouverte possible.",
+      "source": {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/politique/michel-barnier/presidentielle-2027-michel-barnier-se-sent-capable-d-etre-president-mais-ne-veut-pas-personnaliser-aujourd-hui-la-campagne_7949753.html",
+        "date": "2026-04-19"
+      }
+    },
+    {
+      "periode": "2025-",
+      "texte": "Député de la 2e circonscription de Paris, élu lors d'une élection partielle (depuis le 29 septembre 2025).",
+      "source": {
+        "titre": "Michel Barnier — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Michel_Barnier",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2024",
+      "texte": "Premier ministre (5 septembre - 13 décembre 2024) ; son gouvernement est renversé par une motion de censure le 4 décembre 2024.",
+      "source": {
+        "titre": "Michel Barnier — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Michel_Barnier",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2021",
+      "texte": "Candidat à la primaire des Républicains pour l'élection présidentielle de 2022 : 23,93 % des voix au premier tour, troisième.",
+      "source": {
+        "titre": "Michel Barnier — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Michel_Barnier",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2016-2021",
+      "texte": "Négociateur en chef de l'Union européenne chargé du Brexit.",
+      "source": {
+        "titre": "Michel Barnier — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Michel_Barnier",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2010-2014",
+      "texte": "Vice-président de la Commission européenne, commissaire au marché intérieur et aux services.",
+      "source": {
+        "titre": "Michel Barnier — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Michel_Barnier",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2004-2009",
+      "texte": "Ministre des Affaires étrangères (2004-2005), puis de l'Agriculture et de la Pêche (2007-2009).",
+      "source": {
+        "titre": "Michel Barnier — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Michel_Barnier",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "1999-2004",
+      "texte": "Commissaire européen à la politique régionale.",
+      "source": {
+        "titre": "Michel Barnier — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Michel_Barnier",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "1993-1997",
+      "texte": "Ministre de l'Environnement (1993-1995), puis ministre délégué aux Affaires européennes (1995-1997).",
+      "source": {
+        "titre": "Michel Barnier — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Michel_Barnier",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "1978-1999",
+      "texte": "Député de la Savoie (1978-1993), puis sénateur de la Savoie (1997-1999).",
+      "source": {
+        "titre": "Michel Barnier — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Michel_Barnier",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "1972",
+      "texte": "Diplômé de l'École supérieure de commerce de Paris (ESCP).",
+      "source": {
+        "titre": "Michel Barnier — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Michel_Barnier",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "affaires": [
+    {
+      "titre": "Bombardement de Bouaké : demande de saisine de la Cour de justice de la République",
+      "texte": "Dans l'enquête sur le bombardement du camp militaire français de Bouaké (Côte d'Ivoire) en 2004, une juge d'instruction a demandé en 2016 la saisine de la Cour de justice de la République au sujet de trois anciens ministres, dont Michel Barnier, alors ministre des Affaires étrangères, pour « recel de malfaiteurs », « entrave à la manifestation de la vérité » et « non-dénonciation de crime ». Le 22 mai 2019, la commission des requêtes de la Cour a estimé qu'il n'y avait pas lieu d'ouvrir une enquête.",
+      "etat": "classement",
+      "etat_detail": "Pas de poursuites : avis de la commission des requêtes de la Cour de justice de la République du 22 mai 2019, non susceptible de recours.",
+      "date_etat": "2019-05-22",
+      "sources": [
+        {
+          "titre": "France 24",
+          "url": "https://www.france24.com/fr/20190524-france-cote-ivoire-bombardement-bouake-2004-trois-ex-ministres-francais-pas-poursuites",
+          "date": "2019-05-24"
+        }
+      ]
+    }
+  ],
+  "a_verifier": []
+}

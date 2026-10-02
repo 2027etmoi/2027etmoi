@@ -240,6 +240,18 @@ for page, (titre, desc) in PAGES.items():
     f.write_text(versionner(inject(s, seo_block(titre, desc, url, jsonld=jsonld))), encoding="utf-8")
 
 # --- 3. pages candidats
+ETATS_AFFAIRE_LIB = {"enquete": "Enquête en cours", "mise_en_examen": "Mise en examen", "renvoi_proces": "Renvoi devant le tribunal",
+                     "condamnation_non_definitive": "Condamnation non définitive", "condamnation_definitive": "Condamnation définitive",
+                     "relaxe": "Relaxe", "instruction_close": "Instruction close", "non_lieu": "Non-lieu", "classement": "Classement sans suite"}
+
+
+def _source(src, prefixe="Source : "):
+    if not src or not str(src.get("url", "")).startswith("http"):
+        return ""
+    return (f'<span class="source">{prefixe}<a href="{esc(src["url"])}" target="_blank" rel="noopener">{esc(src.get("titre") or "lien")}</a>'
+            + (f', {esc(date_courte(src["date"]) or src["date"])}' if src.get("date") else "") + "</span>")
+
+
 cands = load(DATA / "candidats.json")["candidats"]
 sond = load(DATA / "sondages.json") if (DATA / "sondages.json").exists() else {"sondages": []}
 moy = moyennes_sondages(sond)
@@ -389,6 +401,27 @@ for c in cands:
                       + "".join(parole_li(i) for i in miens) + "</ul>"
                       f'<p class="notice">Propos tenus par la personne, là où ils l\'ont été ; jamais les articles à son sujet. '
                       f'<a href="/actualite.html#{esc(cid)}">Toute l\'actualité de la campagne</a></p>')
+    # Parcours et procédures judiciaires : mêmes informations que la fiche complète, lisibles sans JavaScript
+    if bio:
+        nais = bio.get("naissance") or {}
+        if nais.get("date"):
+            resume.append(f'<p>Naissance : {esc(date_courte(nais["date"]) or nais["date"])}'
+                          + (f', {esc(nais["lieu"])}' if nais.get("lieu") else "") + ".</p>")
+        for cle, intitule in (("parcours_politique", "Parcours politique"),
+                              ("parcours_professionnel", "Formation et parcours professionnel")):
+            if bio.get(cle):
+                resume.append(f"<h2>{intitule} de {esc(c['nom'])}</h2><ul>" + "".join(
+                    f'<li><strong>{esc(e.get("periode", ""))}</strong> : {esc(e["texte"])}</li>' for e in bio[cle]) + "</ul>")
+        if bio.get("affaires"):
+            resume.append("<h2>Procédures judiciaires</h2>" + "".join(
+                f'<h3>{esc(a["titre"])}</h3><p>{esc(a["texte"])}</p>'
+                f'<p><strong>{esc(ETATS_AFFAIRE_LIB.get(a["etat"], a["etat"]))}</strong>'
+                + (f' (état au {esc(date_courte(a["date_etat"]) or a["date_etat"])})' if a.get("date_etat") else "")
+                + (f' : {esc(a["etat_detail"])}' if a.get("etat_detail") else "") + "</p>"
+                + "".join(_source(x) for x in a.get("sources") or [])
+                for a in bio["affaires"])
+                + '<p class="notice">Toute personne qui n\'a pas été définitivement condamnée est présumée innocente. '
+                  'Seules les procédures dont l\'état a pu être vérifié sur une source ouverte sont mentionnées.</p>')
     resume.append("</article>")
 
     s = set_title_desc(gabarit, f"{titre} | {NOM_SITE}", desc)
@@ -413,13 +446,6 @@ STATUTS_COURTS = {"declare": "Candidature déclarée", "primaire": "En primaire"
 
 def _nom(i):
     return _par_id[i]["nom"] if i in _par_id else _hors.get(i, i)
-
-
-def _source(src, prefixe="Source : "):
-    if not src or not str(src.get("url", "")).startswith("http"):
-        return ""
-    return (f'<span class="source">{prefixe}<a href="{esc(src["url"])}" target="_blank" rel="noopener">{esc(src.get("titre") or "lien")}</a>'
-            + (f', {esc(date_courte(src["date"]) or src["date"])}' if src.get("date") else "") + "</span>")
 
 
 def _remplir(page, cible_ouvre, cible_ferme, contenu):

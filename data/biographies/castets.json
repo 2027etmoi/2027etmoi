@@ -1,0 +1,115 @@
+{
+  "id": "castets",
+  "mise_a_jour": "2026-10-02",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lucie_Castets_31_juillet_2024.jpg/500px-Lucie_Castets_31_juillet_2024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lucie_Castets_31_juillet_2024.jpg",
+    "auteur": "Tomkiou",
+    "licence": "CC0 1.0",
+    "annee": "2024",
+    "officielle": false,
+    "legende": "Lucie Castets, le 31 juillet 2024"
+  },
+  "presentation": {
+    "texte": "Lucie Castets est une haute fonctionnaire et femme politique française, maire du 12e arrondissement de Paris depuis avril 2026. Le Nouveau Front populaire l'avait proposée pour le poste de Première ministre en juillet 2024. Elle a déclaré en janvier 2026 ne pas être candidate à l'élection présidentielle de 2027.",
+    "sources": [
+      {
+        "titre": "Lucie Castets — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Lucie_Castets",
+        "date": "2026-10-02"
+      },
+      {
+        "titre": "Orange / AFP",
+        "url": "https://actu.orange.fr/politique/presidentielle-2027-lucie-castets-assure-ne-pas-etre-candidate-magic-CNT000002n5bJm.html",
+        "date": "2026-01-30"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1987-03-03",
+    "lieu": "Caen (Calvados)",
+    "source": {
+      "titre": "Lucie Castets — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Lucie_Castets",
+      "date": "2026-10-02"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Déclare en janvier 2026 ne pas être candidate à l'élection présidentielle de 2027.",
+      "source": {
+        "titre": "Orange / AFP",
+        "url": "https://actu.orange.fr/politique/presidentielle-2027-lucie-castets-assure-ne-pas-etre-candidate-magic-CNT000002n5bJm.html",
+        "date": "2026-01-30"
+      }
+    },
+    {
+      "periode": "2026-",
+      "texte": "Maire du 12e arrondissement de Paris (depuis le 6 avril 2026), conseillère de Paris et conseillère métropolitaine du Grand Paris.",
+      "source": {
+        "titre": "Lucie Castets — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Lucie_Castets",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2024",
+      "texte": "Proposée le 23 juillet 2024 par le Nouveau Front populaire pour le poste de Première ministre ; le président de la République ne la nomme pas.",
+      "source": {
+        "titre": "Lucie Castets — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Lucie_Castets",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2024",
+      "texte": "Lance le 30 novembre 2024, avec Marine Tondelier, un appel à l'union de la gauche pour 2027.",
+      "source": {
+        "titre": "Lucie Castets — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Lucie_Castets",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "2013",
+      "texte": "Diplômée de Sciences Po Paris, de la London School of Economics et de l'ENA (promotion Jean-Zay).",
+      "source": {
+        "titre": "Lucie Castets — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Lucie_Castets",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2013-2023",
+      "texte": "Haute fonctionnaire : direction générale du Trésor, Tracfin (2018-2020), puis conseillère à la mairie de Paris.",
+      "source": {
+        "titre": "Lucie Castets — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Lucie_Castets",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2023-2024",
+      "texte": "Directrice des finances et des achats de la Ville de Paris.",
+      "source": {
+        "titre": "Lucie Castets — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Lucie_Castets",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2021",
+      "texte": "Cofondatrice du collectif Nos services publics.",
+      "source": {
+        "titre": "Lucie Castets — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Lucie_Castets",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "affaires": [],
+  "a_verifier": []
+}

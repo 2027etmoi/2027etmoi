@@ -1,0 +1,115 @@
+{
+  "id": "vallaud",
+  "mise_a_jour": "2026-10-02",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Boris_Vallaud_%28cropped%29.jpg/500px-Boris_Vallaud_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Boris_Vallaud_(cropped).jpg",
+    "auteur": "Noé Herraez",
+    "licence": "Domaine public",
+    "annee": "2024",
+    "officielle": false,
+    "legende": "Boris Vallaud en juin 2024"
+  },
+  "presentation": {
+    "texte": "Boris Vallaud est un homme politique français, député socialiste des Landes depuis 2017 et président du groupe socialiste à l'Assemblée nationale depuis 2022. Haut fonctionnaire, il a été secrétaire général adjoint de la présidence de la République de 2014 à 2016. Il n'est pas candidat à l'élection présidentielle de 2027 et soutient Raphaël Glucksmann dans la primaire socialiste.",
+    "sources": [
+      {
+        "titre": "Boris Vallaud — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Boris_Vallaud",
+        "date": "2026-10-02"
+      },
+      {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/boris-vallaud-fait-le-choix-de-soutenir-raphael-glucksmann-pour-la-primaire-de-la-gauche-en-vue-de-la-presidentielle-2027_8165114.html",
+        "date": "2026-08-27"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1975-07-25",
+    "lieu": "Beyrouth (Liban)",
+    "source": {
+      "titre": "Boris Vallaud — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Boris_Vallaud",
+      "date": "2026-10-02"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Annonce en août 2026 son soutien à Raphaël Glucksmann pour la primaire socialiste en vue de l'élection présidentielle de 2027.",
+      "source": {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/boris-vallaud-fait-le-choix-de-soutenir-raphael-glucksmann-pour-la-primaire-de-la-gauche-en-vue-de-la-presidentielle-2027_8165114.html",
+        "date": "2026-08-27"
+      }
+    },
+    {
+      "periode": "2025",
+      "texte": "Candidat à la direction du Parti socialiste lors du congrès de 2025 : son texte obtient 17,4 % des voix, en troisième position.",
+      "source": {
+        "titre": "Boris Vallaud — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Boris_Vallaud",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2022-",
+      "texte": "Président du groupe socialiste à l'Assemblée nationale (depuis le 28 juin 2022, réélu le 10 juillet 2024).",
+      "source": {
+        "titre": "Boris Vallaud — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Boris_Vallaud",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2017-",
+      "texte": "Député de la 3e circonscription des Landes (élu en 2017, réélu en 2022 et 2024).",
+      "source": {
+        "titre": "Boris Vallaud — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Boris_Vallaud",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2018-2023",
+      "texte": "Porte-parole du Parti socialiste.",
+      "source": {
+        "titre": "Boris Vallaud — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Boris_Vallaud",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2014-2016",
+      "texte": "Secrétaire général adjoint de la présidence de la République, sous François Hollande.",
+      "source": {
+        "titre": "Boris Vallaud — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Boris_Vallaud",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "periode": "2012-2014",
+      "texte": "Directeur de cabinet d'Arnaud Montebourg au ministère de l'Économie.",
+      "source": {
+        "titre": "Boris Vallaud — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Boris_Vallaud",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "2000-2004",
+      "texte": "Diplômé de Sciences Po Paris (2000) et de l'ENA (promotion Léopold Sédar Senghor, 2002-2004) ; haut fonctionnaire.",
+      "source": {
+        "titre": "Boris Vallaud — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Boris_Vallaud",
+        "date": "2026-10-02"
+      }
+    }
+  ],
+  "affaires": [],
+  "a_verifier": []
+}

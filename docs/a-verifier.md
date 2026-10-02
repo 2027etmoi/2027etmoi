@@ -1,6 +1,6 @@
 # Points à vérifier (généré)
 
-Généré le 2026-09-30 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 579 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
+Généré le 2026-10-02 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 599 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
 
 ## Biographies et affaires judiciaires
 
@@ -23,12 +23,29 @@ Généré le 2026-09-30 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Plainte déposée devant la commission des requêtes de la CJR par six militants indépendantistes kanak (dont Christian Tein) visant notamment Gabriel Attal pour « actes arbitraires attentatoires à la liberté individuelle » et « abus d'autorité » (arrestations et transferts de juin 2024). Simple plainte : aucune suite procédurale connue, non publiée. Voir franceinfo : https://www.franceinfo.fr/france/nouvelle-caledonie/emeutes-en-nouvelle-caledonie-six-militants-kanak-reclament-l-ouverture-d-une-enquete-contre-gabriel-attal-gerald-darmanin-eric-dupond-moretti-et-sebastien-lecornu_8184782.html (non ouvert). Lot 3 (22/09/2026) : recherche franceinfo/Outre-mer La 1ère/Public Sénat : aucune décision de la commission des requêtes trouvée. Toujours non publiée.
 - [ ] Une recherche mentionne une plainte devant la CJR classée par la commission des requêtes le 17 avril 2023 : objet et source non vérifiés. Lot 3 (22/09/2026) : aucune trace de cette plainte ni de son classement dans franceinfo, Public Sénat, LCP, Europe 1, France 24 ou ICI. Non confirmable ; non publiée.
 
+### Clémentine Autain (`data/biographies/autain.json`)
+
+- [ ] Date d'annonce de sa candidature à l'élection présidentielle de 2027 : non trouvée dans les sources ouvertes.
+
+### Jordan Bardella (`data/biographies/bardella.json`)
+
+- [ ] Diffamation (propos sur Trappes, plainte du maire Ali Rabeh) : mis en examen en février 2022 puis relaxé selon Wikipédia et son propre message ; aucune source de presse reconnue ouverte, non publiée.
+- [ ] Formation aux médias financée par le Parlement européen (2019-2021) : plainte contre X de l'association AC!! Anti-Corruption (décembre 2025), analyse annoncée par le Parquet national financier (janvier 2026), enquête du Parquet européen annoncée en mai 2026 ; sources trouvées non reconnues, et mise en cause personnelle à établir. Non publiée.
+- [ ] Plainte pour escroquerie de l'association Adelibe (mars 2025) : suites non connues, non publiée.
+- [ ] Messages attribués par Mediapart (septembre 2026) : pas de procédure le visant ; il a annoncé une plainte pour faux. Hors périmètre.
+
 ### Delphine Batho (`data/biographies/batho.json`)
 
 - [ ] Aucune procédure judiciaire visant personnellement Delphine Batho trouvée (recherches : affaire judiciaire, mise en examen, condamnée, enquête préliminaire). Les procédures trouvées la présentent comme plaignante : plainte en diffamation contre Séverine Vachon (France Bleu, législatives 2017), saisine du procureur au sujet de General Electric (Europe 1, 2019), action contre le PS en 2018 (déboutée, selon Wikipédia). Non retenues car elles ne la visent pas.
 - [ ] Photo : pas de portrait officiel (Assemblée nationale ou gouvernement) trouvé sur Wikimedia Commons. Alternative plus récente : File:20210820_batho_d_6593_(cropped).jpg (Greenbox, CC BY-SA 4.0, 20 août 2021).
 - [ ] Vignette 400px refusée par upload.wikimedia.org (HTTP 400, tailles de vignettes désormais normalisées) : vignette 500px utilisée, vérifiée HTTP 200.
 - [ ] Score de 22,32 % à la primaire écologiste 2021 et 59,21 % en 2024 : issus de Wikipédia uniquement.
+
+### François Bayrou (`data/biographies/bayrou.json`)
+
+- [ ] Mandat de maire de Pau : Wikipédia indique une fin au 27 mars 2026, France 3 le présente comme maire le 11 mars 2026 ; statut après les municipales de mars 2026 à vérifier.
+- [ ] Affaire des assistants du MoDem : décision de la cour d'appel de Paris à intégrer dès qu'elle est rendue (débats jusqu'au 5 octobre 2026).
+- [ ] Bétharram : suites de la plainte déposée à Pau en février 2025 (« entrave à la justice », « recel de crime ») à vérifier.
 
 ### Xavier Bertrand (`data/biographies/bertrand.json`)
 
@@ -54,6 +71,11 @@ Généré le 2026-09-30 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Suspension disciplinaire : durée exacte (trois ans dont neuf mois ferme selon Wikipédia ; « neuf mois » selon le titre de Libération du 24/10/2025, article non ouvert).
 - [ ] Photo : portrait de 2024 publié sur Commons par UPOP Marseille (CC BY 4.0) ; vignette 500 px vérifiée (HTTP 200).
 
+### Philippe Brun (`data/biographies/brun.json`)
+
+- [ ] Accusations portées par une ancienne collaboratrice (harcèlement, violences, emploi familial), à l'origine de la suspension par le PS : la source (franceinfo, 16 septembre 2026) ne mentionne aucune plainte ni enquête judiciaire. À surveiller ; rien à publier dans les affaires tant qu'aucune procédure n'est ouverte.
+- [ ] Référé engagé par Philippe Brun contre sa suspension, rejeté selon Wikipédia : contentieux civil, hors périmètre.
+
 ### Bernard Cazeneuve (`data/biographies/cazeneuve.json`)
 
 - [ ] Plaintes devant la Cour de justice de la République (CJR) : (1) plaintes de la LDH et d'autres requérants visant le ministre de l'Intérieur au sujet d'assignations à résidence sous l'état d'urgence (franceinfo, https://www.franceinfo.fr/societe/justice/assignations-a-residence-bernard-cazeneuve-vise-par-des-plaintes_1707619.html, 2016) ; (2) plainte pour homicide involontaire déposée par un policier représenté par Juan Branco au sujet de la sécurité du 14 juillet 2016 à Nice (franceinfo, https://www.franceinfo.fr/faits-divers/justice-proces/attentat-de-nice-en-2016-l-ancien-ministre-de-l-interieur-bernard-cazeneuve-vise-par-une-plainte-pour-homicide-involontaire_6211503.html, 2023-11-28). Aucune source de presse reconnue trouvée sur l'issue (décision de la commission des requêtes). Un site non reconnu (qactus.fr, 28/09/2024) affirme que la CJR a refusé d'enquêter : non retenu. Non publiées faute d'état de procédure confirmé. Lot 3 (22/09/2026) : nouvelle recherche (franceinfo, ICI, Europe 1, France 24, Public Sénat, LCP) : seule la plainte de novembre 2023 est documentée (ICI, franceinfo), aucune décision de la commission des requêtes trouvée. Toujours non publiées.
@@ -61,6 +83,11 @@ Généré le 2026-09-30 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Mort de Rémi Fraisse (Sivens, 2014) : la France a été condamnée par la CEDH en février 2025 (selon Wikipédia) ; aucune procédure visant personnellement Bernard Cazeneuve trouvée. Non retenue.
 - [ ] Photo : le portrait officiel recadré ne fait que 172 × 258 px (pas de vignette 400/500 px possible) ; URL du fichier original utilisée, vérifiée HTTP 200. Alternative en meilleure définition : File:Bernard_Cazeneuve,_(42399145362)_(cropped).jpg (Jérémy Barande, CC BY-SA 2.0, 29 mai 2018), vignette https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bernard_Cazeneuve%2C_%2842399145362%29_%28cropped%29.jpg/500px-Bernard_Cazeneuve%2C_%2842399145362%29_%28cropped%29.jpg (HTTP 200).
 - [ ] Date et intitulé exact du poste de juriste à la Banque populaire non précisés par la source.
+
+### Gérald Darmanin (`data/biographies/darmanin.json`)
+
+- [ ] Plainte pour abus de faiblesse déposée par une habitante de Tourcoing (2018), classée sans suite selon Wikipédia : aucune source de presse ouverte, non publiée.
+- [ ] Wikipédia indique qu'il est premier adjoint au maire de Tourcoing depuis le 28 mars 2026 : à vérifier avant publication.
 
 ### Nicolas Dupont-Aignan (`data/biographies/dupont-aignan.json`)
 
@@ -166,6 +193,12 @@ Généré le 2026-09-30 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Mandat départemental : vérifier s'il est toujours en cours en 2026 (période laissée ouverte). Vice-président du conseil général chargé du tourisme depuis 2014 selon Wikipédia.
 - [ ] Affaires : aucune procédure judiciaire le visant personnellement trouvée (recherches : enquête, mise en examen, condamnation, parquet, diffamation, Palais des festivals).
 
+### Marion Maréchal (`data/biographies/marechal.json`)
+
+- [ ] Diffamation IESH : la seule source ouverte (Saphirnews) relaie le cabinet d'avocats de la partie civile ; une recherche évoque une décision d'appel attendue le 15 juillet 2026. À confirmer par une source d'agence et à mettre à jour.
+- [ ] Diffamation Valence : appel annoncé par l'association, suites à vérifier.
+- [ ] Date de sa déclaration de non-candidature et de son soutien à Marine Le Pen : source CNews du 20 septembre 2026.
+
 ### Lydie Massard (`data/biographies/massard.json`)
 
 - [ ] Lieu de naissance : Saint-Brieuc selon le texte et l'infobox de Wikipédia, mais la page est classée dans la catégorie « Naissance à Loudéac ». À confirmer.
@@ -231,6 +264,11 @@ Généré le 2026-09-30 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Photo : aucun portrait officiel du Parlement européen trouvé sur Commons. Photo de manifestation retenue (cadrage portrait vérifié). Vignette en 500px : la taille de 400px est refusée par Wikimedia.
 - [ ] Parcours professionnel : Wikipédia (d'après Le Temps) indique une entrée à HEC en 2001 et un diplôme en 2009 ; dates à confirmer.
 
+### Philippe Poutou (`data/biographies/poutou.json`)
+
+- [ ] Convocation par la police en mars 2022 pour « injure publique envers une administration » (Wikipédia) : suites non connues, non publiée.
+- [ ] Procès pour dégradation du stand Ford lors d'une manifestation en 2012 : source non reconnue, issue non vérifiée, non publiée.
+
 ### Bruno Retailleau (`data/biographies/retailleau.json`)
 
 - [ ] Photo : pas de portrait officiel libre trouvé (photo prise lors d'un déplacement ministériel). Vignette 500px (400px refusée par Wikimedia), vérifiée HTTP 200.
@@ -273,6 +311,12 @@ Généré le 2026-09-30 par `python3 scripts/a_verifier.py` à partir des champs
 
 - [ ] Photo : portrait officiel de 2005 (Licence Ouverte, source info.gouv.fr). Alternative plus récente mais non officielle : File:Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg (Georges Seguin, CC BY-SA 3.0, 2010). Aucune photo libre postérieure à 2010 trouvée. Vignette 500px (400px refusée par Wikimedia), vérifiée HTTP 200.
 - [ ] Clearstream : recherche du 22/09/2026. Aucune source de presse ouverte n'indique explicitement que le parquet général a renoncé à se pourvoir en cassation contre l'arrêt du 14 septembre 2011 (France 24 et Europe 1 de septembre 2011 évoquent seulement cette possibilité ; franceinfo et Europe 1 du 27/02/2013, sur le rejet des pourvois de Lahoud et Gergorin, rappellent la relaxe sans en préciser le caractère définitif). État « relaxe » maintenu, sans le qualifier de définitif.
+
+### Laurent Wauquiez (`data/biographies/wauquiez.json`)
+
+- [ ] Enquête du PNF sur le « dîner des sommets » : état vérifié au 21 février 2023 seulement ; suites (auditions, mise en cause, classement) à rechercher.
+- [ ] Wikipédia mentionne d'autres enquêtes (notes de frais 2021-2023, emplois à Paris financés par la région) : aucune source de presse ouverte, non publiées.
+- [ ] Date exacte de sa déclaration de non-candidature (source Public Sénat datée « 2026-07 ») à préciser.
 
 ### Éric Zemmour (`data/biographies/zemmour.json`)
 
