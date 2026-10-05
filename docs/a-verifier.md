@@ -1,6 +1,6 @@
 # Points à vérifier (généré)
 
-Généré le 2026-10-05 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 603 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
+Généré le 2026-10-05 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 605 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
 
 ## Biographies et affaires judiciaires
 
@@ -442,6 +442,11 @@ Généré le 2026-10-05 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Lettre du candidat : imposition progressive des grandes fortunes, moyens de la police et de la justice, lutte contre le dumping fiscal et social — orientations sans détail.
 - [ ] Articles non ouverts (accès bloqué) : Le Monde (05/02/2026), La Tribune Dimanche (23/08/2026), France Inter (05/02/2026) ; propositions du livre évoquées par Le Point (éducation, retraites, immigration) non consultées.
 - [ ] Tribune dans L'Opinion (août 2026) : n'écarterait pas une sous-indexation des pensions si l'effort vise aussi héritages, niches sociales et géants de l'IA (rapporté par un résumé de recherche, article non ouvert).
+
+### François Hollande (`data/programmes/hollande.json`)
+
+- [ ] Livre « Unir » non consulté : 80 propositions annoncées, six recensées d'après la presse (LCP et AFP du 27 août 2026). À compléter à partir du livre ou de comptes rendus plus détaillés.
+- [ ] Produits alimentaires concernés par la TVA à 0 % : « produits alimentaires » selon l'AFP, « produits alimentaires essentiels » selon LCP ; périmètre à préciser.
 
 ### Anasse Kazib (`data/programmes/kazib.json`)
 

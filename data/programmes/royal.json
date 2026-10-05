@@ -1,6 +1,6 @@
 {
   "id": "royal",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-10-05",
   "programme": {
     "titre": "« L'Ordre juste » et « la France tranquille »",
     "url": "https://segolene-ordrejuste.fr/",
@@ -39,25 +39,79 @@
       "source": { "titre": "AFP (via France 24)", "url": "https://www.france24.com/fr/info-en-continu/20260904-s%C3%A9gol%C3%A8ne-royal-le-comeback-permanent", "date": "2026-09-04" }
     },
     {
-      "theme": "travail",
-      "texte": "Baisse des taxes sur les carburants pour limiter la hausse des prix à la pompe.",
-      "nature": "declaration",
-      "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/on-la-prend-tres-au-serieux-segolene-royal-peut-elle-creer-la-surprise-a-la-primaire-socialiste-vingt-ans-apres-son-echec-a-la-presidentielle_8184773.html", "date": "2026-09-11" }
-    },
-    {
       "theme": "securite",
       "texte": "Installation de caméras dans le périscolaire.",
       "nature": "presse",
       "source": { "titre": "AFP (via France 24)", "url": "https://www.france24.com/fr/info-en-continu/20260904-s%C3%A9gol%C3%A8ne-royal-le-comeback-permanent", "date": "2026-09-04" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Suppression de la taxe de 15 centimes par litre liée aux certificats d'économie d'énergie.",
+      "nature": "declaration",
+      "source": { "titre": "Europe 1 — Prix des carburants : « Le gouvernement joue la carte du chaos », déplore Ségolène Royal", "url": "https://www.europe1.fr/economie/prix-des-carburants-le-gouvernement-joue-la-carte-du-chaos-deplore-segolene-royal-1078763", "date": "2026-09-15" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Baisse de la TVA et de la taxe sur l'énergie sur les carburants, et négociation européenne, pour ramener le litre autour de 1,70 euro.",
+      "nature": "declaration",
+      "source": { "titre": "Europe 1 — Prix des carburants : « Le gouvernement joue la carte du chaos », déplore Ségolène Royal", "url": "https://www.europe1.fr/economie/prix-des-carburants-le-gouvernement-joue-la-carte-du-chaos-deplore-segolene-royal-1078763", "date": "2026-09-15" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Conférence salariale après l'élection pour augmenter le SMIC et les bas salaires.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — Ce qu'il faut retenir du premier débat de la primaire socialiste", "url": "https://www.franceinfo.fr/elections/presidentielle/desaccords-sur-le-proche-orient-et-lfi-convergences-sur-les-salaires-ce-qu-il-faut-retenir-du-premier-debat-de-la-primaire-socialiste_8207438.html", "date": "2026-09-23" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Suppression des aides aux entreprises jugées non justifiées, sans annulation de la dette publique.",
+      "nature": "declaration",
+      "source": { "titre": "LCP — Ce qu'il faut retenir du premier débat de la primaire de gauche", "url": "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de", "date": "2026-09-23" }
+    },
+    {
+      "theme": "international",
+      "texte": "Relance du dialogue avec Vladimir Poutine au sujet de l'Ukraine.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — Sept séquences à retenir du débat des candidats à la primaire de la gauche", "url": "https://www.franceinfo.fr/elections/presidentielle/videos-sept-sequences-a-retenir-du-debat-des-candidats-a-la-primaire-de-la-gauche-sur-france-2-et-france-inter_8218741.html", "date": "2026-10-01" }
     }
   ],
   "ressources": [
-    { "titre": "Site de campagne", "url": "https://segolene-ordrejuste.fr/", "type": "site", "date": "2026-09-22" },
-    { "titre": "La lettre de Ségolène (septembre 2026)", "url": "https://segolene-ordrejuste.fr/la-lettre-de-segolene", "type": "article", "date": "2026-09" },
-    { "titre": "LCP : Ségolène Royal annonce sa candidature à la primaire", "url": "https://lcp.fr/actualites/presidentielle-2027-segolene-royal-annonce-sa-candidature-a-la-primaire-socialiste", "type": "article", "date": "2026-07-10" },
-    { "titre": "AFP / France 24 : « Ségolène Royal, le comeback permanent »", "url": "https://www.france24.com/fr/info-en-continu/20260904-s%C3%A9gol%C3%A8ne-royal-le-comeback-permanent", "type": "article", "date": "2026-09-04" },
-    { "titre": "Fiche de la candidate sur le site de la primaire Choisir 2027", "url": "https://choisir2027.fr/candidat/segolene-royal/", "type": "article", "date": "2026-09-22" },
-    { "titre": "France 24 : ce qu'il faut savoir sur la primaire (dates, débats)", "url": "https://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal", "type": "article", "date": "2026-09-16" }
+    {
+      "titre": "Site de campagne",
+      "url": "https://segolene-ordrejuste.fr/",
+      "type": "site",
+      "date": "2026-09-22"
+    },
+    {
+      "titre": "La lettre de Ségolène (septembre 2026)",
+      "url": "https://segolene-ordrejuste.fr/la-lettre-de-segolene",
+      "type": "article",
+      "date": "2026-09"
+    },
+    {
+      "titre": "LCP : Ségolène Royal annonce sa candidature à la primaire",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-segolene-royal-annonce-sa-candidature-a-la-primaire-socialiste",
+      "type": "article",
+      "date": "2026-07-10"
+    },
+    {
+      "titre": "AFP / France 24 : « Ségolène Royal, le comeback permanent »",
+      "url": "https://www.france24.com/fr/info-en-continu/20260904-s%C3%A9gol%C3%A8ne-royal-le-comeback-permanent",
+      "type": "article",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Fiche de la candidate sur le site de la primaire Choisir 2027",
+      "url": "https://choisir2027.fr/candidat/segolene-royal/",
+      "type": "article",
+      "date": "2026-09-22"
+    },
+    {
+      "titre": "France 24 : ce qu'il faut savoir sur la primaire (dates, débats)",
+      "url": "https://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal",
+      "type": "article",
+      "date": "2026-09-16"
+    }
   ],
   "a_verifier": [
     "Cinq priorités annoncées le 10/07/2026 (LCP) et reprises sur le site, formulées comme des orientations, non retenues comme mesures : application des décisions de la COP21 ; « ordre juste » pour l'éducation, la santé et la sécurité quotidienne ; « tolérance zéro » pour les agresseurs et les violences faites aux enfants ; « urgence énergétique » pour les PME et l'agriculture ; rôle de « puissance médiatrice » de la France.",

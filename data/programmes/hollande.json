@@ -1,0 +1,77 @@
+{
+  "id": "hollande",
+  "mise_a_jour": "2026-10-05",
+  "programme": {
+    "titre": "« Unir. Nouveau monde, nouvelle gauche » (Robert Laffont, 3 septembre 2026)",
+    "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+    "etat": "partiel",
+    "note": "François Hollande n'est pas candidat déclaré : il dit vouloir trancher en décembre 2026. Il a publié le 3 septembre 2026 un livre présenté comme réunissant 80 propositions. Le livre n'a pas été consulté : les mesures ci-dessous sont celles que la presse en a rapportées avant sa parution."
+  },
+  "mesures": [
+    {
+      "theme": "retraites",
+      "texte": "Âge légal de départ « aux alentours de 63 ans » au 1er janvier 2028, puis allongement de la durée de cotisation selon l'espérance de vie, ajusté par les partenaires sociaux.",
+      "nature": "presse",
+      "source": {
+        "titre": "LCP — Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat",
+        "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+        "date": "2026-08-27"
+      }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Indexation des pensions limitée à 1 % pendant cinq ans.",
+      "nature": "presse",
+      "source": {
+        "titre": "LCP — Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat",
+        "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+        "date": "2026-08-27"
+      }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Ajout d'une part de capitalisation au système de retraite, sous le contrôle des partenaires sociaux.",
+      "nature": "presse",
+      "source": {
+        "titre": "LCP — Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat",
+        "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+        "date": "2026-08-27"
+      }
+    },
+    {
+      "theme": "travail",
+      "texte": "Baisse des cotisations salariales pour « rapprocher le salaire net du brut », financée par une contribution sur une partie des grosses successions.",
+      "nature": "presse",
+      "source": {
+        "titre": "AFP, via MoneyVox — Présidentielle 2027 : François Hollande propose la retraite à 63 ans",
+        "url": "https://www.moneyvox.fr/retraite/actualites/110145/presidentielle-2027-francois-hollande-propose-la-retraite-a-63-ans",
+        "date": "2026-08-27"
+      }
+    },
+    {
+      "theme": "economie",
+      "texte": "Taux normal de TVA porté progressivement de 20 % à 24 %.",
+      "nature": "presse",
+      "source": {
+        "titre": "LCP — Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat",
+        "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+        "date": "2026-08-27"
+      }
+    },
+    {
+      "theme": "economie",
+      "texte": "TVA ramenée de 5,5 % à 0 % sur l'énergie, les carburants et des produits alimentaires.",
+      "nature": "presse",
+      "source": {
+        "titre": "AFP, via MoneyVox — Présidentielle 2027 : François Hollande propose la retraite à 63 ans",
+        "url": "https://www.moneyvox.fr/retraite/actualites/110145/presidentielle-2027-francois-hollande-propose-la-retraite-a-63-ans",
+        "date": "2026-08-27"
+      }
+    }
+  ],
+  "ressources": [],
+  "a_verifier": [
+    "Livre « Unir » non consulté : 80 propositions annoncées, six recensées d'après la presse (LCP et AFP du 27 août 2026). À compléter à partir du livre ou de comptes rendus plus détaillés.",
+    "Produits alimentaires concernés par la TVA à 0 % : « produits alimentaires » selon l'AFP, « produits alimentaires essentiels » selon LCP ; périmètre à préciser."
+  ]
+}
