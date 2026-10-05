@@ -1,6 +1,6 @@
 # Points à vérifier (généré)
 
-Généré le 2026-10-02 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 599 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
+Généré le 2026-10-05 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 603 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
 
 ## Biographies et affaires judiciaires
 
@@ -819,7 +819,9 @@ Généré le 2026-10-02 par `python3 scripts/a_verifier.py` à partir des champs
 ## Sondages (`data/sondages.json`)
 
 - [ ] Baromètre Toluna Harris Interactive pour M6-RTL, vague 6 (terrain du 22 au 24 septembre 2026) : notice 10277 et rapport de l'institut publiés en PDF image, chiffres non lisibles automatiquement ; à saisir à la main hypothèse par hypothèse.
+- [ ] Notice Ifop vague 6 (10284) : les dates de terrain et l'échantillon ne sont pas lisibles dans le texte du PDF ; ils sont repris de la fiche technique publiée par Sud Radio, commanditaire (25-29 septembre 2026, 1 393 inscrits).
 - [ ] Notices 10271 (Ifop / Paris Match, 22 septembre) et 10278-10279 (CSA / CNews, 24 et 29 septembre) : PDF image, objet à vérifier — intentions de vote au 1er tour ou autre question.
+- [ ] Toutes les notices de la présidentielle sont listées sur https://www.commission-des-sondages.fr/notices/medias/fichiers/bytag/14/Presidentielle-2027 : à utiliser pour la veille.
 
 ## Votes au Parlement (`data/votes.json`)
 
@@ -863,7 +865,9 @@ Généré le 2026-10-02 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Glucksmann, BFMTV/RMC du 30 septembre 2026 : source citée = reprise 6Médias/L'Express sur actu.orange.fr ; remplacer par la page de BFMTV dès qu'elle est identifiée.
 - [ ] Guedj, BFMTV du 11 septembre 2026 : source citée = article de Capital repris par Yahoo ; remplacer par la page de BFMTV ou de Capital.
 - [ ] Hollande, la Repubblica du 28 septembre 2026 : source citée = dépêche Reuters en anglais ; remplacer par l'entretien original ou une reprise en français.
+- [ ] Marine Le Pen annonce le lancement de sa campagne le 25 octobre 2026 à Orléans (franceinfo) : à recenser le jour venu.
 - [ ] Mlekuz, SQOOL TV du 24 septembre 2026 : émission identifiée mais aucune déclaration transcrite ; à compléter après visionnage.
 - [ ] Mélenchon, Fête de l'Humanité du 11 septembre 2026 (échange avec la rédaction de L'Humanité) : contenu disponible seulement en vidéo ; à ajouter si un compte rendu écrit paraît.
 - [ ] Roussel, TF1 du 6 septembre 2026 : source citée = dépêche reprise sur actu.orange.fr ; remplacer par la page de TF1 Info.
+- [ ] Troisième débat de la primaire (BFMTV, 4 octobre 2026) : aucune déclaration d'Emmanuel Maurel rapportée par la source ; à compléter.
 

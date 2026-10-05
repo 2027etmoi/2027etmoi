@@ -45,6 +45,8 @@ def check_source(where, src, allow_wikipedia=True):
         err(where, f"URL de source invalide : {url!r}")
     if any(d in url for d in INTERDITS):
         err(where, f"source interdite (agrégateur) : {url}")
+    if not url.isascii():
+        err(where, f"URL à encoder (caractères accentués) : {url}")
     if not allow_wikipedia and "wikipedia.org" in url:
         err(where, "Wikipédia n'est pas admis comme source ici")
     if not src.get("titre"):
