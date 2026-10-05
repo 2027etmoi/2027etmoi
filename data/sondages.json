@@ -1,13 +1,183 @@
 {
-  "mise_a_jour": "2026-09-29",
+  "mise_a_jour": "2026-10-05",
   "fenetre": {
-    "debut": "2026-08-11",
-    "fin": "2026-09-29"
+    "debut": "2026-08-17",
+    "fin": "2026-10-05"
   },
   "noms_hors_liste": {
     "bonnal": "Sébastien Bonnal"
   },
   "sondages": [
+    {
+      "institut": "Ifop-Fiducial",
+      "commanditaire": "LCI, Le Figaro et Sud Radio (baromètre, vague 6)",
+      "terrain_debut": "2026-09-25",
+      "terrain_fin": "2026-09-29",
+      "echantillon": 1393,
+      "source": {
+        "titre": "Commission des sondages – notice Ifop baromètre de l'élection présidentielle vague 6",
+        "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10284-pres-barometre-election-presidentielle-v6-ifop-le-figaro-30-septembre.pdf",
+        "date": "2026-09-30"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse Philippe et Attal candidats, Glucksmann candidat PS-Place publique",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 15,
+            "roussel": 2.5,
+            "tondelier": 3,
+            "glucksmann": 11,
+            "attal": 8,
+            "philippe": 16,
+            "retailleau": 7,
+            "dupont-aignan": 1,
+            "le-pen": 32,
+            "zemmour": 4
+          }
+        },
+        {
+          "label": "Hypothèse Philippe candidat du bloc central, Glucksmann candidat PS-Place publique",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 16,
+            "roussel": 2.5,
+            "tondelier": 3,
+            "glucksmann": 11,
+            "philippe": 21,
+            "retailleau": 8,
+            "dupont-aignan": 1.5,
+            "le-pen": 33,
+            "zemmour": 3.5
+          }
+        },
+        {
+          "label": "Hypothèse Attal candidat du bloc central, Glucksmann candidat PS-Place publique",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 15,
+            "roussel": 2.5,
+            "tondelier": 4,
+            "glucksmann": 13,
+            "attal": 15,
+            "retailleau": 10,
+            "dupont-aignan": 2,
+            "le-pen": 34,
+            "zemmour": 3.5
+          }
+        },
+        {
+          "label": "Hypothèse Philippe candidat du bloc central, Faure candidat PS-Place publique",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 16,
+            "roussel": 3.5,
+            "tondelier": 5,
+            "faure": 3,
+            "philippe": 23,
+            "retailleau": 8,
+            "dupont-aignan": 1.5,
+            "le-pen": 35,
+            "zemmour": 4
+          }
+        },
+        {
+          "label": "Hypothèse Attal candidat du bloc central, Faure candidat PS-Place publique",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 17,
+            "roussel": 3,
+            "tondelier": 5.5,
+            "faure": 4,
+            "attal": 17,
+            "retailleau": 11,
+            "dupont-aignan": 1,
+            "le-pen": 36,
+            "zemmour": 4.5
+          }
+        },
+        {
+          "label": "Hypothèse Philippe candidat du bloc central, Royal candidate PS-Place publique",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 15,
+            "roussel": 3,
+            "tondelier": 6,
+            "royal": 3,
+            "philippe": 24,
+            "retailleau": 8,
+            "dupont-aignan": 1.5,
+            "le-pen": 35,
+            "zemmour": 4
+          }
+        },
+        {
+          "label": "Hypothèse Philippe candidat du bloc central, Guedj candidat PS-Place publique",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 17,
+            "roussel": 3.5,
+            "tondelier": 5.5,
+            "guedj": 3,
+            "philippe": 23,
+            "retailleau": 8,
+            "dupont-aignan": 1,
+            "le-pen": 35,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse Philippe candidat du bloc central, Maurel candidat PS-Place publique",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 17,
+            "roussel": 3.5,
+            "tondelier": 6,
+            "maurel": 1,
+            "philippe": 23,
+            "retailleau": 9,
+            "dupont-aignan": 1.5,
+            "le-pen": 35,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse Philippe candidat du bloc central, Hollande candidat PS-Place publique",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 16,
+            "roussel": 2.5,
+            "tondelier": 5,
+            "hollande": 8,
+            "philippe": 22,
+            "retailleau": 7,
+            "dupont-aignan": 1,
+            "le-pen": 34,
+            "zemmour": 4
+          }
+        },
+        {
+          "label": "Hypothèse Ruffin, Villepin et Lisnard candidats",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 14,
+            "roussel": 2,
+            "ruffin": 3,
+            "tondelier": 3,
+            "glucksmann": 9,
+            "attal": 7,
+            "philippe": 15,
+            "villepin": 2,
+            "lisnard": 3.5,
+            "retailleau": 5,
+            "dupont-aignan": 1,
+            "le-pen": 31,
+            "zemmour": 4
+          }
+        }
+      ]
+    },
     {
       "institut": "YouGov",
       "commanditaire": "Le HuffPost",
@@ -1088,6 +1258,8 @@
   ],
   "a_verifier": [
     "Baromètre Toluna Harris Interactive pour M6-RTL, vague 6 (terrain du 22 au 24 septembre 2026) : notice 10277 et rapport de l'institut publiés en PDF image, chiffres non lisibles automatiquement ; à saisir à la main hypothèse par hypothèse.",
-    "Notices 10271 (Ifop / Paris Match, 22 septembre) et 10278-10279 (CSA / CNews, 24 et 29 septembre) : PDF image, objet à vérifier — intentions de vote au 1er tour ou autre question."
+    "Notice Ifop vague 6 (10284) : les dates de terrain et l'échantillon ne sont pas lisibles dans le texte du PDF ; ils sont repris de la fiche technique publiée par Sud Radio, commanditaire (25-29 septembre 2026, 1 393 inscrits).",
+    "Notices 10271 (Ifop / Paris Match, 22 septembre) et 10278-10279 (CSA / CNews, 24 et 29 septembre) : PDF image, objet à vérifier — intentions de vote au 1er tour ou autre question.",
+    "Toutes les notices de la présidentielle sont listées sur https://www.commission-des-sondages.fr/notices/medias/fichiers/bytag/14/Presidentielle-2027 : à utiliser pour la veille."
   ]
 }
