@@ -1,6 +1,7 @@
 .DS_Store
 # Générés par scripts/build.py (au déploiement Netlify ou à la main)
 /candidats/
+/questions/
 /sitemap.xml
 /robots.txt
 /_redirects

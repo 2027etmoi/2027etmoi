@@ -603,6 +603,19 @@ qdata = load(DATA / "questions.json") if (DATA / "questions.json").exists() else
 noms = {c["id"]: c for c in cands}
 LIBELLES_POS = {"pour": "Pour", "plutot_pour": "Plutôt pour", "nuance": "Nuancé",
                 "plutot_contre": "Plutôt contre", "contre": "Contre"}
+D_QUEST = maj("questions.json")
+
+
+def _slug(texte):
+    """« Faut-il rétablir un impôt sur la fortune (ISF) ? » -> retablir-un-impot-sur-la-fortune-isf"""
+    import unicodedata
+    t = unicodedata.normalize("NFKD", texte).encode("ascii", "ignore").decode().lower()
+    t = re.sub(r"^faut-il\s+", "", t)
+    return "-".join(re.sub(r"[^a-z0-9]+", "-", t).strip("-").split("-")[:9])
+
+
+# /questions/q01-retablir-un-impot-sur-la-fortune-isf.html : l'identifiant garde l'adresse lisible et unique
+Q_PAGE = {q["id"]: f'/questions/{q["id"]}-{_slug(q["texte"])}.html' for q in qdata["questions"]}
 
 themes_dir = ROOT / "themes"
 themes_dir.mkdir(exist_ok=True)
@@ -651,6 +664,7 @@ for theme, label in THEMES.items():
                     f'<span class="source">Source : <a href="{esc(p["source"]["url"])}" target="_blank" rel="noopener">{esc(p["source"].get("titre", "lien"))}</a>'
                     f'{", " + esc(p["source"]["date"]) if p["source"].get("date") else ""}</span></li>' for cid, p in pos) + "</ul>"
                    if pos else '<p class="props-empty">Aucune position sourcée pour l\'instant.</p>')
+                + f'<p class="notice"><a href="{Q_PAGE[q["id"]]}">Toutes les positions sur cette question, sur une page</a></p>'
                 + "</details>")
         sections.append('<section class="section"><h2>Les questions clés sur ce thème</h2>'
                         + "".join(blocs_q)
@@ -686,6 +700,75 @@ jl_t, fil_t = fil_ariane([("Présidentielle 2027", SITE + "/"), ("Thèmes", SITE
     f"{SITE}/themes/", "Présidentielle 2027", "Les programmes thème par thème",
     "Choisissez un thème pour voir toutes les propositions sourcées des candidats et leurs positions sur les questions clés.",
     fil_t + '\n    <section class="section"><div class="entry-grid entry-grid-13">' + cartes + "</div></section>", [jl_t]), encoding="utf-8")
+
+# Pages « questions clés » : une page par question, avec les positions sourcées de chaque candidat.
+# Le comparateur est un outil interactif, illisible sans JavaScript ; ces pages donnent la même
+# comparaison sous forme de texte, question par question.
+q_dir = ROOT / "questions"
+q_dir.mkdir(exist_ok=True)
+for old in q_dir.glob("*.html"):
+    old.unlink()
+ids_lice = [c["id"] for c in sorted(en_lice, key=lambda c: c["nom"].split()[-1])]
+for q in qdata["questions"]:
+    url = SITE + Q_PAGE[q["id"]]
+    theme_l = THEMES.get(q["theme"], q["theme"])
+    pos = {cid: qdata["positions"][cid][q["id"]] for cid in qdata["positions"]
+           if q["id"] in qdata["positions"][cid] and cid in noms}
+    blocs = []
+    for cle, lib in LIBELLES_POS.items():
+        qui = sorted((cid for cid, pz in pos.items() if pz["position"] == cle), key=lambda k: noms[k]["nom"].split()[-1])
+        if not qui:
+            continue
+        blocs.append(f'<section class="section"><h2>{esc(lib)} <span class="fold-count">{len(qui)}</span></h2><ul class="measures">' + "".join(
+            f'<li><strong><a href="/candidats/{cid}.html">{esc(noms[cid]["nom"])}</a></strong> <span class="party">{esc(noms[cid]["parti"])}</span> — '
+            f'{esc(pos[cid]["resume"])}{_source(pos[cid].get("source"))}</li>' for cid in qui) + "</ul></section>")
+    sans = [cid for cid in ids_lice if cid not in pos]
+    if sans:
+        blocs.append('<section class="section"><h2>Position non connue <span class="fold-count">' + str(len(sans)) + '</span></h2>'
+                     '<p>' + ", ".join(f'<a href="/candidats/{cid}.html">{esc(noms[cid]["nom"])}</a>' for cid in sans) + ".</p>"
+                     '<p class="notice">« Non connue » signifie qu\'aucune position sourcée n\'a été trouvée : elle n\'est jamais déduite du parti ni d\'une orientation générale.</p></section>')
+    voisines = [x for x in qdata["questions"] if x["theme"] == q["theme"] and x["id"] != q["id"]]
+    blocs.append('<section class="section prose"><h2>Pour aller plus loin</h2><ul>'
+                 + "".join(f'<li><a href="{Q_PAGE[x["id"]]}">{esc(x["texte"])}</a></li>' for x in voisines)
+                 + (f'<li><a href="/themes/{q["theme"]}.html">Toutes les mesures sur le thème « {esc(theme_l)} »</a></li>' if q["theme"] in THEMES else "")
+                 + '<li><a href="/questions/">Les 35 questions clés</a></li>'
+                   '<li><a href="/mes-priorites.html">Répondre vous-même et comparer vos réponses à celles des candidats</a></li></ul>'
+                   f'<p class="meta">Positions mises à jour le {esc(D_QUEST or lastmod)} · chaque position renvoie à sa source ; '
+                   '<a href="https://github.com/2027etmoi/2027etmoi/blob/main/docs/questions-cles.md" target="_blank" rel="noopener">méthode</a>.</p></section>')
+    nb = len(pos)
+    jl, fil = fil_ariane([("Présidentielle 2027", SITE + "/"), ("Questions clés", SITE + "/questions/"), (q["texte"], url)])
+    (ROOT / Q_PAGE[q["id"]].lstrip("/")).write_text(page_html(
+        f'{q["texte"]} Les positions des candidats à la présidentielle 2027',
+        couper(f'{q["texte"]} Les positions sourcées de {nb} candidats à l\'élection présidentielle 2027 : qui est pour, qui est contre, et ce que chacun propose.'),
+        url, f"Question clé · {theme_l}", esc(q["texte"]),
+        f'Les positions sourcées de <strong>{nb} candidat{"s" if nb > 1 else ""}</strong> à l\'élection présidentielle 2027, classées de « pour » à « contre ». Aucune n\'est déduite du parti.',
+        fil + (f'\n    <p class="notice">{esc(q["contexte"]["texte"])}</p>' if q.get("contexte") else "") + "\n    " + "\n    ".join(blocs),
+        [jl, {"@context": "https://schema.org", "@type": "CollectionPage", "name": q["texte"], "url": url, "inLanguage": "fr-FR",
+              "dateModified": D_QUEST or lastmod,
+              "description": f"Positions sourcées des candidats à la présidentielle 2027 sur la question : {q['texte']}"}]), encoding="utf-8")
+
+# Index des questions, par thème
+THEMES_Q = {**THEMES}
+liste_q = "".join(
+    f'<section class="section"><h2>{esc(lab)}</h2><ul class="cand-links cols">'
+    + "".join(f'<li><a href="{Q_PAGE[q["id"]]}">{esc(q["texte"])}</a></li>' for q in qdata["questions"] if q["theme"] == t) + "</ul></section>"
+    for t, lab in THEMES_Q.items() if any(q["theme"] == t for q in qdata["questions"]))
+jl_q, fil_q = fil_ariane([("Présidentielle 2027", SITE + "/"), ("Questions clés", SITE + "/questions/")])
+(q_dir / "index.html").write_text(page_html(
+    "Présidentielle 2027 : qui est pour, qui est contre ? Les candidats sur 35 questions clés",
+    "ISF, retraite à 62 ans, SMIC, nucléaire, immigration, proportionnelle, fin de vie… Les positions sourcées des candidats à la présidentielle 2027 sur 35 questions, une page par question.",
+    f"{SITE}/questions/", "Présidentielle 2027", "Les questions clés",
+    f"{len(qdata['questions'])} questions qui départagent les candidats. Pour chacune : qui est pour, qui est contre, avec la source de chaque position.",
+    fil_q + "\n    " + liste_q, [jl_q]), encoding="utf-8")
+
+# Bloc statique du comparateur : les mêmes comparaisons, lisibles sans JavaScript
+_remplir("comparateur.html", '<section class="section" id="questions-cles">', "</section>",
+         "<h2>Comparer question par question</h2>"
+         "<p>Le comparateur ci-dessus fonctionne dans votre navigateur. Les mêmes comparaisons existent sous forme de pages : "
+         "pour chaque question, les candidats classés de « pour » à « contre », avec la source de chaque position.</p>"
+         + "".join(f'<h3>{esc(lab)}</h3><ul class="cand-links cols">'
+                   + "".join(f'<li><a href="{Q_PAGE[q["id"]]}">{esc(q["texte"])}</a></li>' for q in qdata["questions"] if q["theme"] == t) + "</ul>"
+                   for t, lab in THEMES_Q.items() if any(q["theme"] == t for q in qdata["questions"])))
 
 # Page Actualité de la campagne : toutes les prises de parole, en ordre chronologique inverse
 paroles = sorted(pp.get("prises_de_parole", []), key=lambda i: (i["date"], i["id"]), reverse=True)
@@ -834,6 +917,7 @@ Données mises à jour le {date_courte(lastmod)}. Les données sont réutilisabl
 - [Candidats]({SITE}/candidats.html) : candidatures déclarées, en primaire ou pressenties, avec parti, statut sourcé et moyenne des sondages
 - [Actualité de la campagne]({SITE}/actualite.html) : ce que les candidats ont déclaré, jour par jour, avec la source
 - [Programmes par thème]({SITE}/themes/) : mesures sourcées classées en treize thèmes
+- [Questions clés]({SITE}/questions/) : 35 questions, avec pour chacune les candidats pour et contre et la source de leur position
 - [Sondages]({SITE}/sondages.html) : intentions de vote au premier tour, recopiées des notices de la Commission des sondages
 - [Calendrier]({SITE}/calendrier.html) : étapes de l'élection, avec leur degré de certitude
 - [La campagne en données]({SITE}/donnees.html) : programmes publiés, chiffrages, temps de parole relevé par l'Arcom
@@ -868,7 +952,8 @@ Données mises à jour le {date_courte(lastmod)}. Les données sont réutilisabl
 urls = [(SITE + "/", "1.0", DATES_PAGES["index.html"]),
         *[(f"{SITE}/{p}", "0.8", DATES_PAGES.get(p)) for p in PAGES if p != "index.html"],
         (f"{SITE}/calendrier.html", "0.9", D_CAL), (f"{SITE}/actualite.html", "0.9", D_PAROLE),
-        (f"{SITE}/themes/", "0.8", D_THEMES),
+        (f"{SITE}/themes/", "0.8", D_THEMES), (f"{SITE}/questions/", "0.8", D_QUEST),
+        *[(SITE + Q_PAGE[q["id"]], "0.7", D_QUEST) for q in qdata["questions"]],
         *[(f"{SITE}/themes/{t}.html", "0.8", D_THEMES) for t in THEMES],
         *[(f"{SITE}/candidats/{c['id']}.html", "0.7" if c["statut"] != "renonce" else "0.4", dates_cand.get(c["id"]))
           for c in cands]]
