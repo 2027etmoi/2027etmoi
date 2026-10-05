@@ -35,3 +35,17 @@
   to = "https://2027etmoi.fr/:splat"
   status = 301
   force = true
+
+# Le domaine .com est un alias du site : sans redirection, il en servait une copie
+# complète (code 200), que Google explorait comme un second site.
+[[redirects]]
+  from = "https://2027etmoi.com/*"
+  to = "https://2027etmoi.fr/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.2027etmoi.com/*"
+  to = "https://2027etmoi.fr/:splat"
+  status = 301
+  force = true
