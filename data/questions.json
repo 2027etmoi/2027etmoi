@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-10-05",
   "echelle": [
     "pour",
     "plutot_pour",
@@ -865,6 +865,15 @@
       }
     },
     "glucksmann": {
+      "q03": {
+        "position": "plutot_pour",
+        "resume": "A rappelé au débat de la primaire sa volonté d'augmenter le SMIC et les faibles salaires ; propose aussi de baisser la CSG.",
+        "source": {
+          "titre": "franceinfo – Ce qu'il faut retenir du premier débat de la primaire socialiste",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/desaccords-sur-le-proche-orient-et-lfi-convergences-sur-les-salaires-ce-qu-il-faut-retenir-du-premier-debat-de-la-primaire-socialiste_8207438.html",
+          "date": "2026-09-23"
+        }
+      },
       "q05": {
         "position": "nuance",
         "resume": "S'engage à abroger la réforme de 2023 sans fixer d'âge légal ; propose un départ plus tôt pour les métiers pénibles et plus tard pour d'autres.",
@@ -890,6 +899,15 @@
           "titre": "France 3 Grand Est (franceinfo) – À la foire de Châlons, Raphaël Glucksmann en campagne contre le RN",
           "url": "https://france3-regions.franceinfo.fr/grand-est/marne/chalons-en-champagne/ce-sont-des-patriotes-de-pacotille-a-la-foire-de-chalons-raphael-glucksmann-en-campagne-contre-le-rn-3412121.html",
           "date": "2026-09-05"
+        }
+      },
+      "q34": {
+        "position": "pour",
+        "resume": "S'est prononcé, au premier débat de la primaire, pour la suspension de l'accord entre l'Union européenne et Israël.",
+        "source": {
+          "titre": "Public Sénat – Primaire de la gauche : que retenir du 1er débat entre les candidats ?",
+          "url": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-echanges-tendus-sur-les-alliances-avec-lfi-gaza-ukraine-que-retenir-du-1er-debat-entre-les-candidats",
+          "date": "2026-09-23"
         }
       },
       "q20": {
@@ -948,6 +966,15 @@
           "date": "2026-02-25"
         }
       },
+      "q34": {
+        "position": "plutot_contre",
+        "resume": "Seul des cinq candidats à ne pas soutenir la suspension : faire pression sur le gouvernement israélien « ne peut pas être boycotter ».",
+        "source": {
+          "titre": "Public Sénat – Primaire de la gauche : que retenir du 1er débat entre les candidats ?",
+          "url": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-echanges-tendus-sur-les-alliances-avec-lfi-gaza-ukraine-que-retenir-du-1er-debat-entre-les-candidats",
+          "date": "2026-09-23"
+        }
+      },
       "q28": {
         "position": "contre",
         "resume": "Qualifie l'interdiction du voile dans l'espace public de violation de la loi de 1905 et juge qu'elle aurait l'effet inverse.",
@@ -975,6 +1002,24 @@
           "titre": "franceinfo – Ségolène Royal peut-elle créer la surprise à la primaire socialiste ?",
           "url": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/on-la-prend-tres-au-serieux-segolene-royal-peut-elle-creer-la-surprise-a-la-primaire-socialiste-vingt-ans-apres-son-echec-a-la-presidentielle_8184773.html",
           "date": "2026-09-11"
+        }
+      },
+      "q03": {
+        "position": "plutot_pour",
+        "resume": "Veut augmenter le SMIC et les bas salaires par une conférence salariale organisée après les élections de 2027.",
+        "source": {
+          "titre": "franceinfo – Ce qu'il faut retenir du premier débat de la primaire socialiste",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/desaccords-sur-le-proche-orient-et-lfi-convergences-sur-les-salaires-ce-qu-il-faut-retenir-du-premier-debat-de-la-primaire-socialiste_8207438.html",
+          "date": "2026-09-23"
+        }
+      },
+      "q34": {
+        "position": "pour",
+        "resume": "S'est prononcée, au premier débat de la primaire, pour la suspension de l'accord entre l'Union européenne et Israël.",
+        "source": {
+          "titre": "Public Sénat – Primaire de la gauche : que retenir du 1er débat entre les candidats ?",
+          "url": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-echanges-tendus-sur-les-alliances-avec-lfi-gaza-ukraine-que-retenir-du-1er-debat-entre-les-candidats",
+          "date": "2026-09-23"
         }
       },
       "q28": {
@@ -1331,6 +1376,15 @@
           "date": "2026-09-22"
         }
       },
+      "q05": {
+        "position": "contre",
+        "resume": "Propose de porter progressivement l'âge légal de départ à 65 ans et la durée de cotisation à 45 annuités, en moins de dix ans.",
+        "source": {
+          "titre": "franceinfo – Que proposent les principaux candidats à l'élection présidentielle pour les retraites ?",
+          "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/changement-de-systeme-passage-a-60-ou-a-65-ans-capitalisation-que-proposent-les-principaux-candidats-a-l-election-presidentielle-pour-les-retraites_8215784.html",
+          "date": "2026-09-30"
+        }
+      },
       "q06": {
         "position": "pour",
         "resume": "Propose de créer un pilier de capitalisation représentant 10 à 15 % des pensions d'ici quinze ans.",
@@ -1423,6 +1477,15 @@
       }
     },
     "attal": {
+      "q02": {
+        "position": "plutot_pour",
+        "resume": "S'engage à revenir sur les hausses du coût du travail intervenues depuis 2024, qu'il qualifie de « boulet » pour les entreprises.",
+        "source": {
+          "titre": "LCP – Présidentielle 2027 : ce qu'il faut retenir du débat entre les candidats devant le Medef",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670",
+          "date": "2026-08-27"
+        }
+      },
       "q05": {
         "position": "nuance",
         "resume": "Propose de supprimer l'âge légal de départ et de fonder la retraite sur la durée de cotisation, sans fixer d'âge.",
@@ -2202,6 +2265,15 @@
           "date": "2022-03-23"
         }
       },
+      "q06": {
+        "position": "pour",
+        "resume": "Se dit favorable à la capitalisation : en introduire progressivement et sortir progressivement de la répartition.",
+        "source": {
+          "titre": "franceinfo – Que proposent les principaux candidats à l'élection présidentielle pour les retraites ?",
+          "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/changement-de-systeme-passage-a-60-ou-a-65-ans-capitalisation-que-proposent-les-principaux-candidats-a-l-election-presidentielle-pour-les-retraites_8215784.html",
+          "date": "2026-09-30"
+        }
+      },
       "q08": {
         "position": "contre",
         "resume": "Opposé à la loi sur l'aide à mourir, il promet de l'abroger s'il est élu.",
@@ -2227,6 +2299,15 @@
           "titre": "Public Sénat – Présidentielle 2022 : Éric Zemmour détaille son programme",
           "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
           "date": "2022-03-23"
+        }
+      },
+      "q35": {
+        "position": "pour",
+        "resume": "Programme 2022 : sortie du commandement intégré de l'OTAN, en restant dans l'Alliance atlantique.",
+        "source": {
+          "titre": "France 24 — Présidentielle : quelques propositions du candidat Zemmour",
+          "url": "https://www.france24.com/fr/info-en-continu/20211130-pr%C3%A9sidentielle-quelques-propositions-du-candidat-zemmour",
+          "date": "2021-11-30"
         }
       },
       "q25": {
@@ -2263,15 +2344,6 @@
           "titre": "franceinfo — Vrai ou faux : l'interdiction des réseaux sociaux aux moins de 15 ans permettrait-elle de « fliquer » la population ?",
           "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/vrai-ou-faux-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-permettrait-elle-de-fliquer-la-population-comme-le-denonce-eric-zemmour_7767827.html",
           "date": "2026-01-29"
-        }
-      },
-      "q35": {
-        "position": "pour",
-        "resume": "Programme 2022 : sortie du commandement intégré de l'OTAN, en restant dans l'Alliance atlantique.",
-        "source": {
-          "titre": "France 24 — Présidentielle : quelques propositions du candidat Zemmour",
-          "url": "https://www.france24.com/fr/info-en-continu/20211130-pr%C3%A9sidentielle-quelques-propositions-du-candidat-zemmour",
-          "date": "2021-11-30"
         }
       }
     },
