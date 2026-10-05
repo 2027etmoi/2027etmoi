@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-09-25",
+  "mise_a_jour": "2026-10-05",
   "candidats": [
     {
       "id": "melenchon",
@@ -55,7 +55,7 @@
         "instagram": "https://www.instagram.com/olivierfaure/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Olivier_Faure"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-05"
     },
     {
       "id": "glucksmann",
@@ -81,7 +81,7 @@
         "instagram": "https://www.instagram.com/raphaelglucksmann/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-05"
     },
     {
       "id": "guedj",
@@ -106,7 +106,7 @@
         "x": "https://x.com/JeromeGuedj",
         "wikipedia": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-05"
     },
     {
       "id": "royal",
@@ -128,7 +128,7 @@
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-05"
     },
     {
       "id": "maurel",
@@ -152,7 +152,7 @@
         "parti": "https://g-r-s.fr/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-05"
     },
     {
       "id": "roussel",
@@ -204,7 +204,7 @@
         "youtube": "https://www.youtube.com/@francois_ruffin",
         "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-05"
     },
     {
       "id": "cazeneuve",
@@ -646,7 +646,7 @@
         "youtube": "https://www.youtube.com/@Bruno_Retailleau",
         "wikipedia": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-05"
     },
     {
       "id": "lisnard",

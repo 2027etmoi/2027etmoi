@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "2026-09-30",
+  "mise_a_jour": "2026-10-05",
   "fenetre": {
-    "debut": "2026-08-19"
+    "debut": "2026-08-24"
   },
   "regles": "https://github.com/2027etmoi/2027etmoi/blob/main/docs/methode-prises-de-parole.md",
   "types": {
@@ -866,6 +866,252 @@
         "securite"
       ],
       "verifie_le": "2026-09-30"
+    },
+    {
+      "id": "faure",
+      "date": "2026-10-01",
+      "type": "debat",
+      "media": "France 2 et France Inter",
+      "emission": "Deuxième débat de la primaire socialiste",
+      "titre": "VIDEOS. Blocage des lycées, affaire Bardella, guerre à Gaza... Sept séquences à retenir du débat des candidats à la primaire de la gauche",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/videos-sept-sequences-a-retenir-du-debat-des-candidats-a-la-primaire-de-la-gauche-sur-france-2-et-france-inter_8218741.html",
+      "declare": [
+        "Interrogé sur les blocages de lycées, déclare : « Je ne suis pas là pour commenter LFI ».",
+        "Se dit favorable à l'emploi du mot « génocide » au sujet de Gaza."
+      ],
+      "themes": [
+        "campagne",
+        "international"
+      ],
+      "verifie_le": "2026-10-05"
+    },
+    {
+      "id": "glucksmann",
+      "date": "2026-10-01",
+      "type": "debat",
+      "media": "France 2 et France Inter",
+      "emission": "Deuxième débat de la primaire socialiste",
+      "titre": "VIDEOS. Blocage des lycées, affaire Bardella, guerre à Gaza... Sept séquences à retenir du débat des candidats à la primaire de la gauche",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/videos-sept-sequences-a-retenir-du-debat-des-candidats-a-la-primaire-de-la-gauche-sur-france-2-et-france-inter_8218741.html",
+      "declare": [
+        "Propose une baisse de la CSG pour augmenter les salaires nets.",
+        "Déclare, à propos de La France insoumise : « Nos deux doctrines ne sont pas compatibles »."
+      ],
+      "themes": [
+        "travail",
+        "campagne"
+      ],
+      "verifie_le": "2026-10-05"
+    },
+    {
+      "id": "royal",
+      "date": "2026-10-01",
+      "type": "debat",
+      "media": "France 2 et France Inter",
+      "emission": "Deuxième débat de la primaire socialiste",
+      "titre": "VIDEOS. Blocage des lycées, affaire Bardella, guerre à Gaza... Sept séquences à retenir du débat des candidats à la primaire de la gauche",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/videos-sept-sequences-a-retenir-du-debat-des-candidats-a-la-primaire-de-la-gauche-sur-france-2-et-france-inter_8218741.html",
+      "declare": [
+        "Propose de relancer le dialogue avec Vladimir Poutine au sujet de l'Ukraine.",
+        "Sur les carburants, défend des « mesures simples et immédiates » et qualifie la baisse de CSG proposée par Raphaël Glucksmann d'« usine à gaz »."
+      ],
+      "themes": [
+        "international",
+        "economie"
+      ],
+      "verifie_le": "2026-10-05"
+    },
+    {
+      "id": "guedj",
+      "date": "2026-10-01",
+      "type": "debat",
+      "media": "France 2 et France Inter",
+      "emission": "Deuxième débat de la primaire socialiste",
+      "titre": "VIDEOS. Blocage des lycées, affaire Bardella, guerre à Gaza... Sept séquences à retenir du débat des candidats à la primaire de la gauche",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/videos-sept-sequences-a-retenir-du-debat-des-candidats-a-la-primaire-de-la-gauche-sur-france-2-et-france-inter_8218741.html",
+      "declare": [
+        "Reproche à une partie de la gauche une « danse du ventre permanente devant LFI ».",
+        "Déclare que « l'utilisation du mot génocide participe à la nazification d'Israël »."
+      ],
+      "themes": [
+        "campagne",
+        "international"
+      ],
+      "verifie_le": "2026-10-05"
+    },
+    {
+      "id": "maurel",
+      "date": "2026-10-01",
+      "type": "debat",
+      "media": "France 2 et France Inter",
+      "emission": "Deuxième débat de la primaire socialiste",
+      "titre": "VIDEOS. Blocage des lycées, affaire Bardella, guerre à Gaza... Sept séquences à retenir du débat des candidats à la primaire de la gauche",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/videos-sept-sequences-a-retenir-du-debat-des-candidats-a-la-primaire-de-la-gauche-sur-france-2-et-france-inter_8218741.html",
+      "declare": [
+        "Qualifie la baisse de CSG proposée par Raphaël Glucksmann d'« usine à gaz ».",
+        "Estime que Vladimir Poutine, « pour l'instant, ne veut pas négocier »."
+      ],
+      "themes": [
+        "economie",
+        "international"
+      ],
+      "verifie_le": "2026-10-05"
+    },
+    {
+      "id": "glucksmann",
+      "date": "2026-10-04",
+      "type": "debat",
+      "media": "BFMTV",
+      "emission": "Troisième débat de la primaire socialiste",
+      "titre": "Un dernier débat pour départager les candidats de la primaire de la gauche",
+      "url": "https://www.france24.com/fr/info-en-continu/20261004-un-dernier-d%C3%A9bat-pour-d%C3%A9partager-les-candidats-de-la-primaire-de-la-gauche",
+      "declare": [
+        "Réaffirme son opposition à une alliance avec La France insoumise.",
+        "Promet une « loi de programmation sur cinq ans » pour l'école publique."
+      ],
+      "themes": [
+        "campagne",
+        "education"
+      ],
+      "verifie_le": "2026-10-05"
+    },
+    {
+      "id": "faure",
+      "date": "2026-10-04",
+      "type": "debat",
+      "media": "BFMTV",
+      "emission": "Troisième débat de la primaire socialiste",
+      "titre": "Un dernier débat pour départager les candidats de la primaire de la gauche",
+      "url": "https://www.france24.com/fr/info-en-continu/20261004-un-dernier-d%C3%A9bat-pour-d%C3%A9partager-les-candidats-de-la-primaire-de-la-gauche",
+      "declare": [
+        "Juge « nécessaire le rassemblement de la gauche à l'Assemblée ».",
+        "Demande la convocation d'« états généraux lycéens » et déplore que « 70 % des budgets des écoles privées soient sur des financements publics »."
+      ],
+      "themes": [
+        "campagne",
+        "education"
+      ],
+      "verifie_le": "2026-10-05"
+    },
+    {
+      "id": "royal",
+      "date": "2026-10-04",
+      "type": "debat",
+      "media": "BFMTV",
+      "emission": "Troisième débat de la primaire socialiste",
+      "titre": "Un dernier débat pour départager les candidats de la primaire de la gauche",
+      "url": "https://www.france24.com/fr/info-en-continu/20261004-un-dernier-d%C3%A9bat-pour-d%C3%A9partager-les-candidats-de-la-primaire-de-la-gauche",
+      "declare": [
+        "Déclare que Raphaël Glucksmann mène un « hold-up » sur le Parti socialiste.",
+        "Déclare : « Avec moi, il n'y aurait pas de mouvement social »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-10-05"
+    },
+    {
+      "id": "guedj",
+      "date": "2026-10-04",
+      "type": "debat",
+      "media": "BFMTV",
+      "emission": "Troisième débat de la primaire socialiste",
+      "titre": "Un dernier débat pour départager les candidats de la primaire de la gauche",
+      "url": "https://www.france24.com/fr/info-en-continu/20261004-un-dernier-d%C3%A9bat-pour-d%C3%A9partager-les-candidats-de-la-primaire-de-la-gauche",
+      "declare": [
+        "Déclare que Jean-Luc Mélenchon n'est pas « Voldemort » mais un « boulet » pour la gauche.",
+        "Reproche à Olivier Faure de « tous nous fragiliser »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-10-05"
+    },
+    {
+      "id": "retailleau",
+      "date": "2026-10-01",
+      "type": "interview",
+      "media": "Public Sénat",
+      "titre": "« Si je me retirais aujourd'hui, ce serait du pain bénit pour Mme Le Pen », réplique Bruno Retailleau",
+      "url": "https://www.publicsenat.fr/actualites/politique/si-je-me-retirais-aujourdhui-ce-serait-du-pain-beni-pour-mme-le-pen-replique-bruno-retailleau",
+      "declare": [
+        "Refuse de se retirer de la course : « Si je me retirais aujourd'hui, ce serait du pain bénit pour Mme Le Pen ».",
+        "Défend « un projet de rupture que les anciens Premiers ministres d'Emmanuel Macron ne portent pas ».",
+        "Demande que soit examinée une interdiction de La France insoumise, qu'il relie aux blocages de lycées."
+      ],
+      "themes": [
+        "campagne",
+        "institutions"
+      ],
+      "verifie_le": "2026-10-05"
+    },
+    {
+      "id": "retailleau",
+      "date": "2026-09-16",
+      "type": "interview",
+      "media": "franceinfo",
+      "emission": "8h30 franceinfo",
+      "titre": "Une « différence de nature » avec Édouard Philippe : Bruno Retailleau rejette l'idée d'un rassemblement de la droite pour l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/politique/bruno-retailleau/une-difference-de-nature-avec-edouard-philippe-bruno-retailleau-rejette-l-idee-d-un-rassemblement-de-la-droite-pour-l-election-presidentielle_8195303.html",
+      "declare": [
+        "Rejette un rassemblement avec Édouard Philippe, avec qui il voit « une différence de nature », et déclare que l'élection « ne se gagnera pas au centre ».",
+        "Propose que les citoyens aient le dernier mot lorsque le Conseil constitutionnel censure une loi votée par le Parlement."
+      ],
+      "themes": [
+        "campagne",
+        "institutions"
+      ],
+      "verifie_le": "2026-10-05"
+    },
+    {
+      "id": "ruffin",
+      "date": "2026-09-30",
+      "type": "interview",
+      "media": "ICI Picardie",
+      "emission": "L'invité d'ICI matin, Céline Autin",
+      "titre": "« Bloquer les marges des entreprises et faire le tri » propose François Ruffin pour les comptes publics et le carburant",
+      "url": "https://ici.fr/emissions/l-invite-d-ici-matin-ici-picardie/francois-ruffin-depute-de-la-somme-et-candidat-a-l-election-presidentielle-3905071",
+      "declare": [
+        "Annonce qu'il ne votera « a priori » pas le budget, et demande un tri dans les quelque 200 milliards d'euros d'aides annuelles aux entreprises avant toute réduction des services publics.",
+        "Sur les carburants, propose une taxe flottante indexée sur le prix du pétrole et l'indexation des salaires sur l'inflation, en reprochant aux raffineurs d'avoir « multiplié leurs marges par 7 depuis février »."
+      ],
+      "themes": [
+        "economie",
+        "travail"
+      ],
+      "verifie_le": "2026-10-05"
+    },
+    {
+      "id": "ruffin",
+      "date": "2026-09-02",
+      "type": "debat",
+      "media": "Débat organisé par Libération",
+      "emission": "Avec Dominique de Villepin",
+      "titre": "« C'est le premier moment original de cette campagne » : pourquoi Dominique de Villepin et François Ruffin affichent leurs convergences pour la présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/c-est-le-premier-moment-original-de-cette-campagne-pourquoi-dominique-de-villepin-et-francois-ruffin-affichent-leurs-convergences-pour-la-presidentielle_8175026.html",
+      "declare": [
+        "Déclare, à propos de Dominique de Villepin : « Il y a un diagnostic partagé, il y a un horizon commun »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-10-05"
+    },
+    {
+      "id": "villepin",
+      "date": "2026-09-02",
+      "type": "debat",
+      "media": "Débat organisé par Libération",
+      "emission": "Avec François Ruffin",
+      "titre": "« C'est le premier moment original de cette campagne » : pourquoi Dominique de Villepin et François Ruffin affichent leurs convergences pour la présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/c-est-le-premier-moment-original-de-cette-campagne-pourquoi-dominique-de-villepin-et-francois-ruffin-affichent-leurs-convergences-pour-la-presidentielle_8175026.html",
+      "declare": [
+        "Déclare : « On arrive à un moment de notre histoire où il faut avancer sans calcul » et se dit prêt à « sacrifier toutes ses ambitions »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-10-05"
     }
   ],
   "a_verifier": [
@@ -874,8 +1120,10 @@
     "Glucksmann, BFMTV/RMC du 30 septembre 2026 : source citée = reprise 6Médias/L'Express sur actu.orange.fr ; remplacer par la page de BFMTV dès qu'elle est identifiée.",
     "Guedj, BFMTV du 11 septembre 2026 : source citée = article de Capital repris par Yahoo ; remplacer par la page de BFMTV ou de Capital.",
     "Hollande, la Repubblica du 28 septembre 2026 : source citée = dépêche Reuters en anglais ; remplacer par l'entretien original ou une reprise en français.",
+    "Marine Le Pen annonce le lancement de sa campagne le 25 octobre 2026 à Orléans (franceinfo) : à recenser le jour venu.",
     "Mlekuz, SQOOL TV du 24 septembre 2026 : émission identifiée mais aucune déclaration transcrite ; à compléter après visionnage.",
     "Mélenchon, Fête de l'Humanité du 11 septembre 2026 (échange avec la rédaction de L'Humanité) : contenu disponible seulement en vidéo ; à ajouter si un compte rendu écrit paraît.",
-    "Roussel, TF1 du 6 septembre 2026 : source citée = dépêche reprise sur actu.orange.fr ; remplacer par la page de TF1 Info."
+    "Roussel, TF1 du 6 septembre 2026 : source citée = dépêche reprise sur actu.orange.fr ; remplacer par la page de TF1 Info.",
+    "Troisième débat de la primaire (BFMTV, 4 octobre 2026) : aucune déclaration d'Emmanuel Maurel rapportée par la source ; à compléter."
   ]
 }
