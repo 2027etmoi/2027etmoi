@@ -59,6 +59,8 @@ PAGES = {
                       "Qui édite 2027 et moi, comment le site est financé et tenu à jour, pourquoi il n'est pas signé, et ses mentions légales : éditeur, hébergeur, données personnelles."),
     "contact.html": ("Contact — signaler une erreur ou proposer une source",
                      "Écrire à 2027 et moi : signaler une erreur sur un candidat, un programme ou un sondage, proposer une source, poser une question sur la méthode du site."),
+    "presse.html": ("Espace presse : données, méthode et contact pour les journalistes",
+                    "Présidentielle 2027 : ce que contient 2027 et moi, les données réutilisables sous Licence Ouverte, la méthode, la façon de citer le site et le contact presse."),
     "faq.html": ("Présidentielle 2027 : questions fréquentes (dates, parrainages, primaires)",
                  "Quand a lieu la présidentielle 2027 ? Comment devient-on candidat ? Que valent les sondages ? Réponses sourcées sur l'élection, les programmes et la méthode du site 2027 et moi."),
 }
@@ -183,7 +185,7 @@ D_THEMES = maj("programmes/*.json", "questions.json")
 D_DON = maj("candidats.json", "sondages.json", "candidatures.json", "evaluations.json", "temps-parole.json")
 DATES_PAGES = {"index.html": D_CAND, "candidats.html": D_CAND, "sondages.html": D_SOND,
                "donnees.html": D_DON, "comparateur.html": D_THEMES, "mes-priorites.html": D_THEMES,
-               "faq.html": None, "contact.html": None, "a-propos.html": None}  # textes rédigés, pas de date de données
+               "faq.html": None, "contact.html": None, "a-propos.html": None, "presse.html": None}  # textes rédigés, pas de date de données
 dates_cand = {}
 
 COURRIEL = "contact@2027etmoi.fr"
@@ -770,6 +772,24 @@ _remplir("comparateur.html", '<section class="section" id="questions-cles">', "<
                    + "".join(f'<li><a href="{Q_PAGE[q["id"]]}">{esc(q["texte"])}</a></li>' for q in qdata["questions"] if q["theme"] == t) + "</ul>"
                    for t, lab in THEMES_Q.items() if any(q["theme"] == t for q in qdata["questions"])))
 
+# Espace presse : chiffres clés recalculés à chaque build, pour ne jamais afficher un total périmé
+_progs = [load(f) for f in sorted((DATA / "programmes").glob("*.json"))]
+_votes = load(DATA / "votes.json") if (DATA / "votes.json").exists() else {}
+_paroles = load(DATA / "prises-de-parole.json").get("prises_de_parole", []) if (DATA / "prises-de-parole.json").exists() else []
+_nb_pos = sum(len(v) for k, v in qdata["positions"].items() if k in noms)
+_chiffres = [
+    (len(cands), f"personnalités suivies, dont {len(en_lice)} en lice (déclarées, en primaire ou pressenties)"),
+    (sum(len(p.get("mesures", [])) for p in _progs), f"mesures de programme sourcées, dans {len(_progs)} fiches"),
+    (_nb_pos, f"positions sourcées sur {len(qdata['questions'])} questions clés"),
+    (len(_votes.get("scrutins", [])), "scrutins parlementaires suivis, avec le vote de chaque candidat concerné"),
+    (len(_paroles), "prises de parole recensées (interviews, discours, débats)"),
+    (len(sond.get("sondages", [])), "sondages d'intentions de vote, d'après les notices de la Commission des sondages"),
+]
+_remplir("presse.html", '<section class="section prose" id="chiffres">', "</section>",
+         "<h2>Le site en chiffres</h2><ul>"
+         + "".join("<li><strong>" + f"{n:,}".replace(",", "\u202f") + f"</strong> {esc(lib)}</li>" for n, lib in _chiffres if n)
+         + f"</ul><p class=\"meta\">Chiffres recalculés à chaque mise à jour du site ; dernière mise à jour des données : {esc(date_fr(lastmod))}.</p>")
+
 # Page Actualité de la campagne : toutes les prises de parole, en ordre chronologique inverse
 paroles = sorted(pp.get("prises_de_parole", []), key=lambda i: (i["date"], i["id"]), reverse=True)
 paroles = [i for i in paroles if i["id"] in noms]
@@ -923,6 +943,7 @@ Données mises à jour le {date_courte(lastmod)}. Les données sont réutilisabl
 - [La campagne en données]({SITE}/donnees.html) : programmes publiés, chiffrages, temps de parole relevé par l'Arcom
 - [Questions fréquentes]({SITE}/faq.html) : règles de l'élection et méthode du site
 - [Qui sommes-nous]({SITE}/a-propos.html) : éditeur, financement, mentions légales
+- [Espace presse]({SITE}/presse.html) : chiffres clés, réutilisation des données, façon de citer le site
 
 ## Fiches candidats
 
