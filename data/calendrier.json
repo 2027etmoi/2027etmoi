@@ -1,10 +1,10 @@
 {
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-10-07",
   "etapes": [
-    { "date": "2026-10-09", "fin": "2026-10-10", "titre": "Primaire PS / Place publique / GRS (1er tour)", "statut": "prevue",
-      "source": { "titre": "choisir2027.fr", "url": "https://choisir2027.fr/", "date": "2026-09-22" } },
+    { "date": "2026-10-09", "fin": "2026-10-10", "titre": "Primaire PS / Place publique / GRS (1er tour, vote électronique, 140 282 inscrits)", "statut": "prevue",
+      "source": { "titre": "LCP — Primaire de gauche : plus de 140 000 inscrits pour voter au premier tour", "url": "https://lcp.fr/actualites/primaire-de-gauche-plus-de-140000-inscrits-pour-voter-au-premier-tour-443021", "date": "2026-10-06" } },
     { "date": "2026-10-16", "fin": "2026-10-17", "titre": "Primaire PS / Place publique / GRS (2nd tour éventuel)", "statut": "prevue",
-      "source": { "titre": "choisir2027.fr", "url": "https://choisir2027.fr/", "date": "2026-09-22" } },
+      "source": { "titre": "LCP — Primaire de gauche : plus de 140 000 inscrits pour voter au premier tour", "url": "https://lcp.fr/actualites/primaire-de-gauche-plus-de-140000-inscrits-pour-voter-au-premier-tour-443021", "date": "2026-10-06" } },
     { "date": "2026-12-10", "fin": "2026-12-13", "titre": "Référendum interne des Écologistes sur la candidature de Marine Tondelier", "statut": "prevue",
       "source": { "titre": "Journal du Net", "url": "https://www.journaldunet.com/business/action-publique/1555211-referendum-interne-des-ecologistes-sur-la-candidature-de-marine-tondelier-a-la-presidentielle-de-2027/", "date": "2026-09-22" } },
     { "date": "2027-02-07", "titre": "Décret de convocation des électeurs (au plus tard)", "statut": "estimee",

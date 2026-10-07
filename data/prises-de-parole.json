@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-05",
+  "mise_a_jour": "2026-10-07",
   "fenetre": {
     "debut": "2026-08-24"
   },
@@ -963,17 +963,19 @@
       "type": "debat",
       "media": "BFMTV",
       "emission": "Troisième débat de la primaire socialiste",
-      "titre": "Un dernier débat pour départager les candidats de la primaire de la gauche",
-      "url": "https://www.france24.com/fr/info-en-continu/20261004-un-dernier-d%C3%A9bat-pour-d%C3%A9partager-les-candidats-de-la-primaire-de-la-gauche",
+      "titre": "Glucksmann face à Royal, divisions sur LFI, lycées… Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+      "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
       "declare": [
-        "Réaffirme son opposition à une alliance avec La France insoumise.",
-        "Promet une « loi de programmation sur cinq ans » pour l'école publique."
+        "Promet d'abroger la réforme des retraites de 2023 : « On ne pourra pas faire 60 ans, ce sera 62 ans ».",
+        "Veut « renforcer » l'aide à l'Ukraine, financée par la saisie des avoirs publics russes.",
+        "Sur la régularisation des travailleurs sans papiers : « Nous le ferons et ce sera populaire »."
       ],
       "themes": [
-        "campagne",
-        "education"
+        "retraites",
+        "international",
+        "immigration"
       ],
-      "verifie_le": "2026-10-05"
+      "verifie_le": "2026-10-07"
     },
     {
       "id": "faure",
@@ -981,17 +983,20 @@
       "type": "debat",
       "media": "BFMTV",
       "emission": "Troisième débat de la primaire socialiste",
-      "titre": "Un dernier débat pour départager les candidats de la primaire de la gauche",
-      "url": "https://www.france24.com/fr/info-en-continu/20261004-un-dernier-d%C3%A9bat-pour-d%C3%A9partager-les-candidats-de-la-primaire-de-la-gauche",
+      "titre": "Glucksmann face à Royal, divisions sur LFI, lycées… Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+      "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
       "declare": [
-        "Juge « nécessaire le rassemblement de la gauche à l'Assemblée ».",
-        "Demande la convocation d'« états généraux lycéens » et déplore que « 70 % des budgets des écoles privées soient sur des financements publics »."
+        "« Il y aura abrogation immédiate de la réforme Borne » ; veut abaisser l'âge du taux plein de 67 à 66 ou 65 ans ; opposé à une part de capitalisation.",
+        "« Le nucléaire autant que nécessaire, les renouvelables autant qu'il est possible. »",
+        "Favorable à une régularisation des travailleurs sans papiers sur le modèle espagnol ; maintient le financement des écoles privées « à condition qu'il y ait de la mixité sociale »."
       ],
       "themes": [
-        "campagne",
+        "retraites",
+        "ecologie",
+        "immigration",
         "education"
       ],
-      "verifie_le": "2026-10-05"
+      "verifie_le": "2026-10-07"
     },
     {
       "id": "royal",
@@ -999,16 +1004,19 @@
       "type": "debat",
       "media": "BFMTV",
       "emission": "Troisième débat de la primaire socialiste",
-      "titre": "Un dernier débat pour départager les candidats de la primaire de la gauche",
-      "url": "https://www.france24.com/fr/info-en-continu/20261004-un-dernier-d%C3%A9bat-pour-d%C3%A9partager-les-candidats-de-la-primaire-de-la-gauche",
+      "titre": "Glucksmann face à Royal, divisions sur LFI, lycées… Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+      "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
       "declare": [
-        "Déclare que Raphaël Glucksmann mène un « hold-up » sur le Parti socialiste.",
-        "Déclare : « Avec moi, il n'y aurait pas de mouvement social »."
+        "« Il faut maintenir la défense de l'Ukraine, mais il faut faire le même effort pour arrêter cette guerre », en ouvrant la négociation avec la Russie.",
+        "Affirme qu'un « hold-up est en train de se faire sur le Parti socialiste » par Raphaël Glucksmann.",
+        "Sur l'énergie : « Il faut faire des efforts en matière d'économie d'énergie »."
       ],
       "themes": [
-        "campagne"
+        "international",
+        "campagne",
+        "ecologie"
       ],
-      "verifie_le": "2026-10-05"
+      "verifie_le": "2026-10-07"
     },
     {
       "id": "guedj",
@@ -1016,16 +1024,39 @@
       "type": "debat",
       "media": "BFMTV",
       "emission": "Troisième débat de la primaire socialiste",
-      "titre": "Un dernier débat pour départager les candidats de la primaire de la gauche",
-      "url": "https://www.france24.com/fr/info-en-continu/20261004-un-dernier-d%C3%A9bat-pour-d%C3%A9partager-les-candidats-de-la-primaire-de-la-gauche",
+      "titre": "Glucksmann face à Royal, divisions sur LFI, lycées… Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+      "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
       "declare": [
-        "Déclare que Jean-Luc Mélenchon n'est pas « Voldemort » mais un « boulet » pour la gauche.",
-        "Reproche à Olivier Faure de « tous nous fragiliser »."
+        "Ne défend pas « le principe d'un âge légal pivot » : trimestres modulés par la pénibilité, taux plein abaissé à 66 ou 65 ans, opposé à une part de capitalisation.",
+        "Veut que l'Ukraine « gagne cette guerre » et juge « naïf » le discours de négociation avec la Russie.",
+        "Propose une loi de programmation de l'immigration avec une « préférence travail » par secteur, en refusant le mot « quotas »."
       ],
       "themes": [
-        "campagne"
+        "retraites",
+        "international",
+        "immigration"
       ],
-      "verifie_le": "2026-10-05"
+      "verifie_le": "2026-10-07"
+    },
+    {
+      "id": "maurel",
+      "date": "2026-10-04",
+      "type": "debat",
+      "media": "BFMTV",
+      "emission": "Troisième débat de la primaire socialiste",
+      "titre": "Glucksmann face à Royal, divisions sur LFI, lycées… Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+      "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "declare": [
+        "Sur la retraite : « J'en reste aux 62 ans » ; se dit « hostile » à la retraite par capitalisation.",
+        "Propose d'abroger Parcoursup et la réforme du lycée de 2019 ; veut que l'argent public aille « prioritairement, et à long terme exclusivement » à l'enseignement public.",
+        "Fait des familles monoparentales un « enjeu de mobilisation nationale » : défiscalisation des pensions alimentaires, hausse de l'allocation de soutien familial."
+      ],
+      "themes": [
+        "retraites",
+        "education",
+        "societe"
+      ],
+      "verifie_le": "2026-10-07"
     },
     {
       "id": "retailleau",
