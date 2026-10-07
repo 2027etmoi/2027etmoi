@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-05",
+  "mise_a_jour": "2026-10-07",
   "echelle": [
     "pour",
     "plutot_pour",
@@ -827,6 +827,15 @@
           "date": "2026-09-16"
         }
       },
+      "q06": {
+        "position": "contre",
+        "resume": "Opposé à l'introduction d'une part de capitalisation individuelle, au dernier débat de la primaire.",
+        "source": {
+          "titre": "LCP – Glucksmann face à Royal, divisions sur LFI, lycées… Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+          "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+          "date": "2026-10-05"
+        }
+      },
       "q08": {
         "position": "pour",
         "resume": "A voté pour la proposition de loi relative au droit à l'aide à mourir en deuxième lecture à l'Assemblée nationale.",
@@ -845,13 +854,13 @@
           "date": "2026-09-16"
         }
       },
-      "q33": {
-        "position": "nuance",
-        "resume": "S'est abstenu lors du vote final de la loi interdisant les réseaux sociaux aux moins de 15 ans (21 juillet 2026).",
+      "q17": {
+        "position": "pour",
+        "resume": "Défend la saisie des avoirs publics russes pour financer le soutien à l'Ukraine.",
         "source": {
-          "titre": "Assemblée nationale, analyse du scrutin n° 8431 (texte de la CMP, loi sur les mineurs et les réseaux sociaux)",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
-          "date": "2026-07-21"
+          "titre": "LCP – Glucksmann face à Royal, divisions sur LFI, lycées… Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+          "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+          "date": "2026-10-05"
         }
       },
       "q34": {
@@ -861,6 +870,15 @@
           "titre": "Olivier Faure sur X (@faureolivier)",
           "url": "https://x.com/faureolivier/status/1990518659241136480",
           "date": "2025-11-17"
+        }
+      },
+      "q33": {
+        "position": "nuance",
+        "resume": "S'est abstenu lors du vote final de la loi interdisant les réseaux sociaux aux moins de 15 ans (21 juillet 2026).",
+        "source": {
+          "titre": "Assemblée nationale, analyse du scrutin n° 8431 (texte de la CMP, loi sur les mineurs et les réseaux sociaux)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+          "date": "2026-07-21"
         }
       }
     },
@@ -875,12 +893,12 @@
         }
       },
       "q05": {
-        "position": "nuance",
-        "resume": "S'engage à abroger la réforme de 2023 sans fixer d'âge légal ; propose un départ plus tôt pour les métiers pénibles et plus tard pour d'autres.",
+        "position": "pour",
+        "resume": "Promet d'abroger la réforme de 2023 : « On ne pourra pas faire 60 ans, ce sera 62 ans ».",
         "source": {
-          "titre": "LCP – Présidentielle : que proposent les candidats à l'Élysée sur les retraites ?",
-          "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
-          "date": "2026-09-16"
+          "titre": "LCP – Glucksmann face à Royal, divisions sur LFI, lycées… Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+          "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+          "date": "2026-10-05"
         }
       },
       "q11": {
@@ -890,6 +908,15 @@
           "titre": "France 24 (AFP) – Présidentielle : Glucksmann promet « la révolution écologique » dès sa victoire",
           "url": "https://www.france24.com/fr/info-en-continu/20260825-pr%C3%A9sidentielle-glucksmann-promet-la-r%C3%A9volution-%C3%A9cologique-d%C3%A8s-sa-victoire",
           "date": "2026-08-25"
+        }
+      },
+      "q14": {
+        "position": "pour",
+        "resume": "Sur la régularisation des travailleurs sans papiers : « Nous le ferons et ce sera populaire ».",
+        "source": {
+          "titre": "LCP – Glucksmann face à Royal, divisions sur LFI, lycées… Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+          "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+          "date": "2026-10-05"
         }
       },
       "q17": {
@@ -957,6 +984,15 @@
           "date": "2026-09-12"
         }
       },
+      "q06": {
+        "position": "contre",
+        "resume": "Opposé à l'introduction d'une part de capitalisation individuelle, au dernier débat de la primaire.",
+        "source": {
+          "titre": "LCP – Glucksmann face à Royal, divisions sur LFI, lycées… Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+          "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+          "date": "2026-10-05"
+        }
+      },
       "q08": {
         "position": "pour",
         "resume": "A voté pour la proposition de loi relative au droit à l'aide à mourir en deuxième lecture à l'Assemblée nationale.",
@@ -964,6 +1000,33 @@
           "titre": "Assemblée nationale – Scrutin public n°5729 (aide à mourir, deuxième lecture)",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5729",
           "date": "2026-02-25"
+        }
+      },
+      "q13": {
+        "position": "nuance",
+        "resume": "Refuse le mot « quotas » mais propose une loi de programmation de l'immigration avec une « préférence travail » par secteur.",
+        "source": {
+          "titre": "LCP – Glucksmann face à Royal, divisions sur LFI, lycées… Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+          "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+          "date": "2026-10-05"
+        }
+      },
+      "q14": {
+        "position": "nuance",
+        "resume": "Prend ses distances avec la régularisation générale défendue par ses concurrents : « le courage de la nuance », planification par secteur.",
+        "source": {
+          "titre": "LCP – Glucksmann face à Royal, divisions sur LFI, lycées… Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+          "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+          "date": "2026-10-05"
+        }
+      },
+      "q17": {
+        "position": "pour",
+        "resume": "Veut que l'Ukraine « gagne cette guerre » ; la France devra maintenir son aide financière et logistique à Kiev.",
+        "source": {
+          "titre": "franceinfo – Invectives, retraites, soutien aux lycéens... Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+          "url": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/invectives-retraites-soutien-aux-lyceens-ce-qu-il-faut-retenir-du-dernier-debat-de-la-primaire-socialiste_8222563.html",
+          "date": "2026-10-04"
         }
       },
       "q34": {
@@ -1013,6 +1076,15 @@
           "date": "2026-09-23"
         }
       },
+      "q17": {
+        "position": "nuance",
+        "resume": "« Maintenir la défense de l'Ukraine », mais « faire le même effort pour arrêter cette guerre » en négociant avec la Russie.",
+        "source": {
+          "titre": "LCP – Glucksmann face à Royal, divisions sur LFI, lycées… Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+          "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+          "date": "2026-10-05"
+        }
+      },
       "q34": {
         "position": "pour",
         "resume": "S'est prononcée, au premier débat de la primaire, pour la suspension de l'accord entre l'Union européenne et Israël.",
@@ -1060,6 +1132,15 @@
           "date": "2026-09"
         }
       },
+      "q06": {
+        "position": "contre",
+        "resume": "Se dit « hostile » à la retraite par capitalisation.",
+        "source": {
+          "titre": "franceinfo – Invectives, retraites, soutien aux lycéens... Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+          "url": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/invectives-retraites-soutien-aux-lyceens-ce-qu-il-faut-retenir-du-dernier-debat-de-la-primaire-socialiste_8222563.html",
+          "date": "2026-10-04"
+        }
+      },
       "q08": {
         "position": "pour",
         "resume": "A voté pour la proposition de loi relative au droit à l'aide à mourir en deuxième lecture à l'Assemblée nationale.",
@@ -1067,6 +1148,15 @@
           "titre": "Assemblée nationale – Scrutin public n°5729 (aide à mourir, deuxième lecture)",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5729",
           "date": "2026-02-25"
+        }
+      },
+      "q10": {
+        "position": "pour",
+        "resume": "Défend « l'abrogation » de Parcoursup, qu'il juge facteur de stress pour les élèves et les parents.",
+        "source": {
+          "titre": "franceinfo – Invectives, retraites, soutien aux lycéens... Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+          "url": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/invectives-retraites-soutien-aux-lyceens-ce-qu-il-faut-retenir-du-dernier-debat-de-la-primaire-socialiste_8222563.html",
+          "date": "2026-10-04"
         }
       },
       "q11": {
@@ -1094,6 +1184,15 @@
           "titre": "Programme d'Emmanuel Maurel",
           "url": "https://emmanuel-maurel.fr/programme/",
           "date": "2026-09"
+        }
+      },
+      "q34": {
+        "position": "plutot_pour",
+        "resume": "Estime que la gauche doit « mettre à l'ordre du jour la question de la suspension de l'accord commercial Israël-UE ».",
+        "source": {
+          "titre": "Programme d'Emmanuel Maurel",
+          "url": "https://emmanuel-maurel.fr/programme/",
+          "date": "2026-09-22"
         }
       },
       "q19": {
@@ -1130,15 +1229,6 @@
           "titre": "Assemblée nationale, analyse du scrutin n° 8431 (texte de la CMP, loi sur les mineurs et les réseaux sociaux)",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
           "date": "2026-07-21"
-        }
-      },
-      "q34": {
-        "position": "plutot_pour",
-        "resume": "Estime que la gauche doit « mettre à l'ordre du jour la question de la suspension de l'accord commercial Israël-UE ».",
-        "source": {
-          "titre": "Programme d'Emmanuel Maurel",
-          "url": "https://emmanuel-maurel.fr/programme/",
-          "date": "2026-09-22"
         }
       }
     },
