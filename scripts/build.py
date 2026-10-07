@@ -944,6 +944,7 @@ Données mises à jour le {date_courte(lastmod)}. Les données sont réutilisabl
 - [Questions fréquentes]({SITE}/faq.html) : règles de l'élection et méthode du site
 - [Qui sommes-nous]({SITE}/a-propos.html) : éditeur, financement, mentions légales
 - [Espace presse]({SITE}/presse.html) : chiffres clés, réutilisation des données, façon de citer le site
+- [Mises à jour]({SITE}/mises-a-jour.html) : journal daté de toutes les modifications des données
 
 ## Fiches candidats
 
@@ -969,10 +970,88 @@ Données mises à jour le {date_courte(lastmod)}. Les données sont réutilisabl
 - [Licence des données]({_gh}/LICENCE-DONNEES.md)
 """, encoding="utf-8")
 
+# --- 3 ter. page « Mises à jour » : journal construit depuis l'historique git des données.
+# Rien n'est rédigé à la main : une entrée par modification du dossier data/ ou docs/, avec la date,
+# le titre de la modification et les jeux de données touchés. Le dépôt est public : chaque entrée
+# renvoie à la modification complète.
+JOURNAL_LIB = [("data/candidats.json", "candidatures"), ("data/candidatures.json", "candidatures"),
+               ("data/sondages.json", "sondages"), ("data/programmes/", "programmes"), ("data/biographies/", "biographies"),
+               ("data/prises-de-parole.json", "prises de parole"), ("data/questions.json", "questions clés"),
+               ("data/votes", "votes au Parlement"), ("data/calendrier.json", "calendrier"),
+               ("data/temps-parole.json", "temps de parole"), ("data/evaluations.json", "évaluations externes"),
+               ("docs/methode-", "méthode"), ("docs/questions-cles.md", "méthode")]  # les autres fichiers de docs/ sont des rapports
+
+
+def journal_git():
+    """[(date, sujet, hash, {libellé: nb fichiers})], du plus récent au plus ancien ; vide si git est indisponible."""
+    def git(*args):
+        return subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True, timeout=120)
+    if git("rev-parse", "--is-shallow-repository").stdout.strip() == "true":
+        git("fetch", "--unshallow", "--quiet")  # Netlify clone l'historique partiellement ; le dépôt est public
+    r = git("log", "--no-merges", "--date=short", "--format=%x1e%h%x1f%ad%x1f%s", "--name-only", "--", "data", "docs")
+    if r.returncode != 0:
+        print("journal : historique git indisponible", file=sys.stderr)
+        return []
+    entrees = []
+    for bloc in r.stdout.split("\x1e")[1:]:
+        tete, _, fichiers = bloc.strip("\n").partition("\n")
+        h, d, sujet = tete.split("\x1f")
+        sujet = re.sub(r"\s*\(#\d+\)$", "", sujet.strip())
+        touches = {}
+        for f in filter(None, fichiers.split("\n")):
+            for prefixe, lib in JOURNAL_LIB:
+                if f.startswith(prefixe):
+                    touches[lib] = touches.get(lib, 0) + 1
+                    break
+        if touches:
+            entrees.append((d, sujet, h, touches))
+    return entrees
+
+
+journal = journal_git()
+D_JOURNAL = journal[0][0] if journal else lastmod
+_gh_commit = "https://github.com/2027etmoi/2027etmoi/commit/"
+par_jour = {}
+for d, sujet, h, touches in journal:
+    par_jour.setdefault(d, []).append((sujet, h, touches))
+_mois = {}
+for d in par_jour:
+    _mois.setdefault(d[:7], []).append(d)
+blocs_j = []
+for m, jours in _mois.items():
+    lignes = []
+    for d in jours:
+        for sujet, h, touches in par_jour[d]:
+            det = ", ".join(f"{lib} ({n} fichiers)" if n > 1 and lib in ("programmes", "biographies", "votes au Parlement") else lib
+                            for lib, n in touches.items())
+            lignes.append(f'<li id="m-{h}"><div class="feed-head"><strong>{esc(date_fr(d))}</strong> <span class="badge parole">{esc(det)}</span></div>'
+                          f'<a class="titre" href="{_gh_commit}{h}" target="_blank" rel="noopener">{esc(sujet)}</a></li>')
+    blocs_j.append(f'<h2 class="feed-month">{esc(MOIS_FR[int(m[5:7]) - 1].capitalize())} {m[:4]}</h2>'
+                   f'<ul class="measures feed">{"".join(lignes)}</ul>')
+jl_j, fil_j = fil_ariane([("Présidentielle 2027", SITE + "/"), ("Mises à jour", f"{SITE}/mises-a-jour.html")])
+(ROOT / "mises-a-jour.html").write_text(page_html(
+    "Mises à jour du site : journal des modifications des données",
+    "Toutes les mises à jour de 2027 et moi, jour par jour : candidatures, sondages, programmes, votes, prises de parole, questions clés. Chaque entrée renvoie à la modification complète, publique.",
+    f"{SITE}/mises-a-jour.html", "2027 et moi", "Mises à jour",
+    f"{len(journal)} modifications des données depuis l'ouverture du site, la dernière le {esc(date_fr(D_JOURNAL))}. "
+    "Ce journal est construit automatiquement à partir de l'historique public du site : rien n'y est rédigé à la main.",
+    fil_j + "\n    " + "\n    ".join(blocs_j)
+    + '\n    <section class="section prose"><h2>Comment lire ce journal</h2>'
+      '<p>Chaque ligne est une modification des données ou de la méthode, avec sa date et les jeux de données touchés. Le lien ouvre la modification complète sur GitHub : ce qui a été ajouté, retiré ou corrigé, ligne par ligne, avec ses sources. '
+      'Les modifications qui ne touchent que la présentation du site n\'apparaissent pas ici.</p>'
+      '<p>Les données sont contrôlées chaque semaine ; une partie de la collecte est assistée par un outil d\'intelligence artificielle, et rien n\'est publié sans relecture (<a href="/a-propos.html">qui sommes-nous</a>). '
+      'Pour suivre ce que les candidats déclarent, voir l\'<a href="/actualite.html">actualité de la campagne</a> et son <a href="/actualite.xml">flux RSS</a>. '
+      'Une erreur ou un oubli : <a href="/contact.html">nous écrire</a>.</p></section>',
+    [jl_j, {"@context": "https://schema.org", "@type": "WebPage", "name": "Mises à jour — 2027 et moi", "url": f"{SITE}/mises-a-jour.html",
+            "inLanguage": "fr-FR", "dateModified": D_JOURNAL, "description": "Journal des modifications des données du site, construit depuis son historique public."}]),
+    encoding="utf-8")
+print(f"journal : {len(journal)} modifications, dernière le {D_JOURNAL}")
+
 # --- 4. sitemap.xml et robots.txt
 urls = [(SITE + "/", "1.0", DATES_PAGES["index.html"]),
         *[(f"{SITE}/{p}", "0.8", DATES_PAGES.get(p)) for p in PAGES if p != "index.html"],
         (f"{SITE}/calendrier.html", "0.9", D_CAL), (f"{SITE}/actualite.html", "0.9", D_PAROLE),
+        (f"{SITE}/mises-a-jour.html", "0.6", D_JOURNAL),
         (f"{SITE}/themes/", "0.8", D_THEMES), (f"{SITE}/questions/", "0.8", D_QUEST),
         *[(SITE + Q_PAGE[q["id"]], "0.7", D_QUEST) for q in qdata["questions"]],
         *[(f"{SITE}/themes/{t}.html", "0.8", D_THEMES) for t in THEMES],
