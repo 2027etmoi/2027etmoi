@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-05",
+  "mise_a_jour": "2026-10-08",
   "candidats": [
     {
       "id": "melenchon",
@@ -1092,6 +1092,26 @@
         "programme": "https://parti-equinoxe.fr/presidentielle-2027/"
       },
       "verifie_le": "2026-09-22"
+    },
+    {
+      "id": "dubuisson",
+      "nom": "Emmanuel Dubuisson",
+      "parti": "Sans parti (association Les Gaulois)",
+      "bloc": "autre",
+      "statut": "declare",
+      "statut_detail": "Sans parti ni mandat. Candidature portée par l'association Les Gaulois (Ferney-Voltaire, Ain), créée le 5 juin 2026. Absent des recensements de franceinfo, LCP, ICI et France 24 au 8 octobre 2026.",
+      "source": {
+        "titre": "Annuaire des entreprises (registre SIRENE) — Les Gaulois, campagne présidentielle élection 2027 de M. Emmanuel Dubuisson",
+        "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/les-gaulois-campagne-presidentielle-election-2027-de-m-emmanuel-dubuisson-106391956",
+        "date": "2026-10-08"
+      },
+      "propositions": [],
+      "liens": {
+        "campagne": "https://www.dubuisson2027.fr/",
+        "x": "https://x.com/dubuisson2027",
+        "youtube": "https://www.youtube.com/@E_Dubuisson"
+      },
+      "verifie_le": "2026-10-08"
     },
     {
       "id": "massard",

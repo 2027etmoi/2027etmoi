@@ -1,0 +1,26 @@
+{
+  "id": "dubuisson",
+  "mise_a_jour": "2026-10-08",
+  "programme": {
+    "titre": "Aucun programme publié à une adresse stable",
+    "url": "https://www.dubuisson2027.fr/",
+    "etat": "aucun",
+    "note": "Au 8 octobre 2026, le site de campagne présente treize rubriques de texte sans liste de mesures. Une plaquette de 37 pages (« 15 mesures ») et un « Modèle Dubuisson de Réorganisation systémique » (MDRS) existent dans un kit de presse, non publié sur le site."
+  },
+  "reperes": [
+    {
+      "texte": "Se présente sur son site comme n'étant « pas un politique » ; rubriques annoncées : richesse, santé, agriculture et eau, Outre-mer, fonction publique, sécurité, référendum, fiscalité.",
+      "source": {
+        "titre": "Dubuisson 2027 — site de campagne",
+        "url": "https://www.dubuisson2027.fr/",
+        "date": "2026-10-08"
+      }
+    }
+  ],
+  "mesures": [],
+  "ressources": [],
+  "a_verifier": [
+    "Plaquette du 11 septembre 2026 (kit de presse) : 15 mesures, « transfert de 1 052,70 € par mois » sur une fiche de paie type par suppression des cotisations (70 % vers la rémunération, 30 % vers le coût employeur), études rémunérées 2 000 € par mois, capitalisation individuelle, suppression de la TVA sur les achats communaux éligibles, référendums, règle constitutionnelle d'équilibre. À reprendre seulement si la plaquette est publiée à une adresse stable sur dubuisson2027.fr.",
+    "Le site affirme « L'écologie punitive, c'est terminé avec moi » : formule sans mesure identifiable, non reprise."
+  ]
+}
