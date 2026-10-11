@@ -1,6 +1,6 @@
 {
   "id": "attal",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-10-11",
   "programme": {
     "titre": "Mes chantiers capitaux",
     "url": "https://attalpresident.fr/programme",
@@ -265,6 +265,48 @@
       "texte": "Dette commune européenne pour financer l'adaptation au dérèglement climatique.",
       "nature": "programme",
       "source": { "titre": "attalpresident.fr — Gabriel Attal à Reims", "url": "https://attalpresident.fr/actualites/gabriel-attal-a-reims-batir-les-etats-unis-d-europe-pour-retrouver-notre-puissance", "date": "2026-09-17" }
+    },
+    {
+      "theme": "societe",
+      "texte": "Un mois d'engagement civique obligatoire pour chaque jeune avant 25 ans.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — « Je veux être le président qui parlera à la jeunesse parce qu'il la comprend » : en meeting à Lyon, Gabriel Attal tente de relancer sa campagne", "url": "https://www.franceinfo.fr/politique/gabriel-attal/je-veux-etre-le-president-qui-parlera-a-la-jeunesse-parce-qu-il-la-comprend-en-meeting-a-lyon-gabriel-attal-tente-de-relancer-sa-campagne-en-pleine-mobilisation-lyceenne_8231377.html", "date": "2026-10-10" }
+    },
+    {
+      "theme": "education",
+      "texte": "« Révolution du temps scolaire » : matières fondamentales le matin, culture et sport à partir de 15 h.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — « Je veux être le président qui parlera à la jeunesse parce qu'il la comprend » : en meeting à Lyon, Gabriel Attal tente de relancer sa campagne", "url": "https://www.franceinfo.fr/politique/gabriel-attal/je-veux-etre-le-president-qui-parlera-a-la-jeunesse-parce-qu-il-la-comprend-en-meeting-a-lyon-gabriel-attal-tente-de-relancer-sa-campagne-en-pleine-mobilisation-lyceenne_8231377.html", "date": "2026-10-10" }
+    },
+    {
+      "theme": "education",
+      "texte": "Refonte de Parcoursup, sans suppression, avec mentorat, tutorat et stages pour l'orientation.",
+      "nature": "declaration",
+      "source": { "titre": "CNews — Présidentielle 2027 : pacte pour la jeunesse, IA, nucléaire... Ce qu'il faut retenir du discours de Gabriel Attal à Lyon", "url": "https://www.cnews.fr/france/2026-10-10/presidentielle-2027-pacte-pour-la-jeunesse-ia-nucleaire-ce-quil-faut-retenir-du", "date": "2026-10-10" }
+    },
+    {
+      "theme": "education",
+      "texte": "Adapter l'ensemble des établissements scolaires au changement climatique en cinq ans au plus.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — « Je veux être le président qui parlera à la jeunesse parce qu'il la comprend » : en meeting à Lyon, Gabriel Attal tente de relancer sa campagne", "url": "https://www.franceinfo.fr/politique/gabriel-attal/je-veux-etre-le-president-qui-parlera-a-la-jeunesse-parce-qu-il-la-comprend-en-meeting-a-lyon-gabriel-attal-tente-de-relancer-sa-campagne-en-pleine-mobilisation-lyceenne_8231377.html", "date": "2026-10-10" }
+    },
+    {
+      "theme": "economie",
+      "texte": "« Double règle d'or » : comptes publics à l'équilibre et interdiction de dépenser davantage pour gérer le présent plutôt que préparer l'avenir.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — « Je veux être le président qui parlera à la jeunesse parce qu'il la comprend » : en meeting à Lyon, Gabriel Attal tente de relancer sa campagne", "url": "https://www.franceinfo.fr/politique/gabriel-attal/je-veux-etre-le-president-qui-parlera-a-la-jeunesse-parce-qu-il-la-comprend-en-meeting-a-lyon-gabriel-attal-tente-de-relancer-sa-campagne-en-pleine-mobilisation-lyceenne_8231377.html", "date": "2026-10-10" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Construire un réacteur nucléaire par an pour atteindre rapidement 14 réacteurs.",
+      "nature": "declaration",
+      "source": { "titre": "CNews — Présidentielle 2027 : pacte pour la jeunesse, IA, nucléaire... Ce qu'il faut retenir du discours de Gabriel Attal à Lyon", "url": "https://www.cnews.fr/france/2026-10-10/presidentielle-2027-pacte-pour-la-jeunesse-ia-nucleaire-ce-quil-faut-retenir-du", "date": "2026-10-10" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Convention de 150 jeunes de 16 à 25 ans tirés au sort parmi des volontaires pour élaborer des propositions.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — « Je veux être le président qui parlera à la jeunesse parce qu'il la comprend » : en meeting à Lyon, Gabriel Attal tente de relancer sa campagne", "url": "https://www.franceinfo.fr/politique/gabriel-attal/je-veux-etre-le-president-qui-parlera-a-la-jeunesse-parce-qu-il-la-comprend-en-meeting-a-lyon-gabriel-attal-tente-de-relancer-sa-campagne-en-pleine-mobilisation-lyceenne_8231377.html", "date": "2026-10-10" }
     }
   ],
   "ressources": [

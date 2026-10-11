@@ -1,6 +1,6 @@
 {
   "id": "bayrou",
-  "mise_a_jour": "2026-10-02",
+  "mise_a_jour": "2026-10-11",
   "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bayrou_Matignon_%28cropped%29.jpg/500px-Bayrou_Matignon_%28cropped%29.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Bayrou_Matignon_(cropped).jpg",
@@ -142,13 +142,13 @@
       "titre": "Affaire des assistants parlementaires européens du MoDem",
       "texte": "François Bayrou a été jugé pour détournement de fonds, avec d'autres responsables de l'UDF et du MoDem, au sujet de la rémunération par le Parlement européen d'assistants parlementaires soupçonnés d'avoir travaillé pour le parti entre 2005 et 2017. Le tribunal correctionnel de Paris l'a relaxé le 5 février 2024, « au bénéfice du doute », en relevant qu'il ne ressortait d'aucune pièce du dossier qu'il aurait demandé d'employer fictivement des assistants. Le parquet a fait appel. Il conteste les faits : « Toutes ces accusations, on va le prouver, sont infondées. »",
       "etat": "relaxe",
-      "etat_detail": "Relaxé en première instance le 5 février 2024 ; appel du parquet. Procès en appel ouvert le 9 septembre 2026 devant la cour d'appel de Paris, débats prévus jusqu'au 5 octobre 2026 ; décision non rendue à cette date. Il est présumé innocent.",
-      "date_etat": "2026-09-09",
+      "etat_detail": "Relaxé en première instance le 5 février 2024 ; appel du parquet. Procès en appel tenu du 9 septembre au 5 octobre 2026 devant la cour d'appel de Paris ; le parquet général a requis deux ans d'emprisonnement avec sursis, 50 000 euros d'amende et trois ans d'inéligibilité avec sursis. Décision attendue le 17 décembre 2026. Il est présumé innocent.",
+      "date_etat": "2026-10-02",
       "sources": [
         {
-          "titre": "AFP, via Boursorama",
-          "url": "https://www.boursorama.com/actualite-economique/actualites/assistants-d-eurodeputes-le-proces-en-appel-de-francois-bayrou-et-du-modem-s-est-ouvert-a-paris-8212ba9e89b1439a9dc057db84c91efc",
-          "date": "2026-09-09"
+          "titre": "franceinfo — La cour d'appel de Paris rendra sa décision dans l'affaire des assistants d'eurodéputés du MoDem le 17 décembre",
+          "url": "https://www.franceinfo.fr/politique/modem/assistants-parlementaires-du-modem/la-cour-d-appel-de-paris-rendra-sa-decision-dans-l-affaire-des-assistants-d-eurodeputes-du-modem-le-17-decembre_8219806.html",
+          "date": "2026-10-02"
         },
         {
           "titre": "France 3 Nouvelle-Aquitaine",
