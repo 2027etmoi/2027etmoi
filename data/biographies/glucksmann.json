@@ -1,6 +1,6 @@
 {
   "id": "glucksmann",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-10-12",
   "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg/500px-2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg",
@@ -24,6 +24,7 @@
     "source": { "titre": "Wikipédia – Raphaël Glucksmann", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" }
   },
   "parcours_politique": [
+    { "periode": "2026", "texte": "Désigné candidat de la gauche sociale-démocrate (PS, Place publique, GRS) à l'élection présidentielle de 2027 dès le premier tour de la primaire, le 11 octobre 2026, avec 66,17 % des voix.", "source": { "titre": "LCP — Primaire socialiste : vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la gauche sociale-démocrate à la présidentielle", "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la", "date": "2026-10-11" } },
     { "periode": "2026", "texte": "Déclare le 23 août 2026 sa candidature à l'élection présidentielle de 2027, via la primaire du PS, de Place publique et de la GRS.", "source": { "titre": "franceinfo", "url": "https://www.franceinfo.fr/elections/presidentielle/le-cofondateur-de-place-publique-raphael-glucksmann-officialise-sa-candidature-a-l-election-presidentielle-pour-relever-la-france_8158841.html", "date": "2026-08-23" } },
     { "periode": "2024", "texte": "Tête de la liste Place publique – Parti socialiste aux élections européennes : 13,83 % des voix (3e position), 13 sièges.", "source": { "titre": "Wikipédia – Raphaël Glucksmann", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" } },
     { "periode": "Depuis 2022", "texte": "Coprésident de Place publique (avec Aurore Lalucq).", "source": { "titre": "Wikipédia – Raphaël Glucksmann", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann", "date": "2026-09-22" } },

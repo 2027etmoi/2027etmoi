@@ -32,7 +32,7 @@ STATUTS = {"declare": "{nom} ({parti}) a déclaré sa candidature à l'élection
            "primaire": "{nom} ({parti}) est en lice dans une primaire pour l'élection présidentielle 2027.",
            "pressenti": "La candidature de {nom} ({parti}) est pressentie pour l'élection présidentielle 2027.",
            "empeche": "La candidature de {nom} ({parti}) est empêchée pour l'élection présidentielle 2027.",
-           "renonce": "{nom} ({parti}) a renoncé à se présenter à l'élection présidentielle 2027."}
+           "renonce": "{nom} ({parti}) ne se présente pas à l'élection présidentielle 2027."}
 THEMES = {"economie": "Économie, fiscalité et finances publiques", "travail": "Travail, salaires et pouvoir d'achat",
           "retraites": "Retraites et protection sociale", "sante": "Santé", "education": "Éducation, jeunesse et recherche",
           "ecologie": "Écologie, climat et énergie", "immigration": "Immigration et intégration",
