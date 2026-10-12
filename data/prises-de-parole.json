@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-11",
+  "mise_a_jour": "2026-10-12",
   "fenetre": {
     "debut": "2026-08-24"
   },
@@ -1163,6 +1163,39 @@
         "campagne"
       ],
       "verifie_le": "2026-10-11"
+    },
+    {
+      "id": "glucksmann",
+      "date": "2026-10-11",
+      "type": "discours",
+      "media": "Soirée des résultats de la primaire",
+      "emission": "Discours après l'annonce des résultats",
+      "titre": "Raphaël Glucksmann officiellement candidat du PS, un « cap clair » et des zones d'ombre",
+      "url": "https://www.france24.com/fr/france/20261011-rapha%C3%ABl-glucksmann-officiellement-candidat-un-cap-clair-et-des-zones-d-ombre",
+      "declare": [
+        "Se présente comme « le candidat de la gauche démocratique à l'élection présidentielle 2027 » et veut « rassembler toute la famille de la gauche démocratique ».",
+        "Se dit « le candidat de la rupture avec l'hégémonie de Jean-Luc Mélenchon sur la gauche française » ; « Notre véritable adversaire, c'est l'extrême droite »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-10-12"
+    },
+    {
+      "id": "glucksmann",
+      "date": "2026-10-11",
+      "type": "interview",
+      "media": "France 2",
+      "emission": "Journal de 20 h",
+      "titre": "« Les gens ont envie de gagner » : comment expliquer la large victoire de Raphaël Glucksmann à la primaire de la gauche ?",
+      "url": "https://franceinfo.fr/politique/ps/primaire-a-gauche/comment-expliquer-la-large-victoire-de-raphael-glucksmann-a-la-primaire-de-la-gauche_8233033.html",
+      "declare": [
+        "Se présente comme le candidat « de la rupture avec le macronisme » et « de la rupture avec l'hégémonie de Jean-Luc Mélenchon sur la gauche »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-10-12"
     }
   ],
   "a_verifier": [
