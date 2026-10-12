@@ -641,6 +641,36 @@
         "source": null
       }
     },
+    "dubuisson": {
+      "declaration": {
+        "date": null,
+        "source": {
+          "titre": "Annuaire des entreprises (registre SIRENE) — Les Gaulois, campagne présidentielle élection 2027 de M. Emmanuel Dubuisson",
+          "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/les-gaulois-campagne-presidentielle-election-2027-de-m-emmanuel-dubuisson-106391956",
+          "date": "2026-10-08"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature personnelle, sans parti ; association de campagne « Les Gaulois » créée le 5 juin 2026. Date d'annonce publique non établie.",
+        "source": {
+          "titre": "Annuaire des entreprises (registre SIRENE) — Les Gaulois, campagne présidentielle élection 2027 de M. Emmanuel Dubuisson",
+          "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/les-gaulois-campagne-presidentielle-election-2027-de-m-emmanuel-dubuisson-106391956",
+          "date": "2026-10-08"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": "Aucun programme publié à une adresse stable au 8 octobre 2026 ; des chiffrages figurent dans un kit de presse non publié.",
+        "url": null,
+        "source": {
+          "titre": "Dubuisson 2027 — site de campagne",
+          "url": "https://www.dubuisson2027.fr/",
+          "date": "2026-10-08"
+        }
+      }
+    },
     "mikolajczak": {
       "declaration": {
         "date": null,

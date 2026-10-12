@@ -1,0 +1,49 @@
+{
+  "id": "dubuisson",
+  "mise_a_jour": "2026-10-08",
+  "presentation": {
+    "texte": "Emmanuel Dubuisson, né au Sri Lanka en 1985 et adopté à six mois, a grandi dans une famille paysanne du Jura et du Pays de Gex, selon son site de campagne. Il s'y présente comme n'étant « pas un politique » et dit avoir travaillé dans des pays en crise ou en conflit armé, sans autre précision. Sans parti ni mandat, il porte sa candidature à l'élection présidentielle de 2027 par une association de financement, Les Gaulois, créée le 5 juin 2026 à Ferney-Voltaire (Ain).",
+    "sources": [
+      {
+        "titre": "Dubuisson 2027 — Qui suis-je ?",
+        "url": "https://www.dubuisson2027.fr/qui-suis-je",
+        "date": "2026-10-08"
+      },
+      {
+        "titre": "Annuaire des entreprises (registre SIRENE) — Les Gaulois, campagne présidentielle élection 2027 de M. Emmanuel Dubuisson",
+        "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/les-gaulois-campagne-presidentielle-election-2027-de-m-emmanuel-dubuisson-106391956",
+        "date": "2026-10-08"
+      }
+    ]
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Candidat déclaré à l'élection présidentielle de 2027, sans parti. Association de campagne « Les Gaulois – Campagne présidentielle élection 2027 de M. Emmanuel Dubuisson » immatriculée le 5 juin 2026 à Ferney-Voltaire (Ain).",
+      "source": {
+        "titre": "Annuaire des entreprises (registre SIRENE) — Les Gaulois, campagne présidentielle élection 2027 de M. Emmanuel Dubuisson",
+        "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/les-gaulois-campagne-presidentielle-election-2027-de-m-emmanuel-dubuisson-106391956",
+        "date": "2026-10-08"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "Non daté",
+      "texte": "Dit avoir « travaillé pendant des années dans des pays en crise ou en conflit armé » et, adolescent, fait les moissons, la plonge et le service en restauration. Aucun employeur, pays ni date n'est publié.",
+      "source": {
+        "titre": "Dubuisson 2027 — Qui suis-je ?",
+        "url": "https://www.dubuisson2027.fr/qui-suis-je",
+        "date": "2026-10-08"
+      }
+    }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Date et lieu de naissance précis non publiés (« juin 1985 », Sri Lanka, selon le site) : champ naissance omis.",
+    "Aucune photo sous licence libre sur Wikimedia Commons (octobre 2026) : champ photo omis. Les portraits du kit de presse ne sont pas repris.",
+    "Date de déclaration de candidature : « 18 juin 2026 » selon le service de presse (courriel du 8 octobre 2026), non publiée sur une page vérifiable ; non reprise.",
+    "Kit de presse reçu le 8 octobre 2026 (plaquette de 37 pages, « Vision d'État », livre autoédité ISBN 979-10-989575-0-5, article signé James Houyez / ACP-dGlob) : aucun de ces documents n'est publié à une adresse stable, et l'agence ACP-dGlob est introuvable. Rien n'en est repris.",
+    "Absent des recensements de candidats de franceinfo (31 candidats au 8 octobre 2026), ICI (27), LCP, France 24 et de la page Wikipédia des candidatures."
+  ]
+}
