@@ -1168,7 +1168,7 @@
       "id": "glucksmann",
       "date": "2026-10-11",
       "type": "discours",
-      "media": "Soirée des résultats de la primaire",
+      "media": "Espace Solaris, Paris (soirée électorale de la primaire)",
       "emission": "Discours après l'annonce des résultats",
       "titre": "Raphaël Glucksmann officiellement candidat du PS, un « cap clair » et des zones d'ombre",
       "url": "https://www.france24.com/fr/france/20261011-rapha%C3%ABl-glucksmann-officiellement-candidat-un-cap-clair-et-des-zones-d-ombre",
@@ -1191,6 +1191,72 @@
       "url": "https://franceinfo.fr/politique/ps/primaire-a-gauche/comment-expliquer-la-large-victoire-de-raphael-glucksmann-a-la-primaire-de-la-gauche_8233033.html",
       "declare": [
         "Se présente comme le candidat « de la rupture avec le macronisme » et « de la rupture avec l'hégémonie de Jean-Luc Mélenchon sur la gauche »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-10-12"
+    },
+    {
+      "id": "faure",
+      "date": "2026-10-11",
+      "type": "discours",
+      "media": "Espace Solaris, Paris (soirée électorale de la primaire)",
+      "emission": "Réaction aux résultats de la primaire",
+      "titre": "Victoire de Raphaël Glucksmann à la primaire socialiste : premières réactions des candidats vaincus et des autres partis de gauche",
+      "url": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des",
+      "declare": [
+        "Prend acte d'« une majorité très claire (…) dès le premier tour » : « Nous avons désormais un candidat, à nous tous et nous toutes de forger ensemble cet esprit de victoire »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-10-12"
+    },
+    {
+      "id": "royal",
+      "date": "2026-10-11",
+      "type": "discours",
+      "media": "Espace Solaris, Paris (soirée électorale de la primaire)",
+      "emission": "Réaction aux résultats de la primaire",
+      "titre": "Victoire de Raphaël Glucksmann à la primaire socialiste : premières réactions des candidats vaincus et des autres partis de gauche",
+      "url": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des",
+      "declare": [
+        "Se dit « très déçue » de son résultat, tout en estimant « avoir fait entendre une voix de femme, une conception différente du mode d'exercice du pouvoir ».",
+        "Conformément à la charte signée par les cinq candidats, sera « pour celui qui a gagné ce soir », à qui elle souhaite « toute la force pour faire ce rassemblement à gauche qui sera difficile »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-10-12"
+    },
+    {
+      "id": "maurel",
+      "date": "2026-10-11",
+      "type": "discours",
+      "media": "Espace Solaris, Paris (soirée électorale de la primaire)",
+      "emission": "Réaction aux résultats de la primaire",
+      "titre": "Victoire de Raphaël Glucksmann à la primaire socialiste : premières réactions des candidats vaincus et des autres partis de gauche",
+      "url": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des",
+      "declare": [
+        "Salue une victoire « qui oblige Raphaël Glucksmann et nous oblige collectivement, avec notre soutien qui sera loyal et exigeant »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-10-12"
+    },
+    {
+      "id": "guedj",
+      "date": "2026-10-11",
+      "type": "discours",
+      "media": "Espace Solaris, Paris (soirée électorale de la primaire)",
+      "emission": "Réaction aux résultats de la primaire",
+      "titre": "Victoire de Raphaël Glucksmann à la primaire socialiste : premières réactions des candidats vaincus et des autres partis de gauche",
+      "url": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des",
+      "declare": [
+        "Salue « une victoire nette, sans bavure, éclatante », qu'il lit comme un refus des électeurs socialistes d'une alliance avec La France insoumise.",
+        "« Je continuerai ma campagne à la place que Raphaël Glucksmann jugera utile » : veut « reconstruire la gauche universaliste, républicaine, sociale, démocratique et écologiste »."
       ],
       "themes": [
         "campagne"
