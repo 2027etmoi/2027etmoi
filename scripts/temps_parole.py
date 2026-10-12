@@ -39,13 +39,14 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 BASE = "https://www.arcom.fr/sites/default/files/tphe/files/speaking_time_files/"
-FICHIERS = [  # (mois, url) — 6 derniers mois publiés au 2026-09-22
+FICHIERS = [  # (mois, url) — 7 mois publiés au 2026-10-11
     ("2026-01", BASE + "Export_web_Personnalites_avec_seuil_01-01-2026_31-01-2026.csv"),
     ("2026-02", BASE + "Export_web_Personnalites_avec_seuil_01-02-2026_28-02-2026.csv"),
     ("2026-03", BASE + "Export_web_Personnalites_avec_seuil_01-03-2026_31-03-2026.csv"),
     ("2026-04", BASE + "Export_web_Personnalites_avec_seuil_01-04-2026_30-04-2026.csv"),
     ("2026-05", BASE + "Export_web_Personnalites_avec_seuil_01-05-2026_31-05-2026.csv"),
     ("2026-06", BASE + "Export_web_Personnalites_avec_seuil_01-06-2026_30-06-2026.csv"),
+    ("2026-07", BASE + "Export_web_Personnalites_avec_seuil_01-07-2026_31-07-2026.csv"),
 ]
 SOURCE = {
     "titre": "Arcom — relevés des temps de parole hors périodes électorales",

@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-07",
+  "mise_a_jour": "2026-10-11",
   "echelle": [
     "pour",
     "plutot_pour",
@@ -1603,6 +1603,15 @@
           "date": "2025-05-11"
         }
       },
+      "q10": {
+        "position": "plutot_contre",
+        "resume": "Propose une refonte de Parcoursup (mentorat, tutorat, stages), pas sa suppression.",
+        "source": {
+          "titre": "CNews — Présidentielle 2027 : pacte pour la jeunesse, IA, nucléaire... Ce qu'il faut retenir du discours de Gabriel Attal à Lyon",
+          "url": "https://www.cnews.fr/france/2026-10-10/presidentielle-2027-pacte-pour-la-jeunesse-ia-nucleaire-ce-quil-faut-retenir-du",
+          "date": "2026-10-10"
+        }
+      },
       "q11": {
         "position": "pour",
         "resume": "Premier ministre en 2024, il souhaitait la mise en chantier de 14 nouveaux réacteurs ; aucune position de campagne 2026 trouvée.",
@@ -1646,6 +1655,15 @@
           "titre": "franceinfo — \"Pour moi, l'école, ce n'est pas un sujet de campagne présidentielle…\", déclare Gabriel Attal",
           "url": "https://www.franceinfo.fr/politique/gabriel-attal/pour-moi-l-ecole-ce-n-est-pas-un-sujet-de-campagne-presidentielle-c-est-juste-le-c-ur-de-mon-engagement-en-politique-declare-gabriel-attal-candidat-de-renaissance-a-la-presidentielle_8172782.html",
           "date": "2026-09-01"
+        }
+      },
+      "q32": {
+        "position": "plutot_pour",
+        "resume": "Propose un mois d'engagement civique obligatoire pour chaque jeune avant 25 ans, dans son « pacte générationnel ».",
+        "source": {
+          "titre": "franceinfo — « Je veux être le président qui parlera à la jeunesse parce qu'il la comprend » : en meeting à Lyon, Gabriel Attal tente de relancer sa campagne",
+          "url": "https://www.franceinfo.fr/politique/gabriel-attal/je-veux-etre-le-president-qui-parlera-a-la-jeunesse-parce-qu-il-la-comprend-en-meeting-a-lyon-gabriel-attal-tente-de-relancer-sa-campagne-en-pleine-mobilisation-lyceenne_8231377.html",
+          "date": "2026-10-10"
         }
       },
       "q33": {

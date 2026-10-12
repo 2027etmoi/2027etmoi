@@ -1,9 +1,9 @@
 {
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-10-11",
   "source": {
     "titre": "Arcom — relevés des temps de parole hors périodes électorales",
     "url": "https://www.arcom.fr/temps-parole/hors-elections/recherche/source/2026",
-    "date": "2026-09-09"
+    "date": "2026-10-09"
   },
   "fichiers": [
     {
@@ -35,6 +35,11 @@
       "mois": "2026-06",
       "url": "https://www.arcom.fr/sites/default/files/tphe/files/speaking_time_files/Export_web_Personnalites_avec_seuil_01-06-2026_30-06-2026.csv",
       "publie_le": "2026-09-09"
+    },
+    {
+      "mois": "2026-07",
+      "url": "https://www.arcom.fr/sites/default/files/tphe/files/speaking_time_files/Export_web_Personnalites_avec_seuil_01-07-2026_31-07-2026.csv",
+      "publie_le": "2026-10-09"
     }
   ],
   "mesure": "Temps de parole (seule mesure des fichiers Arcom hors période électorale), en minutes : somme de toutes les durées affichées pour la personnalité dans le fichier « Temps de parole des personnalités politiques » du mois, sur les 24 services relevés (TV : TF1, France 2, France 3, France 5, M6, TMC, T18, Novo19, RMC Life, RMC Découverte, RMC Story, BFMTV, CNews, LCI, franceinfo: ; radio : France Info, France Culture, France Inter, Radio Classique, BFM Business, RMC, RTL, Europe 1, Sud Radio) et les trois types d'émission (JTF, MAG, PROG). tv = chaînes généralistes + chaînes d'information ; radio = radios ; total = tv + radio.",
@@ -44,7 +49,8 @@
     "2026-03",
     "2026-04",
     "2026-05",
-    "2026-06"
+    "2026-06",
+    "2026-07"
   ],
   "candidats": {
     "melenchon": {
@@ -79,6 +85,11 @@
           "tv": 180.6,
           "radio": 46.2,
           "total": 226.8
+        },
+        "2026-07": {
+          "tv": 78.4,
+          "radio": 7.8,
+          "total": 86.3
         }
       }
     },
@@ -114,6 +125,11 @@
           "tv": 16.1,
           "radio": 36.9,
           "total": 52.9
+        },
+        "2026-07": {
+          "tv": 56.6,
+          "radio": 38.6,
+          "total": 95.2
         }
       }
     },
@@ -149,6 +165,11 @@
           "tv": 60.9,
           "radio": 30.7,
           "total": 91.6
+        },
+        "2026-07": {
+          "tv": 35.6,
+          "radio": 16.3,
+          "total": 51.9
         }
       }
     },
@@ -184,6 +205,11 @@
           "tv": 54.7,
           "radio": null,
           "total": 54.7
+        },
+        "2026-07": {
+          "tv": 70.7,
+          "radio": 30.9,
+          "total": 101.5
         }
       }
     },
@@ -209,6 +235,11 @@
           "tv": 2.0,
           "radio": 20.5,
           "total": 22.6
+        },
+        "2026-07": {
+          "tv": 1.4,
+          "radio": 16.4,
+          "total": 17.8
         }
       }
     },
@@ -244,6 +275,11 @@
           "tv": 95.7,
           "radio": 33.2,
           "total": 128.9
+        },
+        "2026-07": {
+          "tv": null,
+          "radio": 1.7,
+          "total": 1.7
         }
       }
     },
@@ -279,6 +315,11 @@
           "tv": 60.9,
           "radio": 18.9,
           "total": 79.8
+        },
+        "2026-07": {
+          "tv": 61.2,
+          "radio": 23.6,
+          "total": 84.8
         }
       }
     },
@@ -303,6 +344,11 @@
         "2026-05": {
           "tv": 1.1,
           "radio": 16.6,
+          "total": 17.8
+        },
+        "2026-07": {
+          "tv": 16.3,
+          "radio": 1.5,
           "total": 17.8
         }
       }
@@ -329,6 +375,11 @@
           "tv": 94.2,
           "radio": 51.0,
           "total": 145.2
+        },
+        "2026-07": {
+          "tv": 58.5,
+          "radio": 7.8,
+          "total": 66.2
         }
       }
     },
@@ -364,6 +415,11 @@
           "tv": 18.7,
           "radio": 11.2,
           "total": 29.9
+        },
+        "2026-07": {
+          "tv": 5.3,
+          "radio": null,
+          "total": 5.3
         }
       }
     },
@@ -429,6 +485,11 @@
           "tv": 133.7,
           "radio": 181.0,
           "total": 314.7
+        },
+        "2026-07": {
+          "tv": 31.9,
+          "radio": 16.6,
+          "total": 48.5
         }
       }
     },
@@ -439,6 +500,11 @@
           "tv": 28.9,
           "radio": 23.1,
           "total": 52.0
+        },
+        "2026-07": {
+          "tv": 29.6,
+          "radio": 13.7,
+          "total": 43.3
         }
       }
     },
@@ -474,6 +540,11 @@
           "tv": 16.2,
           "radio": 5.2,
           "total": 21.4
+        },
+        "2026-07": {
+          "tv": 357.8,
+          "radio": 68.9,
+          "total": 426.7
         }
       }
     },
@@ -509,6 +580,11 @@
           "tv": 286.0,
           "radio": 68.5,
           "total": 354.4
+        },
+        "2026-07": {
+          "tv": 54.0,
+          "radio": 49.9,
+          "total": 103.9
         }
       }
     },
@@ -544,6 +620,11 @@
           "tv": 87.6,
           "radio": 16.8,
           "total": 104.4
+        },
+        "2026-07": {
+          "tv": 39.1,
+          "radio": null,
+          "total": 39.1
         }
       }
     },
@@ -569,6 +650,11 @@
           "tv": 195.4,
           "radio": 21.3,
           "total": 216.7
+        },
+        "2026-07": {
+          "tv": 20.4,
+          "radio": 58.8,
+          "total": 79.2
         }
       }
     },
@@ -604,6 +690,11 @@
           "tv": 323.0,
           "radio": 69.4,
           "total": 392.4
+        },
+        "2026-07": {
+          "tv": 113.2,
+          "radio": 62.3,
+          "total": 175.4
         }
       }
     },
@@ -634,6 +725,11 @@
           "tv": 23.3,
           "radio": 18.6,
           "total": 42.0
+        },
+        "2026-07": {
+          "tv": 55.1,
+          "radio": 55.4,
+          "total": 110.4
         }
       }
     },
@@ -669,6 +765,11 @@
           "tv": 39.3,
           "radio": 1.6,
           "total": 40.9
+        },
+        "2026-07": {
+          "tv": null,
+          "radio": 9.0,
+          "total": 9.0
         }
       }
     },
@@ -704,6 +805,11 @@
           "tv": 146.7,
           "radio": 62.8,
           "total": 209.5
+        },
+        "2026-07": {
+          "tv": 461.2,
+          "radio": 85.8,
+          "total": 547.0
         }
       }
     },
@@ -739,6 +845,11 @@
           "tv": 88.4,
           "radio": 33.0,
           "total": 121.4
+        },
+        "2026-07": {
+          "tv": 14.0,
+          "radio": null,
+          "total": 14.0
         }
       }
     },
@@ -774,6 +885,11 @@
           "tv": 61.4,
           "radio": 17.9,
           "total": 79.3
+        },
+        "2026-07": {
+          "tv": 37.7,
+          "radio": 16.4,
+          "total": 54.0
         }
       }
     },
@@ -804,6 +920,11 @@
           "tv": 19.6,
           "radio": null,
           "total": 19.6
+        },
+        "2026-07": {
+          "tv": 28.0,
+          "radio": 1.2,
+          "total": 29.2
         }
       }
     }

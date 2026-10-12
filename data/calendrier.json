@@ -1,10 +1,8 @@
 {
-  "mise_a_jour": "2026-10-07",
+  "mise_a_jour": "2026-10-12",
   "etapes": [
-    { "date": "2026-10-09", "fin": "2026-10-10", "titre": "Primaire PS / Place publique / GRS (1er tour, vote électronique, 140 282 inscrits)", "statut": "prevue",
-      "source": { "titre": "LCP — Primaire de gauche : plus de 140 000 inscrits pour voter au premier tour", "url": "https://lcp.fr/actualites/primaire-de-gauche-plus-de-140000-inscrits-pour-voter-au-premier-tour-443021", "date": "2026-10-06" } },
-    { "date": "2026-10-16", "fin": "2026-10-17", "titre": "Primaire PS / Place publique / GRS (2nd tour éventuel)", "statut": "prevue",
-      "source": { "titre": "LCP — Primaire de gauche : plus de 140 000 inscrits pour voter au premier tour", "url": "https://lcp.fr/actualites/primaire-de-gauche-plus-de-140000-inscrits-pour-voter-au-premier-tour-443021", "date": "2026-10-06" } },
+    { "date": "2026-10-09", "fin": "2026-10-11", "titre": "Primaire PS / Place publique / GRS : Raphaël Glucksmann désigné dès le 1er tour (66,17 % ; 120 787 votants sur 140 282 inscrits ; vote électronique prolongé après une cyberattaque)", "statut": "officielle",
+      "source": { "titre": "LCP — Primaire socialiste : vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la gauche sociale-démocrate à la présidentielle", "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la", "date": "2026-10-11" } },
     { "date": "2026-12-10", "fin": "2026-12-13", "titre": "Référendum interne des Écologistes sur la candidature de Marine Tondelier", "statut": "prevue",
       "source": { "titre": "Journal du Net", "url": "https://www.journaldunet.com/business/action-publique/1555211-referendum-interne-des-ecologistes-sur-la-candidature-de-marine-tondelier-a-la-presidentielle-de-2027/", "date": "2026-09-22" } },
     { "date": "2027-02-07", "titre": "Décret de convocation des électeurs (au plus tard)", "statut": "estimee",

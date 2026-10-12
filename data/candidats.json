@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-08",
+  "mise_a_jour": "2026-10-12",
   "candidats": [
     {
       "id": "melenchon",
@@ -35,12 +35,12 @@
       "nom": "Olivier Faure",
       "parti": "Parti socialiste",
       "bloc": "gauche",
-      "statut": "primaire",
-      "statut_detail": "Candidat à la primaire PS / Place publique / GRS (9-10 oct., 2e tour 16-17 oct.).",
+      "statut": "renonce",
+      "statut_detail": "Candidature éliminée au premier tour de la primaire PS / Place publique / GRS, le 11 octobre 2026 (14,46 % des voix). Raphaël Glucksmann a été désigné dès ce tour.",
       "source": {
-        "titre": "franceinfo",
-        "url": "https://www.franceinfo.fr/elections/presidentielle/le-chef-du-parti-socialiste-olivier-faure-confirme-sa-candidature-a-la-primaire-de-son-camp-en-vue-de-l-election-presidentielle_8169896.html",
-        "date": "2026-08-30"
+        "titre": "LCP — Primaire socialiste : vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la gauche sociale-démocrate à la présidentielle",
+        "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+        "date": "2026-10-11"
       },
       "propositions": [
         "Suspension du versement de dividendes pour toute entreprise qui ne s'engage pas dans sa propre transformation écologique.",
@@ -55,19 +55,19 @@
         "instagram": "https://www.instagram.com/olivierfaure/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Olivier_Faure"
       },
-      "verifie_le": "2026-10-05"
+      "verifie_le": "2026-10-12"
     },
     {
       "id": "glucksmann",
       "nom": "Raphaël Glucksmann",
       "parti": "Place publique",
       "bloc": "gauche",
-      "statut": "primaire",
-      "statut_detail": "Candidat à la primaire PS / Place publique / GRS. Soutenu par Boris Vallaud.",
+      "statut": "declare",
+      "statut_detail": "Désigné candidat de la gauche sociale-démocrate (PS, Place publique, GRS) dès le premier tour de la primaire, le 11 octobre 2026 : 66,17 % des voix (79 613 voix, 120 787 votants).",
       "source": {
-        "titre": "franceinfo",
-        "url": "https://www.franceinfo.fr/elections/presidentielle/le-cofondateur-de-place-publique-raphael-glucksmann-officialise-sa-candidature-a-l-election-presidentielle-pour-relever-la-france_8158841.html",
-        "date": "2026-08-23"
+        "titre": "LCP — Primaire socialiste : vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la gauche sociale-démocrate à la présidentielle",
+        "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+        "date": "2026-10-11"
       },
       "propositions": [
         "Taxe sur les superprofits des multinationales pétrolières.",
@@ -81,19 +81,19 @@
         "instagram": "https://www.instagram.com/raphaelglucksmann/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"
       },
-      "verifie_le": "2026-10-05"
+      "verifie_le": "2026-10-12"
     },
     {
       "id": "guedj",
       "nom": "Jérôme Guedj",
       "parti": "Parti socialiste",
       "bloc": "gauche",
-      "statut": "primaire",
-      "statut_detail": "Candidat validé à la primaire PS / Place publique / GRS.",
+      "statut": "renonce",
+      "statut_detail": "Candidature éliminée au premier tour de la primaire PS / Place publique / GRS, le 11 octobre 2026 (5,83 % des voix). Raphaël Glucksmann a été désigné dès ce tour.",
       "source": {
-        "titre": "franceinfo",
-        "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jerome-guedj-appelle-a-la-constitution-d-une-dream-team-de-la-gauche-republicaine-universaliste-laique_8164709.html",
-        "date": "2026-08-27"
+        "titre": "LCP — Primaire socialiste : vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la gauche sociale-démocrate à la présidentielle",
+        "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+        "date": "2026-10-11"
       },
       "propositions": [
         "Réduction du nombre d'élèves par classe dans les territoires en difficulté.",
@@ -106,19 +106,19 @@
         "x": "https://x.com/JeromeGuedj",
         "wikipedia": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj"
       },
-      "verifie_le": "2026-10-05"
+      "verifie_le": "2026-10-12"
     },
     {
       "id": "royal",
       "nom": "Ségolène Royal",
       "parti": "Parti socialiste",
       "bloc": "gauche",
-      "statut": "primaire",
-      "statut_detail": "Candidate validée à la primaire PS / Place publique / GRS.",
+      "statut": "renonce",
+      "statut_detail": "Candidature éliminée au premier tour de la primaire PS / Place publique / GRS, le 11 octobre 2026 (7,62 % des voix). Raphaël Glucksmann a été désigné dès ce tour.",
       "source": {
-        "titre": "Brut",
-        "url": "https://www.brut.media/fr/articles/france/politique/presidentielle-2027-segolene-royal-annonce-sa-participation-a-la-primaire-de-l-espace-socialiste",
-        "date": "2026-07-10"
+        "titre": "LCP — Primaire socialiste : vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la gauche sociale-démocrate à la présidentielle",
+        "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+        "date": "2026-10-11"
       },
       "propositions": [
         "Retour de l'impôt de solidarité sur la fortune (ISF).",
@@ -129,19 +129,19 @@
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal"
       },
-      "verifie_le": "2026-10-05"
+      "verifie_le": "2026-10-12"
     },
     {
       "id": "maurel",
       "nom": "Emmanuel Maurel",
       "parti": "Gauche républicaine et socialiste",
       "bloc": "gauche",
-      "statut": "primaire",
-      "statut_detail": "Candidat validé à la primaire PS / Place publique / GRS.",
+      "statut": "renonce",
+      "statut_detail": "Candidature éliminée au premier tour de la primaire PS / Place publique / GRS, le 11 octobre 2026 (5,92 % des voix). Raphaël Glucksmann a été désigné dès ce tour.",
       "source": {
-        "titre": "franceinfo",
-        "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-04-septembre-2026_8167499.html",
-        "date": "2026-09-04"
+        "titre": "LCP — Primaire socialiste : vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la gauche sociale-démocrate à la présidentielle",
+        "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+        "date": "2026-10-11"
       },
       "propositions": [
         "Grand emprunt national finançant un plan d'investissement de 300 milliards d'euros.",
@@ -153,7 +153,7 @@
         "parti": "https://g-r-s.fr/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
       },
-      "verifie_le": "2026-10-05"
+      "verifie_le": "2026-10-12"
     },
     {
       "id": "roussel",
