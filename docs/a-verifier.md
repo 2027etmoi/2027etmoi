@@ -1,6 +1,6 @@
 # Points à vérifier (généré)
 
-Généré le 2026-10-12 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 605 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
+Généré le 2026-10-14 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 619 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
 
 ## Biographies et affaires judiciaires
 
@@ -88,6 +88,14 @@ Généré le 2026-10-12 par `python3 scripts/a_verifier.py` à partir des champs
 
 - [ ] Plainte pour abus de faiblesse déposée par une habitante de Tourcoing (2018), classée sans suite selon Wikipédia : aucune source de presse ouverte, non publiée.
 - [ ] Wikipédia indique qu'il est premier adjoint au maire de Tourcoing depuis le 28 mars 2026 : à vérifier avant publication.
+
+### Emmanuel Dubuisson (`data/biographies/dubuisson.json`)
+
+- [ ] Date et lieu de naissance précis non publiés (« juin 1985 », Sri Lanka, selon le site) : champ naissance omis.
+- [ ] Aucune photo sous licence libre sur Wikimedia Commons (octobre 2026) : champ photo omis. Les portraits du kit de presse ne sont pas repris.
+- [ ] Date de déclaration de candidature : « 18 juin 2026 » selon le service de presse (courriel du 8 octobre 2026), non publiée sur une page vérifiable ; non reprise.
+- [ ] Kit de presse reçu le 8 octobre 2026 (plaquette de 37 pages, « Vision d'État », livre autoédité ISBN 979-10-989575-0-5, article signé James Houyez / ACP-dGlob) : aucun de ces documents n'est publié à une adresse stable, et l'agence ACP-dGlob est introuvable. Rien n'en est repris.
+- [ ] Absent des recensements de candidats de franceinfo (31 candidats au 8 octobre 2026), ICI (27), LCP, France 24 et de la page Wikipédia des candidatures.
 
 ### Nicolas Dupont-Aignan (`data/biographies/dupont-aignan.json`)
 
@@ -264,6 +272,12 @@ Généré le 2026-10-12 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Photo : aucun portrait officiel du Parlement européen trouvé sur Commons. Photo de manifestation retenue (cadrage portrait vérifié). Vignette en 500px : la taille de 400px est refusée par Wikimedia.
 - [ ] Parcours professionnel : Wikipédia (d'après Le Temps) indique une entrée à HEC en 2001 et un diplôme en 2009 ; dates à confirmer.
 
+### Natacha Polony (`data/biographies/polony.json`)
+
+- [ ] Relaxée le 20 mai 2022 par le tribunal correctionnel de Paris pour des propos tenus sur France Inter le 18 mars 2018 au sujet du génocide des Tutsis (selon Wikipédia) : à sourcer dans la presse reconnue avant publication, conformément à la méthode sur les affaires judiciaires.
+- [ ] Le nombre d'adhérents du mouvement (« environ 60 000 ») est revendiqué par la candidate, non vérifié de façon indépendante.
+- [ ] Rang de la candidature : « 28e candidate déclarée » selon franceinfo, « 34e » selon CNews ; non repris.
+
 ### Philippe Poutou (`data/biographies/poutou.json`)
 
 - [ ] Convocation par la police en mars 2022 pour « injure publique envers une administration » (Wikipédia) : suites non connues, non publiée.
@@ -399,6 +413,11 @@ Généré le 2026-10-12 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Un résumé automatique de la page la-convention.fr/lettre mentionnait un « rétablissement de l'impôt sur la fortune » et une « suppression de la flat tax » : ces propositions ne figurent ni dans la synthèse ni dans la lettre intégrale (qui évoque seulement leur suppression/instauration passées dans le diagnostic). Non retenues.
 - [ ] Date exacte de publication : la synthèse PDF est datée du 15/07/2026 ; Public Sénat situe la publication la veille du 17/07/2026.
 
+### Emmanuel Dubuisson (`data/programmes/dubuisson.json`)
+
+- [ ] Plaquette du 11 septembre 2026 (kit de presse) : 15 mesures, « transfert de 1 052,70 € par mois » sur une fiche de paie type par suppression des cotisations (70 % vers la rémunération, 30 % vers le coût employeur), études rémunérées 2 000 € par mois, capitalisation individuelle, suppression de la TVA sur les achats communaux éligibles, référendums, règle constitutionnelle d'équilibre. À reprendre seulement si la plaquette est publiée à une adresse stable sur dubuisson2027.fr.
+- [ ] Le site affirme « L'écologie punitive, c'est terminé avec moi » : formule sans mesure identifiable, non reprise.
+
 ### Nicolas Dupont-Aignan (`data/programmes/dupont-aignan.json`)
 
 - [ ] Pages thématiques de debout-la-france.fr/notre-projet : programme antérieur en cours d'actualisation, non repris tant que la version 2027 n'est pas publiée.
@@ -437,6 +456,7 @@ Généré le 2026-10-12 par `python3 scripts/a_verifier.py` à partir des champs
 
 ### Jérôme Guedj (`data/programmes/guedj.json`)
 
+- [ ] Le site de la primaire choisir2027.fr est hors ligne depuis le scrutin du 11 octobre 2026 : lien remplacé par la copie Wayback Machine (Internet Archive).
 - [ ] « Gel » de la réforme des retraites plutôt qu'abrogation : non confirmé (recherche du 22/09/2026). Les sources trouvées parlent de la « suspension » votée au Parlement en 2025 (propos de député), pas d'un engagement de campagne ; la dépêche AFP du 17/09/2026 lui prête la fin de l'âge légal au profit de la durée de cotisation, avec un « bouclier » pour les métiers pénibles et les carrières féminines interrompues.
 - [ ] Priorités du site sans formulation précise (non retenues comme mesures) : moyens de l'hôpital public, médecins dans les territoires, hausse des bas salaires, réindustrialisation, rénovation des logements, transports du quotidien, meilleure rémunération des enseignants.
 - [ ] Lettre du candidat : imposition progressive des grandes fortunes, moyens de la police et de la justice, lutte contre le dumping fiscal et social — orientations sans détail.
@@ -501,6 +521,7 @@ Généré le 2026-10-12 par `python3 scripts/a_verifier.py` à partir des champs
 
 ### Emmanuel Maurel (`data/programmes/maurel.json`)
 
+- [ ] Le site de la primaire choisir2027.fr est hors ligne depuis le scrutin du 11 octobre 2026 : lien remplacé par la copie Wayback Machine (Internet Archive).
 - [ ] Police : le programme évoque une « police républicaine au service de tous » et rappelle la police de proximité, sans formulation de mesure précise.
 - [ ] Retour du modèle de service public dans le ferroviaire : présenté comme une réflexion (« nous devons collectivement réfléchir »), pas comme une mesure ferme.
 - [ ] Taxation de l'IA générative utilisant des œuvres : principe énoncé, modalités non précisées.
@@ -540,6 +561,10 @@ Généré le 2026-10-12 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] « 98 mesures publiées le 11 septembre 2026 » : information lue uniquement sur un agrégateur, non vérifiée.
 - [ ] Travail et logement : aucune mesure concrète identifiée dans le livret.
 
+### Natacha Polony (`data/programmes/polony.json`)
+
+- [ ] Déclaration de candidature publiée sur X le 14 octobre 2026 : « reconstruire notre puissance industrielle, garantir notre souveraineté énergétique, restaurer l'autorité de l'école, soutenir nos agriculteurs, protéger nos services publics et lutter fermement contre la corruption » (citée par CNews) : orientations sans mesure identifiable, non reprises.
+
 ### Bruno Retailleau (`data/programmes/retailleau.json`)
 
 - [ ] Au 22/09/2026 (page /projet consultée), les chapitres Justice, Immigration, Sécurité, Comptes publics, Retraites, Culture, Santé, Tourisme et Écologie sont toujours marqués « À venir », sans mesure détaillée : à compléter lors de leur publication.
@@ -559,6 +584,7 @@ Généré le 2026-10-12 par `python3 scripts/a_verifier.py` à partir des champs
 
 ### Ségolène Royal (`data/programmes/royal.json`)
 
+- [ ] Le site de la primaire choisir2027.fr est hors ligne depuis le scrutin du 11 octobre 2026 : lien remplacé par la copie Wayback Machine (Internet Archive).
 - [ ] Cinq priorités annoncées le 10/07/2026 (LCP) et reprises sur le site, formulées comme des orientations, non retenues comme mesures : application des décisions de la COP21 ; « ordre juste » pour l'éducation, la santé et la sécurité quotidienne ; « tolérance zéro » pour les agresseurs et les violences faites aux enfants ; « urgence énergétique » pour les PME et l'agriculture ; rôle de « puissance médiatrice » de la France.
 - [ ] Meeting d'Alfortville (septembre 2026) : pas encore de compte rendu des propositions consulté.
 - [ ] Caméras « partout dans le cadre scolaire » (propos sur RMC rapportés par franceinfo, 11/09/2026) : proche de la mesure déjà publiée sur le périscolaire, non ajoutée en doublon.

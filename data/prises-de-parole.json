@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-12",
+  "mise_a_jour": "2026-10-14",
   "fenetre": {
     "debut": "2026-08-24"
   },
@@ -1262,6 +1262,59 @@
         "campagne"
       ],
       "verifie_le": "2026-10-12"
+    },
+    {
+      "id": "polony",
+      "date": "2026-10-14",
+      "type": "interview",
+      "media": "France Inter",
+      "emission": "La Grande Matinale",
+      "titre": "« Oui, je suis candidate à la présidentielle », annonce Natacha Polony",
+      "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+      "declare": [
+        "Annonce sa candidature : « Nous sommes dans le chaos, la situation m'oblige, donc oui, je suis candidate à l'élection présidentielle ».",
+        "Se présente comme « une candidature de rassemblement » ; propose une hausse des salaires de 20 à 30 % et un « état d'urgence de la production », avec priorité à la production française dans la commande publique.",
+        "Juge « aberrante » la règle des 500 parrainages, à laquelle elle dit se soumettre."
+      ],
+      "themes": [
+        "campagne",
+        "travail",
+        "economie"
+      ],
+      "verifie_le": "2026-10-14"
+    },
+    {
+      "id": "tondelier",
+      "date": "2026-10-11",
+      "type": "communique",
+      "media": "X (message public, cité par LCP)",
+      "emission": "Réaction à la désignation de Raphaël Glucksmann",
+      "titre": "Victoire de Raphaël Glucksmann à la primaire socialiste : premières réactions des candidats vaincus et des autres partis de gauche",
+      "url": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des",
+      "declare": [
+        "Prend acte d'un choix « largement majoritaire » pour « le candidat qui avait refusé une primaire populaire et ouverte », « celui qui fait le choix du repli en refusant toute perspective d'alliance large ».",
+        "« Le chemin de la victoire passe par le refus du clanisme et du concept des gauches irréconciliables »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-10-14"
+    },
+    {
+      "id": "ruffin",
+      "date": "2026-10-11",
+      "type": "communique",
+      "media": "X (message public, cité par LCP)",
+      "emission": "Réaction à la désignation de Raphaël Glucksmann",
+      "titre": "Victoire de Raphaël Glucksmann à la primaire socialiste : premières réactions des candidats vaincus et des autres partis de gauche",
+      "url": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des",
+      "declare": [
+        "Ironise : « Quelle surprise ! Raphaël Glucksmann remporte la primaire de Raphaël à Glucksmann ! » ; vise « les apparatchiks, notamment de Place publique » qui l'ont empêché d'y participer."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-10-14"
     }
   ],
   "a_verifier": [

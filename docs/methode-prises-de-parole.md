@@ -107,3 +107,7 @@ Le paragraphe affiché au-dessus de la liste n'est pas rédigé : il est **const
 - Ce n'est pas une mesure de l'exposition médiatique : voir le temps de parole relevé par l'Arcom.
 - Ce n'est pas un résumé de l'actualité du candidat : rien de ce qui lui arrive n'y figure, seulement ce qu'il dit.
 - Ce n'est pas exhaustif : une prise de parole absente est une prise de parole non recensée, pas une prise de parole qui n'a pas eu lieu. Les manques se signalent via la [page Contact](/contact.html).
+
+## Messages publiés sur un réseau social
+
+Un message publié par le candidat sur un réseau social (X, Instagram, etc.) n'est pas recensé en tant que tel : il peut être supprimé ou modifié, et la plupart de ces plateformes ne se laissent pas vérifier par un robot. Il est recensé **uniquement s'il est cité par un média reconnu**, avec l'article comme source et le type `communique` ; le champ `media` indique alors « X (message public, cité par …) ». Le choix de ce qui mérite d'être repris revient ainsi à la presse, pas au site.

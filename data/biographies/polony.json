@@ -1,0 +1,133 @@
+{
+  "id": "polony",
+  "mise_a_jour": "2026-10-14",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Natacha_Polony_Cannes_2015.jpg/500px-Natacha_Polony_Cannes_2015.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Natacha_Polony_Cannes_2015.jpg",
+    "auteur": "Georges Biard",
+    "licence": "CC BY-SA 3.0",
+    "annee": "2015",
+    "officielle": false,
+    "legende": "Natacha Polony au Festival de Cannes, en 2015"
+  },
+  "naissance": {
+    "date": "1975-04-15",
+    "lieu": "Paris",
+    "source": {
+      "titre": "Wikipédia – Natacha Polony",
+      "url": "https://fr.wikipedia.org/wiki/Natacha_Polony",
+      "date": "2026-10-14"
+    }
+  },
+  "presentation": {
+    "texte": "Natacha Polony, 51 ans, est journaliste et essayiste. Agrégée de lettres modernes et diplômée de Sciences Po, elle a été journaliste à Marianne puis au Figaro, chroniqueuse à la télévision et à la radio, et directrice de la rédaction de Marianne de 2018 à 2024 ; elle dirige depuis 2025 la revue L'Audace !. Engagée au début des années 2000 au Mouvement des citoyens de Jean-Pierre Chevènement, elle se réclame du « gaullisme social ». Après avoir lancé fin août 2026 un mouvement « pour tous les orphelins de la politique », elle a annoncé sa candidature à l'élection présidentielle le 14 octobre 2026 sur France Inter.",
+    "sources": [
+      {
+        "titre": "LCP — « Oui, je suis candidate à la présidentielle », annonce Natacha Polony",
+        "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+        "date": "2026-10-14"
+      },
+      {
+        "titre": "franceinfo (avec AFP) — La journaliste Natacha Polony se lance en politique pour « perturber l'entre-soi »",
+        "url": "https://www.franceinfo.fr/politique/la-journaliste-natacha-polony-se-lance-en-politique-pour-perturber-l-entre-soi_8170427.html",
+        "date": "2026-08-31"
+      },
+      {
+        "titre": "Wikipédia – Natacha Polony",
+        "url": "https://fr.wikipedia.org/wiki/Natacha_Polony",
+        "date": "2026-10-14"
+      }
+    ]
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Annonce sa candidature à l'élection présidentielle de 2027 le 14 octobre 2026 sur France Inter, avec le mouvement « Nous sommes la France » ; dit vouloir une « candidature de rassemblement ».",
+      "source": {
+        "titre": "LCP — « Oui, je suis candidate à la présidentielle », annonce Natacha Polony",
+        "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+        "date": "2026-10-14"
+      }
+    },
+    {
+      "periode": "2026",
+      "texte": "Le 28 août 2026, dans Le Parisien, annonce lancer un mouvement « pour tous les orphelins de la politique », se réclamant du « gaullisme social », sans exclure une candidature.",
+      "source": {
+        "titre": "franceinfo (avec AFP) — La journaliste Natacha Polony se lance en politique pour « perturber l'entre-soi »",
+        "url": "https://www.franceinfo.fr/politique/la-journaliste-natacha-polony-se-lance-en-politique-pour-perturber-l-entre-soi_8170427.html",
+        "date": "2026-08-31"
+      }
+    },
+    {
+      "periode": "2015",
+      "texte": "Cofonde le Comité Orwell, laboratoire d'idées souverainiste.",
+      "source": {
+        "titre": "Wikipédia – Natacha Polony",
+        "url": "https://fr.wikipedia.org/wiki/Natacha_Polony",
+        "date": "2026-10-14"
+      }
+    },
+    {
+      "periode": "2001-2002",
+      "texte": "Secrétaire nationale aux questions de société du Mouvement des citoyens de Jean-Pierre Chevènement ; candidate aux élections législatives de 2002 dans la 9e circonscription de Paris (2,24 %).",
+      "source": {
+        "titre": "Wikipédia – Natacha Polony",
+        "url": "https://fr.wikipedia.org/wiki/Natacha_Polony",
+        "date": "2026-10-14"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "Depuis 2025",
+      "texte": "Directrice de la revue trimestrielle L'Audace !.",
+      "source": {
+        "titre": "franceinfo (avec AFP) — La journaliste Natacha Polony se lance en politique pour « perturber l'entre-soi »",
+        "url": "https://www.franceinfo.fr/politique/la-journaliste-natacha-polony-se-lance-en-politique-pour-perturber-l-entre-soi_8170427.html",
+        "date": "2026-08-31"
+      }
+    },
+    {
+      "periode": "2018-2024",
+      "texte": "Directrice de la rédaction de l'hebdomadaire Marianne.",
+      "source": {
+        "titre": "LCP — « Oui, je suis candidate à la présidentielle », annonce Natacha Polony",
+        "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+        "date": "2026-10-14"
+      }
+    },
+    {
+      "periode": "2009-2018",
+      "texte": "Journaliste puis chroniqueuse au Figaro ; chroniqueuse à la télévision (On n'est pas couché sur France 2, 2011-2014) et à la radio (revue de presse de la matinale d'Europe 1, 2012-2017).",
+      "source": {
+        "titre": "Wikipédia – Natacha Polony",
+        "url": "https://fr.wikipedia.org/wiki/Natacha_Polony",
+        "date": "2026-10-14"
+      }
+    },
+    {
+      "periode": "2002-2009",
+      "texte": "Journaliste à Marianne, chargée de l'éducation.",
+      "source": {
+        "titre": "Wikipédia – Natacha Polony",
+        "url": "https://fr.wikipedia.org/wiki/Natacha_Polony",
+        "date": "2026-10-14"
+      }
+    },
+    {
+      "periode": "1999-2000",
+      "texte": "Professeure de lettres stagiaire, puis démission de l'Éducation nationale.",
+      "source": {
+        "titre": "Wikipédia – Natacha Polony",
+        "url": "https://fr.wikipedia.org/wiki/Natacha_Polony",
+        "date": "2026-10-14"
+      }
+    }
+  ],
+  "affaires": [],
+  "a_verifier": [
+    "Relaxée le 20 mai 2022 par le tribunal correctionnel de Paris pour des propos tenus sur France Inter le 18 mars 2018 au sujet du génocide des Tutsis (selon Wikipédia) : à sourcer dans la presse reconnue avant publication, conformément à la méthode sur les affaires judiciaires.",
+    "Le nombre d'adhérents du mouvement (« environ 60 000 ») est revendiqué par la candidate, non vérifié de façon indépendante.",
+    "Rang de la candidature : « 28e candidate déclarée » selon franceinfo, « 34e » selon CNews ; non repris."
+  ]
+}
