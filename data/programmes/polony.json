@@ -1,0 +1,91 @@
+{
+  "id": "polony",
+  "mise_a_jour": "2026-10-14",
+  "programme": {
+    "titre": "Orientations publiées sur le site de campagne, sans programme détaillé",
+    "url": "https://www.natachapolony2027.fr/",
+    "etat": "partiel",
+    "note": "Au 14 octobre 2026, le site présente trois orientations (« Transmettre pour émanciper », « Produire pour choisir », « Faire vivre la démocratie ») sans liste de mesures ; les mesures ci-dessous sont celles annoncées dans les médias."
+  },
+  "reperes": [
+    {
+      "texte": "Se réclame du « gaullisme social » et veut représenter « tous les orphelins de la politique ».",
+      "source": {
+        "titre": "franceinfo (avec AFP) — La journaliste Natacha Polony se lance en politique pour « perturber l'entre-soi »",
+        "url": "https://www.franceinfo.fr/politique/la-journaliste-natacha-polony-se-lance-en-politique-pour-perturber-l-entre-soi_8170427.html",
+        "date": "2026-08-31"
+      }
+    },
+    {
+      "texte": "Mouvement « Nous sommes la France », lancé fin août 2026 ; environ 60 000 adhérents revendiqués par la candidate.",
+      "source": {
+        "titre": "franceinfo — L'essayiste Natacha Polony annonce sa candidature à l'élection présidentielle",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/l-essayiste-natacha-polony-annonce-sa-candidature-a-l-election-presidentielle_8236714.html",
+        "date": "2026-10-14"
+      }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "travail",
+      "texte": "Hausse des salaires de 20 à 30 %.",
+      "nature": "declaration",
+      "source": {
+        "titre": "LCP — « Oui, je suis candidate à la présidentielle », annonce Natacha Polony",
+        "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+        "date": "2026-10-14"
+      }
+    },
+    {
+      "theme": "economie",
+      "texte": "« État d'urgence de la production » pour réduire le déficit commercial.",
+      "nature": "declaration",
+      "source": {
+        "titre": "LCP — « Oui, je suis candidate à la présidentielle », annonce Natacha Polony",
+        "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+        "date": "2026-10-14"
+      }
+    },
+    {
+      "theme": "economie",
+      "texte": "Priorité à la production française dans la commande publique.",
+      "nature": "declaration",
+      "source": {
+        "titre": "LCP — « Oui, je suis candidate à la présidentielle », annonce Natacha Polony",
+        "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+        "date": "2026-10-14"
+      }
+    },
+    {
+      "theme": "economie",
+      "texte": "Fin des aides aux entreprises non liées à une production sur le sol français.",
+      "nature": "declaration",
+      "source": {
+        "titre": "LCP — « Oui, je suis candidate à la présidentielle », annonce Natacha Polony",
+        "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+        "date": "2026-10-14"
+      }
+    },
+    {
+      "theme": "education",
+      "texte": "Revoir entièrement la formation des enseignants et augmenter leur nombre.",
+      "nature": "declaration",
+      "source": {
+        "titre": "franceinfo (avec AFP) — La journaliste Natacha Polony se lance en politique pour « perturber l'entre-soi »",
+        "url": "https://www.franceinfo.fr/politique/la-journaliste-natacha-polony-se-lance-en-politique-pour-perturber-l-entre-soi_8170427.html",
+        "date": "2026-08-31"
+      }
+    }
+  ],
+  "ressources": [
+    {
+      "titre": "Natacha Polony 2027 — Ma vision",
+      "url": "https://www.natachapolony2027.fr/",
+      "type": "site",
+      "date": "2026-10-14"
+    }
+  ],
+  "a_verifier": [
+    "Déclaration de candidature publiée sur X le 14 octobre 2026 : « reconstruire notre puissance industrielle, garantir notre souveraineté énergétique, restaurer l'autorité de l'école, soutenir nos agriculteurs, protéger nos services publics et lutter fermement contre la corruption » (citée par CNews) : orientations sans mesure identifiable, non reprises."
+  ]
+}

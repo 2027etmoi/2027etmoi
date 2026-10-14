@@ -210,10 +210,11 @@
   "ressources": [
     { "titre": "Programme complet (site du candidat)", "url": "https://emmanuel-maurel.fr/programme/", "type": "programme", "date": "2026-09" },
     { "titre": "L'invité politique de franceinfo (4 septembre 2026)", "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-04-septembre-2026_8167499.html", "type": "video", "date": "2026-09-04" },
-    { "titre": "Fiche du candidat sur le site de la primaire Choisir 2027", "url": "https://choisir2027.fr/candidat/emmanuel-maurel/", "type": "article", "date": "2026-09-22" },
+    { "titre": "Fiche du candidat sur le site de la primaire Choisir 2027", "url": "https://web.archive.org/web/20260925081207/https://choisir2027.fr/candidat/emmanuel-maurel/", "type": "article", "date": "2026-09-22" },
     { "titre": "France 24 : ce qu'il faut savoir sur la primaire (dates, débats)", "url": "https://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal", "type": "article", "date": "2026-09-16" }
   ],
   "a_verifier": [
+    "Le site de la primaire choisir2027.fr est hors ligne depuis le scrutin du 11 octobre 2026 : lien remplacé par la copie Wayback Machine (Internet Archive).",
     "Police : le programme évoque une « police républicaine au service de tous » et rappelle la police de proximité, sans formulation de mesure précise.",
     "Retour du modèle de service public dans le ferroviaire : présenté comme une réflexion (« nous devons collectivement réfléchir »), pas comme une mesure ferme.",
     "Taxation de l'IA générative utilisant des œuvres : principe énoncé, modalités non précisées."

@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-12",
+  "mise_a_jour": "2026-10-14",
   "candidats": [
     {
       "id": "melenchon",
@@ -1092,6 +1092,32 @@
         "programme": "https://parti-equinoxe.fr/presidentielle-2027/"
       },
       "verifie_le": "2026-09-22"
+    },
+    {
+      "id": "polony",
+      "nom": "Natacha Polony",
+      "parti": "Nous sommes la France (mouvement)",
+      "bloc": "autre",
+      "statut": "declare",
+      "statut_detail": "Journaliste et essayiste, directrice de la revue L'Audace !, ancienne directrice de la rédaction de Marianne. Candidature annoncée le 14 octobre 2026 sur France Inter, portée par le mouvement « Nous sommes la France » lancé fin août 2026 ; se réclame du gaullisme social.",
+      "source": {
+        "titre": "LCP — « Oui, je suis candidate à la présidentielle », annonce Natacha Polony",
+        "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+        "date": "2026-10-14"
+      },
+      "propositions": [
+        "Hausse des salaires de 20 à 30 %.",
+        "« État d'urgence de la production » et priorité à la production française dans la commande publique.",
+        "Fin des aides aux entreprises non liées à une production sur le sol français."
+      ],
+      "liens": {
+        "campagne": "https://www.natachapolony2027.fr/",
+        "x": "https://x.com/NPolony",
+        "youtube": "https://www.youtube.com/@Natacha.Polony",
+        "instagram": "https://www.instagram.com/polony.info/",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Natacha_Polony"
+      },
+      "verifie_le": "2026-10-14"
     },
     {
       "id": "dubuisson",

@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-12",
+  "mise_a_jour": "2026-10-14",
   "candidatures": {
     "philippe": {
       "declaration": {
@@ -1253,6 +1253,36 @@
         "detail": null,
         "url": null,
         "source": null
+      }
+    },
+    "polony": {
+      "declaration": {
+        "date": "2026-10-14",
+        "source": {
+          "titre": "LCP — « Oui, je suis candidate à la présidentielle », annonce Natacha Polony",
+          "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+          "date": "2026-10-14"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature personnelle annoncée sur France Inter, portée par le mouvement « Nous sommes la France » qu'elle a lancé fin août 2026.",
+        "source": {
+          "titre": "LCP — « Oui, je suis candidate à la présidentielle », annonce Natacha Polony",
+          "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+          "date": "2026-10-14"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": "Pas de programme détaillé publié au 14 octobre 2026.",
+        "url": null,
+        "source": {
+          "titre": "Natacha Polony 2027 — Nous sommes la France (site de campagne)",
+          "url": "https://www.natachapolony2027.fr/",
+          "date": "2026-10-14"
+        }
       }
     }
   },
