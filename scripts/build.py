@@ -193,7 +193,10 @@ ORGANISATION = {"@context": "https://schema.org", "@type": "Organization", "name
                 "logo": f"{SITE}/assets/apple-touch-icon.png", "email": COURRIEL,
                 "contactPoint": {"@type": "ContactPoint", "contactType": "rédaction", "email": COURRIEL,
                                  "url": f"{SITE}/contact.html", "availableLanguage": "fr"},
-                "description": "Site d'information indépendant et non partisan sur l'élection présidentielle française de 2027."}
+                "description": "Site d'information indépendant et non partisan sur l'élection présidentielle française de 2027.",
+                "alternateName": ["2027etmoi", "2027etmoi.fr"],
+                "sameAs": ["https://github.com/2027etmoi/2027etmoi", "https://www.data.gouv.fr/organizations/2027etmoi/",
+                           "https://www.data.gouv.fr/reuses/2027-et-moi-candidats-programmes-votes-prises-de-parole-et-sondages-de-la-presidentielle-2027-tout-source"]}
 WEBSITE = {"@context": "https://schema.org", "@type": "WebSite", "name": NOM_SITE, "url": SITE + "/", "inLanguage": "fr-FR",
            "description": PAGES["index.html"][1], "publisher": {"@type": "Organization", "name": NOM_SITE, "url": SITE + "/"}}
 
@@ -213,7 +216,8 @@ for page, (titre, desc) in PAGES.items():
     if not f.exists():
         continue
     url = SITE + ("/" if page == "index.html" else f"/{page}")
-    s = set_title_desc(f.read_text(encoding="utf-8"), f"{titre} | {NOM_SITE}" if page != "index.html" else f"{titre} — {NOM_SITE}", desc)
+    # Accueil : la marque en tête, pour que Google associe « 2027 et moi » à ce domaine (requête de marque)
+    s = set_title_desc(f.read_text(encoding="utf-8"), f"{titre} | {NOM_SITE}" if page != "index.html" else f"{NOM_SITE} — {titre}", desc)
     jsonld = [WEBSITE, ORGANISATION] if page == "index.html" else []
     if page == "candidats.html":
         jsonld.append({"@context": "https://schema.org", "@type": "ItemList", "name": "Candidats à l'élection présidentielle française de 2027",
