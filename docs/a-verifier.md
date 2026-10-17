@@ -1,6 +1,6 @@
 # Points à vérifier (généré)
 
-Généré le 2026-10-14 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 619 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
+Généré le 2026-10-17 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 627 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
 
 ## Biographies et affaires judiciaires
 
@@ -272,6 +272,13 @@ Généré le 2026-10-14 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Photo : aucun portrait officiel du Parlement européen trouvé sur Commons. Photo de manifestation retenue (cadrage portrait vérifié). Vignette en 500px : la taille de 400px est refusée par Wikimedia.
 - [ ] Parcours professionnel : Wikipédia (d'après Le Temps) indique une entrée à HEC en 2001 et un diplôme en 2009 ; dates à confirmer.
 
+### Gilles Platret (`data/biographies/platret.json`)
+
+- [ ] Pas d'article Wikipédia (titre protégé à la création) : date et lieu de naissance, formation et profession non publiés par la presse consultée ; champ naissance omis. « 53 ans » selon franceinfo (14 octobre 2026).
+- [ ] Aucune photo sous licence libre identifiée sur Wikimedia Commons (octobre 2026) : champ photo omis.
+- [ ] Tête de liste LR aux élections régionales de 2021 en Bourgogne-Franche-Comté selon Wikipédia (page « Élections régionales de 2021 ») : à sourcer dans la presse avant publication.
+- [ ] Nombre de participants à la réunion du 8 octobre : « environ 800 » selon France 3, « 1 000 soutiens » selon le communiqué de la campagne.
+
 ### Natacha Polony (`data/biographies/polony.json`)
 
 - [ ] Relaxée le 20 mai 2022 par le tribunal correctionnel de Paris pour des propos tenus sur France Inter le 18 mars 2018 au sujet du génocide des Tutsis (selon Wikipédia) : à sourcer dans la presse reconnue avant publication, conformément à la méthode sur les affaires judiciaires.
@@ -334,6 +341,7 @@ Généré le 2026-10-14 par `python3 scripts/a_verifier.py` à partir des champs
 
 ### Éric Zemmour (`data/biographies/zemmour.json`)
 
+- [ ] Lien ined.fr (communiqué sur la condamnation définitive pour diffamation, Cour de cassation du 27 janvier 2026) : le site ined.fr refuse les connexions automatisées depuis le 17 octobre 2026 ; lien conservé, à revérifier à la main.
 - [ ] Pétain : vérifier si la Cour de cassation a statué sur le pourvoi formé après l'arrêt du 2 avril 2025. Lot 3 (22/09/2026) : aucune décision trouvée (franceinfo, ICI, France 24, Europe 1, Public Sénat, LCP ; pages thématiques franceinfo et ICI consultées). L'affaire reste publiée comme condamnation non définitive.
 - [ ] Crépol : vérifier si la cour d'appel a statué (appel annoncé le 26 mars 2025). Lot 3 (22/09/2026) : aucun arrêt d'appel trouvé dans les mêmes médias. L'affaire reste publiée comme condamnation de première instance.
 - [ ] Public Sénat : vérifier si la relaxe du 2 juillet 2025 a fait l'objet d'un appel.
@@ -521,6 +529,7 @@ Généré le 2026-10-14 par `python3 scripts/a_verifier.py` à partir des champs
 
 ### Emmanuel Maurel (`data/programmes/maurel.json`)
 
+- [ ] Le site de campagne emmanuel-maurel.fr est hors ligne depuis la primaire (17 octobre 2026) : liens vers le programme remplacés par la copie Wayback Machine du 5 octobre 2026.
 - [ ] Le site de la primaire choisir2027.fr est hors ligne depuis le scrutin du 11 octobre 2026 : lien remplacé par la copie Wayback Machine (Internet Archive).
 - [ ] Police : le programme évoque une « police républicaine au service de tous » et rappelle la police de proximité, sans formulation de mesure précise.
 - [ ] Retour du modèle de service public dans le ferroviaire : présenté comme une réflexion (« nous devons collectivement réfléchir »), pas comme une mesure ferme.
@@ -560,6 +569,10 @@ Généré le 2026-10-14 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Chiffrages du livret (économies de 60 Md€/an, recettes de 74,8 Md€/an, prix de l'électricité « divisé par trois ») : objectifs annoncés, non repris comme mesures.
 - [ ] « 98 mesures publiées le 11 septembre 2026 » : information lue uniquement sur un agrégateur, non vérifiée.
 - [ ] Travail et logement : aucune mesure concrète identifiée dans le livret.
+
+### Gilles Platret (`data/programmes/platret.json`)
+
+- [ ] Communiqué du 9 octobre 2026 connu par sa reproduction dans CNews ; aucun site de campagne identifié au 17 octobre 2026.
 
 ### Natacha Polony (`data/programmes/polony.json`)
 
@@ -853,6 +866,7 @@ Généré le 2026-10-14 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Notice Ifop vague 6 (10284) : les dates de terrain et l'échantillon ne sont pas lisibles dans le texte du PDF ; ils sont repris de la fiche technique publiée par Sud Radio, commanditaire (25-29 septembre 2026, 1 393 inscrits).
 - [ ] Notices 10271 (Ifop / Paris Match, 22 septembre) et 10278-10279 (CSA / CNews, 24 et 29 septembre) : PDF image, objet à vérifier — intentions de vote au 1er tour ou autre question.
 - [ ] Toutes les notices de la présidentielle sont listées sur https://www.commission-des-sondages.fr/notices/medias/fichiers/bytag/14/Presidentielle-2027 : à utiliser pour la veille.
+- [ ] Odoxa pour Backbone, Public Sénat, la presse régionale et Le Nouvel Obs (notice 10310, terrain du 24 septembre au 7 octobre 2026, 11 103 inscrits) : la notice ne contient pas les résultats, publiés dans le rapport sur odoxa.fr ; Public Sénat n'en cite qu'une partie (Mélenchon 18 %, Philippe 17 % ; hypothèse Attal : Le Pen 38 %, Mélenchon 18,5 %, Attal 11 %, Glucksmann 10,5 %, Retailleau 9 %). À saisir depuis le rapport complet.
 
 ## Votes au Parlement (`data/votes.json`)
 

@@ -1,13 +1,185 @@
 {
-  "mise_a_jour": "2026-10-14",
+  "mise_a_jour": "2026-10-17",
   "fenetre": {
     "debut": "2026-08-17",
-    "fin": "2026-10-08"
+    "fin": "2026-10-14"
   },
   "noms_hors_liste": {
     "bonnal": "Sébastien Bonnal"
   },
   "sondages": [
+    {
+      "institut": "Ifop-Fiducial",
+      "commanditaire": "LCI et Sud Radio (le climat politique après la primaire du PS et de Place publique)",
+      "terrain_debut": "2026-10-12",
+      "terrain_fin": "2026-10-14",
+      "echantillon": 1390,
+      "source": {
+        "titre": "Commission des sondages – notice Ifop-Fiducial pour LCI et Sud Radio",
+        "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10314-pres-climat-politique-post-primaire-ps-pp-ifop-lci-14-octobre.pdf",
+        "date": "2026-10-14"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse Philippe et Attal candidats (Arthaud « - »)",
+          "scores": {
+            "melenchon": 16,
+            "roussel": 2.5,
+            "tondelier": 2,
+            "glucksmann": 14,
+            "attal": 6,
+            "philippe": 14,
+            "retailleau": 6.5,
+            "dupont-aignan": 2,
+            "le-pen": 34,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse Philippe candidat du bloc central",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 16,
+            "roussel": 3,
+            "tondelier": 2.5,
+            "glucksmann": 13.5,
+            "philippe": 18,
+            "retailleau": 6.5,
+            "dupont-aignan": 2,
+            "le-pen": 35,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse Attal candidat du bloc central",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 17,
+            "roussel": 2.5,
+            "tondelier": 2,
+            "glucksmann": 16,
+            "attal": 13,
+            "retailleau": 8,
+            "dupont-aignan": 2,
+            "le-pen": 36,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse avec Ruffin, Villepin et Lisnard (Arthaud « - »)",
+          "scores": {
+            "melenchon": 16,
+            "roussel": 2,
+            "ruffin": 2,
+            "tondelier": 2,
+            "glucksmann": 11.5,
+            "attal": 5,
+            "philippe": 13,
+            "villepin": 1.5,
+            "lisnard": 6,
+            "retailleau": 5,
+            "dupont-aignan": 1,
+            "le-pen": 32,
+            "zemmour": 3
+          }
+        }
+      ]
+    },
+    {
+      "institut": "OpinionWay",
+      "commanditaire": "Les Echos et Radio Classique (Présitrack, vague 3)",
+      "terrain_debut": "2026-10-13",
+      "terrain_fin": "2026-10-14",
+      "echantillon": 978,
+      "source": {
+        "titre": "Commission des sondages – notice OpinionWay pour Les Echos et Radio Classique (Présitrack, vague 3)",
+        "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10318-pres-presitrack-v3-opinionway-15-octobre.pdf",
+        "date": "2026-10-15"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse 1 : Attal et Philippe candidats du centre (Arthaud « <1 % », noté 0,5 ; colonne « Publié »)",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 14,
+            "roussel": 3,
+            "tondelier": 3,
+            "glucksmann": 13,
+            "attal": 7,
+            "philippe": 12,
+            "retailleau": 7,
+            "dupont-aignan": 2,
+            "zemmour": 4,
+            "le-pen": 35
+          }
+        },
+        {
+          "label": "Hypothèse 2 : Attal candidat du centre",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 15,
+            "roussel": 2,
+            "tondelier": 3,
+            "glucksmann": 16,
+            "attal": 11,
+            "retailleau": 9,
+            "dupont-aignan": 2,
+            "zemmour": 4,
+            "le-pen": 37
+          }
+        },
+        {
+          "label": "Hypothèse 3 : Philippe candidat du centre",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 15,
+            "roussel": 2,
+            "tondelier": 3,
+            "glucksmann": 15,
+            "philippe": 15,
+            "retailleau": 8,
+            "dupont-aignan": 2,
+            "zemmour": 4,
+            "le-pen": 35
+          }
+        }
+      ]
+    },
+    {
+      "institut": "OpinionWay",
+      "commanditaire": "CNews",
+      "terrain_debut": "2026-10-13",
+      "terrain_fin": "2026-10-14",
+      "echantillon": 978,
+      "source": {
+        "titre": "Commission des sondages – notice OpinionWay pour CNews",
+        "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf",
+        "date": "2026-10-15"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse unique avec Attal, Philippe, Lisnard et Bouamrane (colonne « Publié » reconstituée, tableau mal aligné dans la notice ; Tondelier « <1 % », noté 0,5)",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 15,
+            "roussel": 1,
+            "tondelier": 0.5,
+            "glucksmann": 13,
+            "bouamrane": 1,
+            "attal": 5,
+            "philippe": 12,
+            "lisnard": 4,
+            "retailleau": 6,
+            "dupont-aignan": 2,
+            "zemmour": 5,
+            "le-pen": 35
+          }
+        }
+      ]
+    },
     {
       "institut": "Toluna Harris Interactive",
       "commanditaire": "M6 et RTL",
@@ -1351,6 +1523,7 @@
     "Baromètre Toluna Harris Interactive pour M6-RTL, vague 6 (terrain du 22 au 24 septembre 2026) : notice 10277 et rapport de l'institut publiés en PDF image, chiffres non lisibles automatiquement ; à saisir à la main hypothèse par hypothèse.",
     "Notice Ifop vague 6 (10284) : les dates de terrain et l'échantillon ne sont pas lisibles dans le texte du PDF ; ils sont repris de la fiche technique publiée par Sud Radio, commanditaire (25-29 septembre 2026, 1 393 inscrits).",
     "Notices 10271 (Ifop / Paris Match, 22 septembre) et 10278-10279 (CSA / CNews, 24 et 29 septembre) : PDF image, objet à vérifier — intentions de vote au 1er tour ou autre question.",
-    "Toutes les notices de la présidentielle sont listées sur https://www.commission-des-sondages.fr/notices/medias/fichiers/bytag/14/Presidentielle-2027 : à utiliser pour la veille."
+    "Toutes les notices de la présidentielle sont listées sur https://www.commission-des-sondages.fr/notices/medias/fichiers/bytag/14/Presidentielle-2027 : à utiliser pour la veille.",
+    "Odoxa pour Backbone, Public Sénat, la presse régionale et Le Nouvel Obs (notice 10310, terrain du 24 septembre au 7 octobre 2026, 11 103 inscrits) : la notice ne contient pas les résultats, publiés dans le rapport sur odoxa.fr ; Public Sénat n'en cite qu'une partie (Mélenchon 18 %, Philippe 17 % ; hypothèse Attal : Le Pen 38 %, Mélenchon 18,5 %, Attal 11 %, Glucksmann 10,5 %, Retailleau 9 %). À saisir depuis le rapport complet."
   ]
 }

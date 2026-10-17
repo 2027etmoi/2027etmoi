@@ -1,6 +1,6 @@
 {
   "id": "philippe",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-10-17",
   "programme": {
     "titre": "Les priorités — Avec Édouard 2027",
     "url": "https://www.edouardphilippe.fr/",
@@ -277,6 +277,18 @@
       "texte": "Créer une « DATAR 2.0 », opérateur unique de l'adaptation climatique des territoires.",
       "nature": "programme",
       "source": { "titre": "edouardphilippe.fr — Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "date": "2026-09-22" }
+    },
+    {
+      "theme": "education",
+      "texte": "Rythmes scolaires : heures de cours concentrées le matin ; sport, enseignement culturel ou langue l'après-midi.",
+      "nature": "declaration",
+      "source": { "titre": "CNews — Présidentielle 2027 : ces idées d'Édouard Philippe pourraient bouleverser les rythmes scolaires", "url": "https://www.cnews.fr/france/2026-10-16/presidentielle-2027-ces-idees-dedouard-philippe-pourraient-bouleverser-les", "date": "2026-10-16" }
+    },
+    {
+      "theme": "education",
+      "texte": "Envisage de réduire les vacances de la Toussaint et de Pâques en contrepartie d'une semaine de cours allégée.",
+      "nature": "declaration",
+      "source": { "titre": "CNews — Présidentielle 2027 : ces idées d'Édouard Philippe pourraient bouleverser les rythmes scolaires", "url": "https://www.cnews.fr/france/2026-10-16/presidentielle-2027-ces-idees-dedouard-philippe-pourraient-bouleverser-les", "date": "2026-10-16" }
     }
   ],
   "ressources": [

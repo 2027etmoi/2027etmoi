@@ -1,0 +1,136 @@
+{
+  "id": "platret",
+  "mise_a_jour": "2026-10-17",
+  "programme": {
+    "titre": "Communiqué de candidature du 9 octobre 2026 (« chevaux de bataille »)",
+    "url": "https://www.cnews.fr/france/2026-10-10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-annonce-sa",
+    "etat": "partiel",
+    "note": "Au 17 octobre 2026, pas de programme publié ni de site de campagne identifié ; les mesures ci-dessous sont celles du communiqué de presse du 9 octobre 2026, reproduit par CNews. Un livre est annoncé pour novembre."
+  },
+  "reperes": [
+    {
+      "texte": "Maire divers droite de Chalon-sur-Saône depuis 2014, ancien vice-président des Républicains.",
+      "source": {
+        "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "date": "2026-10-14"
+      }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "societe",
+      "texte": "Interdiction en France des Frères musulmans, des mouvements islamistes « et de leurs soutiens d'ultra-gauche ».",
+      "nature": "programme",
+      "source": {
+        "titre": "CNews — Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret annonce sa candidature (communiqué du 9 octobre 2026)",
+        "url": "https://www.cnews.fr/france/2026-10-10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-annonce-sa",
+        "date": "2026-10-10"
+      }
+    },
+    {
+      "theme": "societe",
+      "texte": "« Grande loi d'assimilation » comportant l'interdiction du voile dans l'espace public.",
+      "nature": "programme",
+      "source": {
+        "titre": "CNews — Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret annonce sa candidature (communiqué du 9 octobre 2026)",
+        "url": "https://www.cnews.fr/france/2026-10-10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-annonce-sa",
+        "date": "2026-10-10"
+      }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Rétablissement des frontières contre l'immigration irrégulière et réduction drastique de la délivrance des titres de séjour.",
+      "nature": "programme",
+      "source": {
+        "titre": "CNews — Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret annonce sa candidature (communiqué du 9 octobre 2026)",
+        "url": "https://www.cnews.fr/france/2026-10-10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-annonce-sa",
+        "date": "2026-10-10"
+      }
+    },
+    {
+      "theme": "travail",
+      "texte": "Abolition de la loi sur les 35 heures et retour aux 39 heures hebdomadaires, présenté comme un moyen de limiter le recul de l'âge légal de départ en retraite.",
+      "nature": "programme",
+      "source": {
+        "titre": "CNews — Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret annonce sa candidature (communiqué du 9 octobre 2026)",
+        "url": "https://www.cnews.fr/france/2026-10-10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-annonce-sa",
+        "date": "2026-10-10"
+      }
+    },
+    {
+      "theme": "economie",
+      "texte": "Réduction de la dette publique sous 100 % du PIB.",
+      "nature": "programme",
+      "source": {
+        "titre": "CNews — Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret annonce sa candidature (communiqué du 9 octobre 2026)",
+        "url": "https://www.cnews.fr/france/2026-10-10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-annonce-sa",
+        "date": "2026-10-10"
+      }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Accroissement du soutien à l'agriculture française au nom de la souveraineté alimentaire.",
+      "nature": "programme",
+      "source": {
+        "titre": "CNews — Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret annonce sa candidature (communiqué du 9 octobre 2026)",
+        "url": "https://www.cnews.fr/france/2026-10-10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-annonce-sa",
+        "date": "2026-10-10"
+      }
+    },
+    {
+      "theme": "education",
+      "texte": "« Fin du pédagogisme » à l'école, retour de la discipline en classe, fin de l'autonomie des universités.",
+      "nature": "programme",
+      "source": {
+        "titre": "CNews — Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret annonce sa candidature (communiqué du 9 octobre 2026)",
+        "url": "https://www.cnews.fr/france/2026-10-10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-annonce-sa",
+        "date": "2026-10-10"
+      }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Retour du Conseil constitutionnel à son domaine de compétence d'avant 1971 (extension du bloc de constitutionnalité).",
+      "nature": "programme",
+      "source": {
+        "titre": "CNews — Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret annonce sa candidature (communiqué du 9 octobre 2026)",
+        "url": "https://www.cnews.fr/france/2026-10-10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-annonce-sa",
+        "date": "2026-10-10"
+      }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Scrutin uninominal à un tour pour les élections législatives.",
+      "nature": "programme",
+      "source": {
+        "titre": "CNews — Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret annonce sa candidature (communiqué du 9 octobre 2026)",
+        "url": "https://www.cnews.fr/france/2026-10-10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-annonce-sa",
+        "date": "2026-10-10"
+      }
+    },
+    {
+      "theme": "securite",
+      "texte": "Moyens « largement supérieurs » pour la sécurité et la justice ; dénonce le manque de places de prison.",
+      "nature": "programme",
+      "source": {
+        "titre": "CNews — Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret annonce sa candidature (communiqué du 9 octobre 2026)",
+        "url": "https://www.cnews.fr/france/2026-10-10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-annonce-sa",
+        "date": "2026-10-10"
+      }
+    },
+    {
+      "theme": "international",
+      "texte": "Accélération du réarmement militaire.",
+      "nature": "programme",
+      "source": {
+        "titre": "CNews — Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret annonce sa candidature (communiqué du 9 octobre 2026)",
+        "url": "https://www.cnews.fr/france/2026-10-10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-annonce-sa",
+        "date": "2026-10-10"
+      }
+    }
+  ],
+  "ressources": [],
+  "a_verifier": [
+    "Communiqué du 9 octobre 2026 connu par sa reproduction dans CNews ; aucun site de campagne identifié au 17 octobre 2026."
+  ]
+}

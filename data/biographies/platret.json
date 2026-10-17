@@ -1,0 +1,61 @@
+{
+  "id": "platret",
+  "mise_a_jour": "2026-10-17",
+  "presentation": {
+    "texte": "Gilles Platret, 53 ans, est maire divers droite de Chalon-sur-Saône (Saône-et-Loire), élu en 2014 et réélu depuis. Ancien vice-président des Républicains, il dit avoir quitté le parti en 2024. Il a annoncé sa candidature à l'élection présidentielle de 2027 le 8 octobre 2026, devant ses soutiens réunis au Colisée de Chalon-sur-Saône, et doit réunir 500 parrainages d'élus.",
+    "sources": [
+      {
+        "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "date": "2026-10-14"
+      },
+      {
+        "titre": "France 3 Bourgogne-Franche-Comté — Gilles Platret, le maire de Chalon-sur-Saône, se déclare candidat à l'élection présidentielle : « je m'engage résolument vers 2027 »",
+        "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/chalon-sur-saone/gilles-platret-le-maire-de-chalon-sur-saone-se-declare-candidat-a-l-election-presidentielle-je-m-engage-resolument-vers-2027-3430416.html",
+        "date": "2026-10-09"
+      },
+      {
+        "titre": "ICI Bourgogne — « Libre » et « déterminé » : le maire de Chalon-sur-Saône, Gilles Platret, se déclare candidat à la présidentielle",
+        "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-bourgogne/libre-et-determine-le-maire-de-chalon-sur-saone-gilles-platret-se-declare-candidat-a-la-presidentielle-6724488",
+        "date": "2026-10-09"
+      }
+    ]
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Annonce sa candidature à l'élection présidentielle de 2027 le 8 octobre 2026, lors d'une réunion publique « Parlons de la France » à Chalon-sur-Saône (environ 800 personnes selon France 3) : « Devant vous, avec vous je m'engage résolument vers 2027 ».",
+      "source": {
+        "titre": "France 3 Bourgogne-Franche-Comté — Gilles Platret, le maire de Chalon-sur-Saône, se déclare candidat à l'élection présidentielle : « je m'engage résolument vers 2027 »",
+        "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/chalon-sur-saone/gilles-platret-le-maire-de-chalon-sur-saone-se-declare-candidat-a-l-election-presidentielle-je-m-engage-resolument-vers-2027-3430416.html",
+        "date": "2026-10-09"
+      }
+    },
+    {
+      "periode": "2024",
+      "texte": "Quitte Les Républicains, dont il avait été vice-président, « il y a deux ans précisément » (entretien du 9 octobre 2026).",
+      "source": {
+        "titre": "ICI Bourgogne — « Libre » et « déterminé » : le maire de Chalon-sur-Saône, Gilles Platret, se déclare candidat à la présidentielle",
+        "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-bourgogne/libre-et-determine-le-maire-de-chalon-sur-saone-gilles-platret-se-declare-candidat-a-la-presidentielle-6724488",
+        "date": "2026-10-09"
+      }
+    },
+    {
+      "periode": "Depuis 2014",
+      "texte": "Maire de Chalon-sur-Saône (Saône-et-Loire), élu en 2014.",
+      "source": {
+        "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "date": "2026-10-14"
+      }
+    }
+  ],
+  "parcours_professionnel": [],
+  "affaires": [],
+  "a_verifier": [
+    "Pas d'article Wikipédia (titre protégé à la création) : date et lieu de naissance, formation et profession non publiés par la presse consultée ; champ naissance omis. « 53 ans » selon franceinfo (14 octobre 2026).",
+    "Aucune photo sous licence libre identifiée sur Wikimedia Commons (octobre 2026) : champ photo omis.",
+    "Tête de liste LR aux élections régionales de 2021 en Bourgogne-Franche-Comté selon Wikipédia (page « Élections régionales de 2021 ») : à sourcer dans la presse avant publication.",
+    "Nombre de participants à la réunion du 8 octobre : « environ 800 » selon France 3, « 1 000 soutiens » selon le communiqué de la campagne."
+  ]
+}

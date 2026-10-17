@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-14",
+  "mise_a_jour": "2026-10-17",
   "fenetre": {
     "debut": "2026-08-24"
   },
@@ -1315,6 +1315,41 @@
         "campagne"
       ],
       "verifie_le": "2026-10-14"
+    },
+    {
+      "id": "platret",
+      "date": "2026-10-08",
+      "type": "discours",
+      "media": "Le Colisée, Chalon-sur-Saône",
+      "emission": "Réunion publique « Parlons de la France »",
+      "titre": "Gilles Platret, le maire de Chalon-sur-Saône, se déclare candidat à l'élection présidentielle : « je m'engage résolument vers 2027 »",
+      "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/chalon-sur-saone/gilles-platret-le-maire-de-chalon-sur-saone-se-declare-candidat-a-l-election-presidentielle-je-m-engage-resolument-vers-2027-3430416.html",
+      "declare": [
+        "Annonce sa candidature : « Devant vous, avec vous je m'engage résolument vers 2027 ».",
+        "« La situation du pays est grave, c'est dans un climat insurrectionnel que nous nous réunissons ce soir » ; « N'ayons pas peur de ces mots : rétablissons les frontières »."
+      ],
+      "themes": [
+        "campagne",
+        "immigration"
+      ],
+      "verifie_le": "2026-10-17"
+    },
+    {
+      "id": "philippe",
+      "date": "2026-10-15",
+      "type": "discours",
+      "media": "Réunion d'appartement diffusée en ligne",
+      "emission": "Réunion d'appartement (plus de 5 000 personnes connectées, selon CNews)",
+      "titre": "Présidentielle 2027 : ces idées d'Édouard Philippe pourraient bouleverser les rythmes scolaires",
+      "url": "https://www.cnews.fr/france/2026-10-16/presidentielle-2027-ces-idees-dedouard-philippe-pourraient-bouleverser-les",
+      "declare": [
+        "Propose des heures de cours concentrées le matin et, l'après-midi, du sport, un enseignement culturel ou l'apprentissage d'une langue : « Je ne crois pas que ce soit une bonne idée d'avoir beaucoup de cours sur peu de jours et puis des vacances assez longues ».",
+        "S'interroge sur une réduction des vacances de la Toussaint et de Pâques en contrepartie : « est-ce que ça ne vaut pas le coup de limiter le nombre de jours de congés ou de vacances »."
+      ],
+      "themes": [
+        "education"
+      ],
+      "verifie_le": "2026-10-17"
     }
   ],
   "a_verifier": [
