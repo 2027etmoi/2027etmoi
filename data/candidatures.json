@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-14",
+  "mise_a_jour": "2026-10-17",
   "candidatures": {
     "philippe": {
       "declaration": {
@@ -899,10 +899,10 @@
       "chiffrage": {
         "publie": false,
         "detail": "Le programme détaillé publié sur le site du candidat (page non datée) ne comporte pas de chiffrage global ; il chiffre une mesure isolée (grand emprunt pour un plan d'investissement de 300 milliards d'euros).",
-        "url": "https://emmanuel-maurel.fr/programme/",
+        "url": "https://web.archive.org/web/20261005222327/https://emmanuel-maurel.fr/programme/",
         "source": {
           "titre": "Programme d'Emmanuel Maurel",
-          "url": "https://emmanuel-maurel.fr/programme/",
+          "url": "https://web.archive.org/web/20261005222327/https://emmanuel-maurel.fr/programme/",
           "date": "2026-09-22"
         }
       }
@@ -1282,6 +1282,36 @@
           "titre": "Natacha Polony 2027 — Nous sommes la France (site de campagne)",
           "url": "https://www.natachapolony2027.fr/",
           "date": "2026-10-14"
+        }
+      }
+    },
+    "platret": {
+      "declaration": {
+        "date": "2026-10-08",
+        "source": {
+          "titre": "France 3 Bourgogne-Franche-Comté — Gilles Platret, le maire de Chalon-sur-Saône, se déclare candidat à l'élection présidentielle : « je m'engage résolument vers 2027 »",
+          "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/chalon-sur-saone/gilles-platret-le-maire-de-chalon-sur-saone-se-declare-candidat-a-l-election-presidentielle-je-m-engage-resolument-vers-2027-3430416.html",
+          "date": "2026-10-09"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature personnelle, sans parti, annoncée lors d'une réunion publique à Chalon-sur-Saône.",
+        "source": {
+          "titre": "France 3 Bourgogne-Franche-Comté — Gilles Platret, le maire de Chalon-sur-Saône, se déclare candidat à l'élection présidentielle : « je m'engage résolument vers 2027 »",
+          "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/chalon-sur-saone/gilles-platret-le-maire-de-chalon-sur-saone-se-declare-candidat-a-l-election-presidentielle-je-m-engage-resolument-vers-2027-3430416.html",
+          "date": "2026-10-09"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": "Pas de programme publié au 17 octobre 2026 ; un livre est annoncé pour novembre.",
+        "url": null,
+        "source": {
+          "titre": "ICI Bourgogne — « Libre » et « déterminé » : le maire de Chalon-sur-Saône, Gilles Platret, se déclare candidat à la présidentielle",
+          "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-bourgogne/libre-et-determine-le-maire-de-chalon-sur-saone-gilles-platret-se-declare-candidat-a-la-presidentielle-6724488",
+          "date": "2026-10-09"
         }
       }
     }
