@@ -5,7 +5,8 @@ const BLOCS = {
   ecolo: "Écologistes",
   centre: "Centre",
   droite: "Droite",
-  extdroite: "Droite nationaliste",
+  souverainiste: "Droite souverainiste",
+  extdroite: "RN, Reconquête et alliés",
   autre: "Autres",
 };
 

@@ -2,6 +2,27 @@
 
 Ces données alimentent la page « Candidatures en données » (`donnees.html`). Principe : **pas de note, pas de classement.** Chaque cellule présente un fait vérifiable, avec sa source et sa date. Quand l'information est inconnue, on met `null` et la page affiche « non connu ».
 
+## Familles politiques (`bloc`)
+
+Le champ `bloc` de `data/candidats.json` sert à regrouper les candidats sur le site. Il ne traduit aucune appréciation du site : il reprend la **grille des nuances politiques du ministère de l'Intérieur**, telle qu'elle est appliquée aux candidatures (instruction de nuançage des législatives de 2024, nuances publiées en données ouvertes avec les candidatures). On classe le **parti** du candidat, pas la personne.
+
+| `bloc` | Libellé affiché | Nuances du ministère |
+|---|---|---|
+| `gauche` | Gauche | LFI, PS, PCF, DVG, UG, EXG… |
+| `ecolo` | Écologistes | ECO |
+| `centre` | Centre | ENS, REN, MDM, HOR, UDI, DVC… |
+| `droite` | Droite | LR, DVD |
+| `souverainiste` | Droite souverainiste | DSV (Debout la France, UPR, Les Patriotes) |
+| `extdroite` | RN, Reconquête et alliés | RN, REC, et les partis qui leur sont alliés (Identité-Libertés) |
+| `autre` | Autres | sans affiliation partisane, ou nuance DIV |
+
+Règles :
+- une personne sans parti va dans `autre`, même si son discours la rapproche d'une famille ; un maire « divers droite » (DVD) va dans `droite` ;
+- le libellé affiché n'emploie aucun qualificatif absent de la grille du ministère (ni « extrême », ni « nationaliste ») ;
+- tout changement de bloc est motivé par une source : nuance attribuée à une élection, adhésion ou départ d'un parti.
+
+Vérification du 19 octobre 2026 : dans les candidatures aux législatives de 2024 publiées par le ministère (data.gouv.fr), Nicolas Dupont-Aignan et François Asselineau portent la nuance DSV « Droite souverainiste ».
+
 ## `data/candidatures.json`
 
 ```json
