@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-17",
+  "mise_a_jour": "2026-10-19",
   "candidats": [
     {
       "id": "melenchon",
@@ -873,7 +873,7 @@
       "id": "dupont-aignan",
       "nom": "Nicolas Dupont-Aignan",
       "parti": "Debout la France",
-      "bloc": "extdroite",
+      "bloc": "souverainiste",
       "statut": "declare",
       "statut_detail": "Candidature officialisée le 19 septembre 2026. Quatrième candidature.",
       "source": {
@@ -899,7 +899,7 @@
       "id": "philippot",
       "nom": "Florian Philippot",
       "parti": "Les Patriotes",
-      "bloc": "extdroite",
+      "bloc": "souverainiste",
       "statut": "declare",
       "statut_detail": "Annonce sur France 2. N'exclut pas un rassemblement des souverainistes.",
       "source": {
@@ -924,7 +924,7 @@
       "id": "asselineau",
       "nom": "François Asselineau",
       "parti": "Union populaire républicaine",
-      "bloc": "extdroite",
+      "bloc": "souverainiste",
       "statut": "declare",
       "statut_detail": "Candidature confirmée par l'UPR.",
       "source": {

@@ -444,7 +444,7 @@ _hors = sond.get("noms_hors_liste") or {}
 LIENS = {"campagne": "Site de campagne", "parti": "Parti", "programme": "Programme", "x": "X",
          "instagram": "Instagram", "youtube": "YouTube", "wikipedia": "Wikipédia"}
 BLOCS_LIB = {"gauche": "Gauche", "ecolo": "Écologistes", "centre": "Centre", "droite": "Droite",
-             "extdroite": "Droite nationaliste", "autre": "Autres"}
+             "souverainiste": "Droite souverainiste", "extdroite": "RN, Reconquête et alliés", "autre": "Autres"}
 # Libellés sans accord de genre (le script affiche ensuite ses propres badges)
 STATUTS_COURTS = {"declare": "Candidature déclarée", "primaire": "En primaire", "pressenti": "Candidature pressentie",
                   "empeche": "Candidature empêchée", "renonce": "Ne se présente pas"}
@@ -512,7 +512,7 @@ _remplir("candidats.html", '<tbody id="rows">', "</tbody>", "".join(_ligne_candi
 
 # --- 3 bis. liste statique des candidats sur l'accueil (liens internes, lisible sans JavaScript)
 BLOCS = {"gauche": "Gauche", "ecolo": "Écologistes", "centre": "Centre", "droite": "Droite",
-         "extdroite": "Droite nationaliste", "autre": "Autres"}
+         "souverainiste": "Droite souverainiste", "extdroite": "RN, Reconquête et alliés", "autre": "Autres"}
 en_lice = [c for c in cands if c["statut"] in ("declare", "primaire", "pressenti")]
 groupes = []
 for b, label in BLOCS.items():

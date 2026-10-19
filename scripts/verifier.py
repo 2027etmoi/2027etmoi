@@ -12,7 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 
-BLOCS = {"gauche", "ecolo", "centre", "droite", "extdroite", "autre"}
+BLOCS = {"gauche", "ecolo", "centre", "droite", "souverainiste", "extdroite", "autre"}
 STATUTS = {"declare", "primaire", "pressenti", "empeche", "renonce"}
 THEMES = {"economie", "travail", "retraites", "sante", "education", "ecologie", "immigration",
           "securite", "international", "institutions", "logement", "territoires", "societe"}

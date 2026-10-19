@@ -21,6 +21,7 @@
   --bloc-ecolo: #6dbb8a;
   --bloc-centre: #e9b949;
   --bloc-droite: #6f97d6;
+  --bloc-souverainiste: #8a7fb5;
   --bloc-extdroite: #5a6a93;
   --bloc-autre: #a9a39a;
 
@@ -115,6 +116,7 @@ tbody tr.retire { opacity: .7; }
 .dot.ecolo { background: var(--bloc-ecolo); }
 .dot.centre { background: var(--bloc-centre); }
 .dot.droite { background: var(--bloc-droite); }
+.dot.souverainiste { background: var(--bloc-souverainiste); }
 .dot.extdroite { background: var(--bloc-extdroite); }
 
 .badge {
