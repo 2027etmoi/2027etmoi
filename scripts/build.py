@@ -529,10 +529,9 @@ if accueil.exists():
     par_statut = Counter(c["statut"] for c in en_lice)
     par_parti = Counter(c["parti"] for c in en_lice)
     chiffres = (f'<div class="kpis">'
-                f'<div class="kpi"><span class="kpi-n">{len(en_lice)}</span><span class="kpi-l">candidatures recensées</span></div>'
-                f'<div class="kpi"><span class="kpi-n">{par_statut["declare"]}</span><span class="kpi-l">déclarées</span></div>'
-                f'<div class="kpi"><span class="kpi-n">{par_statut["primaire"]}</span><span class="kpi-l">en primaire</span></div>'
-                f'<div class="kpi"><span class="kpi-n">{par_statut["pressenti"]}</span><span class="kpi-l">pressenties</span></div>'
+                f'<div class="kpi"><span class="kpi-n">{par_statut["declare"] + par_statut["primaire"]}</span><span class="kpi-l">candidatures déclarées</span></div>'
+                f'<div class="kpi"><span class="kpi-n">{par_statut["primaire"]}</span><span class="kpi-l">dont en primaire</span></div>'
+                f'<div class="kpi"><span class="kpi-n">{par_statut["pressenti"]}</span><span class="kpi-l">candidatures pressenties</span></div>'
                 f'<div class="kpi"><span class="kpi-n">{len(par_parti)}</span><span class="kpi-l">partis ou mouvements</span></div></div>')
     partis = ('<details class="card partis"><summary><h3>Répartition par parti ou mouvement</h3></summary><ul class="partis-list">'
               + "".join(f'<li><span>{esc(pt)}</span><strong>{n}</strong></li>' for pt, n in sorted(par_parti.items(), key=lambda x: (-x[1], x[0])))
@@ -782,7 +781,7 @@ _votes = load(DATA / "votes.json") if (DATA / "votes.json").exists() else {}
 _paroles = load(DATA / "prises-de-parole.json").get("prises_de_parole", []) if (DATA / "prises-de-parole.json").exists() else []
 _nb_pos = sum(len(v) for k, v in qdata["positions"].items() if k in noms)
 _chiffres = [
-    (len(cands), f"personnalités suivies, dont {len(en_lice)} en lice (déclarées, en primaire ou pressenties)"),
+    (len(cands), f"personnalités suivies, dont {sum(c['statut'] in ('declare', 'primaire') for c in cands)} candidatures déclarées ou en primaire et {sum(c['statut'] == 'pressenti' for c in cands)} pressenties"),
     (sum(len(p.get("mesures", [])) for p in _progs), f"mesures de programme sourcées, dans {len(_progs)} fiches"),
     (_nb_pos, f"positions sourcées sur {len(qdata['questions'])} questions clés"),
     (len(_votes.get("scrutins", [])), "scrutins parlementaires suivis, avec le vote de chaque candidat concerné"),

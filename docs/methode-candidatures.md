@@ -23,6 +23,20 @@ Règles :
 
 Vérification du 19 octobre 2026 : dans les candidatures aux législatives de 2024 publiées par le ministère (data.gouv.fr), Nicolas Dupont-Aignan et François Asselineau portent la nuance DSV « Droite souverainiste ».
 
+## Statuts de candidature (`statut`)
+
+Le statut est un fait daté, jamais une appréciation des chances. Chaque statut a une source (propos de l'intéressé, décision d'un parti, acte officiel) et une date de vérification.
+
+| `statut` | Libellé | Critère |
+|---|---|---|
+| `declare` | Candidature déclarée | la personne a annoncé publiquement sa candidature à l'élection présidentielle, ou a été désignée par un parti ou une primaire |
+| `primaire` | En primaire | la personne est candidate à une primaire en cours ; elle devient `declare` si elle est désignée, `renonce` sinon |
+| `pressenti` | Candidature pressentie | la personne a dit elle-même envisager une candidature, fixé une date de décision, ou fait campagne sans se déclarer ; on ne retient ni les rumeurs ni les souhaits exprimés par d'autres |
+| `empeche` | Candidature empêchée | une décision (justice, inéligibilité, parrainages) l'empêche de se présenter, avec la source de cette décision |
+| `renonce` | Ne se présente pas | la personne a renoncé, a été éliminée d'une primaire, s'est ralliée à un autre candidat, ou a été écartée par son parti ; le détail dit lequel |
+
+Les compteurs du site distinguent les candidatures **déclarées ou en primaire** des candidatures **pressenties** ; les secondes sont suivies (fiche, sondages, votes) mais ne sont pas comptées comme des candidatures.
+
 ## `data/candidatures.json`
 
 ```json
