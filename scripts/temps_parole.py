@@ -39,7 +39,7 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 BASE = "https://www.arcom.fr/sites/default/files/tphe/files/speaking_time_files/"
-FICHIERS = [  # (mois, url) — 7 mois publiés au 2026-10-11
+FICHIERS = [  # (mois, url) — 8 mois publiés au 2026-10-22
     ("2026-01", BASE + "Export_web_Personnalites_avec_seuil_01-01-2026_31-01-2026.csv"),
     ("2026-02", BASE + "Export_web_Personnalites_avec_seuil_01-02-2026_28-02-2026.csv"),
     ("2026-03", BASE + "Export_web_Personnalites_avec_seuil_01-03-2026_31-03-2026.csv"),
@@ -47,6 +47,7 @@ FICHIERS = [  # (mois, url) — 7 mois publiés au 2026-10-11
     ("2026-05", BASE + "Export_web_Personnalites_avec_seuil_01-05-2026_31-05-2026.csv"),
     ("2026-06", BASE + "Export_web_Personnalites_avec_seuil_01-06-2026_30-06-2026.csv"),
     ("2026-07", BASE + "Export_web_Personnalites_avec_seuil_01-07-2026_31-07-2026.csv"),
+    ("2026-08", BASE + "Export_web_Personnalites_avec_seuil_01-08-2026_31-08-2026.csv"),
 ]
 SOURCE = {
     "titre": "Arcom — relevés des temps de parole hors périodes électorales",
@@ -156,7 +157,8 @@ def main():
     cands = json.loads((ROOT / "data" / "candidats.json").read_text(encoding="utf-8"))["candidats"]
     retenus = [c for c in cands if c["statut"] in STATUTS]
     inconnus = set(ALIAS) - {c["id"] for c in retenus}
-    assert not inconnus, f"ALIAS pour des ids non retenus : {inconnus}"
+    if inconnus:  # candidats sortis de la course depuis (ex. primaire) : alias conservés, simplement ignorés
+        print(f"[info] ALIAS pour des ids qui ne sont plus en lice, ignorés : {sorted(inconnus)}", file=sys.stderr)
 
     fichiers, resultat, noms_arcom = [], defaultdict(dict), defaultdict(list)
     for mois, url in FICHIERS:
