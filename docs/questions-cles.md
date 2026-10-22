@@ -6,11 +6,11 @@ Questions du mode « Questions clés » de la page « Mes priorités ». Liste v
 
 1. **Des sujets qui divisent réellement les candidats.** On ne retient une question que si au moins deux candidats y ont des positions opposées, connues et sourçables. Une question à laquelle tout le monde répond « oui » n'apprend rien.
 2. **Une question fermée, qui appelle une réponse par oui ou non.** On emploie « Faut-il… ? », sans adjectif ni terme connoté : on écrit « immigration », pas « submersion » ; « impôt sur la fortune », pas « taxer les riches ».
-3. **L'équilibre.** Deux questions par thème, soit 24 au total. Répondre « oui » ne doit pas correspondre systématiquement au même camp : environ la moitié des « oui » rejoignent des positions plutôt classées à gauche, l'autre moitié des positions plutôt classées à droite. Quelques questions traversent les clivages.
+3. **L'équilibre.** Deux questions par thème, soit 24 au total dans la liste initiale ; 35 depuis le 22 septembre 2026, avec onze questions de société (voir ci-dessous). Répondre « oui » ne doit pas correspondre systématiquement au même camp : environ la moitié des « oui » rejoignent des positions plutôt classées à gauche, l'autre moitié des positions plutôt classées à droite. Quelques questions traversent les clivages.
 4. **Des positions sourcées.** Pour chaque candidat, on indique « pour », « contre », « nuancé » ou « non connu », avec une source ouverte et datée. Une position déduite n'est jamais publiée ; « non connu » est la réponse par défaut.
 5. **La transparence.** Cette liste et ses révisions sont publiques.
 
-## Liste (24 questions)
+## Liste (35 questions : 24 initiales et 11 questions de société ajoutées le 22 septembre 2026)
 
 | # | Thème | Question | Pourquoi elle est retenue |
 |---|---|---|---|
