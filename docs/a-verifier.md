@@ -1,6 +1,6 @@
 # Points à vérifier (généré)
 
-Généré le 2026-10-17 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 627 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
+Généré le 2026-10-22 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 629 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
 
 ## Biographies et affaires judiciaires
 
@@ -384,6 +384,7 @@ Généré le 2026-10-17 par `python3 scripts/a_verifier.py` à partir des champs
 
 ### Delphine Batho (`data/programmes/batho.json`)
 
+- [ ] Le PDF de la résolution d'investiture (juin 2026) a disparu du site de Génération écologie (404 le 22 octobre 2026, pas de copie archivée) : remplacé par la page de publication de l'investiture du 6 juin 2026.
 - [ ] « République terrestre » : redonner du pouvoir d'agir aux élus locaux et changer le « système de normes » (ICI Poitou) — orientation sans mesure précise.
 - [ ] Contenu programmatique du livre « La politique de la beauté » (éd. de l'Aube, juin 2026) non consulté.
 - [ ] Entretiens vidéo sur RMC (20/08/2026) et Sud Radio (24/08/2026) relayés par Génération écologie : contenu non transcrit, non vérifié.
@@ -867,6 +868,7 @@ Généré le 2026-10-17 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Notices 10271 (Ifop / Paris Match, 22 septembre) et 10278-10279 (CSA / CNews, 24 et 29 septembre) : PDF image, objet à vérifier — intentions de vote au 1er tour ou autre question.
 - [ ] Toutes les notices de la présidentielle sont listées sur https://www.commission-des-sondages.fr/notices/medias/fichiers/bytag/14/Presidentielle-2027 : à utiliser pour la veille.
 - [ ] Odoxa pour Backbone, Public Sénat, la presse régionale et Le Nouvel Obs (notice 10310, terrain du 24 septembre au 7 octobre 2026, 11 103 inscrits) : la notice ne contient pas les résultats, publiés dans le rapport sur odoxa.fr ; Public Sénat n'en cite qu'une partie (Mélenchon 18 %, Philippe 17 % ; hypothèse Attal : Le Pen 38 %, Mélenchon 18,5 %, Attal 11 %, Glucksmann 10,5 %, Retailleau 9 %). À saisir depuis le rapport complet.
+- [ ] Elabe pour BFMTV et La Tribune Dimanche (notice 10324, terrain du 14 au 16 octobre 2026, 1 553 inscrits) : la notice ne contient que le questionnaire, les résultats sont publiés sur elabe.fr ; à saisir depuis le rapport.
 
 ## Votes au Parlement (`data/votes.json`)
 

@@ -1,13 +1,230 @@
 {
-  "mise_a_jour": "2026-10-17",
+  "mise_a_jour": "2026-10-22",
   "fenetre": {
     "debut": "2026-08-17",
-    "fin": "2026-10-14"
+    "fin": "2026-10-19"
   },
   "noms_hors_liste": {
     "bonnal": "Sébastien Bonnal"
   },
   "sondages": [
+    {
+      "institut": "Ifop-Fiducial",
+      "commanditaire": "LCI, Le Figaro et Sud Radio (baromètre, vague 7)",
+      "terrain_debut": "2026-10-17",
+      "terrain_fin": "2026-10-19",
+      "echantillon": 1928,
+      "source": {
+        "titre": "Commission des sondages – notice Ifop-Fiducial pour LCI, Le Figaro et Sud Radio (baromètre, vague 7)",
+        "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+        "date": "2026-10-20"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse Philippe et Attal candidats",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 16.5,
+            "roussel": 3,
+            "tondelier": 3,
+            "glucksmann": 13.5,
+            "attal": 5,
+            "philippe": 12,
+            "retailleau": 5,
+            "dupont-aignan": 2,
+            "le-pen": 36,
+            "zemmour": 3.5
+          }
+        },
+        {
+          "label": "Hypothèse Philippe candidat du bloc central",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 16.5,
+            "roussel": 2.5,
+            "tondelier": 3,
+            "glucksmann": 14,
+            "philippe": 15,
+            "retailleau": 7.5,
+            "dupont-aignan": 1.5,
+            "le-pen": 36,
+            "zemmour": 3.5
+          }
+        },
+        {
+          "label": "Hypothèse Attal candidat du bloc central",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 16,
+            "roussel": 2,
+            "tondelier": 3,
+            "glucksmann": 16,
+            "attal": 13,
+            "retailleau": 7,
+            "dupont-aignan": 1.5,
+            "le-pen": 38,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse Mélenchon et Glucksmann seuls candidats de gauche",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 18,
+            "glucksmann": 16,
+            "philippe": 16,
+            "retailleau": 6.5,
+            "dupont-aignan": 2.5,
+            "le-pen": 37,
+            "zemmour": 3.5
+          }
+        },
+        {
+          "label": "Hypothèse Mélenchon et Hollande seuls candidats de gauche",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 20,
+            "hollande": 10,
+            "attal": 6.5,
+            "philippe": 14,
+            "retailleau": 6,
+            "dupont-aignan": 2,
+            "le-pen": 38,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse avec Ruffin, Villepin et Lisnard (Arthaud « - »)",
+          "scores": {
+            "melenchon": 15,
+            "roussel": 2,
+            "ruffin": 1.5,
+            "tondelier": 2.5,
+            "glucksmann": 12,
+            "attal": 4,
+            "philippe": 12,
+            "villepin": 1.5,
+            "retailleau": 5.5,
+            "lisnard": 5.5,
+            "dupont-aignan": 1.5,
+            "le-pen": 34,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse Lisnard seul candidat de droite",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 15.5,
+            "roussel": 2,
+            "tondelier": 3,
+            "glucksmann": 13,
+            "attal": 5,
+            "philippe": 13,
+            "lisnard": 7,
+            "dupont-aignan": 2,
+            "le-pen": 36,
+            "zemmour": 3
+          }
+        }
+      ]
+    },
+    {
+      "institut": "YouGov",
+      "commanditaire": "Le HuffPost",
+      "terrain_debut": "2026-10-12",
+      "terrain_fin": "2026-10-15",
+      "echantillon": 976,
+      "source": {
+        "titre": "Commission des sondages – notice YouGov pour Le HuffPost",
+        "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10323-pres-iv-yougov-le-huffpost-18-octobre.pdf",
+        "date": "2026-10-18"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse 1 : Attal, Philippe et Glucksmann (chiffres pondérés de la notice, au point)",
+          "scores": {
+            "arthaud": 0,
+            "melenchon": 15,
+            "roussel": 3,
+            "tondelier": 6,
+            "glucksmann": 12,
+            "attal": 6,
+            "philippe": 10,
+            "retailleau": 6,
+            "dupont-aignan": 3,
+            "le-pen": 36,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse 2 : Attal candidat du centre (chiffres pondérés, au point)",
+          "scores": {
+            "arthaud": 0,
+            "melenchon": 15,
+            "roussel": 3,
+            "tondelier": 6,
+            "glucksmann": 14,
+            "attal": 10,
+            "retailleau": 9,
+            "dupont-aignan": 3,
+            "le-pen": 37,
+            "zemmour": 4
+          }
+        },
+        {
+          "label": "Hypothèse 3 : Philippe candidat du centre (chiffres pondérés, au point)",
+          "scores": {
+            "arthaud": 0,
+            "melenchon": 15,
+            "roussel": 3,
+            "tondelier": 6,
+            "glucksmann": 13,
+            "philippe": 13,
+            "retailleau": 7,
+            "dupont-aignan": 3,
+            "le-pen": 36,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse 4 : Hollande candidat socialiste, avec Philippe (chiffres pondérés, au point)",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 16,
+            "roussel": 3,
+            "tondelier": 6,
+            "hollande": 9,
+            "philippe": 15,
+            "retailleau": 7,
+            "dupont-aignan": 3,
+            "le-pen": 37,
+            "zemmour": 4
+          }
+        },
+        {
+          "label": "Hypothèse 5 : avec Lisnard, Villepin et Ruffin (chiffres pondérés, au point)",
+          "scores": {
+            "arthaud": 0,
+            "melenchon": 13,
+            "roussel": 2,
+            "tondelier": 5,
+            "ruffin": 2,
+            "glucksmann": 12,
+            "attal": 6,
+            "philippe": 8,
+            "villepin": 1,
+            "lisnard": 4,
+            "retailleau": 5,
+            "dupont-aignan": 2,
+            "le-pen": 35,
+            "zemmour": 4
+          }
+        }
+      ]
+    },
     {
       "institut": "Ifop-Fiducial",
       "commanditaire": "LCI et Sud Radio (le climat politique après la primaire du PS et de Place publique)",
@@ -1524,6 +1741,7 @@
     "Notice Ifop vague 6 (10284) : les dates de terrain et l'échantillon ne sont pas lisibles dans le texte du PDF ; ils sont repris de la fiche technique publiée par Sud Radio, commanditaire (25-29 septembre 2026, 1 393 inscrits).",
     "Notices 10271 (Ifop / Paris Match, 22 septembre) et 10278-10279 (CSA / CNews, 24 et 29 septembre) : PDF image, objet à vérifier — intentions de vote au 1er tour ou autre question.",
     "Toutes les notices de la présidentielle sont listées sur https://www.commission-des-sondages.fr/notices/medias/fichiers/bytag/14/Presidentielle-2027 : à utiliser pour la veille.",
-    "Odoxa pour Backbone, Public Sénat, la presse régionale et Le Nouvel Obs (notice 10310, terrain du 24 septembre au 7 octobre 2026, 11 103 inscrits) : la notice ne contient pas les résultats, publiés dans le rapport sur odoxa.fr ; Public Sénat n'en cite qu'une partie (Mélenchon 18 %, Philippe 17 % ; hypothèse Attal : Le Pen 38 %, Mélenchon 18,5 %, Attal 11 %, Glucksmann 10,5 %, Retailleau 9 %). À saisir depuis le rapport complet."
+    "Odoxa pour Backbone, Public Sénat, la presse régionale et Le Nouvel Obs (notice 10310, terrain du 24 septembre au 7 octobre 2026, 11 103 inscrits) : la notice ne contient pas les résultats, publiés dans le rapport sur odoxa.fr ; Public Sénat n'en cite qu'une partie (Mélenchon 18 %, Philippe 17 % ; hypothèse Attal : Le Pen 38 %, Mélenchon 18,5 %, Attal 11 %, Glucksmann 10,5 %, Retailleau 9 %). À saisir depuis le rapport complet.",
+    "Elabe pour BFMTV et La Tribune Dimanche (notice 10324, terrain du 14 au 16 octobre 2026, 1 553 inscrits) : la notice ne contient que le questionnaire, les résultats sont publiés sur elabe.fr ; à saisir depuis le rapport."
   ]
 }
