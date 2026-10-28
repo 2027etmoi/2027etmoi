@@ -1,13 +1,246 @@
 {
-  "mise_a_jour": "2026-10-22",
+  "mise_a_jour": "2026-10-28",
   "fenetre": {
     "debut": "2026-08-17",
-    "fin": "2026-10-19"
+    "fin": "2026-10-22"
   },
   "noms_hors_liste": {
     "bonnal": "Sébastien Bonnal"
   },
   "sondages": [
+    {
+      "institut": "Ipsos bva",
+      "commanditaire": "Le Parisien",
+      "terrain_debut": "2026-10-21",
+      "terrain_fin": "2026-10-22",
+      "echantillon": 1500,
+      "source": {
+        "titre": "Commission des sondages – notice Ipsos bva pour Le Parisien",
+        "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10338-pres-iv-ipsos-bva-le-parisien-24-octobre.pdf",
+        "date": "2026-10-24"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse Attal et Philippe candidats",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 17,
+            "roussel": 2,
+            "tondelier": 3.5,
+            "glucksmann": 13,
+            "attal": 4,
+            "philippe": 13,
+            "retailleau": 7.5,
+            "dupont-aignan": 1.5,
+            "le-pen": 33.5,
+            "zemmour": 4.5
+          }
+        },
+        {
+          "label": "Hypothèse Philippe candidat unique Renaissance-MoDem-Horizons",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 17,
+            "roussel": 2,
+            "tondelier": 3.5,
+            "glucksmann": 14,
+            "philippe": 15,
+            "retailleau": 8,
+            "dupont-aignan": 2,
+            "le-pen": 33.5,
+            "zemmour": 4.5
+          }
+        },
+        {
+          "label": "Hypothèse Attal candidat unique Renaissance-MoDem-Horizons",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 17,
+            "roussel": 2.5,
+            "tondelier": 3.5,
+            "glucksmann": 15.5,
+            "attal": 9.5,
+            "retailleau": 11.5,
+            "dupont-aignan": 2,
+            "le-pen": 33.5,
+            "zemmour": 4.5
+          }
+        },
+        {
+          "label": "Hypothèse Philippe et Lisnard candidats",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 17,
+            "roussel": 2.5,
+            "tondelier": 3.5,
+            "glucksmann": 13,
+            "philippe": 14,
+            "retailleau": 5.5,
+            "lisnard": 6.5,
+            "dupont-aignan": 1.5,
+            "le-pen": 32,
+            "zemmour": 4
+          }
+        }
+      ]
+    },
+    {
+      "institut": "Toluna Harris Interactive",
+      "commanditaire": "M6 et RTL",
+      "terrain_debut": "2026-10-19",
+      "terrain_fin": "2026-10-21",
+      "echantillon": 2094,
+      "source": {
+        "titre": "Commission des sondages – notice Toluna Harris Interactive pour M6 et RTL",
+        "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10332-pres-iv-toluna-harris-interactive-23-octobre.pdf",
+        "date": "2026-10-23"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse Philippe, Villepin et Lisnard",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 17,
+            "roussel": 2,
+            "tondelier": 2,
+            "glucksmann": 12,
+            "philippe": 15,
+            "villepin": 1,
+            "lisnard": 7,
+            "retailleau": 4,
+            "dupont-aignan": 1,
+            "le-pen": 33,
+            "zemmour": 5
+          }
+        },
+        {
+          "label": "Hypothèse Attal, Villepin et Lisnard",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 17,
+            "roussel": 2,
+            "tondelier": 2,
+            "glucksmann": 14,
+            "attal": 10,
+            "villepin": 2,
+            "lisnard": 8,
+            "retailleau": 5,
+            "dupont-aignan": 1,
+            "le-pen": 33,
+            "zemmour": 5
+          }
+        },
+        {
+          "label": "Hypothèse Attal et Philippe",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 17,
+            "roussel": 1,
+            "tondelier": 2,
+            "glucksmann": 12,
+            "attal": 5,
+            "philippe": 13,
+            "retailleau": 6,
+            "dupont-aignan": 2,
+            "le-pen": 35,
+            "zemmour": 6
+          }
+        },
+        {
+          "label": "Hypothèse Philippe candidat unique du centre",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 17,
+            "roussel": 2,
+            "tondelier": 2,
+            "glucksmann": 13,
+            "philippe": 16,
+            "retailleau": 7,
+            "dupont-aignan": 2,
+            "le-pen": 35,
+            "zemmour": 5
+          }
+        },
+        {
+          "label": "Hypothèse Attal candidat unique du centre",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 19,
+            "roussel": 2,
+            "tondelier": 2,
+            "glucksmann": 13,
+            "attal": 11,
+            "retailleau": 9,
+            "dupont-aignan": 2,
+            "le-pen": 35,
+            "zemmour": 6
+          }
+        }
+      ]
+    },
+    {
+      "institut": "Cluster17",
+      "commanditaire": "Politico",
+      "terrain_debut": "2026-10-19",
+      "terrain_fin": "2026-10-22",
+      "echantillon": 2817,
+      "source": {
+        "titre": "Commission des sondages – notice Cluster17 pour Politico",
+        "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10339-pres-iv-cluster17-politico-26-octobre.pdf",
+        "date": "2026-10-26"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse 1 : Philippe candidat du centre (chiffres publiés)",
+          "scores": {
+            "retailleau": 8,
+            "philippe": 16,
+            "zemmour": 4,
+            "roussel": 2,
+            "melenchon": 18.5,
+            "le-pen": 33,
+            "tondelier": 2,
+            "arthaud": 0.5,
+            "dupont-aignan": 3,
+            "glucksmann": 13
+          }
+        },
+        {
+          "label": "Hypothèse 2 : Attal candidat du centre (chiffres publiés)",
+          "scores": {
+            "retailleau": 10,
+            "zemmour": 4,
+            "roussel": 2,
+            "attal": 12,
+            "melenchon": 19.5,
+            "le-pen": 32.5,
+            "tondelier": 2,
+            "arthaud": 0.5,
+            "dupont-aignan": 3.5,
+            "glucksmann": 14
+          }
+        },
+        {
+          "label": "Hypothèse 3 : Philippe, Lisnard et Hollande (chiffres publiés)",
+          "scores": {
+            "retailleau": 7,
+            "lisnard": 8,
+            "philippe": 17,
+            "roussel": 2,
+            "hollande": 6.5,
+            "melenchon": 19.5,
+            "le-pen": 30.5,
+            "tondelier": 2.5,
+            "arthaud": 0.5,
+            "dupont-aignan": 3,
+            "zemmour": 3.5
+          }
+        }
+      ]
+    },
     {
       "institut": "Ifop-Fiducial",
       "commanditaire": "LCI, Le Figaro et Sud Radio (baromètre, vague 7)",
@@ -1742,6 +1975,7 @@
     "Notices 10271 (Ifop / Paris Match, 22 septembre) et 10278-10279 (CSA / CNews, 24 et 29 septembre) : PDF image, objet à vérifier — intentions de vote au 1er tour ou autre question.",
     "Toutes les notices de la présidentielle sont listées sur https://www.commission-des-sondages.fr/notices/medias/fichiers/bytag/14/Presidentielle-2027 : à utiliser pour la veille.",
     "Odoxa pour Backbone, Public Sénat, la presse régionale et Le Nouvel Obs (notice 10310, terrain du 24 septembre au 7 octobre 2026, 11 103 inscrits) : la notice ne contient pas les résultats, publiés dans le rapport sur odoxa.fr ; Public Sénat n'en cite qu'une partie (Mélenchon 18 %, Philippe 17 % ; hypothèse Attal : Le Pen 38 %, Mélenchon 18,5 %, Attal 11 %, Glucksmann 10,5 %, Retailleau 9 %). À saisir depuis le rapport complet.",
-    "Elabe pour BFMTV et La Tribune Dimanche (notice 10324, terrain du 14 au 16 octobre 2026, 1 553 inscrits) : la notice ne contient que le questionnaire, les résultats sont publiés sur elabe.fr ; à saisir depuis le rapport."
+    "Elabe pour BFMTV et La Tribune Dimanche (notice 10324, terrain du 14 au 16 octobre 2026, 1 553 inscrits) : la notice ne contient que le questionnaire, les résultats sont publiés sur elabe.fr ; à saisir depuis le rapport.",
+    "OpinionWay pour CNews (notice 10333, terrain 21-22 octobre 2026, 973 inscrits) : tableau des intentions de vote illisible dans le PDF (lignes mélangées), chiffres non repris ; à saisir à la main depuis la notice."
   ]
 }

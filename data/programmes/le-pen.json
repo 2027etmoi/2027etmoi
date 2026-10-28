@@ -1,6 +1,6 @@
 {
   "id": "le-pen",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-10-28",
   "programme": {
     "titre": "Pas de programme complet publié (propositions thématiques en cours de présentation)",
     "url": "https://marinelepen.com/",
@@ -91,6 +91,42 @@
       "texte": "Arrêt du financement des aides non contributives pour les étrangers, présenté comme une source d'économies.",
       "nature": "declaration",
       "source": { "titre": "Europe 1", "url": "https://www.europe1.fr/politique/des-choix-a-faire-entre-baisse-de-la-tva-sur-lenergie-et-reduction-des-depenses-marine-le-pen-detaille-son-projet-economique-1083380", "date": "2026-09-17" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Inscrire dans la Constitution le principe de « communauté nationale », « fondateur, inclusif et fraternel ».",
+      "nature": "declaration",
+      "source": { "titre": "Europe 1 (avec AFP) — Congrès du RN à Orléans : ce qu'il faut retenir du premier discours de campagne de Marine Le Pen", "url": "https://www.europe1.fr/politique/congres-du-rn-a-orleans-ce-quil-faut-retenir-du-premier-discours-de-campagne-de-marine-le-pen-1181118", "date": "2026-10-25" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Scrutin proportionnel avec prime majoritaire pour les élections législatives.",
+      "nature": "declaration",
+      "source": { "titre": "Europe 1 (avec AFP) — Congrès du RN à Orléans : ce qu'il faut retenir du premier discours de campagne de Marine Le Pen", "url": "https://www.europe1.fr/politique/congres-du-rn-a-orleans-ce-quil-faut-retenir-du-premier-discours-de-campagne-de-marine-le-pen-1181118", "date": "2026-10-25" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Gouvernement « d'union nationale » et « pluraliste » dirigé par Jordan Bardella.",
+      "nature": "declaration",
+      "source": { "titre": "Europe 1 (avec AFP) — Congrès du RN à Orléans : ce qu'il faut retenir du premier discours de campagne de Marine Le Pen", "url": "https://www.europe1.fr/politique/congres-du-rn-a-orleans-ce-quil-faut-retenir-du-premier-discours-de-campagne-de-marine-le-pen-1181118", "date": "2026-10-25" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Abolition de la loi Hulot de 2017 qui interdit la recherche d'hydrocarbures sur le sol français.",
+      "nature": "declaration",
+      "source": { "titre": "Europe 1 (avec AFP) — Congrès du RN à Orléans : ce qu'il faut retenir du premier discours de campagne de Marine Le Pen", "url": "https://www.europe1.fr/politique/congres-du-rn-a-orleans-ce-quil-faut-retenir-du-premier-discours-de-campagne-de-marine-le-pen-1181118", "date": "2026-10-25" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Part fiscale pleine dès le deuxième enfant pour l'impôt sur le revenu.",
+      "nature": "declaration",
+      "source": { "titre": "Europe 1 (avec AFP) — Congrès du RN à Orléans : ce qu'il faut retenir du premier discours de campagne de Marine Le Pen", "url": "https://www.europe1.fr/politique/congres-du-rn-a-orleans-ce-quil-faut-retenir-du-premier-discours-de-campagne-de-marine-le-pen-1181118", "date": "2026-10-25" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Dispense d'impôt sur le revenu pour les entrepreneurs et création d'un fonds souverain.",
+      "nature": "declaration",
+      "source": { "titre": "Europe 1 (avec AFP) — Congrès du RN à Orléans : ce qu'il faut retenir du premier discours de campagne de Marine Le Pen", "url": "https://www.europe1.fr/politique/congres-du-rn-a-orleans-ce-quil-faut-retenir-du-premier-discours-de-campagne-de-marine-le-pen-1181118", "date": "2026-10-25" }
     }
   ],
   "ressources": [

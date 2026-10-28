@@ -1,0 +1,37 @@
+{
+  "id": "markovic",
+  "mise_a_jour": "2026-10-28",
+  "programme": {
+    "titre": "Mesures rapportées par franceinfo",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+    "etat": "partiel",
+    "note": "Au 28 octobre 2026, seules les mesures rapportées dans le portrait de franceinfo sont recensées ; site ou document de campagne à identifier."
+  },
+  "reperes": [],
+  "mesures": [
+    {
+      "theme": "ecologie",
+      "texte": "Fin de l'élevage intensif, de la chasse et de la corrida.",
+      "nature": "presse",
+      "source": {
+        "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "date": "2026-10-22"
+      }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Création d'un ministère indépendant de la Condition animale.",
+      "nature": "presse",
+      "source": {
+        "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "date": "2026-10-22"
+      }
+    }
+  ],
+  "ressources": [],
+  "a_verifier": [
+    "Mesures reprises d'un portrait de presse, sans document de campagne consulté."
+  ]
+}

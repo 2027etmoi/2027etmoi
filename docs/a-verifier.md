@@ -1,6 +1,6 @@
 # Points à vérifier (généré)
 
-Généré le 2026-10-22 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 629 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
+Généré le 2026-10-28 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 641 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
 
 ## Biographies et affaires judiciaires
 
@@ -55,6 +55,10 @@ Généré le 2026-10-22 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Wikipédia indique qu'il avait annoncé le 3 février 2024 son intention d'être candidat en 2027.
 - [ ] Mediator : controverses sur son rôle de ministre de la Santé, sans procédure judiciaire le visant personnellement trouvée.
 
+### Augustin Billetdoux (`data/biographies/billetdoux.json`)
+
+- [ ] Fiche créée d'après le seul portrait de franceinfo (22 octobre 2026) : date et lieu de naissance, parcours détaillé, site de campagne et photo libre à rechercher ; âge indiqué par franceinfo.
+
 ### Karim Bouamrane (`data/biographies/bouamrane.json`)
 
 - [ ] Enquête journalistique de la cellule investigation de Radio France (franceinfo, 22 mai 2026, https://www.franceinfo.fr/enquetes-franceinfo/karim-bouamrane-soupcon-d-emploi-de-complaisance-en-seine-saint-denis_8018957.html) : soupçon d'emploi de complaisance d'une chargée de mission proche de lui au conseil départemental de la Seine-Saint-Denis ; un signalement a été adressé à la chambre régionale des comptes d'Île-de-France. Karim Bouamrane conteste. Aucune procédure judiciaire (enquête du parquet, mise en examen) trouvée à ce jour : non retenue. À surveiller. Lot 3 (22/09/2026) : ICI (22/05/2026, ouvert) confirme qu'il s'agit d'une alerte reçue par la chambre régionale des comptes, sans procédure judiciaire ; aucune enquête du parquet trouvée depuis (franceinfo, ICI, France 24, Public Sénat, LCP, Europe 1).
@@ -84,6 +88,10 @@ Généré le 2026-10-22 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Photo : le portrait officiel recadré ne fait que 172 × 258 px (pas de vignette 400/500 px possible) ; URL du fichier original utilisée, vérifiée HTTP 200. Alternative en meilleure définition : File:Bernard_Cazeneuve,_(42399145362)_(cropped).jpg (Jérémy Barande, CC BY-SA 2.0, 29 mai 2018), vignette https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bernard_Cazeneuve%2C_%2842399145362%29_%28cropped%29.jpg/500px-Bernard_Cazeneuve%2C_%2842399145362%29_%28cropped%29.jpg (HTTP 200).
 - [ ] Date et intitulé exact du poste de juriste à la Banque populaire non précisés par la source.
 
+### Christian Collovati (`data/biographies/collovati.json`)
+
+- [ ] Fiche créée d'après le seul portrait de franceinfo (22 octobre 2026) : date et lieu de naissance, parcours détaillé, site de campagne et photo libre à rechercher ; âge indiqué par franceinfo.
+
 ### Gérald Darmanin (`data/biographies/darmanin.json`)
 
 - [ ] Plainte pour abus de faiblesse déposée par une habitante de Tourcoing (2018), classée sans suite selon Wikipédia : aucune source de presse ouverte, non publiée.
@@ -105,6 +113,7 @@ Généré le 2026-10-22 par `python3 scripts/a_verifier.py` à partir des champs
 
 ### Sylvain Durif (`data/biographies/durif.json`)
 
+- [ ] Qualificatif « vidéaste complotiste » (RTL, 25 août 2026) retiré de la présentation le 22 octobre 2026 : la méthode exclut les qualificatifs, même attribués ; la source reste citée pour les faits.
 - [ ] Parti : aucun parti ni mouvement politique n'est cité par RTL (25/08/2026) ni par 20 Minutes (26/08/2026). Dans sa vidéo, il se présente comme « président de la gouvernance pacifique planétaire et cosmique Elvita » (Elvita est le nom de sa société). « Sans parti » paraît la mention la plus exacte.
 - [ ] Date de naissance : 23 août 1969 d'après l'infobox Wikipédia (données Wikidata) ; aucune source de presse ouverte consultée ne la donne.
 - [ ] Wikipédia date sa candidature municipale à Arques de 2013 ; la presse (20 Minutes, RTL) et le ministère de l'Intérieur indiquent les municipales de 2014 (retenu).
@@ -194,6 +203,10 @@ Généré le 2026-10-22 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Diffamation envers Christian Baeckeroot (condamnation civile en appel en 2011, pourvoi rejeté le 11 octobre 2011 selon Wikipédia) : seule source trouvée, national-hebdo.net, non reconnue. Non publiée.
 - [ ] Faux tract visant Jean-Luc Mélenchon (législatives 2012) : condamnée en première instance en 2014, relaxée en appel à Douai en 2015 selon Le Monde (non ouvert). Non publiée faute de source ouverte.
 
+### Jean-François Legendre (`data/biographies/legendre.json`)
+
+- [ ] Fiche créée d'après le seul portrait de franceinfo (22 octobre 2026) : date et lieu de naissance, parcours détaillé, site de campagne et photo libre à rechercher ; âge indiqué par franceinfo.
+
 ### David Lisnard (`data/biographies/lisnard.json`)
 
 - [ ] Photo : ancienne (2013) mais c'est l'image d'infobox Wikipédia. Photos libres plus récentes sur Commons (File:D_Lisnard_11_nov_2024_Cannes.jpg, CC0 ; File:David_Lisnard_Discours_14_Juillet_2024.jpg, CC BY 4.0) mais ce sont des photos de foule/tribune peu adaptées à un portrait. Vignette 500px (400px refusée par Wikimedia), vérifiée HTTP 200.
@@ -206,6 +219,10 @@ Généré le 2026-10-22 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Diffamation IESH : la seule source ouverte (Saphirnews) relaie le cabinet d'avocats de la partie civile ; une recherche évoque une décision d'appel attendue le 15 juillet 2026. À confirmer par une source d'agence et à mettre à jour.
 - [ ] Diffamation Valence : appel annoncé par l'association, suites à vérifier.
 - [ ] Date de sa déclaration de non-candidature et de son soutien à Marine Le Pen : source CNews du 20 septembre 2026.
+
+### Mira Markovic (`data/biographies/markovic.json`)
+
+- [ ] Fiche créée d'après le seul portrait de franceinfo (22 octobre 2026) : date et lieu de naissance, parcours détaillé, site de campagne et photo libre à rechercher ; âge indiqué par franceinfo.
 
 ### Lydie Massard (`data/biographies/massard.json`)
 
@@ -296,6 +313,10 @@ Généré le 2026-10-22 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Plainte devant la Cour de justice de la République annoncée le 8 août 2025 par Me Khadija Aoudia pour provocation à la haine et à la discrimination (propos du 6 février 2025 sur LCI concernant Mayotte) ; aucune décision de la commission des requêtes rapportée à la date de l'article (Mayotte Hebdo, 13/08/2025 : https://www.mayottehebdo.com/actualite/justice/bruno-retailleau-vise-par-une-plainte-ses-propos-sur-les-immigres-de-mayotte-en-cause/). La mention d'un rejet le 22 mai 2025 n'a été retrouvée dans aucune presse reconnue (recherche du 22/09/2026). Simple plainte sans procédure ouverte connue : hors périmètre, non publiée.
 - [ ] Fonds de l'ex-groupe UMP du Sénat (2009-2014) : Public Sénat (13/03/2017) présente Bruno Retailleau comme celui qui a mis fin à la pratique en 2014 en prenant la présidence du groupe, et non comme mis en cause ; il a déclaré n'avoir « pas reçu de ristournes ». Aucune procédure le visant personnellement trouvée (recherche du 22/09/2026) : non publiée.
 - [ ] Désignation d'avril 2026 : Wikipédia indique 73,8 % des voix ; le mode exact de désignation (vote des adhérents) est à recouper avec une source de presse.
+
+### Erwan Rohou (`data/biographies/rohou.json`)
+
+- [ ] Fiche créée d'après le seul portrait de franceinfo (22 octobre 2026) : date et lieu de naissance, parcours détaillé, site de campagne et photo libre à rechercher ; âge indiqué par franceinfo.
 
 ### Fabien Roussel (`data/biographies/roussel.json`)
 
@@ -404,6 +425,10 @@ Généré le 2026-10-22 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Batiactu (Assises du logement 2026) et JDD : pages inaccessibles (403), mesures logement non vérifiées.
 - [ ] Statut : au 27/08/2026, il annonce qu'il « sera » candidat mais repousse la déclaration officielle à la fin de l'année.
 
+### Augustin Billetdoux (`data/programmes/billetdoux.json`)
+
+- [ ] Mesures reprises d'un portrait de presse, sans document de campagne consulté.
+
 ### Karim Bouamrane (`data/programmes/bouamrane.json`)
 
 - [ ] Inéligibilité des maires ne respectant pas le quota de 25 % de logements sociaux (septembre 2025) : relevée par un moteur de recherche, aucune page source ouverte.
@@ -421,6 +446,10 @@ Généré le 2026-10-22 par `python3 scripts/a_verifier.py` à partir des champs
 
 - [ ] Un résumé automatique de la page la-convention.fr/lettre mentionnait un « rétablissement de l'impôt sur la fortune » et une « suppression de la flat tax » : ces propositions ne figurent ni dans la synthèse ni dans la lettre intégrale (qui évoque seulement leur suppression/instauration passées dans le diagnostic). Non retenues.
 - [ ] Date exacte de publication : la synthèse PDF est datée du 15/07/2026 ; Public Sénat situe la publication la veille du 17/07/2026.
+
+### Christian Collovati (`data/programmes/collovati.json`)
+
+- [ ] Mesures reprises d'un portrait de presse, sans document de campagne consulté.
 
 ### Emmanuel Dubuisson (`data/programmes/dubuisson.json`)
 
@@ -510,12 +539,20 @@ Généré le 2026-10-22 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Loi contre le squat « dès l'élection », cession de foncier public contre logements à loyer modéré, vente de HLM, transformation de bureaux vacants : cités dans la presse, à préciser avant publication.
 - [ ] Article CNews du 11/09/2026 sur les propositions des candidats en matière d'immigration : erreur 403, non consulté.
 
+### Jean-François Legendre (`data/programmes/legendre.json`)
+
+- [ ] Mesures reprises d'un portrait de presse, sans document de campagne consulté.
+
 ### David Lisnard (`data/programmes/lisnard.json`)
 
 - [ ] Le site lisnard2027.fr indique « ouvre prochainement » au 22/09/2026 : à surveiller pour un programme de campagne complet.
 - [ ] Les pages d'axes du programme (« Être maître de notre destin », « Réussir une nouvelle ambition française ») semblent reprendre un texte de 2021 (références au Covid) ; elles proposent l'âge légal à 65 ans et une capitalisation individuelle, ce qui diffère des positions de 2026 (maintien de la réforme 2023, capitalisation collective). Seules des mesures non contradictoires en ont été reprises (contrat unique, charges négatives RSA, article 55 SRU).
 - [ ] Page nucléaire : les détails chiffrés (60 ans, six EPR) sont attribués au livre de David Lisnard, que nous n'avons pas consulté directement.
 - [ ] Discours de Saint-Raphaël (4 juillet 2026) et de Bayeux (17 juin 2026) non lus en entier : sources possibles de mesures supplémentaires.
+
+### Mira Markovic (`data/programmes/markovic.json`)
+
+- [ ] Mesures reprises d'un portrait de presse, sans document de campagne consulté.
 
 ### Lydie Massard (`data/programmes/massard.json`)
 
@@ -586,6 +623,10 @@ Généré le 2026-10-22 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Sécurité : suppression du juge d'application des peines, castration chimique des pédocriminels, cour disciplinaire des magistrats — lus seulement dans un résumé de recherche, aucune page source ouverte ne les contient.
 - [ ] Santé : aucune mesure trouvée au 22/09/2026 (chapitre « à venir », rien dans la presse ouverte).
 - [ ] Plusieurs URL de mesures du site ne correspondent pas à leur titre (ex. l'URL « concentrer-le-primaire-et-le-college-sur-les-savoirs » porte la mesure sur la rémunération des professeurs) : vérifier la stabilité des liens.
+
+### Erwan Rohou (`data/programmes/rohou.json`)
+
+- [ ] Mesures reprises d'un portrait de presse, sans document de campagne consulté.
 
 ### Fabien Roussel (`data/programmes/roussel.json`)
 
@@ -869,6 +910,7 @@ Généré le 2026-10-22 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Toutes les notices de la présidentielle sont listées sur https://www.commission-des-sondages.fr/notices/medias/fichiers/bytag/14/Presidentielle-2027 : à utiliser pour la veille.
 - [ ] Odoxa pour Backbone, Public Sénat, la presse régionale et Le Nouvel Obs (notice 10310, terrain du 24 septembre au 7 octobre 2026, 11 103 inscrits) : la notice ne contient pas les résultats, publiés dans le rapport sur odoxa.fr ; Public Sénat n'en cite qu'une partie (Mélenchon 18 %, Philippe 17 % ; hypothèse Attal : Le Pen 38 %, Mélenchon 18,5 %, Attal 11 %, Glucksmann 10,5 %, Retailleau 9 %). À saisir depuis le rapport complet.
 - [ ] Elabe pour BFMTV et La Tribune Dimanche (notice 10324, terrain du 14 au 16 octobre 2026, 1 553 inscrits) : la notice ne contient que le questionnaire, les résultats sont publiés sur elabe.fr ; à saisir depuis le rapport.
+- [ ] OpinionWay pour CNews (notice 10333, terrain 21-22 octobre 2026, 973 inscrits) : tableau des intentions de vote illisible dans le PDF (lignes mélangées), chiffres non repris ; à saisir à la main depuis la notice.
 
 ## Votes au Parlement (`data/votes.json`)
 
