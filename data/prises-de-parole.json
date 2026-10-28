@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-17",
+  "mise_a_jour": "2026-10-28",
   "fenetre": {
     "debut": "2026-08-24"
   },
@@ -1350,6 +1350,45 @@
         "education"
       ],
       "verifie_le": "2026-10-17"
+    },
+    {
+      "id": "le-pen",
+      "date": "2026-10-25",
+      "type": "discours",
+      "media": "Zénith d'Orléans",
+      "emission": "Congrès du Rassemblement national, lancement de campagne (environ 8 500 participants selon les organisateurs)",
+      "titre": "Congrès du RN à Orléans : ce qu'il faut retenir du premier discours de campagne de Marine Le Pen",
+      "url": "https://www.europe1.fr/politique/congres-du-rn-a-orleans-ce-quil-faut-retenir-du-premier-discours-de-campagne-de-marine-le-pen-1181118",
+      "declare": [
+        "Lance sa campagne : « Je ne vous propose pas de revenir à la France d'avant, mais de construire la France de demain » ; promet un gouvernement « d'union nationale » et « pluraliste » dirigé par Jordan Bardella.",
+        "Veut inscrire la « communauté nationale » dans la Constitution, abolir « la stupide loi Hulot qui interdit la recherche d'hydrocarbures sur le sol français » et instaurer un scrutin proportionnel avec prime majoritaire.",
+        "Annonce une « part fiscale pleine dès le deuxième enfant », une dispense d'impôt sur le revenu pour les entrepreneurs et un fonds souverain ; « Nous appliquerons la tolérance zéro »."
+      ],
+      "themes": [
+        "campagne",
+        "institutions",
+        "ecologie",
+        "economie",
+        "securite"
+      ],
+      "verifie_le": "2026-10-28"
+    },
+    {
+      "id": "villepin",
+      "date": "2026-10-22",
+      "type": "interview",
+      "media": "BFMTV",
+      "emission": "Entretien du soir",
+      "titre": "Présidentielle : Dominique de Villepin annonce avoir « dépassé la barre des 300 signatures »",
+      "url": "https://lcp.fr/actualites/presidentielle-dominique-de-villepin-annonce-avoir-depasse-la-barre-des-300-signatures",
+      "declare": [
+        "Affirme avoir « dépassé la barre des 300 signatures » d'élus sur les 500 nécessaires : « La bataille est difficile mais étape par étape, la progression a lieu ».",
+        "Fera connaître sa décision de candidature « au cours des prochaines semaines »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-10-28"
     }
   ],
   "a_verifier": [

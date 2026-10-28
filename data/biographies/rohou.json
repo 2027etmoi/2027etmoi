@@ -1,0 +1,30 @@
+{
+  "id": "rohou",
+  "mise_a_jour": "2026-10-28",
+  "presentation": {
+    "texte": "Erwan Rohou, 57 ans. Ingénieur, 25 ans à la SNCF, dirige la maintenance du tramway de Luxembourg. Candidat en 25e position de la liste de Yann Wehrling aux européennes de 2024. Le MEI, fondé en 1994 par Antoine Waechter, défend une écologie « ni de droite ni de gauche ».",
+    "sources": [
+      {
+        "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "date": "2026-10-22"
+      }
+    ]
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Candidature à l'élection présidentielle de 2027 recensée par franceinfo parmi les candidats déclarés (22 octobre 2026).",
+      "source": {
+        "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "date": "2026-10-22"
+      }
+    }
+  ],
+  "parcours_professionnel": [],
+  "affaires": [],
+  "a_verifier": [
+    "Fiche créée d'après le seul portrait de franceinfo (22 octobre 2026) : date et lieu de naissance, parcours détaillé, site de campagne et photo libre à rechercher ; âge indiqué par franceinfo."
+  ]
+}

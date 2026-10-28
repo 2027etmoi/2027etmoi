@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-19",
+  "mise_a_jour": "2026-10-28",
   "candidats": [
     {
       "id": "melenchon",
@@ -28,7 +28,7 @@
         "youtube": "https://www.youtube.com/@JLMelenchon",
         "wikipedia": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "faure",
@@ -81,7 +81,7 @@
         "instagram": "https://www.instagram.com/raphaelglucksmann/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"
       },
-      "verifie_le": "2026-10-12"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "guedj",
@@ -177,7 +177,7 @@
         "parti": "https://www.pcf.fr/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "ruffin",
@@ -205,7 +205,7 @@
         "youtube": "https://www.youtube.com/@francois_ruffin",
         "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
       },
-      "verifie_le": "2026-10-05"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "cazeneuve",
@@ -230,7 +230,7 @@
         "programme": "https://www.la-convention.fr/lettre",
         "wikipedia": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "bouamrane",
@@ -253,7 +253,7 @@
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Karim_Bouamrane"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "hollande",
@@ -275,7 +275,7 @@
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "arthaud",
@@ -300,7 +300,7 @@
         "instagram": "https://www.instagram.com/nathalie_arthaud_lo/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "kazib",
@@ -326,7 +326,7 @@
         "x": "https://x.com/AnasseKazib",
         "wikipedia": "https://fr.wikipedia.org/wiki/Anasse_Kazib"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "labib",
@@ -348,7 +348,7 @@
         "parti": "https://npa-revolutionnaires.org/",
         "x": "https://x.com/npa_revo"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "tondelier",
@@ -374,7 +374,7 @@
         "instagram": "https://www.instagram.com/marinetondelier",
         "wikipedia": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "batho",
@@ -397,7 +397,7 @@
         "instagram": "https://www.instagram.com/delphine_batho",
         "wikipedia": "https://fr.wikipedia.org/wiki/Delphine_Batho"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "vallaud",
@@ -497,7 +497,7 @@
         "instagram": "https://www.instagram.com/edouardphilippelh/",
         "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "attal",
@@ -524,7 +524,7 @@
         "x": "https://x.com/GabrielAttal",
         "wikipedia": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "becht",
@@ -545,7 +545,7 @@
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Olivier_Becht"
       },
-      "verifie_le": "2026-09-25"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "villepin",
@@ -553,11 +553,11 @@
       "parti": "La France humaniste",
       "bloc": "centre",
       "statut": "pressenti",
-      "statut_detail": "Fait campagne sans déclaration officielle.",
+      "statut_detail": "Fait campagne sans déclaration officielle. Revendique plus de 300 parrainages d'élus sur 500 (22 octobre 2026) et annonce sa décision « au cours des prochaines semaines ».",
       "source": {
-        "titre": "LCP",
-        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-        "date": "2026-09-16"
+        "titre": "LCP — Présidentielle : Dominique de Villepin annonce avoir « dépassé la barre des 300 signatures »",
+        "url": "https://lcp.fr/actualites/presidentielle-dominique-de-villepin-annonce-avoir-depasse-la-barre-des-300-signatures",
+        "date": "2026-10-23"
       },
       "propositions": [
         "Ramener toute la fiscalité à neuf grands impôts et réduire le code des impôts à quarante pages.",
@@ -569,7 +569,7 @@
         "parti": "https://www.lafrancehumaniste.fr/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "le-maire",
@@ -587,7 +587,7 @@
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "darmanin",
@@ -652,7 +652,7 @@
         "youtube": "https://www.youtube.com/@Bruno_Retailleau",
         "wikipedia": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
       },
-      "verifie_le": "2026-10-05"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "lisnard",
@@ -679,7 +679,7 @@
         "youtube": "https://www.youtube.com/@david_lisnard",
         "wikipedia": "https://fr.wikipedia.org/wiki/David_Lisnard"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "platret",
@@ -701,7 +701,7 @@
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Chalon-sur-Sa%C3%B4ne"
       },
-      "verifie_le": "2026-10-17"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "bertrand",
@@ -726,7 +726,7 @@
         "x": "https://x.com/xavierbertrand",
         "wikipedia": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "wauquiez",
@@ -787,7 +787,7 @@
         "x": "https://x.com/MLP_officiel",
         "wikipedia": "https://fr.wikipedia.org/wiki/Marine_Le_Pen"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "bardella",
@@ -829,7 +829,7 @@
         "x": "https://x.com/ZemmourEric",
         "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "knafo",
@@ -893,7 +893,7 @@
         "x": "https://x.com/dupontaignan",
         "wikipedia": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "philippot",
@@ -918,7 +918,7 @@
         "x": "https://x.com/f_philippot",
         "wikipedia": "https://fr.wikipedia.org/wiki/Florian_Philippot"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "asselineau",
@@ -942,7 +942,7 @@
         "x": "https://x.com/f_asselineau",
         "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "lassalle",
@@ -962,7 +962,7 @@
         "x": "https://x.com/jeanlassalle",
         "wikipedia": "https://fr.wikipedia.org/wiki/Jean_Lassalle"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "mlekuz",
@@ -984,7 +984,7 @@
         "programme": "https://trajectoire2027.fr/programme.html",
         "instagram": "https://www.instagram.com/manolo.mlekuz/"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "egger",
@@ -1010,7 +1010,7 @@
         "youtube": "https://www.youtube.com/@solutiondemocratique",
         "wikipedia": "https://fr.wikipedia.org/wiki/Clara_Egger"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "mathieu",
@@ -1026,7 +1026,7 @@
       },
       "propositions": [],
       "liens": {},
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "lalanne",
@@ -1049,7 +1049,7 @@
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Francis_Lalanne"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "branco",
@@ -1073,7 +1073,7 @@
         "campagne": "https://ruches.org/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Juan_Branco"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "durif",
@@ -1091,7 +1091,7 @@
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Sylvain_Durif"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "mikolajczak",
@@ -1113,7 +1113,7 @@
         "parti": "https://parti-equinoxe.fr/",
         "programme": "https://parti-equinoxe.fr/presidentielle-2027/"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "polony",
@@ -1139,7 +1139,100 @@
         "instagram": "https://www.instagram.com/polony.info/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Natacha_Polony"
       },
-      "verifie_le": "2026-10-14"
+      "verifie_le": "2026-10-28"
+    },
+    {
+      "id": "billetdoux",
+      "nom": "Augustin Billetdoux",
+      "parti": "Sans parti",
+      "bloc": "autre",
+      "statut": "declare",
+      "statut_detail": "Auteur et cadre dans une ONG, ancien collaborateur d'un député écologiste. Candidature annoncée en septembre 2025 dans une vidéo ; se dit « résolument à gauche » et « lié à aucun parti ». Recensé parmi les candidats déclarés par franceinfo (22 octobre 2026).",
+      "source": {
+        "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "date": "2026-10-22"
+      },
+      "propositions": [
+        "« Capitalisme de service public » : les entreprises privées chargées, à leur échelle, des « urgences sociales et environnementales »."
+      ],
+      "liens": {},
+      "verifie_le": "2026-10-28"
+    },
+    {
+      "id": "collovati",
+      "nom": "Christian Collovati",
+      "parti": "Sans parti (projet « Le Peuple français »)",
+      "bloc": "autre",
+      "statut": "declare",
+      "statut_detail": "Ancien officier de marine, salarié du secteur privé, habitant de Brest. Programme publié sur un site intitulé « Le Peuple français ». Recensé parmi les candidats déclarés par franceinfo (22 octobre 2026).",
+      "source": {
+        "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "date": "2026-10-22"
+      },
+      "propositions": [
+        "État d'urgence pendant six mois et couvre-feu contre la délinquance.",
+        "Réduction du nombre de parlementaires.",
+        "Expulsion des étrangers en situation irrégulière."
+      ],
+      "liens": {},
+      "verifie_le": "2026-10-28"
+    },
+    {
+      "id": "legendre",
+      "nom": "Jean-François Legendre",
+      "parti": "À nous maintenant",
+      "bloc": "autre",
+      "statut": "declare",
+      "statut_detail": "Ancien chef d'entreprise, habitant des Alpes-de-Haute-Provence ; candidat pour porter « une alternative citoyenne ». Recensé parmi les candidats déclarés par franceinfo (22 octobre 2026).",
+      "source": {
+        "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "date": "2026-10-22"
+      },
+      "propositions": [
+        "Davantage de démocratie participative.",
+        "Un ministère dédié aux maires pour accroître leur pouvoir.",
+        "« Briser la dette »."
+      ],
+      "liens": {},
+      "verifie_le": "2026-10-28"
+    },
+    {
+      "id": "markovic",
+      "nom": "Mira Markovic",
+      "parti": "Parti animaliste",
+      "bloc": "autre",
+      "statut": "declare",
+      "statut_detail": "Psychologue de formation, cofondatrice du Parti animaliste (2016), élue municipale du 18e arrondissement de Paris. Le parti n'avait pas réuni les 500 parrainages en 2022 (Hélène Thouy). Recensé parmi les candidats déclarés par franceinfo (22 octobre 2026).",
+      "source": {
+        "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "date": "2026-10-22"
+      },
+      "propositions": [
+        "Fin de l'élevage intensif, de la chasse et de la corrida.",
+        "Création d'un ministère indépendant de la Condition animale."
+      ],
+      "liens": {},
+      "verifie_le": "2026-10-28"
+    },
+    {
+      "id": "rohou",
+      "nom": "Erwan Rohou",
+      "parti": "Mouvement écologiste indépendant",
+      "bloc": "ecolo",
+      "statut": "declare",
+      "statut_detail": "Ingénieur, 25 ans à la SNCF, dirige la maintenance du tramway de Luxembourg. Candidat en 25e position de la liste de Yann Wehrling aux européennes de 2024. Le MEI, fondé en 1994 par Antoine Waechter, défend une écologie « ni de droite ni de gauche ». Recensé parmi les candidats déclarés par franceinfo (22 octobre 2026).",
+      "source": {
+        "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "date": "2026-10-22"
+      },
+      "propositions": [],
+      "liens": {},
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "dubuisson",
@@ -1159,7 +1252,7 @@
         "x": "https://x.com/dubuisson2027",
         "youtube": "https://www.youtube.com/@E_Dubuisson"
       },
-      "verifie_le": "2026-10-08"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "massard",
@@ -1182,7 +1275,7 @@
         "parti": "https://www.udb.bzh/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Lydie_Massard"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-10-28"
     },
     {
       "id": "lucas-lundy",

@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-17",
+  "mise_a_jour": "2026-10-28",
   "candidatures": {
     "philippe": {
       "declaration": {
@@ -1312,6 +1312,156 @@
           "titre": "ICI Bourgogne — « Libre » et « déterminé » : le maire de Chalon-sur-Saône, Gilles Platret, se déclare candidat à la présidentielle",
           "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-bourgogne/libre-et-determine-le-maire-de-chalon-sur-saone-gilles-platret-se-declare-candidat-a-la-presidentielle-6724488",
           "date": "2026-10-09"
+        }
+      }
+    },
+    "billetdoux": {
+      "declaration": {
+        "date": "2025-09",
+        "source": {
+          "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature personnelle recensée par franceinfo ; modalités de désignation non connues.",
+        "source": {
+          "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": "Aucun programme consulté au 28 octobre 2026.",
+        "url": null,
+        "source": {
+          "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
+        }
+      }
+    },
+    "collovati": {
+      "declaration": {
+        "date": null,
+        "source": {
+          "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature personnelle recensée par franceinfo ; modalités de désignation non connues.",
+        "source": {
+          "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": "Aucun programme consulté au 28 octobre 2026.",
+        "url": null,
+        "source": {
+          "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
+        }
+      }
+    },
+    "legendre": {
+      "declaration": {
+        "date": null,
+        "source": {
+          "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature personnelle recensée par franceinfo ; modalités de désignation non connues.",
+        "source": {
+          "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": "Aucun programme consulté au 28 octobre 2026.",
+        "url": null,
+        "source": {
+          "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
+        }
+      }
+    },
+    "markovic": {
+      "declaration": {
+        "date": null,
+        "source": {
+          "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidate du Parti animaliste ; modalités de désignation non connues.",
+        "source": {
+          "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": "Aucun programme consulté au 28 octobre 2026.",
+        "url": null,
+        "source": {
+          "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
+        }
+      }
+    },
+    "rohou": {
+      "declaration": {
+        "date": null,
+        "source": {
+          "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature personnelle recensée par franceinfo ; modalités de désignation non connues.",
+        "source": {
+          "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": "Aucun programme consulté au 28 octobre 2026.",
+        "url": null,
+        "source": {
+          "titre": "franceinfo — Portraits : qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (34 candidats au 22 octobre 2026)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
         }
       }
     }
