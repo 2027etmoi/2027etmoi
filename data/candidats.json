@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-28",
+  "mise_a_jour": "2026-11-01",
   "candidats": [
     {
       "id": "melenchon",
@@ -261,11 +261,11 @@
       "parti": "Parti socialiste",
       "bloc": "gauche",
       "statut": "pressenti",
-      "statut_detail": "Refuse la primaire, à laquelle il dit n'avoir « jamais été favorable ». Avait indiqué en mai que, s'il devait se déclarer, ce serait en décembre (LCP).",
+      "statut_detail": "Refuse la primaire. Le 27 octobre 2026 à Quimper, dit ne pas être « là pour rajouter une candidature » et conditionner toute décision au « retour au calme, à la stabilité et au dialogue » ; si aucune candidature de gauche n'émerge, des solutions seraient à trouver « au mois de janvier ».",
       "source": {
-        "titre": "France 24 / AFP",
-        "url": "https://www.france24.com/fr/info-en-continu/20260828-hollande-continue-de-d%C3%A9cliner-la-primaire-et-table-sur-un-moment-de-v%C3%A9rit%C3%A9-en-d%C3%A9cembre",
-        "date": "2026-08-28"
+        "titre": "France 3 Bretagne — Élection présidentielle de 2027 : les confidences de François Hollande sur sa candidature lors d'une visite en Bretagne",
+        "url": "https://france3-regions.franceinfo.fr/bretagne/finistere/quimper/election-presidentielle-de-2027-les-confidences-de-francois-hollande-sur-sa-candidature-lors-d-une-visite-en-bretagne-3440283.html",
+        "date": "2026-10-28"
       },
       "propositions": [
         "Âge légal de départ « aux alentours de 63 ans » au 1er janvier 2028, puis allongement de la durée de cotisation selon l'espérance de vie, ajusté par les partenaires sociaux.",
@@ -275,7 +275,7 @@
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande"
       },
-      "verifie_le": "2026-10-28"
+      "verifie_le": "2026-11-01"
     },
     {
       "id": "arthaud",
@@ -505,11 +505,11 @@
       "parti": "Renaissance",
       "bloc": "centre",
       "statut": "declare",
-      "statut_detail": "Candidature officialisée à Mur-de-Barrez (Aveyron). Renvoie la question d'une primaire à début 2027.",
+      "statut_detail": "Candidature officialisée à Mur-de-Barrez (Aveyron) le 22 mai 2026. Propose le 28 octobre 2026, sur TF1, une « grande primaire des démocrates » ouverte aux candidats qui rejettent toute alliance avec l'extrême gauche ou l'extrême droite.",
       "source": {
-        "titre": "LCP",
-        "url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721",
-        "date": "2026-05-22"
+        "titre": "LCP — Présidentielle 2027 : Gabriel Attal veut une « grande primaire des démocrates » pour éviter un second tour RN-LFI",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-veut-une-grande-primaire-des-democrates-pour-eviter-un",
+        "date": "2026-10-28"
       },
       "propositions": [
         "Revenir sous 3 % de déficit en 2032 et atteindre l'équilibre en 2037, soit 120 milliards d'euros d'économies.",
@@ -524,7 +524,7 @@
         "x": "https://x.com/GabrielAttal",
         "wikipedia": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
       },
-      "verifie_le": "2026-10-28"
+      "verifie_le": "2026-11-01"
     },
     {
       "id": "becht",
@@ -1312,6 +1312,24 @@
         "wikipedia": "https://fr.wikipedia.org/wiki/Philippe_Brun"
       },
       "verifie_le": "2026-09-22"
+    },
+    {
+      "id": "lagarde",
+      "nom": "Christine Lagarde",
+      "parti": "Sans étiquette",
+      "bloc": "autre",
+      "statut": "renonce",
+      "statut_detail": "« Je ne suis candidate à rien » (Euronews, 9 juillet 2026). Fin septembre, dans La Croix, juge qu'une candidature ne serait « pas du tout une bonne idée ». Quitte la présidence de la BCE le 7 février 2027.",
+      "source": {
+        "titre": "Euronews — « Je ne suis candidate à rien » : Lagarde à Euronews dans le contexte de la présidentielle",
+        "url": "https://fr.euronews.com/my-europe/2026/07/09/je-ne-suis-candidate-a-rien-lagarde-a-euronews-dans-le-contexte-de-la-presidentielle",
+        "date": "2026-07-09"
+      },
+      "propositions": [],
+      "liens": {
+        "wikipedia": "https://fr.wikipedia.org/wiki/Christine_Lagarde"
+      },
+      "verifie_le": "2026-11-01"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-28",
+  "mise_a_jour": "2026-11-01",
   "fenetre": {
     "debut": "2026-08-24"
   },
@@ -751,9 +751,9 @@
       "id": "hollande",
       "date": "2026-09-28",
       "type": "interview",
-      "media": "la Repubblica (entretien rapporté par Reuters)",
+      "media": "la Repubblica (entretien rapporté par Reuters, dépêche reprise par Internazionale)",
       "titre": "France's Hollande says may run in 2027 if victory looks attainable, paper says",
-      "url": "https://www.usnews.com/news/world/articles/2026-09-28/frances-hollande-says-may-run-in-2027-if-victory-looks-attainable-paper-says",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/28/france-s-hollande-says-may-run-in-2027-if-victory-looks-attainable-paper-says",
       "declare": [
         "Déclare qu'il ne se présenterait qu'en cas de circonstances exceptionnelles et s'il existait une chance réelle d'atteindre le second tour et de l'emporter.",
         "Ajoute que, pour un ancien chef de l'État, une candidature ne se décide pas à la légère."
@@ -761,7 +761,7 @@
       "themes": [
         "campagne"
       ],
-      "verifie_le": "2026-09-30"
+      "verifie_le": "2026-11-01"
     },
     {
       "id": "bouamrane",
@@ -1389,6 +1389,43 @@
         "campagne"
       ],
       "verifie_le": "2026-10-28"
+    },
+    {
+      "id": "hollande",
+      "date": "2026-10-27",
+      "type": "interview",
+      "media": "France 3 Bretagne",
+      "emission": "Déclarations à la presse lors d'une visite de l'usine Armor Lux à Quimper",
+      "titre": "Élection présidentielle de 2027 : les confidences de François Hollande sur sa candidature lors d'une visite en Bretagne",
+      "url": "https://france3-regions.franceinfo.fr/bretagne/finistere/quimper/election-presidentielle-de-2027-les-confidences-de-francois-hollande-sur-sa-candidature-lors-d-une-visite-en-bretagne-3440283.html",
+      "declare": [
+        "Conditionne toute décision de candidature au retour à un « climat apaisé » : « On ne pourra pas faire campagne tant qu'il n'y aura pas le retour au calme, à la stabilité et au dialogue. »",
+        "« Je ne suis pas là pour rajouter une candidature » ; souhaite qu'une candidature de gauche capable d'atteindre le second tour émerge, celle de Raphaël Glucksmann pouvant l'être ; sinon, des solutions seraient à trouver « au mois de janvier ».",
+        "Juge les revendications sociales sur le pouvoir d'achat et celles des étudiants « pas irréalisables », au prix d'une négociation."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-11-01"
+    },
+    {
+      "id": "attal",
+      "date": "2026-10-28",
+      "type": "interview",
+      "media": "TF1",
+      "emission": "Journal de 20 heures",
+      "titre": "Présidentielle 2027 : Gabriel Attal veut une « grande primaire des démocrates » pour éviter un second tour RN-LFI",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-veut-une-grande-primaire-des-democrates-pour-eviter-un",
+      "declare": [
+        "Propose une « grande primaire des démocrates » pour éviter un second tour entre le Rassemblement national et La France insoumise, dont la France « ne se relèverait pas » : « Il est temps d'être tous responsables et d'organiser le rassemblement. »",
+        "Tend la main aux candidats qui rejettent clairement toute alliance avec l'extrême gauche ou l'extrême droite, autour de valeurs énumérées : autorité, laïcité, lutte contre les discriminations, construction européenne, compétitivité, progrès social et écologique.",
+        "Sur le refus d'Édouard Philippe : ceux qui restent à l'écart porteront une part de responsabilité dans la division ; « C'est une aventure collective qu'on doit organiser. »"
+      ],
+      "themes": [
+        "campagne",
+        "institutions"
+      ],
+      "verifie_le": "2026-11-01"
     }
   ],
   "a_verifier": [

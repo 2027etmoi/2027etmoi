@@ -1,0 +1,148 @@
+{
+  "id": "lagarde",
+  "mise_a_jour": "2026-11-01",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lagarde_ECB_Portrait_2019.jpg/500px-Lagarde_ECB_Portrait_2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lagarde_ECB_Portrait_2019.jpg",
+    "auteur": "Lemrich / Banque centrale européenne",
+    "licence": "CC BY-SA 4.0",
+    "annee": "2019",
+    "officielle": true,
+    "legende": "Christine Lagarde, portrait officiel de la BCE, octobre 2019"
+  },
+  "presentation": {
+    "texte": "Christine Lagarde est présidente de la Banque centrale européenne depuis le 1er novembre 2019. Avocate d'affaires, ministre de l'Économie de 2007 à 2011, directrice générale du Fonds monétaire international de 2011 à 2019, elle a annoncé le 29 octobre 2026 qu'elle quitterait la BCE le 7 février 2027, neuf mois avant la fin de son mandat. Elle a déclaré en juillet 2026 n'être « candidate à rien » et a écarté fin septembre une candidature à l'élection présidentielle de 2027.",
+    "sources": [
+      {
+        "titre": "France 24 / AFP — Toujours nommée, jamais élue : le parcours hors normes de Christine Lagarde",
+        "url": "https://france24.com/fr/info-en-continu/20261029-toujours-nomm%C3%A9e-jamais-%C3%A9lue-le-parcours-hors-normes-de-christine-lagarde",
+        "date": "2026-10-29"
+      },
+      {
+        "titre": "LCP — Christine Lagarde annonce son départ anticipé de la Banque centrale européenne",
+        "url": "https://lcp.fr/actualites/christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne-444496",
+        "date": "2026-10-29"
+      },
+      {
+        "titre": "Euronews — « Je ne suis candidate à rien » : Lagarde à Euronews dans le contexte de la présidentielle",
+        "url": "https://fr.euronews.com/my-europe/2026/07/09/je-ne-suis-candidate-a-rien-lagarde-a-euronews-dans-le-contexte-de-la-presidentielle",
+        "date": "2026-07-09"
+      },
+      {
+        "titre": "L'Express / 6Médias (via Orange) — Présidentielle 2027 : la candidature de Christine Lagarde est-elle envisagée ?",
+        "url": "https://actu.orange.fr/politique/presidentielle-2027-la-candidature-de-christine-lagarde-est-elle-envisagee-l-express-via-6medias-CNT000002tueGj.html",
+        "date": "2026-10-31"
+      }
+    ]
+  },
+  "naissance": {
+    "date": "1956-01-01",
+    "lieu": "Paris (9e arrondissement)",
+    "source": {
+      "titre": "Christine Lagarde — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Christine_Lagarde",
+      "date": "2026-11-01"
+    }
+  },
+  "parcours_politique": [
+    {
+      "periode": "2026",
+      "texte": "Déclare le 9 juillet 2026 à Euronews : « Je ne suis candidate à rien, mais je tiens beaucoup à ce que l'Europe soit protégée. » Fin septembre, dans un entretien à La Croix, juge qu'une candidature à l'Élysée ne serait « pas du tout une bonne idée ».",
+      "source": {
+        "titre": "Euronews — « Je ne suis candidate à rien » : Lagarde à Euronews dans le contexte de la présidentielle",
+        "url": "https://fr.euronews.com/my-europe/2026/07/09/je-ne-suis-candidate-a-rien-lagarde-a-euronews-dans-le-contexte-de-la-presidentielle",
+        "date": "2026-07-09"
+      }
+    },
+    {
+      "periode": "2026",
+      "texte": "Annonce le 29 octobre 2026 son départ de la présidence de la BCE le 7 février 2027, avant la fin de son mandat prévue en octobre 2027.",
+      "source": {
+        "titre": "LCP — Christine Lagarde annonce son départ anticipé de la Banque centrale européenne",
+        "url": "https://lcp.fr/actualites/christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne-444496",
+        "date": "2026-10-29"
+      }
+    },
+    {
+      "periode": "2007-2011",
+      "texte": "Ministre de l'Économie, des Finances et de l'Emploi, puis de l'Économie, de l'Industrie et de l'Emploi, dans les gouvernements de François Fillon (19 juin 2007 – 29 juin 2011). Membre de l'UMP sur cette période.",
+      "source": {
+        "titre": "Christine Lagarde — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Christine_Lagarde",
+        "date": "2026-11-01"
+      }
+    },
+    {
+      "periode": "2007",
+      "texte": "Ministre de l'Agriculture et de la Pêche (18 mai – 18 juin 2007).",
+      "source": {
+        "titre": "Christine Lagarde — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Christine_Lagarde",
+        "date": "2026-11-01"
+      }
+    },
+    {
+      "periode": "2005-2007",
+      "texte": "Ministre déléguée au Commerce extérieur dans le gouvernement de Dominique de Villepin (2 juin 2005 – 15 mai 2007).",
+      "source": {
+        "titre": "Christine Lagarde — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Christine_Lagarde",
+        "date": "2026-11-01"
+      }
+    }
+  ],
+  "parcours_professionnel": [
+    {
+      "periode": "2019-",
+      "texte": "Présidente de la Banque centrale européenne depuis le 1er novembre 2019, succédant à Mario Draghi.",
+      "source": {
+        "titre": "France 24 / AFP — Toujours nommée, jamais élue : le parcours hors normes de Christine Lagarde",
+        "url": "https://france24.com/fr/info-en-continu/20261029-toujours-nomm%C3%A9e-jamais-%C3%A9lue-le-parcours-hors-normes-de-christine-lagarde",
+        "date": "2026-10-29"
+      }
+    },
+    {
+      "periode": "2011-2019",
+      "texte": "Directrice générale du Fonds monétaire international (5 juillet 2011 – 12 septembre 2019), reconduite en 2016.",
+      "source": {
+        "titre": "Christine Lagarde — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Christine_Lagarde",
+        "date": "2026-11-01"
+      }
+    },
+    {
+      "periode": "1981-2005",
+      "texte": "Avocate au barreau de Paris, puis au cabinet Baker & McKenzie, dont elle préside le comité exécutif mondial à partir de 1999.",
+      "source": {
+        "titre": "Christine Lagarde — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Christine_Lagarde",
+        "date": "2026-11-01"
+      }
+    }
+  ],
+  "affaires": [
+    {
+      "titre": "Arbitrage Tapie – Crédit lyonnais",
+      "texte": "Poursuivie devant la Cour de justice de la République pour sa décision, en 2008, en tant que ministre de l'Économie, de ne pas contester la sentence arbitrale ayant accordé environ 400 millions d'euros à Bernard Tapie dans son litige avec le Crédit lyonnais.",
+      "etat": "condamnation_definitive",
+      "etat_detail": "Déclarée coupable de négligence le 19 décembre 2016 par la Cour de justice de la République, qui l'a dispensée de peine ; la condamnation n'est pas inscrite à son casier judiciaire. Elle a annoncé ne pas former de recours.",
+      "date_etat": "2016-12-19",
+      "sources": [
+        {
+          "titre": "France 24 — Arbitrage Tapie : Christine Lagarde coupable de « négligence » mais dispensée de peine",
+          "url": "https://www.france24.com/fr/20161219-christine-lagarde-coupable-negligence-arbitrage-tapie-fmi-cjr-credit-lyonnais",
+          "date": "2016-12-19"
+        },
+        {
+          "titre": "Europe 1 — Arbitrage Tapie : Lagarde coupable de « négligence » selon la Cour de justice de la République",
+          "url": "https://www.europe1.fr/societe/arbitrage-tapie-lagarde-coupable-de-negligence-selon-la-cour-de-justice-de-la-republique-2930687",
+          "date": "2016-12-19"
+        }
+      ]
+    }
+  ],
+  "a_verifier": [
+    "Famille politique « Autres » faute d'affiliation partisane actuelle (ancienne ministre membre de l'UMP de 2007 à 2011) ; à revoir si elle rejoignait un parti ou soutenait un candidat.",
+    "Entretien à La Croix de fin septembre 2026 cité d'après L'Express (31 octobre 2026) et France 24 / AFP (29 octobre 2026) : l'article original n'a pas pu être consulté."
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "id": "philippe",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-11-01",
   "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Edouard_Philippe_3x4_crop.jpg/500px-Edouard_Philippe_3x4_crop.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Edouard_Philippe_3x4_crop.jpg",
@@ -155,8 +155,8 @@
       "titre": "Soupçons de détournement de fonds publics au Havre (Cité numérique)",
       "texte": "À la suite du signalement d'un lanceur d'alerte en septembre 2023, le parquet national financier a ouvert une enquête préliminaire et fait procéder à des perquisitions à la mairie du Havre en avril 2024. Après une plainte avec constitution de partie civile déposée en juin 2025, un juge d'instruction a été désigné le 19 mai 2026 pour enquêter sur des faits présumés de détournement de fonds publics, favoritisme, prise illégale d'intérêts et concussion. Édouard Philippe conteste les accusations.",
       "etat": "enquete",
-      "etat_detail": "Information judiciaire confiée à un juge d'instruction du pôle financier (mai 2026), toujours en cours en juillet 2026. Aucune mise en examen ni aucun statut de témoin assisté d'Édouard Philippe n'a été rapporté par les sources consultées ; il bénéficie de la présomption d'innocence.",
-      "date_etat": "2026-07-18",
+      "etat_detail": "Information judiciaire confiée à des juges d'instruction financiers (mai 2026). Entendu toute la journée du 29 octobre 2026 par deux juges d'instruction à Paris, Édouard Philippe a été placé sous le statut de témoin assisté, et non mis en examen ; son avocat parle d'une « décision favorable ». Il bénéficie de la présomption d'innocence.",
+      "date_etat": "2026-10-29",
       "sources": [
         {
           "titre": "Soupçons de détournements de fonds au Havre : pourquoi Édouard Philippe est visé par une enquête du parquet national financier (France 3 Normandie, avec AFP)",
@@ -167,6 +167,11 @@
           "titre": "Suspicions de détournements de fonds publics au Havre : la requête d'Édouard Philippe rejetée, le tribunal maintient le statut de la lanceuse d'alerte (France 3 Normandie)",
           "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/suspicions-de-detournements-de-fonds-publics-au-havre-la-requete-d-edouard-philippe-rejetee-le-tribunal-maintient-le-statut-de-la-lanceuse-d-alerte-3388540.html",
           "date": "2026-07-18"
+        },
+        {
+          "titre": "LCP — Soupçons de détournement de fonds publics : Édouard Philippe placé sous le statut de témoin assisté, une « décision favorable » réagit son avocat",
+          "url": "https://lcp.fr/actualites/soupcons-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de",
+          "date": "2026-10-30"
         }
       ]
     },
@@ -188,7 +193,7 @@
   "a_verifier": [
     "Photo : la vignette 400px est refusée par Wikimedia (HTTP 400, tailles non standard) ; vignette 500px utilisée, vérifiée HTTP 200.",
     "Pas de portrait officiel (Matignon ou autre) trouvé sur Commons.",
-    "Affaire du Havre : recherche du 22/09/2026. Seul fait postérieur au 19 mai trouvé : le 15 juillet 2026, le tribunal administratif de Paris a rejeté le recours de la communauté urbaine Le Havre Seine Métropole (présidée par Édouard Philippe) contre la reconnaissance du statut de lanceuse d'alerte (France 3 Normandie, 18/07/2026). Contentieux administratif, non ajouté comme affaire. Aucune audition, mise en examen ou statut de témoin assisté trouvé : à resurveiller.",
+    "Affaire du Havre : recherche du 22/09/2026. Seul fait postérieur au 19 mai trouvé : le 15 juillet 2026, le tribunal administratif de Paris a rejeté le recours de la communauté urbaine Le Havre Seine Métropole (présidée par Édouard Philippe) contre la reconnaissance du statut de lanceuse d'alerte (France 3 Normandie, 18/07/2026). Contentieux administratif, non ajouté comme affaire. Mise à jour du 01/11/2026 : placement sous le statut de témoin assisté le 29 octobre 2026 (LCP, 30/10/2026) intégré.",
     "Covid-19 : l'article franceinfo du 7 juillet 2025 sur le non-lieu ne mentionne ni pourvoi ni caractère définitif ; aucun article sur un pourvoi du procureur général trouvé (recherche du 22/09/2026). État publié « non_lieu » maintenu ; caractère définitif non confirmé explicitement par la presse."
   ]
 }
