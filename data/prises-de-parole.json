@@ -1568,6 +1568,26 @@
         "institutions"
       ],
       "verifie_le": "2026-11-09"
+    },
+    {
+      "id": "riner",
+      "date": "2026-11-09",
+      "type": "communique",
+      "media": "X (vidéo publiée sur son compte) et entretien au Parisien",
+      "emission": "Annonce de candidature",
+      "titre": "« La résignation n'est pas une option » : Teddy Riner annonce sa candidature à l'élection présidentielle 2027",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/la-resignation-n-est-pas-une-option-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-2027_8274359.html",
+      "declare": [
+        "« Je suis candidat à l'élection présidentielle de 2027. » Se dit « ni de droite, ni de gauche » et veut être « le président qui réconcilie et qui fédère » ; slogan « La France qu'on veut ».",
+        "« La France n'a pas besoin d'un politicien professionnel qui récite des leçons. Elle a besoin de bon sens, de fermeté, de justice » ; évoque la dette, un pays « qui s'effondre ».",
+        "Retraites : conserver la répartition, tenir compte de la pénibilité, sans exclure « une part de capitalisation » (Public Sénat). N'exclut pas de disputer les JO de Los Angeles 2028 « si la fonction me le permet et si les Français m'y autorisent »."
+      ],
+      "themes": [
+        "campagne",
+        "retraites",
+        "economie"
+      ],
+      "verifie_le": "2026-11-09"
     }
   ],
   "a_verifier": [

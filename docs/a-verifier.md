@@ -1,6 +1,6 @@
 # Points à vérifier (généré)
 
-Généré le 2026-11-09 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 643 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
+Généré le 2026-11-09 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 652 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
 
 ## Biographies et affaires judiciaires
 
@@ -172,6 +172,7 @@ Généré le 2026-11-09 par `python3 scripts/a_verifier.py` à partir des champs
 
 - [ ] Famille politique « Autres » faute d'affiliation partisane actuelle (ancienne ministre membre de l'UMP de 2007 à 2011) ; à revoir si elle rejoignait un parti ou soutenait un candidat.
 - [ ] Entretien à La Croix de fin septembre 2026 cité d'après L'Express (31 octobre 2026) et France 24 / AFP (29 octobre 2026) : l'article original n'a pas pu être consulté.
+- [ ] L'article d'Euronews en français du 9 juillet 2026 (« Je ne suis candidate à rien »), consulté le 1er novembre 2026, n'est plus en ligne ; la citation est désormais sourcée par le rappel d'Euronews (anglais) du 29 octobre 2026.
 
 ### Francis Lalanne (`data/biographies/lalanne.json`)
 
@@ -318,6 +319,15 @@ Généré le 2026-11-09 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Plainte devant la Cour de justice de la République annoncée le 8 août 2025 par Me Khadija Aoudia pour provocation à la haine et à la discrimination (propos du 6 février 2025 sur LCI concernant Mayotte) ; aucune décision de la commission des requêtes rapportée à la date de l'article (Mayotte Hebdo, 13/08/2025 : https://www.mayottehebdo.com/actualite/justice/bruno-retailleau-vise-par-une-plainte-ses-propos-sur-les-immigres-de-mayotte-en-cause/). La mention d'un rejet le 22 mai 2025 n'a été retrouvée dans aucune presse reconnue (recherche du 22/09/2026). Simple plainte sans procédure ouverte connue : hors périmètre, non publiée.
 - [ ] Fonds de l'ex-groupe UMP du Sénat (2009-2014) : Public Sénat (13/03/2017) présente Bruno Retailleau comme celui qui a mis fin à la pratique en 2014 en prenant la présidence du groupe, et non comme mis en cause ; il a déclaré n'avoir « pas reçu de ristournes ». Aucune procédure le visant personnellement trouvée (recherche du 22/09/2026) : non publiée.
 - [ ] Désignation d'avril 2026 : Wikipédia indique 73,8 % des voix ; le mode exact de désignation (vote des adhérents) est à recouper avec une source de presse.
+
+### Teddy Riner (`data/biographies/riner.json`)
+
+- [ ] Contentieux fiscal : redressement notifié en 2019 sur les exercices 2016 et 2017 de sa société de location de voitures haut de gamme (charges d'une Ferrari et d'une Rolls-Royce requalifiées en avantage occulte), rejet de son recours par le tribunal administratif de Cergy-Pontoise, puis confirmation par la cour administrative d'appel de Versailles le 15 octobre 2026 avec « intention délibérée » de minorer l'impôt (L'Équipe, 3 novembre 2026, repris par l'AFP via Eurosport et L'essentiel ; décision consultée par l'AFP anonymisée). Il s'agit d'un contentieux administratif, pas d'une procédure pénale : aucun des états d'affaire du schéma (enquête, mise en examen, condamnation…) ne lui correspond, donc non publié dans la rubrique Affaires en attendant une décision éditoriale. Pourvoi en cassation non connu.
+- [ ] Entretien au Parisien du 9 novembre 2026 non consulté (accès refusé) ; propos repris via franceinfo, Public Sénat et 20 minutes (Suisse). Vidéo publiée sur X non consultée directement.
+- [ ] Montant du redressement fiscal (environ 289 000 euros de bases réintégrées, majoration de 40 % pour manquement délibéré) rapporté par Wikipédia d'après L'Équipe et L'Informé : articles d'origine non ouverts, montants non publiés.
+- [ ] Wikipédia mentionne d'autres redressements visant les sociétés Riner Judo Connection (exercices 2014-2016) et TR Leader Group (plus de 195 000 euros, confirmé en première instance en janvier 2026) : sources d'origine non consultées, non publiés.
+- [ ] Composition du noyau de campagne (« une vingtaine » de personnes, dont d'anciens ministres) : aucun nom rendu public au 9 novembre. Site de campagne non identifié (teddyriner2027.fr est un domaine parqué sans contenu).
+- [ ] Nom de naissance et statut exact de sa relation au Paris Saint-Germain judo à revérifier sur une source autre que Wikipédia.
 
 ### Erwan Rohou (`data/biographies/rohou.json`)
 
@@ -628,6 +638,11 @@ Généré le 2026-11-09 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Sécurité : suppression du juge d'application des peines, castration chimique des pédocriminels, cour disciplinaire des magistrats — lus seulement dans un résumé de recherche, aucune page source ouverte ne les contient.
 - [ ] Santé : aucune mesure trouvée au 22/09/2026 (chapitre « à venir », rien dans la presse ouverte).
 - [ ] Plusieurs URL de mesures du site ne correspondent pas à leur titre (ex. l'URL « concentrer-le-primaire-et-le-college-sur-les-savoirs » porte la mesure sur la rémunération des professeurs) : vérifier la stabilité des liens.
+
+### Teddy Riner (`data/programmes/riner.json`)
+
+- [ ] Orientations reprises de l'entretien au Parisien (non consulté) via Public Sénat et 20 minutes ; modalités, coût et financement non présentés.
+- [ ] Thèmes évoqués sans contenu précis (sécurité, « fermeté », « justice », international : « respect de la France ») : non retenus comme mesures.
 
 ### Erwan Rohou (`data/programmes/rohou.json`)
 

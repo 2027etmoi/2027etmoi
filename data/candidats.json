@@ -1330,6 +1330,27 @@
         "wikipedia": "https://fr.wikipedia.org/wiki/Christine_Lagarde"
       },
       "verifie_le": "2026-11-09"
+    },
+    {
+      "id": "riner",
+      "nom": "Teddy Riner",
+      "parti": "Sans étiquette (mouvement « La France qu'on veut »)",
+      "bloc": "autre",
+      "statut": "declare",
+      "statut_detail": "Judoka, quintuple champion olympique. Candidature annoncée le 9 novembre 2026 dans une vidéo publiée sur X et un entretien au Parisien : « Je suis candidat à l'élection présidentielle de 2027. » Se dit « ni de droite, ni de gauche » ; slogan « La France qu'on veut ». Structure de campagne à créer « dans les prochains jours ».",
+      "source": {
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/la-resignation-n-est-pas-une-option-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-2027_8274359.html",
+        "date": "2026-11-09"
+      },
+      "propositions": [
+        "Nouvelle réforme des retraites tenant compte de la démographie et de la pénibilité, en conservant la répartition, sans exclure « une part de capitalisation ».",
+        "Hausse du salaire net par des allègements de cotisations ; possibilité de gagner plus en travaillant davantage, sans remettre en cause les 35 heures."
+      ],
+      "liens": {
+        "wikipedia": "https://fr.wikipedia.org/wiki/Teddy_Riner"
+      },
+      "verifie_le": "2026-11-09"
     }
   ]
 }
