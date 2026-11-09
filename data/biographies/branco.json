@@ -1,6 +1,6 @@
 {
   "id": "branco",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-11-09",
   "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Juan_Branco_Pick.jpg/500px-Juan_Branco_Pick.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Juan_Branco_Pick.jpg",
@@ -43,8 +43,7 @@
       "etat_detail": "Dans son réquisitoire définitif du 6 août 2026, le parquet de Paris demande son renvoi devant la cour criminelle départementale pour un viol et requiert un non-lieu pour les autres faits ; le juge d'instruction doit encore statuer. Juan Branco est présumé innocent.",
       "date_etat": "2026-09-02",
       "sources": [
-        { "titre": "franceinfo – Le parquet de Paris requiert le renvoi en procès pour viol de l'avocat Juan Branco", "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/le-parquet-de-paris-requiert-le-renvoi-en-proces-pour-viol-de-l-avocat-juan-branco_8172581.html", "date": "2026-09-02" },
-        { "titre": "Sud Radio (avec AFP) – Le parquet de Paris demande le procès de Juan Branco pour viol", "url": "https://www.sudradio.fr/societe/le-parquet-de-paris-requiert-le-renvoi-en-proces-pour-viol-de-lavocat-juan-branco", "date": "2026-09-01" }
+        { "titre": "franceinfo – Le parquet de Paris requiert le renvoi en procès pour viol de l'avocat Juan Branco", "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/le-parquet-de-paris-requiert-le-renvoi-en-proces-pour-viol-de-l-avocat-juan-branco_8172581.html", "date": "2026-09-02" }
       ]
     }
   ],

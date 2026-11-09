@@ -1,8 +1,8 @@
 {
-  "mise_a_jour": "2026-10-28",
+  "mise_a_jour": "2026-11-09",
   "fenetre": {
     "debut": "2026-08-17",
-    "fin": "2026-10-22"
+    "fin": "2026-10-29"
   },
   "noms_hors_liste": {
     "bonnal": "Sébastien Bonnal"
@@ -1963,6 +1963,84 @@
             "retailleau": 9,
             "dupont-aignan": 2,
             "le-pen": 38,
+            "zemmour": 4
+          }
+        }
+      ]
+    },
+    {
+      "institut": "Ifop",
+      "commanditaire": "LCI",
+      "terrain_debut": "2026-10-27",
+      "terrain_fin": "2026-10-29",
+      "echantillon": 1501,
+      "source": {
+        "titre": "Commission des sondages – notice n° 10351, Ifop pour LCI (intentions de vote au 1er tour)",
+        "url": "https://www.commission-des-sondages.fr/notices/medias/fichiers/add/2376",
+        "date": "2026-11-03"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse Attal, Philippe, Retailleau et Lisnard",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 18,
+            "roussel": 2,
+            "tondelier": 3,
+            "glucksmann": 10,
+            "attal": 5,
+            "philippe": 9.5,
+            "retailleau": 4,
+            "lisnard": 7,
+            "dupont-aignan": 1.5,
+            "le-pen": 35,
+            "zemmour": 4.5
+          }
+        },
+        {
+          "label": "Hypothèse Attal (bloc central), Retailleau et Lisnard",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 17.5,
+            "roussel": 2,
+            "tondelier": 3,
+            "glucksmann": 13,
+            "attal": 9,
+            "retailleau": 5,
+            "lisnard": 7.5,
+            "dupont-aignan": 2,
+            "le-pen": 36,
+            "zemmour": 4.5
+          }
+        },
+        {
+          "label": "Hypothèse Philippe (bloc central) et Retailleau seul à droite",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 17.5,
+            "roussel": 1.5,
+            "tondelier": 3.5,
+            "glucksmann": 11.5,
+            "philippe": 15,
+            "retailleau": 7,
+            "dupont-aignan": 2,
+            "le-pen": 37,
+            "zemmour": 4
+          }
+        },
+        {
+          "label": "Hypothèse Philippe (bloc central) et Lisnard seul à droite",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 17.5,
+            "roussel": 2,
+            "tondelier": 3,
+            "glucksmann": 11,
+            "philippe": 15,
+            "lisnard": 9,
+            "dupont-aignan": 2,
+            "le-pen": 36,
             "zemmour": 4
           }
         }

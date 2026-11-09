@@ -1,6 +1,6 @@
 # Points à vérifier (généré)
 
-Généré le 2026-10-28 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 641 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
+Généré le 2026-11-09 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 643 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
 
 ## Biographies et affaires judiciaires
 
@@ -168,6 +168,11 @@ Généré le 2026-10-28 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Photo : aucun portrait libre sur Commons. Le seul fichier trouvé, File:Presidentielles-2027-Selma-LABIB.png, est un bandeau de texte sans photo, et sa licence (CC BY 3.0, auteur inconnu, repris du site du NPA-R) est douteuse. Champ photo omis.
 - [ ] Aucune procédure judiciaire trouvée. La recherche de presse systématique n'a pas pu être menée jusqu'au bout, faute de quota de recherche web : à confirmer.
 
+### Christine Lagarde (`data/biographies/lagarde.json`)
+
+- [ ] Famille politique « Autres » faute d'affiliation partisane actuelle (ancienne ministre membre de l'UMP de 2007 à 2011) ; à revoir si elle rejoignait un parti ou soutenait un candidat.
+- [ ] Entretien à La Croix de fin septembre 2026 cité d'après L'Express (31 octobre 2026) et France 24 / AFP (29 octobre 2026) : l'article original n'a pas pu être consulté.
+
 ### Francis Lalanne (`data/biographies/lalanne.json`)
 
 - [ ] Inéligibilité : prononcée le 17 avril 2025 pour 18 mois « à compter de cette date » (TA de Lyon), donc jusqu'au 17 octobre 2026 ; Francis Lalanne redevient éligible avant la présidentielle d'avril 2027, sauf autre décision non trouvée. Le lien direct vers la décision du Conseil d'État n'a pas été ouvert.
@@ -280,7 +285,7 @@ Généré le 2026-10-28 par `python3 scripts/a_verifier.py` à partir des champs
 
 - [ ] Photo : la vignette 400px est refusée par Wikimedia (HTTP 400, tailles non standard) ; vignette 500px utilisée, vérifiée HTTP 200.
 - [ ] Pas de portrait officiel (Matignon ou autre) trouvé sur Commons.
-- [ ] Affaire du Havre : recherche du 22/09/2026. Seul fait postérieur au 19 mai trouvé : le 15 juillet 2026, le tribunal administratif de Paris a rejeté le recours de la communauté urbaine Le Havre Seine Métropole (présidée par Édouard Philippe) contre la reconnaissance du statut de lanceuse d'alerte (France 3 Normandie, 18/07/2026). Contentieux administratif, non ajouté comme affaire. Aucune audition, mise en examen ou statut de témoin assisté trouvé : à resurveiller.
+- [ ] Affaire du Havre : recherche du 22/09/2026. Seul fait postérieur au 19 mai trouvé : le 15 juillet 2026, le tribunal administratif de Paris a rejeté le recours de la communauté urbaine Le Havre Seine Métropole (présidée par Édouard Philippe) contre la reconnaissance du statut de lanceuse d'alerte (France 3 Normandie, 18/07/2026). Contentieux administratif, non ajouté comme affaire. Mise à jour du 01/11/2026 : placement sous le statut de témoin assisté le 29 octobre 2026 (LCP, 30/10/2026) intégré.
 - [ ] Covid-19 : l'article franceinfo du 7 juillet 2025 sur le non-lieu ne mentionne ni pourvoi ni caractère définitif ; aucun article sur un pourvoi du procureur général trouvé (recherche du 22/09/2026). État publié « non_lieu » maintenu ; caractère définitif non confirmé explicitement par la presse.
 
 ### Florian Philippot (`data/biographies/philippot.json`)

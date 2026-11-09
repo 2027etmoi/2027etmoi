@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-28",
+  "mise_a_jour": "2026-11-09",
   "fenetre": {
     "debut": "2026-08-24"
   },
@@ -751,9 +751,9 @@
       "id": "hollande",
       "date": "2026-09-28",
       "type": "interview",
-      "media": "la Repubblica (entretien rapporté par Reuters)",
+      "media": "la Repubblica (entretien rapporté par Reuters, dépêche reprise par Internazionale)",
       "titre": "France's Hollande says may run in 2027 if victory looks attainable, paper says",
-      "url": "https://www.usnews.com/news/world/articles/2026-09-28/frances-hollande-says-may-run-in-2027-if-victory-looks-attainable-paper-says",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/28/france-s-hollande-says-may-run-in-2027-if-victory-looks-attainable-paper-says",
       "declare": [
         "Déclare qu'il ne se présenterait qu'en cas de circonstances exceptionnelles et s'il existait une chance réelle d'atteindre le second tour et de l'emporter.",
         "Ajoute que, pour un ancien chef de l'État, une candidature ne se décide pas à la légère."
@@ -761,7 +761,7 @@
       "themes": [
         "campagne"
       ],
-      "verifie_le": "2026-09-30"
+      "verifie_le": "2026-11-01"
     },
     {
       "id": "bouamrane",
@@ -1389,6 +1389,185 @@
         "campagne"
       ],
       "verifie_le": "2026-10-28"
+    },
+    {
+      "id": "hollande",
+      "date": "2026-10-27",
+      "type": "interview",
+      "media": "France 3 Bretagne",
+      "emission": "Déclarations à la presse lors d'une visite de l'usine Armor Lux à Quimper",
+      "titre": "Élection présidentielle de 2027 : les confidences de François Hollande sur sa candidature lors d'une visite en Bretagne",
+      "url": "https://france3-regions.franceinfo.fr/bretagne/finistere/quimper/election-presidentielle-de-2027-les-confidences-de-francois-hollande-sur-sa-candidature-lors-d-une-visite-en-bretagne-3440283.html",
+      "declare": [
+        "Conditionne toute décision de candidature au retour à un « climat apaisé » : « On ne pourra pas faire campagne tant qu'il n'y aura pas le retour au calme, à la stabilité et au dialogue. »",
+        "« Je ne suis pas là pour rajouter une candidature » ; souhaite qu'une candidature de gauche capable d'atteindre le second tour émerge, celle de Raphaël Glucksmann pouvant l'être ; sinon, des solutions seraient à trouver « au mois de janvier ».",
+        "Juge les revendications sociales sur le pouvoir d'achat et celles des étudiants « pas irréalisables », au prix d'une négociation."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-11-01"
+    },
+    {
+      "id": "attal",
+      "date": "2026-10-28",
+      "type": "interview",
+      "media": "TF1",
+      "emission": "Journal de 20 heures",
+      "titre": "Présidentielle 2027 : Gabriel Attal veut une « grande primaire des démocrates » pour éviter un second tour RN-LFI",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-veut-une-grande-primaire-des-democrates-pour-eviter-un",
+      "declare": [
+        "Propose une « grande primaire des démocrates » pour éviter un second tour entre le Rassemblement national et La France insoumise, dont la France « ne se relèverait pas » : « Il est temps d'être tous responsables et d'organiser le rassemblement. »",
+        "Tend la main aux candidats qui rejettent clairement toute alliance avec l'extrême gauche ou l'extrême droite, autour de valeurs énumérées : autorité, laïcité, lutte contre les discriminations, construction européenne, compétitivité, progrès social et écologique.",
+        "Sur le refus d'Édouard Philippe : ceux qui restent à l'écart porteront une part de responsabilité dans la division ; « C'est une aventure collective qu'on doit organiser. »"
+      ],
+      "themes": [
+        "campagne",
+        "institutions"
+      ],
+      "verifie_le": "2026-11-01"
+    },
+    {
+      "id": "philippe",
+      "date": "2026-11-01",
+      "type": "interview",
+      "media": "TF1",
+      "emission": "Journal de 20 heures",
+      "titre": "Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire, source de « division »",
+      "url": "https://www.france24.com/fr/france/20261101-pr%C3%A9sidentielle-2027-%C3%A9douard-philippe-refuse-de-participer-%C3%A0-une-primaire-source-de-division",
+      "declare": [
+        "Refuse la primaire proposée par Gabriel Attal : « Je ne crois pas que cette primaire aura lieu. » « Je pense que cette primaire, c'est une primaire de la division et une primaire de la confusion. »",
+        "Estime qu'une primaire souligne les différences alors que son camp devrait « créer du commun » ; juge qu'elle mêlerait les continuateurs du macronisme et ceux qui tendent la main à une union des droites.",
+        "« Au mois de février, chacun prendra ses responsabilités, j'ai l'habitude de prendre les miennes. » Affirme qu'il ne gouvernera « ni avec les macronistes ni avec le RN »."
+      ],
+      "themes": [
+        "campagne",
+        "institutions"
+      ],
+      "verifie_le": "2026-11-09"
+    },
+    {
+      "id": "attal",
+      "date": "2026-11-02",
+      "type": "interview",
+      "media": "TF1",
+      "emission": "Matinale",
+      "titre": "« C'est inéluctable » : Gabriel Attal s'accroche à sa primaire, malgré le refus d'Édouard Philippe",
+      "url": "https://lcp.fr/actualites/c-est-ineluctable-gabriel-attal-s-accroche-a-sa-primaire-malgre-le-refus-d-edouard",
+      "declare": [
+        "« À la fin, je crois que cette primaire aura lieu. C'est inéluctable. » « Aucun candidat n'est en situation d'être au deuxième tour de l'élection présidentielle. »",
+        "Se donne jusqu'au début de 2027 pour convaincre les autres candidats de la droite et du centre ; « le plus tôt sera le mieux ». N'exclut pas une primaire sans Édouard Philippe, « un candidat [qui] oppose un refus catégorique »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-11-09"
+    },
+    {
+      "id": "retailleau",
+      "date": "2026-11-03",
+      "type": "interview",
+      "media": "BFMTV",
+      "emission": "Entretien du soir",
+      "titre": "Présidentielle : Bruno Retailleau veut un « examen pour entrer en sixième » et « des groupes de niveau »",
+      "url": "https://lcp.fr/actualites/presidentielle-bruno-retailleau-veut-un-examen-pour-entrer-en-sixieme-et-des-groupes-de",
+      "declare": [
+        "Veut « casser le collège unique » : « un examen pour entrer en sixième » déterminant des groupes de niveau, revus régulièrement, avec passerelles jusqu'à la troisième ; l'objectif « n'est pas de trier les enfants à onze ans ».",
+        "Priorité aux fondamentaux (mathématiques et français) à l'école primaire et retour de la notation ; juge que le système « est en train de s'effondrer »."
+      ],
+      "themes": [
+        "education"
+      ],
+      "verifie_le": "2026-11-09"
+    },
+    {
+      "id": "le-pen",
+      "date": "2026-11-05",
+      "type": "interview",
+      "media": "LCP",
+      "emission": "Déclarations à la presse au salon Euronaval (Villepinte)",
+      "titre": "À Euronaval, Marine Le Pen plaide pour davantage de frégates dans la flotte française",
+      "url": "https://lcp.fr/actualites/a-euronaval-marine-le-pen-plaide-pour-davantage-de-fregates-dans-la-flotte-francaise",
+      "declare": [
+        "Juge la flotte insuffisante : « Nous avons une centaine de bâtiments de manière globale, ce n'est sans doute pas suffisant » ; souhaite « idéalement » davantage de frégates, sans chiffre, en reconnaissant les contraintes budgétaires.",
+        "Se dit favorable, à terme, à une sortie du commandement intégré de l'OTAN : « Il faut être cohérent. »",
+        "Priorités citées : protection du domaine maritime, lutte contre l'immigration clandestine (Mayotte) et le narcotrafic, surveillance des câbles sous-marins ; programme de défense détaillé annoncé pour plus tard."
+      ],
+      "themes": [
+        "international",
+        "securite"
+      ],
+      "verifie_le": "2026-11-09"
+    },
+    {
+      "id": "villepin",
+      "date": "2026-11-03",
+      "type": "interview",
+      "media": "France Inter",
+      "emission": "Matinale",
+      "titre": "« Je ne suis pas encore candidat » à la présidentielle 2027, indique Dominique de Villepin",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/je-ne-suis-pas-encore-candidat-a-la-presidentielle-2027-indique-dominique-de-villepin_8265395.html",
+      "declare": [
+        "« Je ne suis pas encore candidat. » « Ce n'est pas le moment » d'ajouter une candidature « au milieu d'une situation de colère générale dans notre pays ».",
+        "Estime que « deux extrêmes écrasent l'ensemble du débat » ; exclut toute alliance avec Édouard Philippe ou Gabriel Attal, héritiers selon lui du macronisme, porteurs d'« une autre conception de la République »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-11-09"
+    },
+    {
+      "id": "tondelier",
+      "date": "2026-11-05",
+      "type": "interview",
+      "media": "Public Sénat",
+      "emission": "Matinale",
+      "titre": "Présidentielle 2027 : « Personne ne gagnera seul », assure Marine Tondelier",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-personne-ne-gagnera-seul-assure-marine-tondelier",
+      "declare": [
+        "« Je suis candidate à l'élection présidentielle, mais s'il faut être responsable pour plusieurs, je le serai. » « Personne ne gagnera seul. »",
+        "Reste favorable à une candidature commune à gauche ; présentera fin novembre aux adhérents le résultat des discussions d'union, avant le vote interne du 10 au 13 décembre."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-11-09"
+    },
+    {
+      "id": "glucksmann",
+      "date": "2026-11-06",
+      "type": "discours",
+      "media": "Réseaux sociaux (YouTube, Facebook, X, Instagram, Twitch)",
+      "emission": "Live « Au QG », première émission consacrée à la République",
+      "titre": "Glucksmann loue son « modèle », Pierre Mendès France",
+      "url": "https://www.france24.com/fr/info-en-continu/20261106-glucksmann-loue-son-mod%C3%A8le-pierre-mend%C3%A8s-france",
+      "declare": [
+        "Première d'un rendez-vous de campagne en ligne : une heure de prise de parole puis réponses aux questions du public ; rendez-vous appelé à devenir régulier selon son équipe.",
+        "« J'ai un modèle qui est Pierre Mendès France » ; « Mendès France, c'est l'éthique et la sincérité. »",
+        "Premier meeting de campagne annoncé à Paris le 6 décembre 2026 (AFP)."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-11-09"
+    },
+    {
+      "id": "melenchon",
+      "date": "2026-11-07",
+      "type": "discours",
+      "media": "Meeting au Bourget (Seine-Saint-Denis)",
+      "emission": "Présentation du programme « L'Avenir en commun »",
+      "titre": "« Il faut tout changer ! » : Jean-Luc Mélenchon a présenté son programme pour l'élection présidentielle 2027",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/il-faut-tout-changer-jean-luc-melenchon-a-presente-son-programme-pour-l-election-presidentielle-2027_8273312.html",
+      "declare": [
+        "Présente la nouvelle édition de « L'Avenir en commun » (La Dispute) : 1 069 mesures dont 238 nouvelles selon La France insoumise ; mot d'ordre « Il faut tout changer ! ».",
+        "L'écologie passe en tête du programme (LCP, 6 novembre) : baisse de 65 % des émissions d'ici 2033, 100 % d'énergies renouvelables au plus tard en 2060, conscription citoyenne écologique de neuf mois rémunérée au Smic."
+      ],
+      "themes": [
+        "ecologie",
+        "institutions"
+      ],
+      "verifie_le": "2026-11-09"
     }
   ],
   "a_verifier": [

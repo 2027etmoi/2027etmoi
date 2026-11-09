@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-28",
+  "mise_a_jour": "2026-11-01",
   "candidats": [
     {
       "id": "melenchon",
@@ -261,11 +261,11 @@
       "parti": "Parti socialiste",
       "bloc": "gauche",
       "statut": "pressenti",
-      "statut_detail": "Refuse la primaire, à laquelle il dit n'avoir « jamais été favorable ». Avait indiqué en mai que, s'il devait se déclarer, ce serait en décembre (LCP).",
+      "statut_detail": "Refuse la primaire. Le 27 octobre 2026 à Quimper, dit ne pas être « là pour rajouter une candidature » et conditionner toute décision au « retour au calme, à la stabilité et au dialogue » ; si aucune candidature de gauche n'émerge, des solutions seraient à trouver « au mois de janvier ».",
       "source": {
-        "titre": "France 24 / AFP",
-        "url": "https://www.france24.com/fr/info-en-continu/20260828-hollande-continue-de-d%C3%A9cliner-la-primaire-et-table-sur-un-moment-de-v%C3%A9rit%C3%A9-en-d%C3%A9cembre",
-        "date": "2026-08-28"
+        "titre": "France 3 Bretagne — Élection présidentielle de 2027 : les confidences de François Hollande sur sa candidature lors d'une visite en Bretagne",
+        "url": "https://france3-regions.franceinfo.fr/bretagne/finistere/quimper/election-presidentielle-de-2027-les-confidences-de-francois-hollande-sur-sa-candidature-lors-d-une-visite-en-bretagne-3440283.html",
+        "date": "2026-10-28"
       },
       "propositions": [
         "Âge légal de départ « aux alentours de 63 ans » au 1er janvier 2028, puis allongement de la durée de cotisation selon l'espérance de vie, ajusté par les partenaires sociaux.",
@@ -275,7 +275,7 @@
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande"
       },
-      "verifie_le": "2026-10-28"
+      "verifie_le": "2026-11-01"
     },
     {
       "id": "arthaud",
@@ -356,11 +356,11 @@
       "parti": "Les Écologistes",
       "bloc": "ecolo",
       "statut": "declare",
-      "statut_detail": "Candidature maintenue par le conseil fédéral. Référendum interne du 10 au 13 décembre 2026 : candidature autonome ou retrait au profit d'un autre candidat.",
+      "statut_detail": "Candidature maintenue par le conseil fédéral. Référendum interne du 10 au 13 décembre 2026 : candidature autonome ou retrait au profit d'un autre candidat. Le 5 novembre : « Je suis candidate…, mais s'il faut être responsable pour plusieurs, je le serai » ; résultat des discussions d'union présenté aux adhérents fin novembre.",
       "source": {
-        "titre": "Journal du Net",
-        "url": "https://www.journaldunet.com/business/action-publique/1555211-referendum-interne-des-ecologistes-sur-la-candidature-de-marine-tondelier-a-la-presidentielle-de-2027/",
-        "date": "2026-09-22"
+        "titre": "Public Sénat — Présidentielle 2027 : « Personne ne gagnera seul », assure Marine Tondelier",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-personne-ne-gagnera-seul-assure-marine-tondelier",
+        "date": "2026-11-05"
       },
       "propositions": [
         "Augmentation du SMIC (montant non précisé) et indexation des bas salaires sur l'inflation.",
@@ -374,7 +374,7 @@
         "instagram": "https://www.instagram.com/marinetondelier",
         "wikipedia": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
       },
-      "verifie_le": "2026-10-28"
+      "verifie_le": "2026-11-09"
     },
     {
       "id": "batho",
@@ -478,11 +478,11 @@
       "parti": "Horizons",
       "bloc": "centre",
       "statut": "declare",
-      "statut_detail": "Déclaré depuis septembre 2024. Refuse une primaire. Soutenu par Gérald Darmanin.",
+      "statut_detail": "Déclaré depuis septembre 2024. Refuse la primaire proposée par Gabriel Attal, « primaire de la division et de la confusion » (TF1, 1er novembre 2026), et renvoie à février le moment où « chacun prendra ses responsabilités ». Soutenu par Gérald Darmanin.",
       "source": {
-        "titre": "Public Sénat",
-        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-la-main-tendue-dedouard-philippe-rejetee-par-gabriel-attal-et-bruno-retailleau-relance-lidee-dune-primaire",
-        "date": "2026-09-09"
+        "titre": "France 24 — Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire, source de « division »",
+        "url": "https://www.france24.com/fr/france/20261101-pr%C3%A9sidentielle-2027-%C3%A9douard-philippe-refuse-de-participer-%C3%A0-une-primaire-source-de-division",
+        "date": "2026-11-01"
       },
       "propositions": [
         "50 milliards d'euros de baisses d'impôts de production compensées par 50 milliards d'aides publiques jugées improductives en moins.",
@@ -497,7 +497,7 @@
         "instagram": "https://www.instagram.com/edouardphilippelh/",
         "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
       },
-      "verifie_le": "2026-10-28"
+      "verifie_le": "2026-11-09"
     },
     {
       "id": "attal",
@@ -505,11 +505,11 @@
       "parti": "Renaissance",
       "bloc": "centre",
       "statut": "declare",
-      "statut_detail": "Candidature officialisée à Mur-de-Barrez (Aveyron). Renvoie la question d'une primaire à début 2027.",
+      "statut_detail": "Candidature officialisée à Mur-de-Barrez (Aveyron) le 22 mai 2026. Propose le 28 octobre 2026, sur TF1, une « grande primaire des démocrates » ouverte aux candidats qui rejettent toute alliance avec l'extrême gauche ou l'extrême droite. Le 2 novembre, juge cette primaire « inéluctable » et se donne jusqu'au début de 2027 pour convaincre.",
       "source": {
-        "titre": "LCP",
-        "url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721",
-        "date": "2026-05-22"
+        "titre": "LCP — « C'est inéluctable » : Gabriel Attal s'accroche à sa primaire, malgré le refus d'Édouard Philippe",
+        "url": "https://lcp.fr/actualites/c-est-ineluctable-gabriel-attal-s-accroche-a-sa-primaire-malgre-le-refus-d-edouard",
+        "date": "2026-11-02"
       },
       "propositions": [
         "Revenir sous 3 % de déficit en 2032 et atteindre l'équilibre en 2037, soit 120 milliards d'euros d'économies.",
@@ -524,7 +524,7 @@
         "x": "https://x.com/GabrielAttal",
         "wikipedia": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
       },
-      "verifie_le": "2026-10-28"
+      "verifie_le": "2026-11-09"
     },
     {
       "id": "becht",
@@ -553,11 +553,11 @@
       "parti": "La France humaniste",
       "bloc": "centre",
       "statut": "pressenti",
-      "statut_detail": "Fait campagne sans déclaration officielle. Revendique plus de 300 parrainages d'élus sur 500 (22 octobre 2026) et annonce sa décision « au cours des prochaines semaines ».",
+      "statut_detail": "Fait campagne sans déclaration officielle. Revendique plus de 300 parrainages d'élus sur 500 (22 octobre 2026). Le 3 novembre sur France Inter : « Je ne suis pas encore candidat », « ce n'est pas le moment » ; exclut toute alliance avec Édouard Philippe ou Gabriel Attal.",
       "source": {
-        "titre": "LCP — Présidentielle : Dominique de Villepin annonce avoir « dépassé la barre des 300 signatures »",
-        "url": "https://lcp.fr/actualites/presidentielle-dominique-de-villepin-annonce-avoir-depasse-la-barre-des-300-signatures",
-        "date": "2026-10-23"
+        "titre": "franceinfo — « Je ne suis pas encore candidat » à la présidentielle 2027, indique Dominique de Villepin",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/je-ne-suis-pas-encore-candidat-a-la-presidentielle-2027-indique-dominique-de-villepin_8265395.html",
+        "date": "2026-11-03"
       },
       "propositions": [
         "Ramener toute la fiscalité à neuf grands impôts et réduire le code des impôts à quarante pages.",
@@ -569,7 +569,7 @@
         "parti": "https://www.lafrancehumaniste.fr/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
       },
-      "verifie_le": "2026-10-28"
+      "verifie_le": "2026-11-09"
     },
     {
       "id": "le-maire",
@@ -734,17 +734,17 @@
       "parti": "Les Républicains",
       "bloc": "droite",
       "statut": "renonce",
-      "statut_detail": "Pas candidat. A appelé Bruno Retailleau à se retirer au profit d'Édouard Philippe.",
+      "statut_detail": "Pas candidat. Le 8 novembre 2026, demande une rencontre des candidats de droite et du centre sous quinze jours pour s'accorder sur un candidat unique « avant Noël » (Retailleau, Lisnard, Philippe ; Attal sous condition ; Knafo exclue), par primaire, sondage ou « conclave ».",
       "source": {
-        "titre": "Public Sénat",
-        "url": "https://www.publicsenat.fr/actualites/politique/main-tendue-de-laurent-wauquiez-a-edouard-philippe-cest-le-retour-de-la-droite-la-plus-bete-du-monde-tacle-le-camp-de-bruno-retailleau",
-        "date": "2026-07"
+        "titre": "franceinfo — « Que ce jeu de massacre cesse » : Laurent Wauquiez veut une rencontre des candidats de droite à la présidentielle dans les 15 jours pour s'accorder sur un nom",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/que-ce-jeu-de-massacre-cesse-laurent-wauquiez-veut-une-rencontre-des-candidats-de-droite-a-la-presidentielle-dans-les-15-jours-pour-aboutir-a-un-seul-nom_8273387.html",
+        "date": "2026-11-08"
       },
       "propositions": [],
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez"
       },
-      "verifie_le": "2026-09-22"
+      "verifie_le": "2026-11-09"
     },
     {
       "id": "barnier",
@@ -1312,6 +1312,24 @@
         "wikipedia": "https://fr.wikipedia.org/wiki/Philippe_Brun"
       },
       "verifie_le": "2026-09-22"
+    },
+    {
+      "id": "lagarde",
+      "nom": "Christine Lagarde",
+      "parti": "Sans étiquette",
+      "bloc": "autre",
+      "statut": "renonce",
+      "statut_detail": "« Je ne suis candidate à rien » (entretien à Euronews, 9 juillet 2026, rappelé par Euronews le 29 octobre). Fin septembre, dans La Croix, juge qu'une candidature ne serait « pas du tout une bonne idée ». Quitte la présidence de la BCE le 7 février 2027.",
+      "source": {
+        "titre": "Euronews — « I'm not a candidate for anything »: what Lagarde told Euronews before quitting the ECB",
+        "url": "https://www.euronews.com/2026/10/29/im-not-a-candidate-for-anything-what-lagarde-told-euronews-before-quitting-the-ecb",
+        "date": "2026-10-29"
+      },
+      "propositions": [],
+      "liens": {
+        "wikipedia": "https://fr.wikipedia.org/wiki/Christine_Lagarde"
+      },
+      "verifie_le": "2026-11-09"
     }
   ]
 }

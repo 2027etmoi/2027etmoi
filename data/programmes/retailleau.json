@@ -1,6 +1,6 @@
 {
   "id": "retailleau",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-11-09",
   "programme": {
     "titre": "Le projet — site de campagne Retailleau 2027",
     "url": "https://www.avecretailleau.fr/projet",
@@ -367,6 +367,18 @@
       "texte": "Abandon de l'objectif uniforme de réduction de 50 % des produits phytosanitaires fixé par Ecophyto 2030, au profit d'autorisations au cas par cas.",
       "nature": "programme",
       "source": { "titre": "Retailleau 2027 — Supprimer le principe de précaution (agriculture)", "url": "https://www.avecretailleau.fr/projet/mesure/supprimer-le-principe-de-precaution-par-referendum", "date": "2026-09-11" }
+    },
+    {
+      "theme": "education",
+      "texte": "Priorité aux savoirs fondamentaux (mathématiques et français) à l'école primaire.",
+      "nature": "declaration",
+      "source": { "titre": "LCP — Présidentielle : Bruno Retailleau veut un « examen pour entrer en sixième » et « des groupes de niveau »", "url": "https://lcp.fr/actualites/presidentielle-bruno-retailleau-veut-un-examen-pour-entrer-en-sixieme-et-des-groupes-de", "date": "2026-11-04" }
+    },
+    {
+      "theme": "education",
+      "texte": "Retour de la notation à l'école.",
+      "nature": "declaration",
+      "source": { "titre": "LCP — Présidentielle : Bruno Retailleau veut un « examen pour entrer en sixième » et « des groupes de niveau »", "url": "https://lcp.fr/actualites/presidentielle-bruno-retailleau-veut-un-examen-pour-entrer-en-sixieme-et-des-groupes-de", "date": "2026-11-04" }
     }
   ],
   "ressources": [

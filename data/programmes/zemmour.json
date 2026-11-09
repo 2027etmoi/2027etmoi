@@ -1,6 +1,6 @@
 {
   "id": "zemmour",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-11-01",
   "programme": {
     "titre": "Pas de programme 2027 publié",
     "url": "https://www.parti-reconquete.fr/",
@@ -39,6 +39,12 @@
       "texte": "Expulsion des détenus étrangers (25 % des détenus selon lui) et des délinquants étrangers sous bracelet ou en travaux d'intérêt général.",
       "nature": "declaration",
       "source": { "titre": "France 24", "url": "https://www.france24.com/fr/france/20260917-france-extreme-droite-eric-zemmour-confirme-candidature-pr%C3%A9sidentielle-immigration", "date": "2026-09-17" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Remplacer la main-d'œuvre immigrée par l'automatisation dans les métiers « que les Français ne veulent pas exercer », sur le modèle de la Chine et du Japon.",
+      "nature": "declaration",
+      "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027", "date": "2026-09-18" }
     }
   ],
   "ressources": [
