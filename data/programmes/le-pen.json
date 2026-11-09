@@ -1,6 +1,6 @@
 {
   "id": "le-pen",
-  "mise_a_jour": "2026-10-28",
+  "mise_a_jour": "2026-11-09",
   "programme": {
     "titre": "Pas de programme complet publié (propositions thématiques en cours de présentation)",
     "url": "https://marinelepen.com/",
@@ -127,6 +127,18 @@
       "texte": "Dispense d'impôt sur le revenu pour les entrepreneurs et création d'un fonds souverain.",
       "nature": "declaration",
       "source": { "titre": "Europe 1 (avec AFP) — Congrès du RN à Orléans : ce qu'il faut retenir du premier discours de campagne de Marine Le Pen", "url": "https://www.europe1.fr/politique/congres-du-rn-a-orleans-ce-quil-faut-retenir-du-premier-discours-de-campagne-de-marine-le-pen-1181118", "date": "2026-10-25" }
+    },
+    {
+      "theme": "international",
+      "texte": "Augmentation du nombre de frégates de la Marine nationale, sans objectif chiffré à ce stade.",
+      "nature": "declaration",
+      "source": { "titre": "LCP — À Euronaval, Marine Le Pen plaide pour davantage de frégates dans la flotte française", "url": "https://lcp.fr/actualites/a-euronaval-marine-le-pen-plaide-pour-davantage-de-fregates-dans-la-flotte-francaise", "date": "2026-11-05" }
+    },
+    {
+      "theme": "international",
+      "texte": "Sortie, à terme, du commandement intégré de l'OTAN.",
+      "nature": "declaration",
+      "source": { "titre": "LCP — À Euronaval, Marine Le Pen plaide pour davantage de frégates dans la flotte française", "url": "https://lcp.fr/actualites/a-euronaval-marine-le-pen-plaide-pour-davantage-de-fregates-dans-la-flotte-francaise", "date": "2026-11-05" }
     }
   ],
   "ressources": [

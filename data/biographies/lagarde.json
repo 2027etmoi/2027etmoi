@@ -1,6 +1,6 @@
 {
   "id": "lagarde",
-  "mise_a_jour": "2026-11-01",
+  "mise_a_jour": "2026-11-09",
   "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lagarde_ECB_Portrait_2019.jpg/500px-Lagarde_ECB_Portrait_2019.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Lagarde_ECB_Portrait_2019.jpg",
@@ -24,9 +24,9 @@
         "date": "2026-10-29"
       },
       {
-        "titre": "Euronews — « Je ne suis candidate à rien » : Lagarde à Euronews dans le contexte de la présidentielle",
-        "url": "https://fr.euronews.com/my-europe/2026/07/09/je-ne-suis-candidate-a-rien-lagarde-a-euronews-dans-le-contexte-de-la-presidentielle",
-        "date": "2026-07-09"
+        "titre": "Euronews — « I'm not a candidate for anything »: what Lagarde told Euronews before quitting the ECB",
+        "url": "https://www.euronews.com/2026/10/29/im-not-a-candidate-for-anything-what-lagarde-told-euronews-before-quitting-the-ecb",
+        "date": "2026-10-29"
       },
       {
         "titre": "L'Express / 6Médias (via Orange) — Présidentielle 2027 : la candidature de Christine Lagarde est-elle envisagée ?",
@@ -49,9 +49,9 @@
       "periode": "2026",
       "texte": "Déclare le 9 juillet 2026 à Euronews : « Je ne suis candidate à rien, mais je tiens beaucoup à ce que l'Europe soit protégée. » Fin septembre, dans un entretien à La Croix, juge qu'une candidature à l'Élysée ne serait « pas du tout une bonne idée ».",
       "source": {
-        "titre": "Euronews — « Je ne suis candidate à rien » : Lagarde à Euronews dans le contexte de la présidentielle",
-        "url": "https://fr.euronews.com/my-europe/2026/07/09/je-ne-suis-candidate-a-rien-lagarde-a-euronews-dans-le-contexte-de-la-presidentielle",
-        "date": "2026-07-09"
+        "titre": "Euronews — « I'm not a candidate for anything »: what Lagarde told Euronews before quitting the ECB",
+        "url": "https://www.euronews.com/2026/10/29/im-not-a-candidate-for-anything-what-lagarde-told-euronews-before-quitting-the-ecb",
+        "date": "2026-10-29"
       }
     },
     {
@@ -143,6 +143,7 @@
   ],
   "a_verifier": [
     "Famille politique « Autres » faute d'affiliation partisane actuelle (ancienne ministre membre de l'UMP de 2007 à 2011) ; à revoir si elle rejoignait un parti ou soutenait un candidat.",
-    "Entretien à La Croix de fin septembre 2026 cité d'après L'Express (31 octobre 2026) et France 24 / AFP (29 octobre 2026) : l'article original n'a pas pu être consulté."
+    "Entretien à La Croix de fin septembre 2026 cité d'après L'Express (31 octobre 2026) et France 24 / AFP (29 octobre 2026) : l'article original n'a pas pu être consulté.",
+    "L'article d'Euronews en français du 9 juillet 2026 (« Je ne suis candidate à rien »), consulté le 1er novembre 2026, n'est plus en ligne ; la citation est désormais sourcée par le rappel d'Euronews (anglais) du 29 octobre 2026."
   ]
 }

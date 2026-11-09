@@ -1,11 +1,11 @@
 {
   "id": "melenchon",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-11-09",
   "programme": {
-    "titre": "L'Avenir en commun (édition 2025)",
+    "titre": "L'Avenir en commun (édition 2025, nouvelle édition présentée le 7 novembre 2026)",
     "url": "https://melenchon2027.fr/programme2025/livre/",
     "etat": "complet",
-    "note": "Programme complet publié en janvier 2025 (édition 2025). Au 22/09/2026, le site de campagne indique qu'il est « en cours de réactualisation » après une consultation (20 mai-20 juin 2026) ; les mesures citées proviennent du PDF de l'édition 2025, consulté via une copie archivée car l'URL officielle redirige vers l'accueil."
+    "note": "Programme complet publié en janvier 2025 (édition 2025). Au 22/09/2026, le site de campagne indique qu'il est « en cours de réactualisation » après une consultation (20 mai-20 juin 2026) ; les mesures citées proviennent du PDF de l'édition 2025, consulté via une copie archivée car l'URL officielle redirige vers l'accueil. Une nouvelle édition (La Dispute, 212 pages, 1 069 mesures dont 238 nouvelles selon LFI) a été présentée au Bourget le 7 novembre 2026 : les nouveautés citées ci-dessous le sont d'après LCP (6 novembre 2026), le livre n'ayant pas été consulté."
   },
   "reperes": [
     {
@@ -349,6 +349,78 @@
       "texte": "Renationalisation de la SNCF, refus de la mise en concurrence des lignes et réouverture de lignes ferroviaires du quotidien.",
       "nature": "programme",
       "source": { "titre": "L'Avenir en commun 2025, chap. 13, p. 96-97 (PDF, copie archivée)", "url": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf", "date": "2025-01" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Baisse des émissions de gaz à effet de serre de 65 % d'ici 2033 (contre 2030 dans l'édition 2022) et 100 % d'énergies renouvelables « au plus tard en 2060 » (contre 2050).",
+      "nature": "presse",
+      "source": { "titre": "LCP — Présidentielle 2027 : ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "date": "2026-11-06" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Interdiction des vols de nuit entre 23 heures et 6 heures dans tous les aéroports français ; filière française de bombardiers d'eau et de drones contre les feux de forêt.",
+      "nature": "presse",
+      "source": { "titre": "LCP — Présidentielle 2027 : ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "date": "2026-11-06" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Seuils thermiques minimaux et maximaux obligatoires dans les locaux de travail.",
+      "nature": "presse",
+      "source": { "titre": "LCP — Présidentielle 2027 : ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "date": "2026-11-06" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Conscription citoyenne écologique obligatoire de neuf mois, rémunérée au Smic (ancienne conscription de neuf mois).",
+      "nature": "presse",
+      "source": { "titre": "LCP — Présidentielle 2027 : ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "date": "2026-11-06" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Révision du traité européen et des statuts de la BCE pour qu'elle achète directement la dette publique et ne puisse plus revendre sur les marchés celle qu'elle détient.",
+      "nature": "presse",
+      "source": { "titre": "LCP — Présidentielle 2027 : ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "date": "2026-11-06" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Reconnaissance du massacre du 17 octobre 1961 comme crime d'État, avec une journée nationale de commémoration ; brevet obligatoire de formation à la lutte contre les discriminations pour les policiers.",
+      "nature": "presse",
+      "source": { "titre": "LCP — Présidentielle 2027 : ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "date": "2026-11-06" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Remboursement des séances de psychothérapie pour les moins de 26 ans.",
+      "nature": "presse",
+      "source": { "titre": "LCP — Présidentielle 2027 : ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "date": "2026-11-06" }
+    },
+    {
+      "theme": "societe",
+      "texte": "Statut de « famille monoparentale » ouvrant droit à des réductions dans les transports et les services publics ; congé en cas de décès d'un proche, y compris un ami ; reconnaissance du baptême civil.",
+      "nature": "presse",
+      "source": { "titre": "LCP — Présidentielle 2027 : ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "date": "2026-11-06" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Obligation pour l'Assemblée nationale de débattre des pétitions ayant recueilli plus de 500 000 signatures.",
+      "nature": "presse",
+      "source": { "titre": "LCP — Présidentielle 2027 : ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "date": "2026-11-06" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Indépendance de la Kanaky-Nouvelle-Calédonie au 1er janvier 2028, soumise à un référendum national.",
+      "nature": "presse",
+      "source": { "titre": "LCP — Présidentielle 2027 : ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "date": "2026-11-06" }
+    },
+    {
+      "theme": "international",
+      "texte": "Moratoire parlementaire sur la libre circulation des marchandises et des capitaux, la concurrence dans les services publics, l'Europe de la défense et les accords de libre-échange ; refus des 5 % du PIB pour la défense.",
+      "nature": "presse",
+      "source": { "titre": "LCP — Présidentielle 2027 : ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "date": "2026-11-06" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Interdiction des intelligences artificielles visant à simuler une relation affective avec l'utilisateur ; autorité nationale délivrant les autorisations de mise sur le marché des IA « à haut risque ».",
+      "nature": "presse",
+      "source": { "titre": "LCP — Présidentielle 2027 : ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "date": "2026-11-06" }
     }
   ],
   "ressources": [
