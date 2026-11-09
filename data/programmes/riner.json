@@ -1,0 +1,78 @@
+{
+  "id": "riner",
+  "mise_a_jour": "2026-11-09",
+  "programme": {
+    "titre": "Aucun document de programme publié",
+    "url": null,
+    "etat": "aucun",
+    "note": "Au 9 novembre 2026, jour de l'annonce, aucun programme n'est publié ; seules des orientations exprimées dans l'entretien au Parisien et reprises par la presse sont recensées (nature « presse »). Teddy Riner indique que des mesures détaillées suivront."
+  },
+  "reperes": [
+    {
+      "texte": "Judoka, quintuple champion olympique et onze fois champion du monde ; aucun mandat ni engagement partisan connu.",
+      "source": {
+        "titre": "Wikipédia – Teddy Riner",
+        "url": "https://fr.wikipedia.org/wiki/Teddy_Riner",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "texte": "Candidature annoncée le 9 novembre 2026 ; se dit « ni de droite, ni de gauche », slogan « La France qu'on veut ».",
+      "source": {
+        "titre": "Public Sénat — Présidentielle 2027 : le judoka Teddy Riner se lance dans la course à l'Élysée",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "mesures": [
+    {
+      "theme": "retraites",
+      "texte": "Nouvelle réforme des retraites tenant compte de la démographie et de la pénibilité, en conservant le système par répartition, sans exclure « une part de capitalisation ».",
+      "nature": "presse",
+      "source": {
+        "titre": "Public Sénat — Présidentielle 2027 : le judoka Teddy Riner se lance dans la course à l'Élysée",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "theme": "travail",
+      "texte": "Augmenter le salaire net par des allègements de cotisations ; permettre à ceux qui le souhaitent de gagner plus en travaillant davantage, sans remettre en cause les 35 heures.",
+      "nature": "presse",
+      "source": {
+        "titre": "20 minutes (Suisse) — Présidentielle 2027 : Teddy Riner annonce sa candidature pour fédérer la France (d'après l'entretien au Parisien)",
+        "url": "https://www.20min.ch/fr/story/france-le-champion-de-judo-teddy-riner-candidat-a-la-presidence-103664629",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "theme": "economie",
+      "texte": "Sur la dette : « dépenser moins et réinjecter mieux » ; mesures détaillées annoncées pour plus tard.",
+      "nature": "presse",
+      "source": {
+        "titre": "20 minutes (Suisse) — Présidentielle 2027 : Teddy Riner annonce sa candidature pour fédérer la France (d'après l'entretien au Parisien)",
+        "url": "https://www.20min.ch/fr/story/france-le-champion-de-judo-teddy-riner-candidat-a-la-presidence-103664629",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "ressources": [
+    {
+      "titre": "franceinfo – Teddy Riner annonce sa candidature à l'élection présidentielle 2027",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/la-resignation-n-est-pas-une-option-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-2027_8274359.html",
+      "type": "article",
+      "date": "2026-11-09"
+    },
+    {
+      "titre": "Public Sénat – Le judoka Teddy Riner se lance dans la course à l'Élysée",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats",
+      "type": "article",
+      "date": "2026-11-09"
+    }
+  ],
+  "a_verifier": [
+    "Orientations reprises de l'entretien au Parisien (non consulté) via Public Sénat et 20 minutes ; modalités, coût et financement non présentés.",
+    "Thèmes évoqués sans contenu précis (sécurité, « fermeté », « justice », international : « respect de la France ») : non retenus comme mesures."
+  ]
+}

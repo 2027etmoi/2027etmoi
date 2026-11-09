@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-28",
+  "mise_a_jour": "2026-11-09",
   "candidatures": {
     "philippe": {
       "declaration": {
@@ -1463,6 +1463,32 @@
           "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
           "date": "2026-10-22"
         }
+      }
+    },
+    "riner": {
+      "declaration": {
+        "date": "2026-11-09",
+        "source": {
+          "titre": "franceinfo — « La résignation n'est pas une option » : Teddy Riner annonce sa candidature à l'élection présidentielle 2027",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/la-resignation-n-est-pas-une-option-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-2027_8274359.html",
+          "date": "2026-11-09"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature personnelle annoncée en vidéo sur X et dans un entretien au Parisien, sans parti ; mouvement « La France qu'on veut » dont la structure doit être créée « dans les prochains jours ».",
+        "source": {
+          "titre": "Public Sénat — Présidentielle 2027 : le judoka Teddy Riner se lance dans la course à l'Élysée",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats",
+          "date": "2026-11-09"
+        }
+      },
+      "precedentes": [],
+      "chiffrage": {
+        "publie": null,
+        "detail": null,
+        "url": null,
+        "source": null
       }
     }
   },
