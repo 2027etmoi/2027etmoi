@@ -1,8 +1,8 @@
 {
-  "mise_a_jour": "2026-11-09",
+  "mise_a_jour": "2026-11-18",
   "fenetre": {
     "debut": "2026-08-17",
-    "fin": "2026-10-29"
+    "fin": "2026-11-13"
   },
   "noms_hors_liste": {
     "bonnal": "Sébastien Bonnal"
@@ -2045,6 +2045,416 @@
           }
         }
       ]
+    },
+    {
+      "institut": "Toluna Harris Interactive",
+      "commanditaire": "M6 et RTL",
+      "terrain_debut": "2026-11-03",
+      "terrain_fin": "2026-11-05",
+      "echantillon": 2101,
+      "source": {
+        "titre": "Commission des sondages – notice n° 10362, Toluna Harris Interactive pour M6 et RTL (intentions de vote au 1er tour)",
+        "url": "https://www.commission-des-sondages.fr/notices/medias/fichiers/add/2381",
+        "date": "2026-11-09"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse Philippe, Villepin et Lisnard",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 19,
+            "roussel": 1,
+            "tondelier": 2,
+            "glucksmann": 11,
+            "philippe": 12,
+            "villepin": 2,
+            "lisnard": 9,
+            "retailleau": 5,
+            "dupont-aignan": 1,
+            "le-pen": 34,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse Attal, Villepin et Lisnard",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 19,
+            "roussel": 1,
+            "tondelier": 2,
+            "glucksmann": 12,
+            "attal": 9,
+            "villepin": 2,
+            "lisnard": 9,
+            "retailleau": 6,
+            "dupont-aignan": 1,
+            "le-pen": 35,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse Attal et Philippe",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 18,
+            "roussel": 2,
+            "tondelier": 2,
+            "glucksmann": 11,
+            "attal": 6,
+            "philippe": 11,
+            "retailleau": 7,
+            "dupont-aignan": 2,
+            "le-pen": 36,
+            "zemmour": 4
+          }
+        },
+        {
+          "label": "Hypothèse Philippe candidat unique du centre",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 19,
+            "roussel": 2,
+            "tondelier": 2,
+            "glucksmann": 12,
+            "philippe": 14,
+            "retailleau": 8,
+            "dupont-aignan": 2,
+            "le-pen": 36,
+            "zemmour": 4
+          }
+        },
+        {
+          "label": "Hypothèse Attal candidat unique du centre",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 19,
+            "roussel": 2,
+            "tondelier": 3,
+            "glucksmann": 13,
+            "attal": 10,
+            "retailleau": 10,
+            "dupont-aignan": 2,
+            "le-pen": 36,
+            "zemmour": 4
+          }
+        }
+      ]
+    },
+    {
+      "institut": "OpinionWay",
+      "commanditaire": "Les Echos et Radio Classique (Présitrack, vague 4)",
+      "terrain_debut": "2026-11-09",
+      "terrain_fin": "2026-11-10",
+      "echantillon": 982,
+      "source": {
+        "titre": "Commission des sondages – notice n° 10372, OpinionWay pour Les Echos et Radio Classique (Présitrack, vague 4) (intentions de vote au 1er tour)",
+        "url": "https://www.commission-des-sondages.fr/notices/medias/fichiers/add/2396",
+        "date": "2026-11-13"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse 1 : Attal et Philippe candidats du centre",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 17,
+            "roussel": 1,
+            "tondelier": 3,
+            "glucksmann": 11,
+            "attal": 4,
+            "philippe": 11,
+            "retailleau": 4,
+            "lisnard": 10,
+            "dupont-aignan": 1,
+            "zemmour": 3,
+            "le-pen": 34
+          }
+        },
+        {
+          "label": "Hypothèse 2 : Attal candidat du centre",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 16,
+            "roussel": 1,
+            "tondelier": 3,
+            "glucksmann": 13,
+            "attal": 10,
+            "retailleau": 6,
+            "lisnard": 12,
+            "dupont-aignan": 1,
+            "zemmour": 3,
+            "le-pen": 34
+          }
+        },
+        {
+          "label": "Hypothèse 3 : Philippe candidat du centre",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 16,
+            "roussel": 2,
+            "tondelier": 3,
+            "glucksmann": 12,
+            "philippe": 12,
+            "retailleau": 4,
+            "lisnard": 11,
+            "dupont-aignan": 2,
+            "zemmour": 3,
+            "le-pen": 34
+          }
+        }
+      ]
+    },
+    {
+      "institut": "Cluster17",
+      "commanditaire": "Politico",
+      "terrain_debut": "2026-11-09",
+      "terrain_fin": "2026-11-10",
+      "echantillon": 1164,
+      "source": {
+        "titre": "Commission des sondages – notice n° 10368, Cluster17 pour Politico (intentions de vote au 1er tour)",
+        "url": "https://www.commission-des-sondages.fr/notices/medias/fichiers/add/2387",
+        "date": "2026-11-11"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse 1 : Philippe candidat du centre (chiffres publiés)",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 20,
+            "roussel": 2,
+            "tondelier": 1.5,
+            "glucksmann": 11,
+            "philippe": 13.5,
+            "lisnard": 10,
+            "retailleau": 5,
+            "dupont-aignan": 3,
+            "le-pen": 30.5,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse 2 : Attal candidat du centre (chiffres publiés)",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 20.5,
+            "roussel": 2,
+            "tondelier": 1.5,
+            "glucksmann": 11.5,
+            "attal": 11,
+            "lisnard": 10,
+            "retailleau": 6,
+            "dupont-aignan": 3,
+            "le-pen": 31,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse 3 : Christine Lagarde testée au centre, bien qu'elle ait dit ne pas être candidate (chiffres publiés)",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 20.5,
+            "roussel": 2.5,
+            "tondelier": 1.5,
+            "glucksmann": 10,
+            "lagarde": 14,
+            "lisnard": 10,
+            "retailleau": 5.5,
+            "dupont-aignan": 2,
+            "le-pen": 30.5,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse 4 : dix-huit noms testés, dont Riner, Polony, Villepin, Ruffin, Asselineau et Lagarde (chiffres publiés)",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 19,
+            "ruffin": 1.5,
+            "roussel": 1.5,
+            "tondelier": 1,
+            "glucksmann": 8,
+            "villepin": 1,
+            "philippe": 8,
+            "attal": 2,
+            "lagarde": 8,
+            "polony": 2.5,
+            "riner": 2,
+            "lisnard": 8,
+            "retailleau": 5,
+            "asselineau": 1,
+            "dupont-aignan": 2,
+            "le-pen": 27,
+            "zemmour": 2
+          }
+        }
+      ]
+    },
+    {
+      "institut": "OpinionWay",
+      "commanditaire": "CNews",
+      "terrain_debut": "2026-11-10",
+      "terrain_fin": "2026-11-12",
+      "echantillon": 964,
+      "source": {
+        "titre": "Commission des sondages – notice n° 10371, OpinionWay pour CNews (intentions de vote au 1er tour)",
+        "url": "https://www.commission-des-sondages.fr/notices/medias/fichiers/add/2393",
+        "date": "2026-11-12"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse 1 : avec Teddy Riner (Bouamrane « <1 % », noté 0,5 ; colonne « Publié » lue sur le tableau de la notice)",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 16,
+            "roussel": 2,
+            "tondelier": 3,
+            "glucksmann": 10,
+            "bouamrane": 0.5,
+            "attal": 3,
+            "philippe": 12,
+            "riner": 4,
+            "retailleau": 4,
+            "lisnard": 9,
+            "dupont-aignan": 2,
+            "zemmour": 3,
+            "le-pen": 31
+          }
+        },
+        {
+          "label": "Hypothèse 2 : sans Teddy Riner (colonne « Publié » lue sur le tableau de la notice)",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 16,
+            "roussel": 1,
+            "tondelier": 3,
+            "glucksmann": 11,
+            "bouamrane": 1,
+            "attal": 4,
+            "philippe": 12,
+            "retailleau": 5,
+            "lisnard": 10,
+            "dupont-aignan": 2,
+            "zemmour": 2,
+            "le-pen": 32
+          }
+        }
+      ]
+    },
+    {
+      "institut": "Elabe",
+      "commanditaire": "BFMTV et La Tribune Dimanche",
+      "terrain_debut": "2026-11-12",
+      "terrain_fin": "2026-11-13",
+      "echantillon": 1391,
+      "source": {
+        "titre": "Commission des sondages – notice n° 10375, Elabe pour BFMTV et La Tribune Dimanche (intentions de vote au 1er tour)",
+        "url": "https://www.commission-des-sondages.fr/notices/medias/fichiers/add/2402",
+        "date": "2026-11-14"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Configuration Q3 : Glucksmann, Philippe, Villepin, Retailleau",
+          "scores": {
+            "arthaud": 0.5,
+            "roussel": 2,
+            "melenchon": 17,
+            "tondelier": 3,
+            "glucksmann": 13.5,
+            "philippe": 15,
+            "villepin": 2.5,
+            "retailleau": 6,
+            "dupont-aignan": 3,
+            "le-pen": 33,
+            "zemmour": 4.5
+          }
+        },
+        {
+          "label": "Configuration Q4 : Glucksmann, Attal, Villepin, Retailleau",
+          "scores": {
+            "arthaud": 1,
+            "roussel": 2.5,
+            "melenchon": 17.5,
+            "tondelier": 3,
+            "glucksmann": 14,
+            "attal": 10,
+            "villepin": 3,
+            "retailleau": 9,
+            "dupont-aignan": 2.5,
+            "le-pen": 33,
+            "zemmour": 4.5
+          }
+        },
+        {
+          "label": "Configuration Q5 : Glucksmann, Philippe, Attal, Retailleau",
+          "scores": {
+            "arthaud": 0.5,
+            "roussel": 2,
+            "melenchon": 17.5,
+            "tondelier": 3.5,
+            "glucksmann": 13,
+            "philippe": 12,
+            "attal": 5.5,
+            "retailleau": 6,
+            "dupont-aignan": 3,
+            "le-pen": 33,
+            "zemmour": 4
+          }
+        },
+        {
+          "label": "Configuration Q6 : Ruffin, Glucksmann, Attal, Retailleau, Lisnard",
+          "scores": {
+            "arthaud": 0.5,
+            "roussel": 1.5,
+            "melenchon": 17.5,
+            "ruffin": 3,
+            "glucksmann": 14,
+            "attal": 8.5,
+            "retailleau": 6,
+            "lisnard": 10.5,
+            "dupont-aignan": 2.5,
+            "le-pen": 32,
+            "zemmour": 4
+          }
+        },
+        {
+          "label": "Configuration Q7 : Glucksmann, Philippe, Retailleau, Lisnard (sans Tondelier)",
+          "scores": {
+            "arthaud": 0.5,
+            "roussel": 2.5,
+            "melenchon": 18.5,
+            "glucksmann": 13.5,
+            "philippe": 13,
+            "retailleau": 4,
+            "lisnard": 9,
+            "dupont-aignan": 3,
+            "le-pen": 32.5,
+            "zemmour": 3.5
+          }
+        },
+        {
+          "label": "Configuration Q8 : quatorze noms testés, dont Riner, Polony, Philippe, Attal, Retailleau et Lisnard",
+          "scores": {
+            "arthaud": 0.5,
+            "roussel": 1.5,
+            "melenchon": 17,
+            "tondelier": 3,
+            "glucksmann": 10.5,
+            "polony": 1.5,
+            "riner": 4.5,
+            "philippe": 9.5,
+            "attal": 4,
+            "retailleau": 4,
+            "lisnard": 8,
+            "dupont-aignan": 2,
+            "le-pen": 31,
+            "zemmour": 3
+          }
+        }
+      ]
     }
   ],
   "a_verifier": [
@@ -2054,6 +2464,7 @@
     "Toutes les notices de la présidentielle sont listées sur https://www.commission-des-sondages.fr/notices/medias/fichiers/bytag/14/Presidentielle-2027 : à utiliser pour la veille.",
     "Odoxa pour Backbone, Public Sénat, la presse régionale et Le Nouvel Obs (notice 10310, terrain du 24 septembre au 7 octobre 2026, 11 103 inscrits) : la notice ne contient pas les résultats, publiés dans le rapport sur odoxa.fr ; Public Sénat n'en cite qu'une partie (Mélenchon 18 %, Philippe 17 % ; hypothèse Attal : Le Pen 38 %, Mélenchon 18,5 %, Attal 11 %, Glucksmann 10,5 %, Retailleau 9 %). À saisir depuis le rapport complet.",
     "Elabe pour BFMTV et La Tribune Dimanche (notice 10324, terrain du 14 au 16 octobre 2026, 1 553 inscrits) : la notice ne contient que le questionnaire, les résultats sont publiés sur elabe.fr ; à saisir depuis le rapport.",
-    "OpinionWay pour CNews (notice 10333, terrain 21-22 octobre 2026, 973 inscrits) : tableau des intentions de vote illisible dans le PDF (lignes mélangées), chiffres non repris ; à saisir à la main depuis la notice."
+    "OpinionWay pour CNews (notice 10333, terrain 21-22 octobre 2026, 973 inscrits) : tableau des intentions de vote illisible dans le PDF (lignes mélangées), chiffres non repris ; à saisir à la main depuis la notice.",
+    "Veille du 18 novembre 2026 : notices non intégrées car elles ne portent pas sur des intentions de vote au 1er tour — candidature de Teddy Riner (CSA 10366, Toluna Harris 10367, Odoxa 10369, Ifop / Paris Match 10379), primaire du centre et de la droite (Ifop / Sud Radio 10370), participation à un second tour Mélenchon – Le Pen (Ifop / Franc-Tireur 10381). Seconds tours testés par Elabe, OpinionWay et Toluna Harris non saisis (le fichier ne recense que les premiers tours)."
   ]
 }

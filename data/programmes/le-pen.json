@@ -1,11 +1,11 @@
 {
   "id": "le-pen",
-  "mise_a_jour": "2026-11-09",
+  "mise_a_jour": "2026-11-18",
   "programme": {
     "titre": "Pas de programme complet publié (propositions thématiques en cours de présentation)",
     "url": "https://marinelepen.com/",
     "etat": "partiel",
-    "note": "Pas de programme complet publié au 22/09/2026 ; le volet logement a été présenté à Hénin-Beaumont le 13/09/2026 et la candidate a annoncé présenter sa trajectoire économique début octobre."
+    "note": "Pas de programme complet publié au 22/09/2026 ; le volet logement a été présenté à Hénin-Beaumont le 13/09/2026 et la candidate a annoncé présenter sa trajectoire économique début octobre. La réforme des retraites a été présentée en conférence de presse le 17/11/2026."
   },
   "reperes": [
     {
@@ -76,9 +76,9 @@
     },
     {
       "theme": "retraites",
-      "texte": "Âge légal ramené à 62 ans, voire 60 ans pour qui a commencé avant 20 ans, avec 40 à 42 années de cotisation.",
-      "nature": "presse",
-      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751", "date": "2026-09-16" }
+      "texte": "Abrogation de la réforme de 2023 au 1er janvier 2028 : âge légal de 60 ans (160 trimestres) pour un premier emploi stable avant 20 ans, porté par paliers à 62 ans (168 trimestres).",
+      "nature": "declaration",
+      "source": { "titre": "France 24 — Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies", "url": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies", "date": "2026-11-17" }
     },
     {
       "theme": "immigration",
@@ -139,6 +139,60 @@
       "texte": "Sortie, à terme, du commandement intégré de l'OTAN.",
       "nature": "declaration",
       "source": { "titre": "LCP — À Euronaval, Marine Le Pen plaide pour davantage de frégates dans la flotte française", "url": "https://lcp.fr/actualites/a-euronaval-marine-le-pen-plaide-pour-davantage-de-fregates-dans-la-flotte-francaise", "date": "2026-11-05" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Pilier de capitalisation obligatoire pour tous les actifs, d'abord jusqu'à 52 ans, amorcé par le Fonds de réserve pour les retraites ; objectif de 12 milliards d'euros placés par an.",
+      "nature": "declaration",
+      "source": { "titre": "France 24 — Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies", "url": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies", "date": "2026-11-17" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Décote portée à 2,5 % par trimestre manquant, dans la limite de 50 % ; un trimestre validé par un mi-temps sur la période ; quatre trimestres de chômage validés au plus par carrière.",
+      "nature": "declaration",
+      "source": { "titre": "France 24 — Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies", "url": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies", "date": "2026-11-17" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Majoration de pension pour enfants portée à 12 % pour les mères ; suppression progressive de celle des pères de familles nombreuses.",
+      "nature": "declaration",
+      "source": { "titre": "France 24 — Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies", "url": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies", "date": "2026-11-17" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Pensions indexées sur l'inflation ; exonérations de cotisations pour les seniors qui prolongent leur carrière, à la place de la surcote.",
+      "nature": "declaration",
+      "source": { "titre": "France 24 — Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies", "url": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies", "date": "2026-11-17" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Départs anticipés pour pénibilité (travail de nuit, bruit, températures extrêmes) remplacés par le départ à 60 ans ouvert à ceux qui ont travaillé avant 20 ans.",
+      "nature": "declaration",
+      "source": { "titre": "France 24 — Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies", "url": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies", "date": "2026-11-17" }
+    },
+    {
+      "theme": "education",
+      "texte": "« Prime d'activité étudiante » : 20 % du salaire, plafonnée à 200 euros, et 30 % plafonnée à 300 euros pour les boursiers.",
+      "nature": "declaration",
+      "source": { "titre": "LCP — Logement, associations, jeunesse...: ce qu'il faut retenir du débat présidentiel sur LCI", "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci", "date": "2026-11-17" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Gratuité du permis de conduire et des trains aux heures creuses pour les jeunes.",
+      "nature": "declaration",
+      "source": { "titre": "LCP — Logement, associations, jeunesse...: ce qu'il faut retenir du débat présidentiel sur LCI", "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci", "date": "2026-11-17" }
+    },
+    {
+      "theme": "economie",
+      "texte": "TVA à 0 % sur les produits de première nécessité.",
+      "nature": "declaration",
+      "source": { "titre": "France 24 — Impôts, logement, Smic : ce qu'il faut retenir du débat entre candidats à la présidentielle", "url": "https://www.france24.com/fr/info-en-continu/20261116-imp%C3%B4ts-logement-smic-ce-qu-il-faut-retenir-du-d%C3%A9bat-entre-candidats-%C3%A0-la-pr%C3%A9sidentielle", "date": "2026-11-16" }
+    },
+    {
+      "theme": "societe",
+      "texte": "Fin des subventions publiques aux associations jugées « politisées » (consigne de vote, insultes envers un candidat ou un parti).",
+      "nature": "declaration",
+      "source": { "titre": "France 24 — Impôts, logement, Smic : ce qu'il faut retenir du débat entre candidats à la présidentielle", "url": "https://www.france24.com/fr/info-en-continu/20261116-imp%C3%B4ts-logement-smic-ce-qu-il-faut-retenir-du-d%C3%A9bat-entre-candidats-%C3%A0-la-pr%C3%A9sidentielle", "date": "2026-11-16" }
     }
   ],
   "ressources": [

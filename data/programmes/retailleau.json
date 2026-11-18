@@ -1,6 +1,6 @@
 {
   "id": "retailleau",
-  "mise_a_jour": "2026-11-09",
+  "mise_a_jour": "2026-11-18",
   "programme": {
     "titre": "Le projet — site de campagne Retailleau 2027",
     "url": "https://www.avecretailleau.fr/projet",
@@ -379,6 +379,18 @@
       "texte": "Retour de la notation à l'école.",
       "nature": "declaration",
       "source": { "titre": "LCP — Présidentielle : Bruno Retailleau veut un « examen pour entrer en sixième » et « des groupes de niveau »", "url": "https://lcp.fr/actualites/presidentielle-bruno-retailleau-veut-un-examen-pour-entrer-en-sixieme-et-des-groupes-de", "date": "2026-11-04" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Âge légal de départ à la retraite fixé à 65 ans.",
+      "nature": "declaration",
+      "source": { "titre": "LCP — Logement, associations, jeunesse...: ce qu'il faut retenir du débat présidentiel sur LCI", "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci", "date": "2026-11-17" }
+    },
+    {
+      "theme": "education",
+      "texte": "Suppression de Parcoursup.",
+      "nature": "declaration",
+      "source": { "titre": "France 24 — Impôts, logement, Smic : ce qu'il faut retenir du débat entre candidats à la présidentielle", "url": "https://www.france24.com/fr/info-en-continu/20261116-imp%C3%B4ts-logement-smic-ce-qu-il-faut-retenir-du-d%C3%A9bat-entre-candidats-%C3%A0-la-pr%C3%A9sidentielle", "date": "2026-11-16" }
     }
   ],
   "ressources": [

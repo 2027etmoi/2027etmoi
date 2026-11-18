@@ -1,6 +1,6 @@
 {
   "id": "tondelier",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-11-18",
   "programme": {
     "titre": "Programme des Écologistes pour 2027 et « 21 priorités » pour la gauche",
     "url": "https://www.marinetondelier.fr/le-programme",
@@ -241,6 +241,18 @@
       "texte": "Moratoire sur les projets de mégabassines.",
       "nature": "presse",
       "source": { "titre": "6Médias / L'Express (via Orange Actualités) – propositions des partis face au défi climatique", "url": "https://actu.orange.fr/politique/canicules-et-incendies-que-proposent-les-partis-face-au-defi-climatique-magic-CNT000002rrQux.html", "date": "2026-08-21" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Taxe de 20 % sur le 1 % des héritages les plus élevés, pour un rendement attendu de 10 milliards d'euros en 2027.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — opération « Nos services publics », interviews de huit candidats", "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html", "date": "2026-11-12" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Création d'un service public de l'écologie et d'un parc d'un million de voitures électriques.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — opération « Nos services publics », interviews de huit candidats", "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html", "date": "2026-11-12" }
     }
   ],
   "ressources": [

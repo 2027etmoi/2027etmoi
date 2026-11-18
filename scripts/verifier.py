@@ -8,6 +8,7 @@ import json
 import re
 import sys
 from pathlib import Path
+from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -26,6 +27,13 @@ INTERDITS = ["elyseescope", "monvote2027", "candidatspresidentielles2027", "repe
              "pourquituvotes", "candidator", "france-presidentielle", "xn--lection-9xa", "élection.fr"]
 DATE_RE = re.compile(r"^\d{4}-\d{2}(-\d{2})?$")
 
+
+def interdit(url):
+    """Vrai si le domaine de l'URL est un agrégateur refusé (on teste le domaine, pas le chemin :
+    un article de presse dont l'adresse contient « france-presidentielle » n'est pas un agrégateur)."""
+    hote = urlsplit(url).netloc.lower()
+    return any(d in hote for d in INTERDITS)
+
 erreurs, avertissements = [], []
 
 
@@ -43,7 +51,7 @@ def check_source(where, src, allow_wikipedia=True):
     url = src.get("url", "")
     if not url.startswith("https://") and not url.startswith("http://"):
         err(where, f"URL de source invalide : {url!r}")
-    if any(d in url for d in INTERDITS):
+    if interdit(url):
         err(where, f"source interdite (agrégateur) : {url}")
     if not url.isascii():
         err(where, f"URL à encoder (caractères accentués) : {url}")
@@ -280,7 +288,7 @@ if pp:
         url = it.get("url") or ""
         if not url.startswith("http"):
             err(w, "url manquante")
-        if any(b in url for b in INTERDITS) or "wikipedia.org" in url:
+        if interdit(url) or "wikipedia.org" in url:
             err(w, f"source refusée : {url}")
         d = it.get("declare")
         if not isinstance(d, list) or not d or not all(isinstance(x, str) and x.strip() for x in d):

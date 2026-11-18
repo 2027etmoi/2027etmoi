@@ -1,6 +1,6 @@
 {
   "id": "roussel",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-11-18",
   "programme": {
     "titre": "« Vivre ! » (campagne présidentielle 2027)",
     "url": "https://www.fabienroussel2027.fr/",
@@ -103,6 +103,12 @@
       "texte": "« Parité sociale » au Parlement : obligation pour les partis de présenter 50 % d'ouvriers et d'employés aux élections législatives.",
       "nature": "programme",
       "source": { "titre": "PCF, discours de Fabien Roussel à la Fête de l'Humanité 2026", "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel", "date": "2026-09-15" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Recrutement de 500 000 agents dans les services publics et hausse de 10 % du point d'indice des fonctionnaires.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — opération « Nos services publics », interviews de huit candidats", "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html", "date": "2026-11-12" }
     }
   ],
   "ressources": [

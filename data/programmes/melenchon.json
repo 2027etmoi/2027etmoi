@@ -1,6 +1,6 @@
 {
   "id": "melenchon",
-  "mise_a_jour": "2026-11-09",
+  "mise_a_jour": "2026-11-18",
   "programme": {
     "titre": "L'Avenir en commun (édition 2025, nouvelle édition présentée le 7 novembre 2026)",
     "url": "https://melenchon2027.fr/programme2025/livre/",
@@ -421,6 +421,18 @@
       "texte": "Interdiction des intelligences artificielles visant à simuler une relation affective avec l'utilisateur ; autorité nationale délivrant les autorisations de mise sur le marché des IA « à haut risque ».",
       "nature": "presse",
       "source": { "titre": "LCP — Présidentielle 2027 : ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "date": "2026-11-06" }
+    },
+    {
+      "theme": "education",
+      "texte": "Baccalauréat professionnel en quatre ans au lieu de trois, avec une rémunération des élèves au-dessus du seuil de pauvreté.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — opération « Nos services publics », interviews de huit candidats", "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html", "date": "2026-11-12" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Création d'un pôle public bancaire.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — opération « Nos services publics », interviews de huit candidats", "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html", "date": "2026-11-12" }
     }
   ],
   "ressources": [
