@@ -1,6 +1,6 @@
 # Points à vérifier (généré)
 
-Généré le 2026-11-09 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 652 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
+Généré le 2026-11-18 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 653 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
 
 ## Biographies et affaires judiciaires
 
@@ -931,6 +931,7 @@ Généré le 2026-11-09 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Odoxa pour Backbone, Public Sénat, la presse régionale et Le Nouvel Obs (notice 10310, terrain du 24 septembre au 7 octobre 2026, 11 103 inscrits) : la notice ne contient pas les résultats, publiés dans le rapport sur odoxa.fr ; Public Sénat n'en cite qu'une partie (Mélenchon 18 %, Philippe 17 % ; hypothèse Attal : Le Pen 38 %, Mélenchon 18,5 %, Attal 11 %, Glucksmann 10,5 %, Retailleau 9 %). À saisir depuis le rapport complet.
 - [ ] Elabe pour BFMTV et La Tribune Dimanche (notice 10324, terrain du 14 au 16 octobre 2026, 1 553 inscrits) : la notice ne contient que le questionnaire, les résultats sont publiés sur elabe.fr ; à saisir depuis le rapport.
 - [ ] OpinionWay pour CNews (notice 10333, terrain 21-22 octobre 2026, 973 inscrits) : tableau des intentions de vote illisible dans le PDF (lignes mélangées), chiffres non repris ; à saisir à la main depuis la notice.
+- [ ] Veille du 18 novembre 2026 : notices non intégrées car elles ne portent pas sur des intentions de vote au 1er tour — candidature de Teddy Riner (CSA 10366, Toluna Harris 10367, Odoxa 10369, Ifop / Paris Match 10379), primaire du centre et de la droite (Ifop / Sud Radio 10370), participation à un second tour Mélenchon – Le Pen (Ifop / Franc-Tireur 10381). Seconds tours testés par Elabe, OpinionWay et Toluna Harris non saisis (le fichier ne recense que les premiers tours).
 
 ## Votes au Parlement (`data/votes.json`)
 

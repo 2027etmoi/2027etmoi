@@ -1,6 +1,6 @@
 {
   "id": "glucksmann",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-11-18",
   "programme": {
     "titre": "« Refonder la gauche, réveiller la France » ; livre « Nous avons encore envie » (mai 2026)",
     "url": "https://glucks2027.fr/",
@@ -103,6 +103,54 @@
       "texte": "Grand emprunt européen au service d'un plan de souveraineté européenne.",
       "nature": "presse",
       "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme", "date": "2026-05-26" }
+    },
+    {
+      "theme": "education",
+      "texte": "Moratoire sur les fermetures d'écoles en milieu rural.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — opération « Nos services publics », interviews de huit candidats", "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html", "date": "2026-11-12" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Loger « en trois semaines » les 3 000 enfants qui vivent à la rue.",
+      "nature": "declaration",
+      "source": { "titre": "LCP — Logement, associations, jeunesse...: ce qu'il faut retenir du débat présidentiel sur LCI", "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci", "date": "2026-11-17" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "« Pass mobilité » à un euro par jour pour les moins de 25 ans, sur les transports du quotidien.",
+      "nature": "declaration",
+      "source": { "titre": "LCP — Logement, associations, jeunesse...: ce qu'il faut retenir du débat présidentiel sur LCI", "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci", "date": "2026-11-17" }
+    },
+    {
+      "theme": "societe",
+      "texte": "Statut ouvrant des droits aux familles monoparentales : horaires de garde aménagés, places privilégiées en crèche, pension alimentaire.",
+      "nature": "declaration",
+      "source": { "titre": "France 24 — Impôts, logement, Smic : ce qu'il faut retenir du débat entre candidats à la présidentielle", "url": "https://www.france24.com/fr/info-en-continu/20261116-imp%C3%B4ts-logement-smic-ce-qu-il-faut-retenir-du-d%C3%A9bat-entre-candidats-%C3%A0-la-pr%C3%A9sidentielle", "date": "2026-11-16" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Baisse progressive de la CSG sur les salaires, du Smic jusqu'à 4 000 euros nets par mois, à partir de septembre 2027 : environ 100 euros de plus par mois à 2 000 euros nets.",
+      "nature": "declaration",
+      "source": { "titre": "Orange (L'Express via 6Médias) — Présidentielle 2027 : « Jean-Luc Mélenchon perdra au second tour », affirme Raphaël Glucksmann", "url": "https://actu.orange.fr/politique/presidentielle-2027-jean-luc-melenchon-perdra-au-second-tour-affirme-raphael-glucksmann-l-express-via-6medias-CNT000002tNlSa.html", "date": "2026-11-18" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Âge de référence de départ à 62 ans, avec des incitations à partir plus tard et un départ anticipé pour les métiers pénibles.",
+      "nature": "declaration",
+      "source": { "titre": "Orange (L'Express via 6Médias) — Présidentielle 2027 : « Jean-Luc Mélenchon perdra au second tour », affirme Raphaël Glucksmann", "url": "https://actu.orange.fr/politique/presidentielle-2027-jean-luc-melenchon-perdra-au-second-tour-affirme-raphael-glucksmann-l-express-via-6medias-CNT000002tNlSa.html", "date": "2026-11-18" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Régularisation de 250 000 à 300 000 travailleurs sans-papiers.",
+      "nature": "declaration",
+      "source": { "titre": "Orange (L'Express via 6Médias) — Présidentielle 2027 : « Jean-Luc Mélenchon perdra au second tour », affirme Raphaël Glucksmann", "url": "https://actu.orange.fr/politique/presidentielle-2027-jean-luc-melenchon-perdra-au-second-tour-affirme-raphael-glucksmann-l-express-via-6medias-CNT000002tNlSa.html", "date": "2026-11-18" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Création d'un réseau social européen et d'une intelligence artificielle européenne souveraine.",
+      "nature": "declaration",
+      "source": { "titre": "Orange (L'Express via 6Médias) — Présidentielle 2027 : « Jean-Luc Mélenchon perdra au second tour », affirme Raphaël Glucksmann", "url": "https://actu.orange.fr/politique/presidentielle-2027-jean-luc-melenchon-perdra-au-second-tour-affirme-raphael-glucksmann-l-express-via-6medias-CNT000002tNlSa.html", "date": "2026-11-18" }
     }
   ],
   "ressources": [

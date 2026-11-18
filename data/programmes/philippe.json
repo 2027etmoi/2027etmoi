@@ -1,6 +1,6 @@
 {
   "id": "philippe",
-  "mise_a_jour": "2026-10-17",
+  "mise_a_jour": "2026-11-18",
   "programme": {
     "titre": "Les priorités — Avec Édouard 2027",
     "url": "https://www.edouardphilippe.fr/",
@@ -289,6 +289,18 @@
       "texte": "Envisage de réduire les vacances de la Toussaint et de Pâques en contrepartie d'une semaine de cours allégée.",
       "nature": "declaration",
       "source": { "titre": "CNews — Présidentielle 2027 : ces idées d'Édouard Philippe pourraient bouleverser les rythmes scolaires", "url": "https://www.cnews.fr/france/2026-10-16/presidentielle-2027-ces-idees-dedouard-philippe-pourraient-bouleverser-les", "date": "2026-10-16" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Interdiction de la syndicalisation des magistrats.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — opération « Nos services publics », interviews de huit candidats", "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html", "date": "2026-11-12" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Recrutement de magistrats par d'autres voies que l'École nationale de la magistrature et diversification de leurs carrières.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — opération « Nos services publics », interviews de huit candidats", "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html", "date": "2026-11-12" }
     }
   ],
   "ressources": [

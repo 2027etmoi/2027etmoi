@@ -1,6 +1,6 @@
 {
   "id": "zemmour",
-  "mise_a_jour": "2026-11-01",
+  "mise_a_jour": "2026-11-18",
   "programme": {
     "titre": "Pas de programme 2027 publié",
     "url": "https://www.parti-reconquete.fr/",
@@ -45,6 +45,18 @@
       "texte": "Remplacer la main-d'œuvre immigrée par l'automatisation dans les métiers « que les Français ne veulent pas exercer », sur le modèle de la Chine et du Japon.",
       "nature": "declaration",
       "source": { "titre": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027", "date": "2026-09-18" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Expulsion des étrangers au chômage depuis plus de six mois, y compris en situation régulière (proposition du 9 novembre 2026 ; le seuil évoqué en septembre était d'un an).",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — Eric Zemmour, leader du parti d'extrême droite Reconquête, officialise sa candidature à l'élection présidentielle de 2027", "url": "https://www.franceinfo.fr/elections/presidentielle/eric-zemmour-leader-du-parti-d-extreme-droite-reconquete-officialise-sa-candidature-a-la-presidentielle_8276858.html", "date": "2026-11-10" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Recrutement de 40 000 gardiens de prison, construction rapide de 200 000 places de prison en préfabriqué et peines planchers.",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — opération « Nos services publics », interviews de huit candidats", "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html", "date": "2026-11-12" }
     }
   ],
   "ressources": [

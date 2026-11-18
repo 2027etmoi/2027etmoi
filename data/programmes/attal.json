@@ -1,6 +1,6 @@
 {
   "id": "attal",
-  "mise_a_jour": "2026-10-11",
+  "mise_a_jour": "2026-11-18",
   "programme": {
     "titre": "Mes chantiers capitaux",
     "url": "https://attalpresident.fr/programme",
@@ -307,6 +307,12 @@
       "texte": "Convention de 150 jeunes de 16 à 25 ans tirés au sort parmi des volontaires pour élaborer des propositions.",
       "nature": "declaration",
       "source": { "titre": "franceinfo — « Je veux être le président qui parlera à la jeunesse parce qu'il la comprend » : en meeting à Lyon, Gabriel Attal tente de relancer sa campagne", "url": "https://www.franceinfo.fr/politique/gabriel-attal/je-veux-etre-le-president-qui-parlera-a-la-jeunesse-parce-qu-il-la-comprend-en-meeting-a-lyon-gabriel-attal-tente-de-relancer-sa-campagne-en-pleine-mobilisation-lyceenne_8231377.html", "date": "2026-10-10" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Priorité aux personnes qui travaillent, notamment dans les services publics, pour l'attribution des logements sociaux.",
+      "nature": "declaration",
+      "source": { "titre": "LCP — Logement, associations, jeunesse...: ce qu'il faut retenir du débat présidentiel sur LCI", "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci", "date": "2026-11-17" }
     }
   ],
   "ressources": [

@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-11-09",
+  "mise_a_jour": "2026-11-18",
   "fenetre": {
     "debut": "2026-08-24"
   },
@@ -1588,6 +1588,378 @@
         "economie"
       ],
       "verifie_le": "2026-11-09"
+    },
+    {
+      "id": "ruffin",
+      "date": "2026-11-06",
+      "type": "interview",
+      "media": "franceinfo",
+      "emission": "Entretien du matin",
+      "titre": "Présidentielle 2027 : François Ruffin n'exclut pas de renoncer, si cela permet de battre Marine Le Pen",
+      "url": "https://actu.orange.fr/politique/presidentielle-2027-francois-ruffin-n-exclut-pas-de-renoncer-si-cela-permet-de-battre-marine-le-pen-l-express-via-6medias-CNT000002tAInn.html",
+      "declare": [
+        "« Si une solution se dégage pour battre Marine Le Pen au deuxième tour, je serai pour » ; précise qu'un retrait n'est « pas d'actualité » et exclut que Jean-Luc Mélenchon incarne cette solution.",
+        "Dit vouloir porter dans la campagne la centralité du travail et la voix des métiers du soin et du lien (assistantes maternelles, auxiliaires de vie)."
+      ],
+      "themes": [
+        "campagne",
+        "travail"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "zemmour",
+      "date": "2026-11-10",
+      "type": "interview",
+      "media": "TF1",
+      "emission": "Journal de 20 heures",
+      "titre": "Eric Zemmour, leader du parti d'extrême droite Reconquête, officialise sa candidature à l'élection présidentielle de 2027",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/eric-zemmour-leader-du-parti-d-extreme-droite-reconquete-officialise-sa-candidature-a-la-presidentielle_8276858.html",
+      "declare": [
+        "« Oui, je vous le confirme, je suis bien candidat à l'élection présidentielle. »",
+        "Veut « qu'il y ait moins d'immigrés à la fin de mon quinquennat » ; avait proposé la veille, sur TF1, d'expulser les étrangers au chômage depuis plus de six mois, même en situation régulière.",
+        "Annonce un « plan de redressement » des finances publiques, non chiffré dans l'article."
+      ],
+      "themes": [
+        "campagne",
+        "immigration",
+        "economie"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "retailleau",
+      "date": "2026-11-10",
+      "type": "communique",
+      "media": "Lettre à Édouard Philippe, Gabriel Attal et David Lisnard",
+      "emission": "Proposition de primaire de la droite et du centre",
+      "titre": "Présidentielle: Bruno Retailleau propose une primaire les 31 janvier et 7 février",
+      "url": "https://lcp.fr/actualites/presidentielle-bruno-retailleau-propose-une-primaire-les-31-janvier-et-7-fevrier-445008",
+      "declare": [
+        "Propose une primaire de la droite et du centre les 31 janvier et 7 février 2027.",
+        "Écrit : « Le temps joue contre nous » ; estime qu'aucun candidat ne peut créer seul une dynamique et veut éviter un second tour entre le RN et LFI."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "attal",
+      "date": "2026-11-12",
+      "type": "interview",
+      "media": "franceinfo (France Télévisions et Radio France)",
+      "emission": "Journée spéciale « Nos services publics »",
+      "titre": "REPLAY. Présidentielle 2027 : revivez les interviews de huit des principaux candidats dans le cadre de l'opération \"Nos services publics\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html",
+      "declare": [
+        "Propose un plan de départs volontaires dans la fonction publique portant sur 100 000 postes : « L'objectif, c'est que ça nous permette de faire mieux avec un peu moins »."
+      ],
+      "themes": [
+        "economie"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "roussel",
+      "date": "2026-11-12",
+      "type": "interview",
+      "media": "franceinfo (France Télévisions et Radio France)",
+      "emission": "Journée spéciale « Nos services publics »",
+      "titre": "REPLAY. Présidentielle 2027 : revivez les interviews de huit des principaux candidats dans le cadre de l'opération \"Nos services publics\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html",
+      "declare": [
+        "Propose de recruter 500 000 personnes dans les services publics et d'augmenter de 10 % le point d'indice ; sur le financement : « S'il faut trouver quinze milliards d'euros en cinq ans, nous les trouverons »."
+      ],
+      "themes": [
+        "economie"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "glucksmann",
+      "date": "2026-11-12",
+      "type": "interview",
+      "media": "franceinfo (France Télévisions et Radio France)",
+      "emission": "Journée spéciale « Nos services publics »",
+      "titre": "REPLAY. Présidentielle 2027 : revivez les interviews de huit des principaux candidats dans le cadre de l'opération \"Nos services publics\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html",
+      "declare": [
+        "Propose des hausses de salaire de 10 % pour tous les enseignants, jusqu'à 25 % en milieu de carrière, et un moratoire sur les fermetures d'écoles en milieu rural.",
+        "« Il faut imposer la mixité sociale qui est en train d'être abandonnée »."
+      ],
+      "themes": [
+        "education"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "zemmour",
+      "date": "2026-11-12",
+      "type": "interview",
+      "media": "franceinfo (France Télévisions et Radio France)",
+      "emission": "Journée spéciale « Nos services publics »",
+      "titre": "REPLAY. Présidentielle 2027 : revivez les interviews de huit des principaux candidats dans le cadre de l'opération \"Nos services publics\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html",
+      "declare": [
+        "Propose de recruter 40 000 gardiens de prison, de « construire très rapidement 200 000 places de prisons en préfabriqué » et d'instaurer des peines planchers."
+      ],
+      "themes": [
+        "securite"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "retailleau",
+      "date": "2026-11-12",
+      "type": "interview",
+      "media": "franceinfo (France Télévisions et Radio France)",
+      "emission": "Journée spéciale « Nos services publics »",
+      "titre": "REPLAY. Présidentielle 2027 : revivez les interviews de huit des principaux candidats dans le cadre de l'opération \"Nos services publics\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html",
+      "declare": [
+        "Veut utiliser l'intelligence artificielle pour alléger les tâches administratives, notamment celles des médecins, et réduire le nombre de fonctionnaires : « Avec l'IA, on peut économiser 300 000 postes »."
+      ],
+      "themes": [
+        "economie",
+        "sante"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "tondelier",
+      "date": "2026-11-12",
+      "type": "interview",
+      "media": "franceinfo (France Télévisions et Radio France)",
+      "emission": "Journée spéciale « Nos services publics »",
+      "titre": "REPLAY. Présidentielle 2027 : revivez les interviews de huit des principaux candidats dans le cadre de l'opération \"Nos services publics\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html",
+      "declare": [
+        "Propose une taxe de 20 % sur le 1 % des héritages les plus élevés (10 milliards d'euros attendus en 2027), un service public de l'écologie et un parc d'un million de voitures électriques : « C'est avec ça qu'on finance ce grand plan de transition »."
+      ],
+      "themes": [
+        "ecologie",
+        "economie"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "philippe",
+      "date": "2026-11-12",
+      "type": "interview",
+      "media": "franceinfo (France Télévisions et Radio France)",
+      "emission": "Journée spéciale « Nos services publics »",
+      "titre": "REPLAY. Présidentielle 2027 : revivez les interviews de huit des principaux candidats dans le cadre de l'opération \"Nos services publics\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html",
+      "declare": [
+        "Propose d'interdire la syndicalisation des magistrats (« La possibilité de se syndiquer doit être interdite »), de les recruter autrement que par l'École nationale de la magistrature et de diversifier leurs carrières."
+      ],
+      "themes": [
+        "securite",
+        "institutions"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "melenchon",
+      "date": "2026-11-12",
+      "type": "interview",
+      "media": "franceinfo (France Télévisions et Radio France)",
+      "emission": "Journée spéciale « Nos services publics »",
+      "titre": "REPLAY. Présidentielle 2027 : revivez les interviews de huit des principaux candidats dans le cadre de l'opération \"Nos services publics\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html",
+      "declare": [
+        "Propose un bac professionnel en quatre ans au lieu de trois, avec une rémunération au-dessus du seuil de pauvreté, un pôle public bancaire et 500 000 places en crèche.",
+        "Chiffre l'extension des services publics à 20 à 22 milliards d'euros : « C'est 10 % de ce qu'on donne aux entreprises »."
+      ],
+      "themes": [
+        "education",
+        "economie"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "riner",
+      "date": "2026-11-13",
+      "type": "interview",
+      "media": "franceinfo",
+      "emission": "Déclarations à la presse à l'hôpital Delafontaine de Saint-Denis (Seine-Saint-Denis)",
+      "titre": "\"J'en ai appris beaucoup\" : Teddy Riner a effectué son premier déplacement de campagne dans un hôpital de Seine-Saint-Denis",
+      "url": "https://www.franceinfo.fr/elections/teddy-riner-va-effectuer-son-premier-deplacement-de-campagne-samedi-au-salon-made-in-france-a-paris_8280578.html",
+      "declare": [
+        "Premier déplacement de campagne, consacré à la santé : « La santé, l'accès à la santé, c'est la première des choses dont les Français parlent ».",
+        "À la sortie, sans répondre aux questions : « J'en ai appris beaucoup, on a noté beaucoup de choses, on a écouté avant tout » ; aucune mesure annoncée."
+      ],
+      "themes": [
+        "sante",
+        "campagne"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "riner",
+      "date": "2026-11-14",
+      "type": "interview",
+      "media": "Sud Radio",
+      "emission": "Déclarations à la presse au Salon du Made in France (Paris)",
+      "titre": "Teddy Riner au salon du Made in France",
+      "url": "https://www.sudradio.fr/societe/je-ne-suis-pas-un-macroniste-affirme-teddy-riner-qualifiant-les-felicitations-du-president-de-baiser-empoisonne",
+      "declare": [
+        "« Je ne suis pas un macroniste » ; qualifie de « baiser empoisonné » les félicitations d'Emmanuel Macron à sa candidature."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "le-pen",
+      "date": "2026-11-15",
+      "type": "interview",
+      "media": "LCP",
+      "emission": "Brevet présidentiel",
+      "titre": "\"J'ai commis une erreur\": sur LCP, Marine Le Pen regrette avoir défendu la suppression de la binationalité",
+      "url": "https://lcp.fr/actualites/j-ai-commis-une-erreur-sur-lcp-marine-le-pen-regrette-avoir-defendu-la-suppression-de-la",
+      "declare": [
+        "Sur l'interdiction de la double nationalité, qu'elle défendait dans ses projets de 2012 et 2017 : « Je pense que j'ai commis une erreur » ; dit qu'il n'y a « aucune raison » de suspecter les binationaux."
+      ],
+      "themes": [
+        "immigration",
+        "societe"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "le-pen",
+      "date": "2026-11-16",
+      "type": "debat",
+      "media": "LCI",
+      "emission": "Débat entre cinq candidats, depuis un entrepôt des Restos du Cœur à Rungis (Val-de-Marne)",
+      "titre": "Impôts, logement, Smic : ce qu'il faut retenir du débat entre candidats à la présidentielle",
+      "url": "https://www.france24.com/fr/info-en-continu/20261116-imp%C3%B4ts-logement-smic-ce-qu-il-faut-retenir-du-d%C3%A9bat-entre-candidats-%C3%A0-la-pr%C3%A9sidentielle",
+      "declare": [
+        "S'oppose à une hausse du Smic, qu'elle compare à « l'URSS » ; défend la priorité nationale pour le logement social, une TVA à 0 % sur les produits de première nécessité et à 5,5 % sur les carburants.",
+        "Veut supprimer les subventions aux associations qu'elle juge « politisées » ; propose une « prime d'activité étudiante », la gratuité du permis de conduire et des trains en heure creuse pour les jeunes."
+      ],
+      "themes": [
+        "economie",
+        "logement",
+        "societe"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "melenchon",
+      "date": "2026-11-16",
+      "type": "debat",
+      "media": "LCI",
+      "emission": "Débat entre cinq candidats, depuis un entrepôt des Restos du Cœur à Rungis (Val-de-Marne)",
+      "titre": "Logement, associations, jeunesse...: ce qu'il faut retenir du débat présidentiel sur LCI",
+      "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+      "declare": [
+        "Propose de prélever la totalité des héritages au-delà de 12 millions d'euros pour financer une allocation d'autonomie de 1 337 euros par mois pour les jeunes en formation.",
+        "Juge la retraite par capitalisation « un piège » ; refuse tout tri entre les personnes à loger."
+      ],
+      "themes": [
+        "economie",
+        "education",
+        "retraites",
+        "logement"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "glucksmann",
+      "date": "2026-11-16",
+      "type": "debat",
+      "media": "LCI",
+      "emission": "Débat entre cinq candidats, depuis un entrepôt des Restos du Cœur à Rungis (Val-de-Marne)",
+      "titre": "Logement, associations, jeunesse...: ce qu'il faut retenir du débat présidentiel sur LCI",
+      "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+      "declare": [
+        "Promet de loger « en trois semaines » les 3 000 enfants à la rue ; propose un « pass mobilité » à un euro par jour pour les moins de 25 ans.",
+        "Veut taxer les « méga-héritages » (1 % des successions les plus élevées) ; défend la retraite par répartition et une revalorisation des petites pensions au-dessus de l'inflation."
+      ],
+      "themes": [
+        "logement",
+        "economie",
+        "retraites"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "retailleau",
+      "date": "2026-11-16",
+      "type": "debat",
+      "media": "LCI",
+      "emission": "Débat entre cinq candidats, depuis un entrepôt des Restos du Cœur à Rungis (Val-de-Marne)",
+      "titre": "Logement, associations, jeunesse...: ce qu'il faut retenir du débat présidentiel sur LCI",
+      "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+      "declare": [
+        "Sur les retraites : « on est au bord du gouffre » ; défend un âge légal à 65 ans et un pilier de capitalisation.",
+        "Défend la priorité à ceux qui travaillent dans l'attribution des logements sociaux."
+      ],
+      "themes": [
+        "retraites",
+        "logement"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "attal",
+      "date": "2026-11-16",
+      "type": "debat",
+      "media": "LCI",
+      "emission": "Débat entre cinq candidats, depuis un entrepôt des Restos du Cœur à Rungis (Val-de-Marne)",
+      "titre": "Logement, associations, jeunesse...: ce qu'il faut retenir du débat présidentiel sur LCI",
+      "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+      "declare": [
+        "Veut attribuer en priorité les logements sociaux aux personnes qui travaillent, notamment dans les services publics ; exclut tout débat sur l'âge légal de départ à la retraite.",
+        "« J'assume ce que j'ai fait dans mes fonctions » ; reconnaît des échecs sur la pauvreté et le logement."
+      ],
+      "themes": [
+        "logement",
+        "retraites"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "le-pen",
+      "date": "2026-11-17",
+      "type": "conference",
+      "media": "Conférence de presse",
+      "emission": "Présentation de la réforme des retraites, avec Jordan Bardella et Jean-Philippe Tanguy",
+      "titre": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
+      "url": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies",
+      "declare": [
+        "Présente sa réforme des retraites : abrogation de la réforme de 2023 au 1er janvier 2028, âge légal de 60 à 62 ans selon l'âge du premier emploi stable, 160 à 168 trimestres.",
+        "Annonce un « pilier de capitalisation obligatoire » ; dit être « en mesure de financer totalement » la réforme et de « diviser par deux le déficit » des retraites d'ici 2032.",
+        "N'exclut pas de soumettre cette réforme à référendum."
+      ],
+      "themes": [
+        "retraites"
+      ],
+      "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "glucksmann",
+      "date": "2026-11-17",
+      "type": "interview",
+      "media": "Journaux du groupe Ebra",
+      "emission": "Entretien réalisé à Villeurbanne (Rhône)",
+      "titre": "Présidentielle 2027 : \"Jean-Luc Mélenchon perdra au second tour\", affirme Raphaël Glucksmann",
+      "url": "https://actu.orange.fr/politique/presidentielle-2027-jean-luc-melenchon-perdra-au-second-tour-affirme-raphael-glucksmann-l-express-via-6medias-CNT000002tNlSa.html",
+      "declare": [
+        "« Voter Jean-Luc Mélenchon n'a rien d'utile » ; appelle les Écologistes « à nous rejoindre et à gouverner le pays avec nous ».",
+        "Propose une baisse progressive de la CSG sur les salaires jusqu'à 4 000 euros nets, un âge de référence de départ à 62 ans et « la régularisation de 250 000 à 300 000 travailleurs sans-papiers »."
+      ],
+      "themes": [
+        "campagne",
+        "travail",
+        "retraites",
+        "immigration"
+      ],
+      "verifie_le": "2026-11-18"
     }
   ],
   "a_verifier": [

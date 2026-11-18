@@ -1,6 +1,6 @@
 {
   "id": "riner",
-  "mise_a_jour": "2026-11-09",
+  "mise_a_jour": "2026-11-18",
   "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Teddy_Riner_Cannes_2016.jpg/500px-Teddy_Riner_Cannes_2016.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Teddy_Riner_Cannes_2016.jpg",
@@ -35,6 +35,24 @@
     }
   },
   "parcours_politique": [
+    {
+      "periode": "14 novembre 2026",
+      "texte": "Au Salon du Made in France, à Paris, déclare : « Je ne suis pas un macroniste » et qualifie de « baiser empoisonné » les félicitations d'Emmanuel Macron à sa candidature.",
+      "source": {
+        "titre": "Sud Radio — Teddy Riner au salon du Made in France",
+        "url": "https://www.sudradio.fr/societe/je-ne-suis-pas-un-macroniste-affirme-teddy-riner-qualifiant-les-felicitations-du-president-de-baiser-empoisonne",
+        "date": "2026-11-14"
+      }
+    },
+    {
+      "periode": "13 novembre 2026",
+      "texte": "Premier déplacement de campagne à l'hôpital Delafontaine de Saint-Denis (Seine-Saint-Denis), consacré à la santé ; aucune mesure annoncée.",
+      "source": {
+        "titre": "franceinfo — « J'en ai appris beaucoup » : Teddy Riner a effectué son premier déplacement de campagne dans un hôpital de Seine-Saint-Denis",
+        "url": "https://www.franceinfo.fr/elections/teddy-riner-va-effectuer-son-premier-deplacement-de-campagne-samedi-au-salon-made-in-france-a-paris_8280578.html",
+        "date": "2026-11-13"
+      }
+    },
     {
       "periode": "9 novembre 2026",
       "texte": "Annonce sa candidature à l'élection présidentielle de 2027 dans une vidéo publiée sur X et un entretien au Parisien : « Je suis candidat à l'élection présidentielle de 2027. » Dit s'appuyer sur un noyau d'une vingtaine de personnes issues de la société civile, de la fonction publique et d'anciens ministres, non nommées.",
@@ -80,6 +98,15 @@
         "titre": "Wikipédia – Teddy Riner",
         "url": "https://fr.wikipedia.org/wiki/Teddy_Riner",
         "date": "2026-11-09"
+      }
+    },
+    {
+      "periode": "Novembre 2026",
+      "texte": "Unicef France suspend sa mission d'ambassadeur le 17 novembre, décision qui « répond exclusivement à notre volonté de préserver la neutralité de notre organisation » ; la banque Saxo Bank avait suspendu « d'un commun accord » leur collaboration publicitaire quatre jours après l'annonce de candidature.",
+      "source": {
+        "titre": "La 1ère (franceinfo) — Unicef France « suspend la mission d'ambassadeur » de Teddy Riner, candidat à la présidentielle",
+        "url": "https://la1ere.franceinfo.fr/guadeloupe/unicef-france-suspend-la-mission-d-ambassadeur-de-teddy-riner-candidat-a-la-presidentielle-1758741.html",
+        "date": "2026-11-17"
       }
     },
     {

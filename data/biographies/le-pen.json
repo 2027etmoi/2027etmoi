@@ -1,6 +1,6 @@
 {
   "id": "le-pen",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-11-18",
   "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Marine_Le_Pen_2025_%28cropped%29.jpg/500px-Marine_Le_Pen_2025_%28cropped%29.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_2025_(cropped).jpg",
@@ -43,14 +43,15 @@
       "titre": "Affaire des assistants parlementaires européens du Front national",
       "texte": "Poursuivie pour détournement de fonds publics dans le cadre de l'emploi d'assistants parlementaires rémunérés par le Parlement européen. Le 31 mars 2025, le tribunal correctionnel de Paris l'a condamnée à quatre ans d'emprisonnement dont deux ferme, 100 000 euros d'amende et cinq ans d'inéligibilité avec exécution provisoire. Le 7 juillet 2026, la cour d'appel de Paris a confirmé sa culpabilité et l'a condamnée à trois ans d'emprisonnement dont un an ferme sous bracelet électronique, 100 000 euros d'amende et 45 mois d'inéligibilité dont 30 avec sursis, sans exécution provisoire. Les 15 mois d'inéligibilité ferme étant déjà purgés, elle est éligible à l'élection présidentielle de 2027. Elle s'est pourvue en cassation ; le parquet général ne s'est pas pourvu.",
       "etat": "condamnation_non_definitive",
-      "etat_detail": "Condamnée en appel le 7 juillet 2026 ; pourvoi en cassation en cours, qui suspend l'exécution des peines. La Cour de cassation a indiqué pouvoir se prononcer au plus tard début avril 2027. Mémoires attendus jusqu'au 15 octobre 2026. La condamnation n'est pas définitive : Marine Le Pen reste présumée innocente.",
+      "etat_detail": "Condamnée en appel le 7 juillet 2026 ; pourvoi en cassation en cours, qui suspend l'exécution des peines. La Cour de cassation a indiqué pouvoir se prononcer au plus tard début avril 2027. Mémoires attendus jusqu'au 15 octobre 2026. Son éligibilité pendant le pourvoi est discutée entre juristes : un magistrat honoraire de la Cour de cassation a soutenu le 28 octobre 2026, dans Le Monde, que l'inéligibilité prononcée en première instance s'applique jusqu'à l'arrêt de la Cour ; le procureur général près la Cour de cassation avait indiqué le 9 juillet que le pourvoi ne fait pas revivre le jugement de première instance. La condamnation n'est pas définitive : Marine Le Pen reste présumée innocente.",
       "date_etat": "2026-07-07",
       "sources": [
         { "titre": "franceinfo — Marine Le Pen condamnée à deux ans de prison ferme et cinq ans d'inéligibilité avec application immédiate au procès des assistants parlementaires du FN", "url": "https://www.francetvinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-condamnee-a-quatre-ans-de-prison-et-cinq-ans-d-ineligibilite-avec-execution-provisoire-au-proces-des-assistants-parlementaires-du-fn_7157157.html", "date": "2025-03-31" },
         { "titre": "franceinfo — Inéligibilité, peine de prison... Pourquoi la condamnation de Marine Le Pen a été réduite en appel", "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/ineligibilite-peine-de-prison-pourquoi-la-condamnation-de-marine-le-pen-a-ete-reduite-en-appel_8098121.html", "date": "2026-07-07" },
         { "titre": "franceinfo — La Cour de cassation « pourrait » se prononcer « au plus tard début avril 2027 » sur le pourvoi de Marine Le Pen", "url": "https://www.franceinfo.fr/politique/marine-le-pen/la-cour-de-cassation-pourrait-se-prononcer-au-plus-tard-debut-avril-2027-sur-le-pourvoi-de-marine-le-pen-apres-sa-condamnation-en-appel_8100146.html", "date": "2026-07-08" },
         { "titre": "franceinfo — Le parquet général ne se pourvoit pas en cassation dans l'affaire des assistants d'eurodéputés du Front national", "url": "https://www.franceinfo.fr/faits-divers/justice-proces/proces-des-assistants-d-eurodeputes-du-front-national-le-parquet-general-ne-se-pourvoit-pas-en-cassation_8108705.html", "date": "2026-07-15" },
-        { "titre": "franceinfo — Les avocats de Marine Le Pen ont jusqu'au 15 octobre pour justifier le pourvoi dans l'affaire des assistants d'eurodéputés FN", "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/les-avocats-de-marine-le-pen-ont-jusqu-au-15-octobre-pour-justifier-le-pourvoi-dans-l-affaire-des-assistants-d-eurodeputes-fn_8177831.html", "date": "2026-09-04" }
+        { "titre": "franceinfo — Les avocats de Marine Le Pen ont jusqu'au 15 octobre pour justifier le pourvoi dans l'affaire des assistants d'eurodéputés FN", "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/les-avocats-de-marine-le-pen-ont-jusqu-au-15-octobre-pour-justifier-le-pourvoi-dans-l-affaire-des-assistants-d-eurodeputes-fn_8177831.html", "date": "2026-09-04" },
+        { "titre": "Public Sénat — Présidentielle 2027 : le débat sur l'inéligibilité de Marine Le Pen relancé", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-debat-sur-lineligibilite-de-marine-le-pen-relance", "date": "2026-11-02" }
       ]
     },
     {
