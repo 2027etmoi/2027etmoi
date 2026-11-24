@@ -1,6 +1,6 @@
 {
   "id": "villepin",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-11-24",
   "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/De_Villepin_PM_portrait.png/500px-De_Villepin_PM_portrait.png",
     "page": "https://commons.wikimedia.org/wiki/File:De_Villepin_PM_portrait.png",
@@ -11,12 +11,17 @@
     "legende": "Portrait officiel de Premier ministre (Matignon, 2005)"
   },
   "presentation": {
-    "texte": "Dominique de Villepin est un diplomate et homme politique français. Il a été secrétaire général de l'Élysée, ministre des Affaires étrangères, ministre de l'Intérieur puis Premier ministre de 2005 à 2007 sous la présidence de Jacques Chirac. Il a fondé en 2025 le parti La France humaniste.",
+    "texte": "Dominique de Villepin est un diplomate et homme politique français. Il a été secrétaire général de l'Élysée, ministre des Affaires étrangères, ministre de l'Intérieur puis Premier ministre de 2005 à 2007 sous la présidence de Jacques Chirac. Il a fondé en 2025 le parti La France humaniste et annoncé le 20 novembre 2026 sa candidature à l'élection présidentielle de 2027.",
     "sources": [
       {
         "titre": "Dominique de Villepin — Wikipédia",
         "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
         "date": "2026-09-22"
+      },
+      {
+        "titre": "LCP — Présidentielle 2027: Dominique de Villepin officiellement candidat à l'Élysée",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-dominique-de-villepin-officiellement-candidat-a-l-elysee-445372",
+        "date": "2026-11-20"
       }
     ]
   },
@@ -30,6 +35,15 @@
     }
   },
   "parcours_politique": [
+    {
+      "periode": "20 novembre 2026",
+      "texte": "Annonce sa candidature à l'élection présidentielle de 2027 lors d'une conférence de presse à Paris et publie son programme « Réussir à nouveau » (258 propositions).",
+      "source": {
+        "titre": "LCP — Présidentielle 2027: Dominique de Villepin officiellement candidat à l'Élysée",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-dominique-de-villepin-officiellement-candidat-a-l-elysee-445372",
+        "date": "2026-11-20"
+      }
+    },
     {
       "periode": "2025-",
       "texte": "Fondateur du parti La France humaniste.",

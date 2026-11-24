@@ -1,11 +1,11 @@
 {
   "id": "ruffin",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-11-24",
   "programme": {
     "titre": "« Nous Président ! » – Cahiers de campagne",
     "url": "https://nouspresident.fr/cahiers-de-campagne/",
     "etat": "partiel",
-    "note": "Pas de programme complet au 22/09/2026 ; quatre « cahiers de campagne » thématiques publiés entre avril et septembre 2026 sur le site de campagne (ruffin2027.fr redirige vers nouspresident.fr)."
+    "note": "Pas de programme complet au 22/09/2026 ; quatre « cahiers de campagne » thématiques publiés entre avril et septembre 2026 sur le site de campagne (ruffin2027.fr redirige vers nouspresident.fr). Candidature retirée le 21/11/2026 : les mesures ci-dessous sont celles qu'il défendait comme candidat."
   },
   "reperes": [
     {
@@ -23,6 +23,10 @@
     {
       "texte": "Candidat pour 2027 à la tête du parti Debout!, hors de la primaire socialiste, qui ne lui a pas été ouverte.",
       "source": { "titre": "Orange / AFP", "url": "https://actu.orange.fr/politique/presidentielle-francois-ruffin-l-ex-insoumis-qui-a-du-mal-a-socialiser-CNT000002rVfmk.html", "date": "2026-09-16" }
+    },
+    {
+      "texte": "Candidature retirée le 21 novembre 2026, sans soutien à un autre candidat.",
+      "source": { "titre": "LCP — François Ruffin se retire de la présidentielle 2027 sans soutenir aucun des candidats de gauche encore en lice", "url": "https://lcp.fr/actualites/francois-ruffin-se-retire-de-la-presidentielle-2027-sans-soutenir-aucun-des-candidats-de", "date": "2026-11-21" }
     }
   ],
   "mesures": [

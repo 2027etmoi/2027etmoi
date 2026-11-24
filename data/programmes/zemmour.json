@@ -1,6 +1,6 @@
 {
   "id": "zemmour",
-  "mise_a_jour": "2026-11-18",
+  "mise_a_jour": "2026-11-24",
   "programme": {
     "titre": "Pas de programme 2027 publié",
     "url": "https://www.parti-reconquete.fr/",
@@ -57,6 +57,12 @@
       "texte": "Recrutement de 40 000 gardiens de prison, construction rapide de 200 000 places de prison en préfabriqué et peines planchers.",
       "nature": "declaration",
       "source": { "titre": "franceinfo — opération « Nos services publics », interviews de huit candidats", "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html", "date": "2026-11-12" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Suppression des droits de succession et de la CSG « pour tous les actifs de France ».",
+      "nature": "declaration",
+      "source": { "titre": "franceinfo — direct du 21 novembre 2026, meeting d'Éric Zemmour à Toulon", "url": "https://www.franceinfo.fr/elections/presidentielle/direct-eric-zemmour-lance-sa-campagne-pour-l-election-presidentielle-avec-un-meeting-a-toulon_8293517.html", "date": "2026-11-21" }
     }
   ],
   "ressources": [

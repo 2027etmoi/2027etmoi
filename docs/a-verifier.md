@@ -1,6 +1,6 @@
 # Points à vérifier (généré)
 
-Généré le 2026-11-18 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 653 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
+Généré le 2026-11-24 par `python3 scripts/a_verifier.py` à partir des champs `a_verifier` des fiches : 654 points. Ne pas éditer à la main. Une fois un point tranché, mettre à jour la fiche (publier la donnée sourcée ou supprimer la note) puis relancer le script.
 
 ## Biographies et affaires judiciaires
 
@@ -680,7 +680,7 @@ Généré le 2026-11-18 par `python3 scripts/a_verifier.py` à partir des champs
 
 ### Dominique de Villepin (`data/programmes/villepin.json`)
 
-- [ ] Retraites : abrogation de la réforme portant l'âge légal à 64 ans et retour à un système par points — lu seulement sur des sites non reconnus (entrevue.fr, labanque.org) ; aucune source primaire ou média reconnu ouvert. Au 22/09/2026, aucun des huit chantiers de lafrancehumaniste.fr/france2027.html ne traite des retraites, et l'article LCP du 16/09/2026 sur les retraites ne cite pas Villepin.
+- [ ] Programme « Réussir à nouveau » (20/11/2026) : seule une sélection des 258 propositions est saisie ; le reste est à reprendre proposition par proposition. Certaines mesures antérieures diffèrent du programme (par exemple « cinq cent mille exploitations agricoles en 2035 » dans la tribune de février, « 400 000 exploitations familiales à la fin du quinquennat » dans la proposition n° 223) : les deux formulations sont conservées avec leur date. Retraites : le programme ne mentionne pas d'abrogation de la réforme de 2023 ; il prévoit un système par points (proposition n° 162).
 - [ ] Défense (Le moment européen) : un premier résumé mentionnait un programme de porte-avions européen (~10 Md€), une DARPA à 4 Md$ et une dissuasion associant huit pays — chiffres non confirmés mot pour mot.
 - [ ] Éducation : modulation du financement public du privé selon la condition sociale des élèves, « semestre civique » à 15 ans (formulé au conditionnel) — non retenus.
 - [ ] Culture : revenu minimal d'environ 1 000 € par mois pour les artistes émergents sous forme d'impôt négatif, contribution de 1,50 € par billet dans les salles de plus de 1 500 places — thème culture hors grille.
@@ -932,6 +932,7 @@ Généré le 2026-11-18 par `python3 scripts/a_verifier.py` à partir des champs
 - [ ] Elabe pour BFMTV et La Tribune Dimanche (notice 10324, terrain du 14 au 16 octobre 2026, 1 553 inscrits) : la notice ne contient que le questionnaire, les résultats sont publiés sur elabe.fr ; à saisir depuis le rapport.
 - [ ] OpinionWay pour CNews (notice 10333, terrain 21-22 octobre 2026, 973 inscrits) : tableau des intentions de vote illisible dans le PDF (lignes mélangées), chiffres non repris ; à saisir à la main depuis la notice.
 - [ ] Veille du 18 novembre 2026 : notices non intégrées car elles ne portent pas sur des intentions de vote au 1er tour — candidature de Teddy Riner (CSA 10366, Toluna Harris 10367, Odoxa 10369, Ifop / Paris Match 10379), primaire du centre et de la droite (Ifop / Sud Radio 10370), participation à un second tour Mélenchon – Le Pen (Ifop / Franc-Tireur 10381). Seconds tours testés par Elabe, OpinionWay et Toluna Harris non saisis (le fichier ne recense que les premiers tours).
+- [ ] Veille du 24 novembre 2026 : la notice Ifop-Fiducial / Sud Radio n° 10392 (terrain du 2 au 4 novembre) n'a été publiée par la Commission que le 20 novembre ; ses quatre hypothèses supposent un candidat unique de la droite et du centre. Notices non intégrées : primaire du centre et de la droite (Ifop, 10387), programmes (Elabe, 10386), baromètres de popularité (Ifop 10394, Odoxa 10395). François Ruffin, testé par Ifop-Fiducial du 13 au 16 novembre, a retiré sa candidature le 21 novembre.
 
 ## Votes au Parlement (`data/votes.json`)
 

@@ -1,11 +1,11 @@
 {
   "id": "villepin",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-11-24",
   "programme": {
-    "titre": "Projet France 2027 (La France humaniste)",
-    "url": "https://www.lafrancehumaniste.fr/france2027.html",
-    "etat": "partiel",
-    "note": "Candidature non déclarée au 22/09/2026 ; le parti publie huit « chantiers » thématiques sous forme de tribunes signées (février à septembre 2026), sans programme consolidé."
+    "titre": "« Réussir à nouveau » : 258 propositions (La France humaniste)",
+    "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/",
+    "etat": "complet",
+    "note": "Programme publié le 20/11/2026, jour de la déclaration de candidature : 258 propositions en 25 chapitres et quatre parties. Une sélection de mesures précises est reprise ici, chacune avec le numéro de la proposition ; les mesures issues des tribunes de février à septembre 2026 sont conservées avec leur date."
   },
   "reperes": [
     {
@@ -21,8 +21,8 @@
       "source": { "titre": "Euronews", "url": "https://www.euronews.com/2025/06/25/former-french-prime-minister-dominique-de-villepin-launches-humanist-political-party", "date": "2025-06-25" }
     },
     {
-      "texte": "Pas officiellement candidat au 16 septembre 2026 ; une centaine de personnes travaillent à réunir les 500 parrainages.",
-      "source": { "titre": "LCP", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "date": "2026-09-16" }
+      "texte": "Candidature annoncée le 20 novembre 2026, avec la publication du programme « Réussir à nouveau » (258 propositions).",
+      "source": { "titre": "LCP — Présidentielle 2027: Dominique de Villepin officiellement candidat à l'Élysée", "url": "https://lcp.fr/actualites/presidentielle-2027-dominique-de-villepin-officiellement-candidat-a-l-elysee-445372", "date": "2026-11-20" }
     }
   ],
   "mesures": [
@@ -58,9 +58,9 @@
     },
     {
       "theme": "travail",
-      "texte": "Basculer plus de 200 milliards d'euros de cotisations non contributives vers la CSG, pour une hausse de 6 % du salaire réel (environ 90 € par mois au Smic).",
+      "texte": "Bascule sur dix ans de plus de 200 milliards d'euros de cotisations non contributives vers la CSG : à terme, 200 euros nets de plus par mois en moyenne, plus de 100 au Smic.",
       "nature": "programme",
-      "source": { "titre": "La France humaniste — Big Bang : la règle républicaine", "url": "https://www.lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html", "date": "2026-08-28" }
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 106", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-12.html#proposition-106", "date": "2026-11-20" }
     },
     {
       "theme": "travail",
@@ -70,9 +70,9 @@
     },
     {
       "theme": "retraites",
-      "texte": "Réforme des retraites préparée par une conférence sociale et une convention citoyenne, puis soumise à référendum.",
+      "texte": "Réforme des retraites préparée pendant un an (commission d'experts et de citoyens, conférence sociale, convention citoyenne, débat parlementaire), puis soumise à référendum en avril 2028.",
       "nature": "programme",
-      "source": { "titre": "La France humaniste — Le chemin gaulliste", "url": "https://www.lafrancehumaniste.fr/articles/chemin-gaulliste.html", "date": "2026-05-24" }
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 161", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-16.html#proposition-161", "date": "2026-11-20" }
     },
     {
       "theme": "education",
@@ -205,16 +205,210 @@
       "texte": "« Pause sur Schengen » et coordination des politiques migratoires entre États européens volontaires.",
       "nature": "programme",
       "source": { "titre": "La France humaniste — Le moment européen", "url": "https://www.lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html", "date": "2026-03-06" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Rétablissement de l'impôt sur la fortune, selon un barème proche de celui de 2016, au sein d'un impôt unique sur le patrimoine exonérant les biens professionnels nécessaires à l'activité.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 10", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-1.html#proposition-10", "date": "2026-11-20" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Successions en ligne directe exonérées jusqu'à un million d'euros, puis forte progressivité au-delà d'un million et de cinq millions d'euros, de 50 à 60 %.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 9", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-1.html#proposition-9", "date": "2026-11-20" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Loi organique fixant une trajectoire de déficits sur cinq ans, qui s'impose aux lois de finances ; dérogation possible à la majorité des trois cinquièmes.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 1", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-1.html#proposition-1", "date": "2026-11-20" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Nationalisation des autoroutes, reprises en régie directe à la fin des concessions entre 2031 et 2036.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 231", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-23.html#proposition-231", "date": "2026-11-20" }
+    },
+    {
+      "theme": "economie",
+      "texte": "Suppression des impôts de production, intégrés dans l'impôt sur les sociétés.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 237", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-23.html#proposition-237", "date": "2026-11-20" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Participation salariale étendue à toutes les entreprises de plus de 50 salariés : deux euros de dividendes versés donnent lieu à un euro de participation.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 105", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-12.html#proposition-105", "date": "2026-11-20" }
+    },
+    {
+      "theme": "travail",
+      "texte": "CV anonyme obligatoire pour les recrutements des entreprises de plus de 50 salariés.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 37", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-3.html#proposition-37", "date": "2026-11-20" }
+    },
+    {
+      "theme": "travail",
+      "texte": "Objectif « zéro accident du travail mortel » en 2032.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 157", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-16.html#proposition-157", "date": "2026-11-20" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Système de retraite à trois étages obligatoires : minimum garanti par l'État, régime par points en répartition géré par les partenaires sociaux, capitalisation publique abondée de 15 milliards d'euros par an.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 162", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-16.html#proposition-162", "date": "2026-11-20" }
+    },
+    {
+      "theme": "retraites",
+      "texte": "Chacun part à l'âge qu'il souhaite, selon une formule tenant compte des points acquis, de la valeur du point et de l'espérance de vie selon le métier exercé.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 162", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-16.html#proposition-162", "date": "2026-11-20" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Droit de vote abaissé à 16 ans ; les jeunes de 16 à 18 ans votent dans leur établissement scolaire.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 75", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-8.html#proposition-75", "date": "2026-11-20" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Vote obligatoire, sans sanction, avec comptabilisation du vote blanc : à 50 % de votes blancs, une nouvelle élection est organisée.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 76", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-8.html#proposition-76", "date": "2026-11-20" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Référendum citoyen sur pétition d'électeurs, dans le champ de l'article 11 de la Constitution, précédé d'au moins un an de débat (experts, convention citoyenne, conférence sociale, Parlement).",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 74", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-8.html#proposition-74", "date": "2026-11-20" }
+    },
+    {
+      "theme": "institutions",
+      "texte": "Rétablissement de l'ENA et épreuve d'écologie scientifique dans les concours de la fonction publique de l'État.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 60", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-6.html#proposition-60", "date": "2026-11-20" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Agence de renseignement contre le narcotrafic sur le modèle de la DEA américaine, réunissant enquête, renseignement financier et coopération internationale.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 67", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-7.html#proposition-67", "date": "2026-11-20" }
+    },
+    {
+      "theme": "securite",
+      "texte": "Parquet national contre les violences faites aux femmes et aux enfants.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 69", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-7.html#proposition-69", "date": "2026-11-20" }
+    },
+    {
+      "theme": "securite",
+      "texte": "15 000 places en structures éducatives fermées pour les primo-délinquants, sous tutelle conjointe de la Justice et de l'Éducation nationale.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 72", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-7.html#proposition-72", "date": "2026-11-20" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Enregistrement biométrique obligatoire des étrangers présents sur le territoire sans titre de séjour.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 55", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-6.html#proposition-55", "date": "2026-11-20" }
+    },
+    {
+      "theme": "immigration",
+      "texte": "Livre blanc de l'immigration au terme d'un an de concertation, débouchant sur une loi de programmation pluriannuelle.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 56", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-6.html#proposition-56", "date": "2026-11-20" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Garantie locative universelle : tout assureur habitation doit couvrir tout bailleur contre les impayés, quel que soit le locataire.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 111", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-12.html#proposition-111", "date": "2026-11-20" }
+    },
+    {
+      "theme": "logement",
+      "texte": "Création de 30 000 places d'hébergement dans une stratégie « logement d'abord ».",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 133", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-14.html#proposition-133", "date": "2026-11-20" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Reste à charge annuel des assurés plafonné selon leur niveau de revenu.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 126", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-13.html#proposition-126", "date": "2026-11-20" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Construction de 100 000 places d'EHPAD et de logements intermédiaires pour le grand âge, programmées sur dix ans.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 151", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-15.html#proposition-151", "date": "2026-11-20" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Un million de véhicules électriques compacts en leasing social sur le quinquennat, avec une nouvelle tranche ouverte aux revenus intermédiaires.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 114", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-12.html#proposition-114", "date": "2026-11-20" }
+    },
+    {
+      "theme": "ecologie",
+      "texte": "Marché intercommunal des droits à artificialiser pour appliquer l'objectif « zéro artificialisation nette ».",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 221", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-22.html#proposition-221", "date": "2026-11-20" }
+    },
+    {
+      "theme": "territoires",
+      "texte": "Statut d'exploitation familiale visant à maintenir 400 000 exploitations agricoles familiales à la fin du quinquennat.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 223", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-22.html#proposition-223", "date": "2026-11-20" }
+    },
+    {
+      "theme": "education",
+      "texte": "Financement public de l'enseignement privé modulé selon la condition sociale des élèves accueillis.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 194", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-20.html#proposition-194", "date": "2026-11-20" }
+    },
+    {
+      "theme": "societe",
+      "texte": "Statut des artistes assurant aux créateurs un revenu garanti de 1 000 euros par mois.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 246", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-24.html#proposition-246", "date": "2026-11-20" }
+    },
+    {
+      "theme": "societe",
+      "texte": "Interdiction des algorithmes de défilement infini, pour limiter l'exposition des enfants aux écrans.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 243", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-24.html#proposition-243", "date": "2026-11-20" }
+    },
+    {
+      "theme": "societe",
+      "texte": "Au moins 40 % de chaque sexe parmi les cadres dirigeants dès 2028, obligation étendue aux entreprises de 250 salariés et aux établissements publics.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 185", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-18.html#proposition-185", "date": "2026-11-20" }
+    },
+    {
+      "theme": "international",
+      "texte": "Réforme de l'OTAN pour y inscrire un pilier de défense européen, doté d'un état-major européen.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 88", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-10.html#proposition-88", "date": "2026-11-20" }
+    },
+    {
+      "theme": "international",
+      "texte": "« Buy European Act » orientant la commande publique selon des critères de souveraineté et de durabilité.",
+      "nature": "programme",
+      "source": { "titre": "La France humaniste — « Réussir à nouveau », proposition n° 91", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-10.html#proposition-91", "date": "2026-11-20" }
     }
   ],
   "ressources": [
+    { "titre": "La France humaniste — « Réussir à nouveau », les 258 propositions", "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/", "type": "programme", "date": "2026-11-20" },
+    { "titre": "LCP — Présidentielle 2027 : que retenir des 258 propositions du programme de Dominique de Villepin ?", "url": "https://lcp.fr/index.php/actualites/presidentielle-2027-que-retenir-des-258-propositions-du-programme-de-dominique-de", "type": "article", "date": "2026-11-20" },
     { "titre": "La France humaniste — Projet France 2027", "url": "https://www.lafrancehumaniste.fr/france2027.html", "type": "programme", "date": "2026-09-22" },
     { "titre": "Site de La France humaniste", "url": "https://www.lafrancehumaniste.fr/", "type": "site", "date": "2026-09-22" },
     { "titre": "LCP — « Nous voulons être présents en 2027 »", "url": "https://lcp.fr/actualites/dominique-de-villepin-nous-voulons-etre-presents-en-2027-429413", "type": "article", "date": "2026-01-19" },
     { "titre": "LCP — La liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "type": "article", "date": "2026-09-16" }
   ],
   "a_verifier": [
-    "Retraites : abrogation de la réforme portant l'âge légal à 64 ans et retour à un système par points — lu seulement sur des sites non reconnus (entrevue.fr, labanque.org) ; aucune source primaire ou média reconnu ouvert. Au 22/09/2026, aucun des huit chantiers de lafrancehumaniste.fr/france2027.html ne traite des retraites, et l'article LCP du 16/09/2026 sur les retraites ne cite pas Villepin.",
+    "Programme « Réussir à nouveau » (20/11/2026) : seule une sélection des 258 propositions est saisie ; le reste est à reprendre proposition par proposition. Certaines mesures antérieures diffèrent du programme (par exemple « cinq cent mille exploitations agricoles en 2035 » dans la tribune de février, « 400 000 exploitations familiales à la fin du quinquennat » dans la proposition n° 223) : les deux formulations sont conservées avec leur date. Retraites : le programme ne mentionne pas d'abrogation de la réforme de 2023 ; il prévoit un système par points (proposition n° 162).",
     "Défense (Le moment européen) : un premier résumé mentionnait un programme de porte-avions européen (~10 Md€), une DARPA à 4 Md$ et une dissuasion associant huit pays — chiffres non confirmés mot pour mot.",
     "Éducation : modulation du financement public du privé selon la condition sociale des élèves, « semestre civique » à 15 ans (formulé au conditionnel) — non retenus.",
     "Culture : revenu minimal d'environ 1 000 € par mois pour les artistes émergents sous forme d'impôt négatif, contribution de 1,50 € par billet dans les salles de plus de 1 500 places — thème culture hors grille.",
