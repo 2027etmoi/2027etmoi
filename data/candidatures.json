@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-11-09",
+  "mise_a_jour": "2026-11-24",
   "candidatures": {
     "philippe": {
       "declaration": {
@@ -58,8 +58,23 @@
       }
     },
     "villepin": {
-      "declaration": null,
-      "designation": null,
+      "declaration": {
+        "date": "2026-11-20",
+        "source": {
+          "titre": "LCP — Présidentielle 2027: Dominique de Villepin officiellement candidat à l'Élysée",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-dominique-de-villepin-officiellement-candidat-a-l-elysee-445372",
+          "date": "2026-11-20"
+        }
+      },
+      "designation": {
+        "mode": "auto",
+        "detail": "Candidature personnelle annoncée en conférence de presse, portée par La France humaniste, mouvement qu'il a fondé en juin 2025 ; écarte toute primaire.",
+        "source": {
+          "titre": "LCP — Présidentielle 2027: Dominique de Villepin officiellement candidat à l'Élysée",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-dominique-de-villepin-officiellement-candidat-a-l-elysee-445372",
+          "date": "2026-11-20"
+        }
+      },
       "precedentes": [
         {
           "annee": 2012,

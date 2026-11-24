@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-11-18",
+  "mise_a_jour": "2026-11-24",
   "fenetre": {
     "debut": "2026-08-24"
   },
@@ -1960,6 +1960,196 @@
         "immigration"
       ],
       "verifie_le": "2026-11-18"
+    },
+    {
+      "id": "tondelier",
+      "date": "2026-11-18",
+      "type": "interview",
+      "media": "France 2",
+      "emission": "Entretien du soir",
+      "titre": "Présidentielle 2027: Marine Tondelier \"prête\" à une \"coalition\" autour de Jean-Luc Mélenchon",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-marine-tondelier-prete-a-une-coalition-autour-de-jean-luc-melenchon",
+      "declare": [
+        "« Je suis prête, et les écologistes sont prêts, à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon » ; reconnaît à sa campagne une dynamique « indéniable ».",
+        "Demande une semaine de discussions avec les Insoumis sur un accord de gouvernement, un accord pour les législatives, un accord programmatique et un dispositif de campagne commun."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-11-24"
+    },
+    {
+      "id": "melenchon",
+      "date": "2026-11-18",
+      "type": "communique",
+      "media": "X (message public, cité par LCP)",
+      "emission": "Réaction à une manifestation de policiers devant le ministère de l'Intérieur",
+      "titre": "Des policiers manifestent devant Beauvau: Jean-Luc Mélenchon appelle à \"sévèrement\" les \"punir\"",
+      "url": "https://lcp.fr/actualites/des-policiers-manifestent-devant-beauvau-jean-luc-melenchon-appelle-a-severement-les",
+      "declare": [
+        "« Des policiers manifestent à 50 mètres de l'Élysée. Ils doivent être sévèrement punis. »"
+      ],
+      "themes": [
+        "securite"
+      ],
+      "verifie_le": "2026-11-24"
+    },
+    {
+      "id": "glucksmann",
+      "date": "2026-11-19",
+      "type": "interview",
+      "media": "franceinfo",
+      "emission": "Entretien du matin",
+      "titre": "Présidentielle 2027: Marine Tondelier \"prête\" à une \"coalition\" autour de Jean-Luc Mélenchon",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-marine-tondelier-prete-a-une-coalition-autour-de-jean-luc-melenchon",
+      "declare": [
+        "Réagit à l'offre de Marine Tondelier à Jean-Luc Mélenchon : « C'est un choix qui tourne le dos à une tradition historique extrêmement profonde des écologistes »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-11-24"
+    },
+    {
+      "id": "villepin",
+      "date": "2026-11-20",
+      "type": "conference",
+      "media": "Conférence de presse à la Maison de l'Amérique latine (Paris)",
+      "emission": "Déclaration de candidature",
+      "titre": "Présidentielle 2027: Dominique de Villepin officiellement candidat à l'Élysée",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-dominique-de-villepin-officiellement-candidat-a-l-elysee-445372",
+      "declare": [
+        "« Je suis candidat à l'élection présidentielle de 2027. » Évoque une « décision difficile, lourde ».",
+        "Défend « le retour de l'État » et une « présidence arbitre » ; première mesure annoncée : « mettre de l'ordre dans les comptes publics ».",
+        "Écarte toute primaire « avec les héritiers du macronisme ou avec les partisans d'une alliance avec l'extrême droite »."
+      ],
+      "themes": [
+        "campagne",
+        "institutions",
+        "economie"
+      ],
+      "verifie_le": "2026-11-24"
+    },
+    {
+      "id": "ruffin",
+      "date": "2026-11-21",
+      "type": "communique",
+      "media": "Communiqué publié sur ses réseaux sociaux",
+      "emission": "Retrait de candidature",
+      "titre": "François Ruffin se retire de la présidentielle 2027 sans soutenir aucun des candidats de gauche encore en lice",
+      "url": "https://lcp.fr/actualites/francois-ruffin-se-retire-de-la-presidentielle-2027-sans-soutenir-aucun-des-candidats-de",
+      "declare": [
+        "Retire sa candidature et prend acte de « l'impasse » : « les appareils ont rejeté cette grande primaire et le duel des deux gauches irréconciliables est installé ».",
+        "Ne soutient aucun candidat ; souhaite « bon courage et bonne campagne » aux « candidats de gauche encore en lice » et dit vouloir « combattre » le Rassemblement national."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-11-24"
+    },
+    {
+      "id": "zemmour",
+      "date": "2026-11-21",
+      "type": "discours",
+      "media": "Meeting à Toulon (Var)",
+      "emission": "Lancement de campagne",
+      "titre": "Après l'abandon de François Ruffin, le candidat communiste à l'élection présidentielle Fabien Roussel pointe des \"convergences nombreuses\" avec lui",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-eric-zemmour-lance-sa-campagne-pour-l-election-presidentielle-avec-un-meeting-a-toulon_8293517.html",
+      "declare": [
+        "« Je serai le candidat de la liberté de penser, de parler, de dire ce que vous voyez. »",
+        "Annonce : « Nous supprimerons les droits de succession » et « la CSG pour tous les actifs de France »."
+      ],
+      "themes": [
+        "campagne",
+        "economie"
+      ],
+      "verifie_le": "2026-11-24"
+    },
+    {
+      "id": "roussel",
+      "date": "2026-11-21",
+      "type": "communique",
+      "media": "X (message public, cité par franceinfo)",
+      "emission": "Réaction au retrait de François Ruffin",
+      "titre": "Après l'abandon de François Ruffin, le candidat communiste à l'élection présidentielle Fabien Roussel pointe des \"convergences nombreuses\" avec lui",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-eric-zemmour-lance-sa-campagne-pour-l-election-presidentielle-avec-un-meeting-a-toulon_8293517.html",
+      "declare": [
+        "Souligne ses « convergences nombreuses » avec François Ruffin et l'appelle « à travailler ensemble pour bâtir enfin une France qui respecte la classe travailleuse »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-11-24"
+    },
+    {
+      "id": "lisnard",
+      "date": "2026-11-22",
+      "type": "interview",
+      "media": "Le JDD (cité par franceinfo)",
+      "emission": "Entretien",
+      "titre": "Présidentielle 2027 : David Lisnard voit une primaire comme \"un moyen d'exclure les macronistes\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes_8294525.html",
+      "declare": [
+        "« Je vois cette primaire comme le pré-premier tour » : « Il s'agit d'éliminer les macronistes et les candidats qui dispersent des voix avant le premier tour ».",
+        "Pose deux conditions à la primaire, la participation d'Édouard Philippe et celle d'Éric Zemmour ; ne s'engage pas à soutenir le vainqueur.",
+        "Refuse de participer à un gouvernement de Marine Le Pen « car, économiquement, nous sommes aux antipodes »."
+      ],
+      "themes": [
+        "campagne"
+      ],
+      "verifie_le": "2026-11-24"
+    },
+    {
+      "id": "glucksmann",
+      "date": "2026-11-22",
+      "type": "interview",
+      "media": "franceinfo",
+      "emission": "Entretien du dimanche",
+      "titre": "Tenir le deuxième tour de la présidentielle \"au lendemain d'un 1er mai est une erreur\", estime Raphaël Glucksmann, qui demande d'avancer le scrutin",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html",
+      "declare": [
+        "« Je pense que faire un deuxième tour au lendemain d'un 1er mai est une erreur » ; propose d'avancer le scrutin d'une semaine, aux 11 et 25 avril."
+      ],
+      "themes": [
+        "campagne",
+        "institutions"
+      ],
+      "verifie_le": "2026-11-24"
+    },
+    {
+      "id": "villepin",
+      "date": "2026-11-23",
+      "type": "interview",
+      "media": "France 2 et franceinfo",
+      "emission": "Journal de 20 heures",
+      "titre": "Retraites, droits de succession, niches fiscales... Dominique de Villepin présente les premières mesures de son programme pour la présidentielle",
+      "url": "https://www.franceinfo.fr/elections/retraites-droits-de-succession-niches-fiscales-dominique-de-villepin-presente-les-premieres-mesures-de-son-programme-pour-la-presidentielle_8296785.html",
+      "declare": [
+        "Sur les retraites, préconise « la réforme à points », avec « un point qui est calculé par les partenaires sociaux ».",
+        "Propose qu'il n'y ait plus de droits de succession en dessous d'un million d'euros, puis une imposition à 50 % jusqu'à 5 millions et à 60 % au-delà.",
+        "Sur les niches fiscales : « Un tiers de ce qui est dans les niches sera préservé, un tiers sera aménagé dans des politiques publiques, et un tiers servira au désendettement »."
+      ],
+      "themes": [
+        "retraites",
+        "economie"
+      ],
+      "verifie_le": "2026-11-24"
+    },
+    {
+      "id": "philippe",
+      "date": "2026-11-24",
+      "type": "discours",
+      "media": "Convention nationale des centres de lutte contre le cancer (Paris)",
+      "emission": "Intervention",
+      "titre": "\"Éradiquer le cancer du col de l'utérus\": Édouard Philippe veut rendre obligatoire la vaccination contre le papillomavirus",
+      "url": "https://lcp.fr/actualites/eradiquer-le-cancer-du-col-de-l-uterus-edouard-philippe-veut-rendre-obligatoire-la",
+      "declare": [
+        "Annonce vouloir rendre obligatoire la vaccination contre les papillomavirus : « Lorsqu'un vaccin protège d'un cancer et sauve des vies sans en risquer aucune, hésiter est une faute »."
+      ],
+      "themes": [
+        "sante"
+      ],
+      "verifie_le": "2026-11-24"
     }
   ],
   "a_verifier": [

@@ -1,8 +1,8 @@
 {
-  "mise_a_jour": "2026-11-18",
+  "mise_a_jour": "2026-11-24",
   "fenetre": {
     "debut": "2026-08-17",
-    "fin": "2026-11-13"
+    "fin": "2026-11-19"
   },
   "noms_hors_liste": {
     "bonnal": "Sébastien Bonnal"
@@ -2455,6 +2455,322 @@
           }
         }
       ]
+    },
+    {
+      "institut": "Ifop-Fiducial",
+      "commanditaire": "Sud Radio (hypothèses de candidat unique de la droite et du centre)",
+      "terrain_debut": "2026-11-02",
+      "terrain_fin": "2026-11-04",
+      "echantillon": 1834,
+      "source": {
+        "titre": "Commission des sondages – notice n° 10392, Ifop-Fiducial pour Sud Radio (hypothèses de candidat unique de la droite et du centre) (intentions de vote au 1er tour)",
+        "url": "https://www.commission-des-sondages.fr/notices/medias/fichiers/add/2416",
+        "date": "2026-11-20"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse Philippe candidat unique de la droite et du centre",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 18,
+            "roussel": 3,
+            "tondelier": 3,
+            "glucksmann": 13,
+            "philippe": 19,
+            "dupont-aignan": 1.5,
+            "le-pen": 37,
+            "zemmour": 5
+          }
+        },
+        {
+          "label": "Hypothèse Retailleau candidat unique de la droite et du centre",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 18,
+            "roussel": 3,
+            "tondelier": 3.5,
+            "glucksmann": 17,
+            "retailleau": 14,
+            "dupont-aignan": 2,
+            "le-pen": 38,
+            "zemmour": 4
+          }
+        },
+        {
+          "label": "Hypothèse Lisnard candidat unique de la droite et du centre",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 17,
+            "roussel": 3.5,
+            "tondelier": 3.5,
+            "glucksmann": 18,
+            "lisnard": 14,
+            "dupont-aignan": 2,
+            "le-pen": 37,
+            "zemmour": 4
+          }
+        },
+        {
+          "label": "Hypothèse Attal candidat unique de la droite et du centre",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 18,
+            "roussel": 3,
+            "tondelier": 3,
+            "glucksmann": 16,
+            "attal": 13,
+            "dupont-aignan": 3,
+            "le-pen": 38,
+            "zemmour": 5
+          }
+        }
+      ]
+    },
+    {
+      "institut": "YouGov",
+      "commanditaire": "Le HuffPost",
+      "terrain_debut": "2026-11-12",
+      "terrain_fin": "2026-11-17",
+      "echantillon": 952,
+      "source": {
+        "titre": "Commission des sondages – notice n° 10382, YouGov pour Le HuffPost (intentions de vote au 1er tour)",
+        "url": "https://www.commission-des-sondages.fr/notices/medias/fichiers/add/2410",
+        "date": "2026-11-19"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse 1 : Attal, Philippe, Retailleau et Lisnard (chiffres pondérés de la notice)",
+          "scores": {
+            "retailleau": 6,
+            "philippe": 8,
+            "zemmour": 3,
+            "roussel": 2,
+            "attal": 5,
+            "melenchon": 19,
+            "le-pen": 32,
+            "tondelier": 4,
+            "arthaud": 1,
+            "dupont-aignan": 2,
+            "glucksmann": 9,
+            "lisnard": 9
+          }
+        },
+        {
+          "label": "Hypothèse 2 : Attal, Retailleau et Lisnard (chiffres pondérés de la notice)",
+          "scores": {
+            "retailleau": 8,
+            "zemmour": 3,
+            "roussel": 2,
+            "attal": 7,
+            "melenchon": 19,
+            "le-pen": 34,
+            "tondelier": 6,
+            "arthaud": 1,
+            "dupont-aignan": 1,
+            "glucksmann": 10,
+            "lisnard": 10
+          }
+        },
+        {
+          "label": "Hypothèse 3 : Philippe, Retailleau et Lisnard (chiffres pondérés de la notice)",
+          "scores": {
+            "retailleau": 7,
+            "zemmour": 3,
+            "roussel": 3,
+            "philippe": 9,
+            "melenchon": 19,
+            "le-pen": 33,
+            "tondelier": 4,
+            "arthaud": 1,
+            "dupont-aignan": 2,
+            "glucksmann": 10,
+            "lisnard": 10
+          }
+        },
+        {
+          "label": "Hypothèse 4 : Philippe seul, sans Retailleau, Lisnard ni Tondelier (chiffres pondérés de la notice)",
+          "scores": {
+            "zemmour": 4,
+            "roussel": 3,
+            "philippe": 16,
+            "melenchon": 22,
+            "le-pen": 40,
+            "arthaud": 1,
+            "dupont-aignan": 2,
+            "glucksmann": 12
+          }
+        }
+      ]
+    },
+    {
+      "institut": "Ifop-Fiducial",
+      "commanditaire": "TF1-LCI, Le Figaro et Sud Radio (baromètre)",
+      "terrain_debut": "2026-11-13",
+      "terrain_fin": "2026-11-16",
+      "echantillon": 1690,
+      "source": {
+        "titre": "Commission des sondages – notice n° 10384, Ifop-Fiducial pour TF1-LCI, Le Figaro et Sud Radio (baromètre) (intentions de vote au 1er tour)",
+        "url": "https://www.commission-des-sondages.fr/notices/medias/fichiers/add/2406",
+        "date": "2026-11-18"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse élargie avec Riner, Polony, Villepin et Ruffin (Arthaud « - »)",
+          "scores": {
+            "melenchon": 17,
+            "roussel": 1.5,
+            "ruffin": 2,
+            "tondelier": 2,
+            "glucksmann": 8,
+            "attal": 4.5,
+            "philippe": 10,
+            "villepin": 1.5,
+            "retailleau": 4,
+            "lisnard": 8,
+            "dupont-aignan": 1.5,
+            "le-pen": 32,
+            "zemmour": 3,
+            "polony": 1,
+            "riner": 4
+          }
+        },
+        {
+          "label": "Hypothèse avec quatre candidats de la droite et du centre : Attal, Philippe, Retailleau et Lisnard",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 19,
+            "roussel": 1.5,
+            "tondelier": 2.5,
+            "glucksmann": 10,
+            "attal": 4,
+            "philippe": 11,
+            "retailleau": 4,
+            "lisnard": 9,
+            "dupont-aignan": 1.5,
+            "le-pen": 34,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse Philippe, Retailleau et Lisnard (Arthaud « - »)",
+          "scores": {
+            "melenchon": 19.5,
+            "roussel": 2.5,
+            "tondelier": 2.5,
+            "glucksmann": 10,
+            "philippe": 12,
+            "retailleau": 4,
+            "lisnard": 10,
+            "dupont-aignan": 1.5,
+            "le-pen": 35,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse Attal, Retailleau et Lisnard",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 19,
+            "roussel": 2,
+            "tondelier": 2.5,
+            "glucksmann": 11,
+            "attal": 9,
+            "retailleau": 5,
+            "lisnard": 11,
+            "dupont-aignan": 2,
+            "le-pen": 35,
+            "zemmour": 3
+          }
+        },
+        {
+          "label": "Hypothèse Philippe et Lisnard",
+          "scores": {
+            "arthaud": 0.5,
+            "melenchon": 19.5,
+            "roussel": 2,
+            "tondelier": 2.5,
+            "glucksmann": 11,
+            "philippe": 14,
+            "lisnard": 12,
+            "dupont-aignan": 1.5,
+            "le-pen": 34,
+            "zemmour": 3
+          }
+        }
+      ]
+    },
+    {
+      "institut": "Toluna Harris Interactive",
+      "commanditaire": "M6, RTL et L'Express (vague 10)",
+      "terrain_debut": "2026-11-18",
+      "terrain_fin": "2026-11-19",
+      "echantillon": 2088,
+      "source": {
+        "titre": "Commission des sondages – notice n° 10393, Toluna Harris Interactive pour M6, RTL et L'Express (vague 10) (intentions de vote au 1er tour)",
+        "url": "https://www.commission-des-sondages.fr/notices/medias/fichiers/add/2417",
+        "date": "2026-11-23"
+      },
+      "source_primaire_verifiee": true,
+      "hypotheses": [
+        {
+          "label": "Hypothèse Attal et Philippe",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 18,
+            "roussel": 1,
+            "tondelier": 1,
+            "glucksmann": 11,
+            "attal": 4,
+            "philippe": 9,
+            "villepin": 1,
+            "lisnard": 11,
+            "retailleau": 4,
+            "dupont-aignan": 1,
+            "le-pen": 31,
+            "zemmour": 3,
+            "riner": 4
+          }
+        },
+        {
+          "label": "Hypothèse Philippe candidat unique du centre",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 19,
+            "roussel": 1,
+            "tondelier": 1,
+            "glucksmann": 11,
+            "philippe": 10,
+            "villepin": 2,
+            "lisnard": 11,
+            "retailleau": 4,
+            "dupont-aignan": 1,
+            "le-pen": 31,
+            "zemmour": 4,
+            "riner": 4
+          }
+        },
+        {
+          "label": "Hypothèse Attal candidat unique du centre",
+          "scores": {
+            "arthaud": 1,
+            "melenchon": 19,
+            "roussel": 1,
+            "tondelier": 2,
+            "glucksmann": 11,
+            "attal": 7,
+            "villepin": 2,
+            "lisnard": 12,
+            "retailleau": 5,
+            "dupont-aignan": 1,
+            "le-pen": 30,
+            "zemmour": 4,
+            "riner": 5
+          }
+        }
+      ]
     }
   ],
   "a_verifier": [
@@ -2465,6 +2781,7 @@
     "Odoxa pour Backbone, Public Sénat, la presse régionale et Le Nouvel Obs (notice 10310, terrain du 24 septembre au 7 octobre 2026, 11 103 inscrits) : la notice ne contient pas les résultats, publiés dans le rapport sur odoxa.fr ; Public Sénat n'en cite qu'une partie (Mélenchon 18 %, Philippe 17 % ; hypothèse Attal : Le Pen 38 %, Mélenchon 18,5 %, Attal 11 %, Glucksmann 10,5 %, Retailleau 9 %). À saisir depuis le rapport complet.",
     "Elabe pour BFMTV et La Tribune Dimanche (notice 10324, terrain du 14 au 16 octobre 2026, 1 553 inscrits) : la notice ne contient que le questionnaire, les résultats sont publiés sur elabe.fr ; à saisir depuis le rapport.",
     "OpinionWay pour CNews (notice 10333, terrain 21-22 octobre 2026, 973 inscrits) : tableau des intentions de vote illisible dans le PDF (lignes mélangées), chiffres non repris ; à saisir à la main depuis la notice.",
-    "Veille du 18 novembre 2026 : notices non intégrées car elles ne portent pas sur des intentions de vote au 1er tour — candidature de Teddy Riner (CSA 10366, Toluna Harris 10367, Odoxa 10369, Ifop / Paris Match 10379), primaire du centre et de la droite (Ifop / Sud Radio 10370), participation à un second tour Mélenchon – Le Pen (Ifop / Franc-Tireur 10381). Seconds tours testés par Elabe, OpinionWay et Toluna Harris non saisis (le fichier ne recense que les premiers tours)."
+    "Veille du 18 novembre 2026 : notices non intégrées car elles ne portent pas sur des intentions de vote au 1er tour — candidature de Teddy Riner (CSA 10366, Toluna Harris 10367, Odoxa 10369, Ifop / Paris Match 10379), primaire du centre et de la droite (Ifop / Sud Radio 10370), participation à un second tour Mélenchon – Le Pen (Ifop / Franc-Tireur 10381). Seconds tours testés par Elabe, OpinionWay et Toluna Harris non saisis (le fichier ne recense que les premiers tours).",
+    "Veille du 24 novembre 2026 : la notice Ifop-Fiducial / Sud Radio n° 10392 (terrain du 2 au 4 novembre) n'a été publiée par la Commission que le 20 novembre ; ses quatre hypothèses supposent un candidat unique de la droite et du centre. Notices non intégrées : primaire du centre et de la droite (Ifop, 10387), programmes (Elabe, 10386), baromètres de popularité (Ifop 10394, Odoxa 10395). François Ruffin, testé par Ifop-Fiducial du 13 au 16 novembre, a retiré sa candidature le 21 novembre."
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "ruffin",
-  "mise_a_jour": "2026-09-22",
+  "mise_a_jour": "2026-11-24",
   "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Fran%C3%A7ois_Ruffin_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ruffin_%28cropped%29.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Ruffin_(cropped).jpg",
@@ -11,7 +11,7 @@
     "legende": "François Ruffin lors d'un entretien avec Thinkerview, octobre 2022"
   },
   "presentation": {
-    "texte": "François Ruffin est journaliste, documentariste et homme politique. Il est député de la 1re circonscription de la Somme depuis 2017. Fondateur du journal Fakir, il a lancé le parti Picardie debout ! en 2017, devenu Debout !, qu'il préside depuis 2025. Longtemps proche de La France insoumise sans en être membre, il s'en est éloigné en 2024. Il est candidat à l'élection présidentielle de 2027 en dehors de toute primaire.",
+    "texte": "François Ruffin est journaliste, documentariste et homme politique. Il est député de la 1re circonscription de la Somme depuis 2017. Fondateur du journal Fakir, il a lancé le parti Picardie debout ! en 2017, devenu Debout !, qu'il préside depuis 2025. Longtemps proche de La France insoumise sans en être membre, il s'en est éloigné en 2024. Candidat à l'élection présidentielle de 2027 en dehors de toute primaire, il a retiré sa candidature le 21 novembre 2026.",
     "sources": [
       {
         "titre": "Wikipédia – François Ruffin",
@@ -22,6 +22,11 @@
         "titre": "Orange / AFP – Présidentielle : François Ruffin, l'ex-insoumis qui a du mal à socialiser",
         "url": "https://actu.orange.fr/politique/presidentielle-francois-ruffin-l-ex-insoumis-qui-a-du-mal-a-socialiser-CNT000002rVfmk.html",
         "date": "2026-09-16"
+      },
+      {
+        "titre": "LCP — François Ruffin se retire de la présidentielle 2027 sans soutenir aucun des candidats de gauche encore en lice",
+        "url": "https://lcp.fr/actualites/francois-ruffin-se-retire-de-la-presidentielle-2027-sans-soutenir-aucun-des-candidats-de",
+        "date": "2026-11-21"
       }
     ]
   },
@@ -35,6 +40,15 @@
     }
   },
   "parcours_politique": [
+    {
+      "periode": "21 novembre 2026",
+      "texte": "Retire sa candidature à l'élection présidentielle, prenant acte de « l'impasse » de sa campagne faute de « grande primaire » de toute la gauche ; ne soutient aucun candidat.",
+      "source": {
+        "titre": "LCP — François Ruffin se retire de la présidentielle 2027 sans soutenir aucun des candidats de gauche encore en lice",
+        "url": "https://lcp.fr/actualites/francois-ruffin-se-retire-de-la-presidentielle-2027-sans-soutenir-aucun-des-candidats-de",
+        "date": "2026-11-21"
+      }
+    },
     {
       "periode": "2026",
       "texte": "Candidat déclaré à l'élection présidentielle de 2027, en dehors de toute primaire depuis l'abandon de la primaire de la gauche unitaire.",

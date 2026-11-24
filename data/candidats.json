@@ -7,11 +7,11 @@
       "parti": "La France insoumise",
       "bloc": "gauche",
       "statut": "declare",
-      "statut_detail": "Candidature annoncée au 20 h de TF1. Soutenu par le NPA-l'Anticapitaliste.",
+      "statut_detail": "Candidature annoncée au 20 h de TF1 le 3 mai 2026. Soutenu par le NPA-l'Anticapitaliste et, depuis le 23 novembre 2026, par Génération.s (vote des adhérents à 85 %).",
       "source": {
-        "titre": "LCP",
-        "url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851",
-        "date": "2026-05-03"
+        "titre": "LCP — Présidentielle : Génération.s officialise son soutien à Jean-Luc Mélenchon",
+        "url": "https://lcp.fr/actualites/presidentielle-generations-officialise-son-soutien-a-jean-luc-melenchon-445502",
+        "date": "2026-11-23"
       },
       "propositions": [
         "Rétablissement et renforcement de l'impôt de solidarité sur la fortune (ISF), avec un volet climatique visant les gros pollueurs.",
@@ -28,7 +28,7 @@
         "youtube": "https://www.youtube.com/@JLMelenchon",
         "wikipedia": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
       },
-      "verifie_le": "2026-10-28"
+      "verifie_le": "2026-11-24"
     },
     {
       "id": "faure",
@@ -81,7 +81,7 @@
         "instagram": "https://www.instagram.com/raphaelglucksmann/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"
       },
-      "verifie_le": "2026-11-18"
+      "verifie_le": "2026-11-24"
     },
     {
       "id": "guedj",
@@ -177,19 +177,19 @@
         "parti": "https://www.pcf.fr/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
       },
-      "verifie_le": "2026-10-28"
+      "verifie_le": "2026-11-24"
     },
     {
       "id": "ruffin",
       "nom": "François Ruffin",
       "parti": "Debout!",
       "bloc": "gauche",
-      "statut": "declare",
-      "statut_detail": "Candidat hors primaire depuis l'abandon de la primaire de la gauche unitaire. Le 6 novembre 2026 sur franceinfo : « Si une solution se dégage pour battre Marine Le Pen au deuxième tour, je serai pour » ; précise qu'un retrait n'est « pas d'actualité ».",
+      "statut": "renonce",
+      "statut_detail": "Candidature retirée le 21 novembre 2026 : dit prendre acte de « l'impasse » de sa campagne, faute d'avoir obtenu une « grande primaire » de toute la gauche. Ne soutient aucun candidat.",
       "source": {
-        "titre": "Orange (L'Express via 6Médias)",
-        "url": "https://actu.orange.fr/politique/presidentielle-2027-francois-ruffin-n-exclut-pas-de-renoncer-si-cela-permet-de-battre-marine-le-pen-l-express-via-6medias-CNT000002tAInn.html",
-        "date": "2026-11-06"
+        "titre": "LCP — François Ruffin se retire de la présidentielle 2027 sans soutenir aucun des candidats de gauche encore en lice",
+        "url": "https://lcp.fr/actualites/francois-ruffin-se-retire-de-la-presidentielle-2027-sans-soutenir-aucun-des-candidats-de",
+        "date": "2026-11-21"
       },
       "propositions": [
         "Référendum sur une taxe sur les dividendes pour financer la transition écologique : 4 % au-delà de 10 millions d'euros versés, 2 % en dessous.",
@@ -205,7 +205,7 @@
         "youtube": "https://www.youtube.com/@francois_ruffin",
         "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
       },
-      "verifie_le": "2026-11-18"
+      "verifie_le": "2026-11-24"
     },
     {
       "id": "cazeneuve",
@@ -230,7 +230,7 @@
         "programme": "https://www.la-convention.fr/lettre",
         "wikipedia": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
       },
-      "verifie_le": "2026-11-18"
+      "verifie_le": "2026-11-24"
     },
     {
       "id": "bouamrane",
@@ -275,7 +275,7 @@
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande"
       },
-      "verifie_le": "2026-11-18"
+      "verifie_le": "2026-11-24"
     },
     {
       "id": "arthaud",
@@ -356,11 +356,11 @@
       "parti": "Les Écologistes",
       "bloc": "ecolo",
       "statut": "declare",
-      "statut_detail": "Candidature maintenue par le conseil fédéral. Référendum interne du 10 au 13 décembre 2026 : candidature autonome ou retrait au profit d'un autre candidat. Le 5 novembre : « Je suis candidate…, mais s'il faut être responsable pour plusieurs, je le serai » ; résultat des discussions d'union présenté aux adhérents fin novembre.",
+      "statut_detail": "Candidature maintenue par le conseil fédéral. Référendum interne du 10 au 13 décembre 2026 : maintien de sa candidature ou soutien à un autre candidat de gauche. Le 18 novembre sur France 2 : « Je suis prête, et les écologistes sont prêts, à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon » ; demande une semaine de discussions avec La France insoumise.",
       "source": {
-        "titre": "Public Sénat — Présidentielle 2027 : « Personne ne gagnera seul », assure Marine Tondelier",
-        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-personne-ne-gagnera-seul-assure-marine-tondelier",
-        "date": "2026-11-05"
+        "titre": "LCP — Présidentielle 2027 : Marine Tondelier « prête » à une « coalition » autour de Jean-Luc Mélenchon",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-marine-tondelier-prete-a-une-coalition-autour-de-jean-luc-melenchon",
+        "date": "2026-11-18"
       },
       "propositions": [
         "Augmentation du SMIC (montant non précisé) et indexation des bas salaires sur l'inflation.",
@@ -374,7 +374,7 @@
         "instagram": "https://www.instagram.com/marinetondelier",
         "wikipedia": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
       },
-      "verifie_le": "2026-11-18"
+      "verifie_le": "2026-11-24"
     },
     {
       "id": "batho",
@@ -497,7 +497,7 @@
         "instagram": "https://www.instagram.com/edouardphilippelh/",
         "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
       },
-      "verifie_le": "2026-11-18"
+      "verifie_le": "2026-11-24"
     },
     {
       "id": "attal",
@@ -524,7 +524,7 @@
         "x": "https://x.com/GabrielAttal",
         "wikipedia": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
       },
-      "verifie_le": "2026-11-18"
+      "verifie_le": "2026-11-24"
     },
     {
       "id": "becht",
@@ -552,24 +552,25 @@
       "nom": "Dominique de Villepin",
       "parti": "La France humaniste",
       "bloc": "centre",
-      "statut": "pressenti",
-      "statut_detail": "Fait campagne sans déclaration officielle. Revendique plus de 300 parrainages d'élus sur 500 (22 octobre 2026). Le 3 novembre sur France Inter : « Je ne suis pas encore candidat », « ce n'est pas le moment » ; exclut toute alliance avec Édouard Philippe ou Gabriel Attal.",
+      "statut": "declare",
+      "statut_detail": "Candidature annoncée le 20 novembre 2026 lors d'une conférence de presse à la Maison de l'Amérique latine, à Paris : « Je suis candidat à l'élection présidentielle de 2027. » Publie le même jour son programme « Réussir à nouveau » (258 propositions). Écarte toute participation à une primaire de la droite et du centre.",
       "source": {
-        "titre": "franceinfo — « Je ne suis pas encore candidat » à la présidentielle 2027, indique Dominique de Villepin",
-        "url": "https://www.franceinfo.fr/elections/presidentielle/je-ne-suis-pas-encore-candidat-a-la-presidentielle-2027-indique-dominique-de-villepin_8265395.html",
-        "date": "2026-11-03"
+        "titre": "LCP — Présidentielle 2027: Dominique de Villepin officiellement candidat à l'Élysée",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-dominique-de-villepin-officiellement-candidat-a-l-elysee-445372",
+        "date": "2026-11-20"
       },
       "propositions": [
         "Ramener toute la fiscalité à neuf grands impôts et réduire le code des impôts à quarante pages.",
-        "Basculer plus de 200 milliards d'euros de cotisations non contributives vers la CSG, pour une hausse de 6 % du salaire réel (environ 90 € par mois au Smic).",
-        "Réforme des retraites préparée par une conférence sociale et une convention citoyenne, puis soumise à référendum.",
-        "Sanctuariser le budget de l'Éducation nationale hors pensions et augmenter d'au moins 20 % les dépenses réelles par élève."
+        "Bascule sur dix ans de plus de 200 milliards d'euros de cotisations non contributives vers la CSG : à terme, 200 euros nets de plus par mois en moyenne, plus de 100 au Smic.",
+        "Réforme des retraites préparée pendant un an (commission d'experts et de citoyens, conférence sociale, convention citoyenne, débat parlementaire), puis soumise à référendum en avril 2028.",
+        "Rétablissement de l'impôt sur la fortune, selon un barème proche de celui de 2016, au sein d'un impôt unique sur le patrimoine exonérant les biens professionnels nécessaires à l'activité."
       ],
       "liens": {
         "parti": "https://www.lafrancehumaniste.fr/",
+        "programme": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/",
         "wikipedia": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
       },
-      "verifie_le": "2026-11-18"
+      "verifie_le": "2026-11-24"
     },
     {
       "id": "le-maire",
@@ -587,7 +588,7 @@
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
       },
-      "verifie_le": "2026-11-18"
+      "verifie_le": "2026-11-24"
     },
     {
       "id": "darmanin",
@@ -652,7 +653,7 @@
         "youtube": "https://www.youtube.com/@Bruno_Retailleau",
         "wikipedia": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
       },
-      "verifie_le": "2026-11-18"
+      "verifie_le": "2026-11-24"
     },
     {
       "id": "lisnard",
@@ -660,11 +661,11 @@
       "parti": "Nouvelle Énergie",
       "bloc": "droite",
       "statut": "declare",
-      "statut_detail": "A quitté LR. Réclame une primaire de la droite et du centre ; ses représentants participent aux discussions ouvertes le 17 novembre 2026 avec ceux de Gabriel Attal et de Bruno Retailleau. Son équipe indique qu'« aucun accord n'a été conclu à ce stade » et que « beaucoup de travail reste à accomplir ».",
+      "statut_detail": "A quitté LR. Ses représentants participent depuis le 17 novembre 2026 aux discussions sur une primaire de la droite et du centre. Dans Le JDD du 22 novembre, pose deux conditions, la participation d'Édouard Philippe et celle d'Éric Zemmour, et ne s'engage pas à soutenir le vainqueur ; exclut de participer à un gouvernement de Marine Le Pen.",
       "source": {
-        "titre": "Europe 1",
-        "url": "https://www.europe1.fr/politique/election-presidentielle-2027-gabriel-attal-david-lisnard-et-bruno-retailleau-saccordent-sur-une-primaire-en-janvier-1239033",
-        "date": "2026-11-17"
+        "titre": "franceinfo",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes_8294525.html",
+        "date": "2026-11-22"
       },
       "propositions": [
         "200 milliards d'euros d'économies répartis : 120 milliards rendus aux actifs, 40 milliards de baisse des impôts de production (dont suppression de la C3S), 40 milliards pour la dette.",
@@ -679,7 +680,7 @@
         "youtube": "https://www.youtube.com/@david_lisnard",
         "wikipedia": "https://fr.wikipedia.org/wiki/David_Lisnard"
       },
-      "verifie_le": "2026-11-18"
+      "verifie_le": "2026-11-24"
     },
     {
       "id": "platret",
@@ -726,7 +727,7 @@
         "x": "https://x.com/xavierbertrand",
         "wikipedia": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
       },
-      "verifie_le": "2026-11-18"
+      "verifie_le": "2026-11-24"
     },
     {
       "id": "wauquiez",
@@ -787,7 +788,7 @@
         "x": "https://x.com/MLP_officiel",
         "wikipedia": "https://fr.wikipedia.org/wiki/Marine_Le_Pen"
       },
-      "verifie_le": "2026-10-28"
+      "verifie_le": "2026-11-24"
     },
     {
       "id": "bardella",
@@ -829,7 +830,7 @@
         "x": "https://x.com/ZemmourEric",
         "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour"
       },
-      "verifie_le": "2026-11-18"
+      "verifie_le": "2026-11-24"
     },
     {
       "id": "knafo",
@@ -1350,7 +1351,7 @@
       "liens": {
         "wikipedia": "https://fr.wikipedia.org/wiki/Teddy_Riner"
       },
-      "verifie_le": "2026-11-18"
+      "verifie_le": "2026-11-24"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "philippe",
-  "mise_a_jour": "2026-11-18",
+  "mise_a_jour": "2026-11-24",
   "programme": {
     "titre": "Les priorités — Avec Édouard 2027",
     "url": "https://www.edouardphilippe.fr/",
@@ -301,6 +301,12 @@
       "texte": "Recrutement de magistrats par d'autres voies que l'École nationale de la magistrature et diversification de leurs carrières.",
       "nature": "declaration",
       "source": { "titre": "franceinfo — opération « Nos services publics », interviews de huit candidats", "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html", "date": "2026-11-12" }
+    },
+    {
+      "theme": "sante",
+      "texte": "Vaccination contre les papillomavirus rendue obligatoire.",
+      "nature": "declaration",
+      "source": { "titre": "LCP — \"Éradiquer le cancer du col de l'utérus\": Édouard Philippe veut rendre obligatoire la vaccination contre le papillomavirus", "url": "https://lcp.fr/actualites/eradiquer-le-cancer-du-col-de-l-uterus-edouard-philippe-veut-rendre-obligatoire-la", "date": "2026-11-24" }
     }
   ],
   "ressources": [
